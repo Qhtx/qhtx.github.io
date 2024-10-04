@@ -1,14 +1,14 @@
-Package: com.f0u4d.watusitools
-Version: 2.4.34
+Package: com.bandarhl.bhtiktok
+Version: 2.3
 Architecture: iphoneos-arm64
-Maintainer: Fouad Raheb
+Maintainer: none
 Depends:  firmware (>= 12.0) 	
-Conflicts: com.f0u4d.watusitools	
-Filename: debs/com.f0u4d.watusitools_2.4.34_iphoneos-arm64.deb	
+Conflicts: com.bandarhl.bhtiktok	
+Filename: debs/bhtiktokplus_2.3_iphoneos-arm64.deb	
 Size: 670732	
-MD5sum: 002df7ce59c900cdbfdb950ec3499754	
-SHA1: 19c1a8a6a879e67252729d0b0c19f0649ea02db9	
-SHA256: 403b75fc2122bcf9300e5736c13b39f9aa0b488a57597207b7dca3ae0e5c21bf	
-Section: Tweaks	Section: Tweaks
+MD5sum: 990bffab5b01644cb54add45328fa7a1	
+SHA1: a229326f24196f037a56cbd8e34d866583e92a04	
+SHA256: 0993c3730472bc7979dd760e120b83ad31c3cf2b72a2a6ab93166a3692d25d31	
+Section: Tweaks
 Depiction: https://google.com/
-Name: WatusiTools
+Name: BHTikTokPlus
