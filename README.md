@@ -1,2 +1,2 @@
-# Qhtx.github.io
+# qhtx.github.io
 All In One
