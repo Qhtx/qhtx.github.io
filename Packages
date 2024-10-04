@@ -1,17 +1,18 @@
 Package: com.bandarhl.bhtiktok
-Version: 2.3
 Architecture: iphoneos-arm64
-Maintainer: none
+Version: 2.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1480
 Depends: mobilesubstrate
-Conflicts: com.bandarhl.bhtiktok
-Filename: deb/bhtiktokplus_2.3_iphoneos-arm64.deb
-Size: 1346934
+Filename: ./debs/bhtiktokplus_2.3_iphoneos-arm64.deb
+Size: 481152
 MD5sum: 990bffab5b01644cb54add45328fa7a1
 SHA1: a229326f24196f037a56cbd8e34d866583e92a04
 SHA256: 0993c3730472bc7979dd760e120b83ad31c3cf2b72a2a6ab93166a3692d25d31
-Section: Tweaks
-Priority: optional
-Description: test
-Author: none
-Depiction: https://github.com
-Name: BHTikTokPlus
+SHA512: 65c3ff94c0d560e26019e5373dd856db39649f5b53731e555a8041b89e4ad914cebf951e513091fd76e99c4521906cd7c72f16921812f1e1979698c356878746
+Description: An awesome tweak for TikTok!
+Name: BHTikTok Plus
+Author: dvntm
+Icon: https://i.imgur.com/PKIhkrt.png
+
