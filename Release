@@ -1,7 +1,8 @@
-Origin: Qhtx 
-Label: Qhtx 
+Origin: Qhtx
+Label: Qhtx
 Suite: stable
 Version: 1.0
-Architectures: iphoneos-arm64
+Codename: Qhtx
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: All In One
