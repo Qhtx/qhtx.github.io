@@ -16,8 +16,6 @@ Name: BHTikTok Plus
 Author: dvntm
 Icon: https://i.imgur.com/PKIhkrt.png
 
-
-
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64
 Version: 4.3-5+debug
