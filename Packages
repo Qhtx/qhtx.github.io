@@ -6,15 +6,16 @@ Maintainer: dvntm
 Installed-Size: 1480
 Depends: mobilesubstrate
 Filename: ./debs/bhtiktokplus_2.3_iphoneos-arm64.deb
-Size: 481152
-MD5sum: 990bffab5b01644cb54add45328fa7a1
-SHA1: a229326f24196f037a56cbd8e34d866583e92a04
-SHA256: 0993c3730472bc7979dd760e120b83ad31c3cf2b72a2a6ab93166a3692d25d31
-SHA512: 65c3ff94c0d560e26019e5373dd856db39649f5b53731e555a8041b89e4ad914cebf951e513091fd76e99c4521906cd7c72f16921812f1e1979698c356878746
+Size: 481172 
+MD5sum: 73df7fc61cf3d70ea5cc809dd4dda5b8
+SHA1: 40866ca3b1e80515c35131e863cd5a9b2c36aaf1
+SHA256: a97a6cffff7060b49a48e4e04ba8c942276b0d71ed2c04f6f77fb6a598ae258f
+SHA512: 8a89b83623923eadd2a4e012838cbfa89f57c52ecc988e743f08c07537f7a8adc30575ea18e0e6b1d566f84ec2f3e9db059a13d64cef19eb106a748d0ab671f7
 Description: An awesome tweak for TikTok!
 Name: BHTikTok Plus
 Author: dvntm
-Icon: https://i.imgur.com/SRGgxiN.jpeg
+Icon: https://i.imgur.com/Pyp3fg8.jpeg
+SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/test.json
 
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64
