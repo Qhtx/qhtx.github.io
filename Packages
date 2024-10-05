@@ -34,7 +34,7 @@ Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
 Icon: https://i.imgur.com/6nCH3FE.jpeg
-SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/BHInsta.json
+SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/BHTwitter.json
 
 Package: com.bandarhl.bhinsta
 Architecture: iphoneos-arm64
@@ -53,7 +53,7 @@ Description: An awesome tweak for Instagram!
 Name: BHInsta
 Author: Bandar Alruwaili
 Icon: https://i.imgur.com/lg6zKtD.jpeg
-SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/test.json
+SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/BHInsta.json
 
 Package: com.dvntm.silentnotifs
 Architecture: iphoneos-arm64
