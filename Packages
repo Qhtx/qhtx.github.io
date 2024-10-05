@@ -33,3 +33,21 @@ Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
 Icon: https://i.imgur.com/6nCH3FE.jpeg
+
+Package: com.bandarhl.bhinsta
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 648
+Depends: mobilesubstrate
+Filename: ./debs/com.bandarhl.bhinsta_1.0.3_iphoneos-arm64.deb
+Size: 162788
+MD5sum: af010de66b571b34c7f731cb6cb454d6
+SHA1: c8524e132e6d3a23f232bc638b405a580643108b
+SHA256: a8e0b68b4772267f9a8953ed258017737d882c9a1dad06b57d495c27c76d4d5b
+SHA512: 2b402d8b43f9b4f383dd6f3f247f8c231eb464c1686b82a7bdaef1afeeaa39cfa1674210df3858bbb93cb826af0cdeffc2c32c31fa3dec3c01d075af8b9aa9bc
+Description: Awesome tweak for Instagram!
+Name: BHInsta
+Author: Bandar Alruwaili
+Icon: https://i.imgur.com/lg6zKtD.jpeg
