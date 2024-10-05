@@ -111,3 +111,22 @@ Name: YouTubePlus
 Author: dvntm
 Icon: https://i.imgur.com/LHHJmJA.jpeg
 SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/YouTubePlus.json
+
+Package: ai.akemi.appsyncunified
+Architecture: iphoneos-arm64
+Version: 112.0
+Section: Tweaks
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 676
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.1)
+Filename: ./debs/ai.akemi.appsyncunified_112.0_iphoneos-arm64.deb
+Size: 33924
+MD5sum: 334e4ab247f242dd5ef0409f224f5ad3
+SHA1: dcea78b9f34c32d9a15741307402a6a6942ea495
+SHA256: b928da3369cb9d379ebf7f5f39a4fb2c880474b1f8f7d2eeff67da3008a9439e
+SHA512: 7a38359718c0cc99855dd895354559babe9eb47d4cfba588b60f5974276ee48d34f58d8ae27c92c85ca8d23e4a776521caedf90035713602871bdc4bf36ecba4
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Name: AppSync Unified
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Icon: https://i.imgur.com/KMCa11k.jpeg
+SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/AppSync.json
