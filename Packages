@@ -53,6 +53,7 @@ Description: An awesome tweak for Instagram!
 Name: BHInsta
 Author: Bandar Alruwaili
 Icon: https://i.imgur.com/lg6zKtD.jpeg
+SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/test.json
 
 Package: com.dvntm.silentnotifs
 Architecture: iphoneos-arm64
