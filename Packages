@@ -99,12 +99,12 @@ Maintainer: dvntm
 Installed-Size: 16140
 Depends: mobilesubstrate
 Filename: ./debs/com.dvntm.ytlite_5.0.2_iphoneos-arm64.deb
-Size: 6099626
-MD5sum: 0e980aabb1450344e5c83059d4015d6c
-SHA1: 51a039c64fc396cb18bfa31be88087f140ee8616
-SHA256: 7fa04949c8c7bb0ab2181c47da8392c877d7a702cd871e8cccd7cab297e132e7
-SHA512: 91378bec9d297d4f2c4eeaa149ba6b4addb644ec245da3203a48cbcc95c6ff427e2136627223ef68865b980b352f1c54ef3df3621f1895c54cfa712e24422943
-Description: Lightweight YouTube Enhancer
-Name: YTLite
+Size: 6100896
+MD5sum: 6548fd9a5d850111d18cdaf5ef3b1915
+SHA1: 89bb38dad2be416288596f43f1e00c3063792f47
+SHA256: e41bf59a07abc9bb6f2eab1d8441dc7dabdbfbfbb7d1581c3a30ab6e57fe61ef
+SHA512: ddfb439f0030998d1d8b739b2af10b65cb0939054df0d5318a8175c64e3e8ade48ebe65d8cd707866c94a9a0ae5486a447402c43b827e9b716ba2ddbfec3c8bc
+Description: An awesome tweak for YouTube!
+Name: YouTubePlu
 Author: dvntm
 Icon: https://i.imgur.com/LHHJmJA.jpeg
