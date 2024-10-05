@@ -1,0 +1,26 @@
+{
+    "minVersion": "0.4",
+    "class": "DepictionTabView",
+    "tabs": [
+      {
+        "class": "DepictionStackView",
+        "tabname": "Details",
+        "views": [
+          {
+            "class": "DepictionSubheaderView",
+            "useMargins": true,
+            "title": "Lightweight YouTube Enhancer"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "<p>A lightweight enhancer with the most flexible settings for the YouTube app, ranging from interface adjustments to the app's behavior in various situations.</p>",
+            "useSpacing": true,
+            "useRawFormat": true
+          }
+        ],
+        "xPadding": 10
+      }
+    ],
+    "tintColor": "#E36678",
+    "headerImage": "https://i.imgur.com/JksNvvv.jpeg"
+  }
