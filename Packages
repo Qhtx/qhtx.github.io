@@ -76,21 +76,22 @@ SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx
 
 Package: kr.xsf1re.vnodebypass
 Architecture: iphoneos-arm64
-Version: 0.4.2.W
+Version: 0.4.2.1
 Section: Tweaks
 Maintainer: alias20, @Waji1h
 Installed-Size: 532
 Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
-Filename: ./debs/kr.xsf1re.vnodebypass_0.4.2.W_iphoneos-arm64.deb
-Size: 69008
-MD5sum: ab4388250711ac56da7736c827c8c73f
-SHA1: 8422f4a55c6e807285688f1de86dc628136e0e37
-SHA256: d804c92103b69aefff170441bf51ddc163d7187a4210014235f721e0ef338740
-SHA512: fe3324793986f878829ce2c4dbf663886aad8918ad59dbdc213ffbe29c7c6917caa70a44e8713470de392e409821a837d5998fd75f97e6f574c2e31c5eeee6b1
+Filename: ./debs/kr.xsf1re.vnodebypass_0.4.2.1_iphoneos-arm64.deb
+Size: 68984
+MD5sum: d7204f7f54a472feca3d2e74d23df7a7
+SHA1: 8f7970b178d3afa40b33c4c47c10ce7aae928402
+SHA256: ccc138251207bb435d78a53f6c62b1aaa6d12f6da597ab37a3ab8f0a1b80b366
+SHA512: 8c452381998270689bfed1c76683ff2eb7d68f07812401c4fb83cc8041fb5660fdc172748567af098285c5d9365607ce003bc7b49cb5bee5d7893aae1b242782
 Description: An expermental tool to hide jailbreak files for bypass detection. (Only supported iOS 15-16 with Dopamine2) (Updated by @Waji1h)
 Name: vnodebypass
 Author: XsF1re, ichitaso, level3tjg
 Icon: https://i.imgur.com/snNHdnM.jpeg
+SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/vnodebypass.json
 
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm64
