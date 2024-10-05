@@ -13,7 +13,7 @@
           },
           {
             "class": "DepictionMarkdownView",
-            "markdown": "<p>DisableRTL languages all over the system!</p>",
+            "markdown": "<p>Disable right-to-left languages across the system!</p>",
             "useSpacing": true,
             "useRawFormat": true
           }
