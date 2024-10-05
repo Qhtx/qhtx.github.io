@@ -13,7 +13,7 @@
           },
           {
             "class": "DepictionMarkdownView",
-            "markdown": "<p>An awesome tweak for TikTok</p>",
+            "markdown": "<p>An awesome tweak for TikTok!</p>",
             "useSpacing": true,
             "useRawFormat": true
           }
