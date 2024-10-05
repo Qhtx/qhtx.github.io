@@ -9,7 +9,7 @@
           {
             "class": "DepictionSubheaderView",
             "useMargins": true,
-            "title": "@https://x.com/ipapplus"
+            "title": "https://x.com/ipapplus"
           },
           {
             "class": "DepictionMarkdownView",
