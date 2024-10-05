@@ -9,11 +9,11 @@
           {
             "class": "DepictionSubheaderView",
             "useMargins": true,
-            "title": "Welcome"
+            "title": "upload by @ipapplus"
           },
           {
             "class": "DepictionMarkdownView",
-            "markdown": "<p>@ipapplus</p>",
+            "markdown": "<p>An awesome tweak for TikTok</p>",
             "useSpacing": true,
             "useRawFormat": true
           }
@@ -22,5 +22,5 @@
       }
     ],
     "tintColor": "#4FABAF",
-    "headerImage": "https://d1bumn1wvr5sdh.cloudfront.net/f3haij%2Fpreview%2F61376345%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1728139848&Signature=gp0rZTQnCszurHutqgzpeNeuwZU9IRxXataTGDQUtz8zQf~oHW6GLi--tZOQIFgRi5nDwd5Z95uuGAWRiMnqgf9wiznIK2~h7ZUFzGe17DlE1bsvVPFGZQlovdAEYdAFBe2XJ1iuo9CGvzstDBnKwRbS~rxiVWAWCAafqPQkgCuH5yJkyuQ3YWqr3DXNzAcET2d-dHtC-HiSV6kwxgSSJ75wj0EHrxb8RbaYg~86~~~JYwr9zjRKf2~dvZ7xUODNpwf9UQspFnyCBmVXXLIxs6SMCmJXOIB39-Cg8BQMcVaQOBculCvnR9nplHLGJxmQgHJ1lJqFKZtyR0auubZj2Q__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ
+    "headerImage": "https://i.imgur.com/fuuzRFk.jpeg"
   }
