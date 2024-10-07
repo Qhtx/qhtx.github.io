@@ -36,6 +36,25 @@ Author: dvntm
 Icon: https://i.imgur.com/Pyp3fg8.jpeg
 SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/test.json
 
+Package: com.bandarhl.bhtiktok
+Architecture: iphoneos-arm64e
+Version: 2.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1480
+Depends: mobilesubstrate
+Filename: ./debs/bhtiktokplus_2.3_iphoneos-arm64e.deb
+Size: 475816
+MD5sum: c18fae2c85029bdb6595631972536c02
+SHA1: d47b12fdd66f9ef077118836f75b8972192e6245
+SHA256: 656163e0a8aa1eedd39dcd4773d3bd4f4e273824619b119c73c3f0ff1210359c
+SHA512: f61508c569a94d473ae19be26823a7d0e3de2090b07a321c488cf08fb82566755c86c7413274e0ae92549bb32a70bd7e738d0dd313231497d5034b8b947b1140
+Description: An awesome tweak for TikTok!
+Name: BHTikTok Plus
+Author: dvntm
+Icon: https://i.imgur.com/Pyp3fg8.jpeg
+SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/test.json
+
 Package: com.imokhles.disablertl
 Architecture: iphoneos-arm64
 Version: 0.0.1-3+debug
