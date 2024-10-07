@@ -1,3 +1,22 @@
+Package: com.netskao.appdata
+Architecture: iphoneos-arm64
+Version: 1.4.2
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 3772
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.netskao.appdata_1.4.2_iphoneos-arm64.deb
+Size: 822612
+MD5sum: 7026b536a775789ac2a49036726aea09
+SHA1: d7d485bac1afa87dc0af85c0ee7fe58edeb6ab82
+SHA256: 2ff2d3d577a11e4f4dac410fc5159d3f9de8ac638c0ab4178129519e323c319c
+SHA512: f8be3c7bec3400755ed2ecc246e900597f6f79c65b12bbb4bf448547e7195d4589570abcfa2525ab166043cf28ca0d2839771c259d35f00f38b52833d7686cab
+Description: Swipe up, down, or use the 3D press menu on the desktop icon to quickly access application data tools. This version has been fully translated and optimized by the site administrator. Modifications and optimizations
+Name: AppData
+Author: Fouad Raheb
+Icon: https://i.imgur.com/cESJMBz.jpeg
+SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/AppData.json
+
 Package: com.nightwind.lockbuttonx
 Architecture: iphoneos-arm64
 Version: 0.0.1
