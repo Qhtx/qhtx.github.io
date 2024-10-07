@@ -186,6 +186,25 @@ Author: dvntm
 Icon: https://i.imgur.com/pEW44HA.jpeg
 SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/SilentNotifs.json
 
+Package: com.dvntm.silentnotifs
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.silentnotifs_0.0.2_iphoneos-arm64e.deb
+Size: 3736
+MD5sum: 9243f5557ec595e5dd93e73e51b70d71
+SHA1: 25392792b3b4675fe224875ff667ccace657faee
+SHA256: 88e5db6059a9a8c7cc4f0e5c96cf2562293d1b4641c6aa3a11f3a432b7c884fc
+SHA512: 224473bccb44fbea522f94198ebc9a57f2dd9b4764a1c8cc0937877baacf9a7fbb1fa057daeee167948f5744ca496dc320803919e63f850be1dbd103e11a2a6c
+Description: Keep notifications silent while media is playing
+Name: SilentNotifs
+Author: dvntm
+Icon: https://i.imgur.com/pEW44HA.jpeg
+SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/SilentNotifs.json
+
 Package: kr.xsf1re.vnodebypass
 Architecture: iphoneos-arm64
 Version: 0.4.2.1
