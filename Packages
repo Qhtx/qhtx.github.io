@@ -17,6 +17,25 @@ Author: Fouad Raheb
 Icon: https://i.imgur.com/cESJMBz.jpeg
 SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/AppData.json
 
+Package: com.netskao.appdata
+Architecture: iphoneos-arm64e
+Version: 1.4.2
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 3772
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.netskao.appdata_1.4.2_iphoneos-arm64e.deb
+Size: 824368
+MD5sum: 34552f4e7455ba94d1262e49d8380e00
+SHA1: 063488704157a336e08dbcb273bfeee4a96c9eee
+SHA256: 6d42b142025accb904d88a790474ba81545bec171552d0b155da24c4e5e7fcc4
+SHA512: 884100a59585f28b08099a441788fb5d2af435b3466e54b958724758138190e7c21a9abca7d57279d7cb7cba8038f8d9668ee6d667e4042b2d6bc5058191e9b1
+Description: Swipe up, down, or use the 3D press menu on the desktop icon to quickly access application data tools. This version has been fully translated and optimized by the site administrator. Modifications and optimizations
+Name: AppData
+Author: Fouad Raheb
+Icon: https://i.imgur.com/cESJMBz.jpeg
+SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/AppData.json
+
 Package: com.nightwind.lockbuttonx
 Architecture: iphoneos-arm64
 Version: 0.0.1
