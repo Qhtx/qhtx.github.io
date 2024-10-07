@@ -1,5 +1,5 @@
 Package: com.crazymind90.appeditor
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Version: 3.8.10.6
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -14,7 +14,7 @@ SHA512: 4936e0f01d718b338a4934d7c9d835df7b32d32a2a28b3708e1cb3f91b533e95f8802ee3
 Description: Gain Full Access and Control Over Your Applications
 Name: AppEditor (RootHide)
 Author: @CrazyMind90 <CvCrazyMind@gmail.com>
-Icon: file:///var/jb/Applications/AppEditorApp.app/AppIcon60x60@2x.png
+Icon: https://i.imgur.com/DEb5WSn.jpeg
 Sileodepiction: https://crazy90.com/repo/1.json
 
 Package: com.bandarhl.bhtiktok
