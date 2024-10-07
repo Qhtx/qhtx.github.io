@@ -1,3 +1,22 @@
+Package: zp.stopautolaunchapps
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: Hitori
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/zp.stopautolaunchapps_2.0_iphoneos-arm64.deb
+Size: 3660
+MD5sum: 4cc3cf68e50d26be1176ec8af4d9bd1d
+SHA1: f9cedaf1d004dc9735602cf93eae1666e5a41666
+SHA256: 40110a2bfb2c90dd036166d3636ae365ae9f70488edbfa00fac8417c712b1e65
+SHA512: 537df6bd7756ff4a2b7b3c0be92e27e3baa9e852c27a10f44123b059a7f8244d39a38724e80641030a6f610519fc670525f027af0baaeb7398ffedce175367e0
+Description: Stop Auto Launch Apps
+Name: StopAutoLaunchApps
+Author: zqbb
+Icon: https://i.imgur.com/f17XlCC.jpeg
+SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/stopapps.json
+
 Package: com.netskao.appdata
 Architecture: iphoneos-arm64
 Version: 1.4.2
