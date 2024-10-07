@@ -14,6 +14,7 @@ SHA512: 98d41b01af9440d9049ef5c5f13271b46ea8bf9dce68a87e481f652bb43c6bbf158a9476
 Description: Simple tweak to remap the long press of the power button on notched devices to the power menu instead of Siri.
 Name: LockButtonX
 Author: Nightwind
+Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
 
 Package: com.nightwind.lockbuttonx
 Architecture: iphoneos-arm64e
@@ -31,6 +32,7 @@ SHA512: c29584e2b7a450cdd579a1466f863883c1548e4a350dd0f5454c77194a3910bcafe5f6a2
 Description: Simple tweak to remap the long press of the power button on notched devices to the power menu instead of Siri.
 Name: LockButtonX
 Author: Nightwind
+Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
 
 Package: com.m1337.varclean
 Architecture: iphoneos-arm64
