@@ -50,6 +50,7 @@ SHA512: 41ef078836de28714eb986a01eb09bccb4f86f5b4e1702f859f0cee47e76bac79b541eea
 Description: varClean for rootless
 Name: varClean (rootless)
 Author: roothide
+Icon: https://raw.githubusercontent.com/m1337v/RootHideManagerApp/rootless/varClean/Assets.xcassets/AppIcon.appiconset/icon-1024.png
 
 Package: com.julioverne.goodwifi
 Architecture: iphoneos-arm64
@@ -66,6 +67,7 @@ SHA512: c974f914869da4ca2e75e6efe27ba19211d3595120168205df25dd78c5787136f96b2bb9
 Description: Better WiFi Preferences
 Name: GoodWiFi
 Author: julioverne
+Icon: https://i.imgur.com/vqSvHq8.jpeg
 
 Package: com.julioverne.goodwifi
 Architecture: iphoneos-arm64e
@@ -82,6 +84,7 @@ SHA512: 774e06c7e1969b1aa8ddf4e76b5bd611bfbd414d14c93eaff1e1c2cc4e3cad3315e1e2c7
 Description: Better WiFi Preferences
 Name: GoodWiFi
 Author: julioverne
+Icon: https://i.imgur.com/vqSvHq8.jpeg
 
 Package: com.dvntm.safariii
 Architecture: iphoneos-arm64
