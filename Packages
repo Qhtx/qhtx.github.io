@@ -1,3 +1,20 @@
+Package: com.m1337.varclean
+Architecture: iphoneos-arm64
+Version: 1.0-2+debug
+Section: Tweaks
+Maintainer: m1337
+Installed-Size: 912
+Depends: mobilesubstrate
+Filename: ./debs/com.m1337.varclean_1.0_iphoneos-arm64.deb
+Size: 732134
+MD5sum: 0fcac8d7f52ef089884f6cab532336c7
+SHA1: e47694f67c7509cf137fd8bdbfbbbc94d05706aa
+SHA256: 9b0c08cefd5702c304fd2cc414ba84f6da053453f76be4c9b28392b185e7a540
+SHA512: 41ef078836de28714eb986a01eb09bccb4f86f5b4e1702f859f0cee47e76bac79b541eeab2a4c9ec742fc82f3a4e4d456d8a9cb94300916184c47a8f63d855f6
+Description: varClean for rootless
+Name: varClean (rootless)
+Author: roothide
+
 Package: com.julioverne.goodwifi
 Architecture: iphoneos-arm64
 Version: 0.0~beta6
