@@ -1,3 +1,37 @@
+Package: daniel.trustevaluator
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: daniel
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/daniel.trustevaluator_0.0.1_iphoneos-arm64.deb
+Size: 2916
+MD5sum: 6824d51ddf87bba5b049416fd40136d8
+SHA1: f994a9700ec217e4ac60de9837348bf477d40a9a
+SHA256: da2787f1f7ada234a5b6b5bf004ad038898b73b4b39f1350d6fe1009f571609e
+SHA512: 6cf628b16f8fa57ddb5a89f8113f91c2612e47e9c198783e2c1fa1a27ded31519444a118ac1f799f3306cc15a0c732f911b94a6a3f3a3a9b84e4e37edde85177
+Description: Allow installing unsigned profiles with the ability to write global defaults.
+Name: TrustEvaluator
+Author: daniel
+
+Package: daniel.trustevaluator
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: daniel
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/daniel.trustevaluator_0.0.1_iphoneos-arm64e.deb
+Size: 2932
+MD5sum: 68a1a5c5dd84bdc632f5b024c8ebec3a
+SHA1: c405e56821cefb6bdfa9a47d73ee3ace692f0c20
+SHA256: f07f2caad3797a0c0304d59ab9cf21c91da010a9e670b162280d23582da7aea2
+SHA512: 4e12b59e17f6a0ddc961a8756285aacf1eed1fca7bb13f5ed53ba97eb4166e04c6f11f66ea2f86b71218eded42f178c870955ce8ad6b75ca74c362ac49b957db
+Description: Allow installing unsigned profiles with the ability to write global defaults.
+Name: TrustEvaluator
+Author: daniel
+
 Package: com.bandarhl.bhtiktok
 Architecture: iphoneos-arm64
 Version: 2.3
