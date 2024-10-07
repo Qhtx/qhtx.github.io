@@ -110,6 +110,25 @@ Author: Bandar Alruwaili
 Icon: https://i.imgur.com/6nCH3FE.jpeg
 SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/BHTwitter.json
 
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64e
+Version: 4.3-5+debug
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 6292
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.bandarhl.bhtwitter_4.3-5+debug_iphoneos-arm64e.deb
+Size: 1030076
+MD5sum: 86869c6c3d139d3cca0c58aad54c8a81
+SHA1: e92b3da1a5b6c3579dae1de460b773c45279890a
+SHA256: f920f0d6235934a8c565d9859bda29d50a9774c74b730653e18257d7a268f273
+SHA512: 581dbf8a3ac1d4db2a022f4d188fe1a6379670b773cc9e82bf7307728b1bf567ca581582ab92b496ede000a678479dc3f6d63fa00c41cdc590fbfe6edf3d2045
+Description: An awesome tweak for Twitter!
+Name: BHTwitter
+Author: Bandar Alruwaili
+Icon: https://i.imgur.com/6nCH3FE.jpeg
+SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/BHTwitter.json
+
 Package: com.bandarhl.bhinsta
 Architecture: iphoneos-arm64
 Version: 1.0.3
