@@ -243,6 +243,25 @@ Author: dvntm
 Icon: https://i.imgur.com/LHHJmJA.jpeg
 SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/YouTubePlus.json
 
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64e
+Version: 5.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16140
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_5.0.2_iphoneos-arm64e.deb
+Size: 6022152
+MD5sum: 49722ff196f499370267c1745ec614db
+SHA1: 09d961196ea5baa594c98bd8ee8bc2cff0f7553a
+SHA256: 140df1829ec592d9a166378f1205cea908f0346332f0d7270df42bb63adeb95e
+SHA512: c92256b0b50db0d2e807340d3aa967ca919658e0e0da9bf0cf585ba8d959f92eb55a6bfd1020a0c21d7db7095d45686dd768c1d25797b9d58e744dec4aa96aa5
+Description: An awesome tweak for YouTube!
+Name: YouTubePlus
+Author: dvntm
+Icon: https://i.imgur.com/LHHJmJA.jpeg
+SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/YouTubePlus.json
+
 Package: ai.akemi.appsyncunified
 Architecture: iphoneos-arm64
 Version: 112.0
