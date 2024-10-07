@@ -43,7 +43,7 @@ Section: Tweaks
 Maintainer: dvntm
 Installed-Size: 1480
 Depends: mobilesubstrate
-Filename: ./debs/bhtiktokplus_2.3_iphoneos-arm64e.deb
+Filename: ./debs/com.bandarhl.bhtiktok_2.3_iphoneos-arm64e.deb
 Size: 475816
 MD5sum: c18fae2c85029bdb6595631972536c02
 SHA1: d47b12fdd66f9ef077118836f75b8972192e6245
