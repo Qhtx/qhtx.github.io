@@ -1,3 +1,39 @@
+Package: om.fissiondev.uranium
+Architecture: iphoneos-arm64
+Version: 1.2.7
+Section: Tweaks
+Maintainer: FissionDev
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0)
+Filename: ./debs/com.fissiondev.uranium_1.2.7_iphoneos-arm64.deb
+Size: 37656
+MD5sum: f0d19247520b39d9bfd05c6f58509786
+SHA1: 4704425c932376b4f11db99a710b55f5de173a33
+SHA256: 8a4589a0c9e887bc81c92d27d8d66a7f2edffb235a79f4938e675d307bae8151
+SHA512: 94de70e33e251f84ee73ad3756cdd4909e2badd6c41122fef88408bcf9510bc9c83bb53b7f7120a61c8af49ab6cbb868f2de020482dbaf25e1af8e1c10bb6e00
+Description: Lots Of Options To Enhance Your iOS Experience!
+Name: Uranium
+Author: FissionDev
+Icon: https://i.imgur.com/wQNO774.jpeg
+
+Package: om.fissiondev.uranium
+Architecture: iphoneos-arm64e
+Version: 1.2.7
+Section: Tweaks
+Maintainer: FissionDev
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0)
+Filename: ./debs/com.fissiondev.uranium_1.2.7_iphoneos-arm64e.deb
+Size: 37660
+MD5sum: 60a9f8ae460b44ff6a4dde29f87ece86
+SHA1: 75eca9e2a81e4217c1494a3819114738b14f3976
+SHA256: 7f9a2899962df55e64da20b5c034c662f32f46e2aeccd3ee8173bc7a0bec3b4c
+SHA512: 7868b495cd6ebd1f2f1d2a63802f21fa4683b1d59a961b1c4bc5f22601ecde91409405d93bd623a1a77792b291c7bf9b1a46a068455955a198081d95f415e77a
+Description: Lots Of Options To Enhance Your iOS Experience!
+Name: Uranium
+Author: FissionDev
+Icon: https://i.imgur.com/wQNO774.jpeg
+
 Package: daniel.trustevaluator
 Architecture: iphoneos-arm64
 Version: 0.0.1
