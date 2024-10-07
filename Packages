@@ -1,3 +1,37 @@
+Package: com.exile90.icleanerpro
+Architecture: iphoneos-arm64
+Version: 7.10.0
+Section: Tweaks
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 15.0), findutils, apt | apt7
+Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
+Size: 1098448
+MD5sum: c950ece914ac3d0a4a6f0d04a7980436
+SHA1: 7f4d6b746a08222982813cc75126f0d99924fd4b
+SHA256: 705f284ff797d6f9815c86674a362092c8f6dcaa9a3ab7bd86b67633c321dd4a
+SHA512: ee2b848f120d56badf93bf626a7339ec75bd7729cf797e23f42b2721d50064c724f664186dd82e2313ac726ee7ca4580362198cc7b49fe6c6e6cd9d920bec0a5
+Description: The first real iOS system cleanup and management utility
+Name: iCleaner Pro
+Author: Ivano Bilenchi <support@ib-soft.net>
+icon: https://i.imgur.com/zn3sQw9.jpeg
+
+Package: com.exile90.icleanerpro
+Architecture: iphoneos-arm64e
+Version: 7.10.0
+Section: Tweaks
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 15.0), findutils, apt | apt7
+Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e.deb
+Size: 1086808
+MD5sum: 21bf479297df73458a83123bf608a2e2
+SHA1: e8545b4a80ac3c860d024e3a90ab12bce754c23f
+SHA256: 667ffaa8ae3ab390aa122f44915254d57862b23f74cf6c60e7e0871965bd3800
+SHA512: 45d054f476e6ceaebb9a1627dcc37c5f7bbc0fcb0f981869dbadb01ef43775af0a2f1869028934716a515564004586d0f986a1b8dfde0a6ede7ffe60ed5e3592
+Description: The first real iOS system cleanup and management utility
+Name: iCleaner Pro
+Author: Ivano Bilenchi <support@ib-soft.net>
+icon: https://i.imgur.com/zn3sQw9.jpeg
+
 Package: zp.stopautolaunchapps
 Architecture: iphoneos-arm64
 Version: 2.0
