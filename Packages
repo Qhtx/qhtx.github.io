@@ -102,6 +102,7 @@ SHA512: 7ab2079ec745f177edb0a949b3a4bca8563d9786b805ce98af4d737c7ebb47c41af329f4
 Description: An awesome MobileSubstrate tweak!
 Name: Safariii
 Author: dvntm
+Icon: https://i.imgur.com/PUe8T84.jpeg
 
 Package: com.dvntm.safariii
 Architecture: iphoneos-arm64e
@@ -119,6 +120,7 @@ SHA512: db9e6ad3365ebf3abcfa052bc3d88d55d30fae09df24b3d61fdcb8594085900672fc0269
 Description: An awesome MobileSubstrate tweak!
 Name: Safariii
 Author: dvntm
+Icon: https://i.imgur.com/PUe8T84.jpeg
 
 Package: daniel.trustevaluator
 Architecture: iphoneos-arm64
