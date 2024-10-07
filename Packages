@@ -1,22 +1,3 @@
-Package: com.crazymind90.appeditor
-Architecture: iphoneos-arm64e
-Version: 3.8.10.6
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 58963
-Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), ldid
-Filename: ./debs/com.crazymind90.appeditor_3.8.10.6_iphoneos-arm64e.deb
-Size: 20008600 
-MD5sum: 600ee06edf3a57cf5249e12d0cd9aade
-SHA1: fb1d4e7574a188df43e9133dc054ab9ff47f0f63
-SHA256: d7370b8ac4ec9a6e6759860561e9de7f97e5f1ed8e3b236f42fed1959133c846
-SHA512: 4936e0f01d718b338a4934d7c9d835df7b32d32a2a28b3708e1cb3f91b533e95f8802ee35eabd4cb3673c5190c1a389d35f179e5ba178ce4878534b9f6bfb774
-Description: Gain Full Access and Control Over Your Applications
-Name: AppEditor
-Author: @CrazyMind90 <CvCrazyMind@gmail.com>
-Icon: https://i.imgur.com/DEb5WSn.jpeg
-Sileodepiction: https://crazy90.com/repo/1.json
-
 Package: com.bandarhl.bhtiktok
 Architecture: iphoneos-arm64
 Version: 2.3
