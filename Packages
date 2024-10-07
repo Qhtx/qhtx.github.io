@@ -23,12 +23,12 @@ Section: Tweaks
 Maintainer: FissionDev
 Installed-Size: 468
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0)
-Filename: ./debs/com.fissiondev.uranium_1.2.7_iphoneos-arm64e.deb
-Size: 37660
-MD5sum: 60a9f8ae460b44ff6a4dde29f87ece86
-SHA1: 75eca9e2a81e4217c1494a3819114738b14f3976
-SHA256: 7f9a2899962df55e64da20b5c034c662f32f46e2aeccd3ee8173bc7a0bec3b4c
-SHA512: 7868b495cd6ebd1f2f1d2a63802f21fa4683b1d59a961b1c4bc5f22601ecde91409405d93bd623a1a77792b291c7bf9b1a46a068455955a198081d95f415e77a
+Filename: ./debs/com.fissiondev.uranium_1.2.7_iphoneos-arm64e-1.deb
+Size: 48982
+MD5sum: a6f8ea58129fca77f30bcff5daf57fea
+SHA1: ea52617f5a7da2a965d1ca8baa40122644d826ac
+SHA256: f0ec3c42d3360fcedf1582fabeec1d15e4d03c4bad274fc9ccd05c9ccdf55283
+SHA512: 251eda40568d9037f7cc89325d8d9381948cd7e7447b3c62dd0739d4b0b19a970dd5810e80141ec5aa7e581d82f722a0ae0098e37949651e03f9205f8bbe0712
 Description: Lots Of Options To Enhance Your iOS Experience!
 Name: Uranium
 Author: FissionDev
