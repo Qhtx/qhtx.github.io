@@ -1,3 +1,35 @@
+Package: com.julioverne.goodwifi
+Architecture: iphoneos-arm64
+Version: 0.0~beta6
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64.deb
+Size: 76396
+MD5sum: 6dacc3e6635b6be6d3f96d6209ecd84c
+SHA1: 96c6cff56a0eff0d9e5a11b728bc04399d936594
+SHA256: 167518b99f8637cdcdafb8886362aeb2c8799549ed4d9dc8f2d124237dbeea79
+SHA512: c974f914869da4ca2e75e6efe27ba19211d3595120168205df25dd78c5787136f96b2bb9379deaa420bfff90cc902d6662904fb0a4b7cc25931b46b7c199547e
+Description: Better WiFi Preferences
+Name: GoodWiFi
+Author: julioverne
+
+Package: com.julioverne.goodwifi
+Architecture: iphoneos-arm64e
+Version: 0.0~beta6
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64e.deb
+Size: 74916
+MD5sum: 632f424992aee393b55890c42ad91ef3
+SHA1: 07b4eb5e38de1788c8129d98d8468eb86bf357f8
+SHA256: af4644b3c47434ef2bd15e9100432b75e9723c1c504e84f8c548b401caffa40c
+SHA512: 774e06c7e1969b1aa8ddf4e76b5bd611bfbd414d14c93eaff1e1c2cc4e3cad3315e1e2c7bf3fa9df40dd7e145e4ddc38c2cc8cfb6d5424962e073caa0b9af177
+Description: Better WiFi Preferences
+Name: GoodWiFi
+Author: julioverne
+
 Package: com.dvntm.safariii
 Architecture: iphoneos-arm64
 Version: 0.0.1
