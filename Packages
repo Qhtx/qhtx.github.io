@@ -110,6 +110,25 @@ Author: Bandar Alruwaili
 Icon: https://i.imgur.com/lg6zKtD.jpeg
 SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/BHInsta.json
 
+Package: com.bandarhl.bhinsta
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 648
+Depends: mobilesubstrate
+Filename: ./debs/com.bandarhl.bhinsta_1.0.3_iphoneos-arm64e.deb
+Size: 160808
+MD5sum: 1b0cca1b3cd53f93ab8ccffdce2156ab
+SHA1: 4414b566f3a5f9e19e484246a23f44a2ddeaabbe
+SHA256: c3fad74eed7e13d7cf4c06679daa3ddad7bdfbbfb76d5b7f65e3609588ed366d
+SHA512: b2677f0bafa005e14d0ddc39d39d19eff8e253e53efd2516a40b34f5c8f99403511dd5fdb0e7e977da5677a272ea2db49364b51de9ff303181f60df629ab6512
+Description: An awesome tweak for Instagram!
+Name: BHInsta
+Author: Bandar Alruwaili
+Icon: https://i.imgur.com/lg6zKtD.jpeg
+SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/BHInsta.json
+
 Package: com.dvntm.silentnotifs
 Architecture: iphoneos-arm64
 Version: 0.0.2
