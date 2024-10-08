@@ -1,3 +1,37 @@
+Package: com.shepgoba.settingswidgets
+Architecture: iphoneos-arm64
+Version: 1.2.3
+Section: Tweaks
+Maintainer: shepgoba
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.shepgoba.settingswidgets_1.2.3_iphoneos-arm64.deb
+Size: 73128
+MD5sum: 5cb6367fdc6c37ee3a51d80c55c2f110
+SHA1: 9bce54a7333ebea8ba20fcbf2085987ef42a176c
+SHA256: 3319fca6adb315d57439f80e092b6a4def24521526d5f184fd21a35f9a3246b9
+SHA512: f97cb3e71e68e737d110ef8d311333513955e8004a9e02fc4df697ddd58ed584890abac94202321b17f6670dbac9272efc855a8acbb7bcb45f5d3407d100a25f
+Description: Bring good looking widgets to the front page of settings!
+Name: SettingsWidgets
+Author: shepgoba
+
+Package: com.shepgoba.settingswidgets
+Architecture: iphoneos-arm64e
+Version: 1.2.3
+Section: Tweaks
+Maintainer: shepgoba
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.shepgoba.settingswidgets_1.2.3_iphoneos-arm64e.deb
+Size: 72148
+MD5sum: e7dfc14580b9ec225e1e5399d903819f
+SHA1: c317db96f5d115c6541fcb9b98181363c28e518f
+SHA256: 5d8556a14d649e9ddd0b8873ce58abae9e4d0377bda798bde522fb3b1ea8b6b8
+SHA512: 0f3f6a1d670345ea27a8b872ebb235adce7f18e83724f6efa4aab1dfa5a27b4bb9ab9a74370aa52dad206519caebbbbf322212dbbc8be9bcb5a00839b9aace37
+Description: Bring good looking widgets to the front page of settings!
+Name: SettingsWidgets
+Author: shepgoba
+
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64
 Version: 1.2.40
