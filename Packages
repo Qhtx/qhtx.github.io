@@ -1,3 +1,37 @@
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64
+Version: 1.2.40
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6660
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.33)
+Filename: ./debs/com.fouadraheb.watusi3_1.2.40_iphoneos-arm64.deb
+Size: 1971948
+MD5sum: 8d072e47c518e012d58853c640227fa8
+SHA1: e0a73bf9db725d6d250ac9d533ae18b6541f2cdc
+SHA256: 2ecb8465b933b1d53bed59384823a32ca92f138fc0e643a553f33ac8c91230f9
+SHA512: 7cdeed9dc943b94b1edb5028316fc0f345a2193e020dd9bbbbfe09f6d0711ef209b7c170c4ef6f1bfd20e328e3628d3652893c4bc1326c68d46b39e7378870ff
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Author: Fouad Raheb <support@fouadraheb.com>
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64e
+Version: 1.2.40
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6660
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.33)
+Filename: ./debs/com.fouadraheb.watusi3_1.2.40_iphoneos-arm64e.deb
+Size: 1955832
+MD5sum: c746bfa8e5560d2176a92f365ac14be7
+SHA1: 4604f9c5e9f9e0db896233e0811857943aa5e2d8
+SHA256: d7ae51aef9644799680257bb8c15fb7d566906add04393145cf6a7e38cdf68ff
+SHA512: 8374267604af60728d4d4d2e64389ca57e477cfe4b43d22cf202a5945ea52c2b3f5f3606b0efcd4679e4704f75b13268a8374ddc24b4ced8886d46a62ef45030
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Author: Fouad Raheb <support@fouadraheb.com>
+
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
 Version: 2.4.34
