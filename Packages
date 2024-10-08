@@ -1,3 +1,35 @@
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64
+Version: 2.4.34
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Filename: ./debs/com.f0u4d.watusitools_2.4.34_iphoneos-arm64.deb
+Size: 4493776
+MD5sum: bf7da014d1d090837a07d22f8072d977
+SHA1: db0bf1593902a1a4564629ebbc033614dd33c751
+SHA256: 8e58b425a52fe25abb4911964100022f8e704d3ed36db1ccfc472fd9cbaac317
+SHA512: 8377a2dcb343aa6e2fc108d20327ff52e85117dce8bbef0f54aef1749da296c98edc36c3a2f21421364356ba2f2ddbd0faff0ef6232892957bb7b7d0bee983ca
+Description: Library for Watusi and WhatsApp tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64e
+Version: 2.4.34
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Filename: ./debs/com.f0u4d.watusitools_2.4.34_iphoneos-arm64e.deb
+Size: 4493824
+MD5sum: 93e4e6c43d31e96d4d9f007d1c89345d
+SHA1: 961a303b87a30437f4fe5dd068708e4ba5d742bd
+SHA256: eb6c96937367691827f0ea9f82095c6cf75e3abcc062d0c45ba9eb7bd3983671
+SHA512: 0ca3bbea0a5e857cf53e4b737676a1d4df469d1e19ba2a2c2fb140351b1a6e56555198b6f255a268b2d22abccad0c1e1cbd30ace26d39f3ce143d2e2efac8246
+Description: Library for Watusi and WhatsApp tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+
 Package: xyz.xninja.systeminfo
 Architecture: iphoneos-arm64
 Version: 2.7.2-2
