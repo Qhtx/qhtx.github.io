@@ -1,3 +1,35 @@
+Package: xyz.xninja.systeminfo
+Architecture: iphoneos-arm64
+Version: 2.7.2-2
+Section: Tweaks
+Maintainer: ARX8x
+Depends: mobilesubstrate, oldabi
+Filename: ./debs/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64.deb
+Size: 272176
+MD5sum: 7063110dd0857c255e02daa2326cc1d0
+SHA1: 45afd638237ae14414169cc081cd8c480636f13d
+SHA256: 72db02b97269e77780f2ac09b26154a3a05130de8b87c8d29d6bcd9ff08a126c
+SHA512: f5beb1a047fb3f805cadbc48252349cb30f329bec2e8040cd5595dd92459afa0af557ed7a8b972d9f3ee5cd1db154c31bfc490005b5b8080530eadf7b8f494a7
+Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
+Name: System Info
+Author: ARX8x
+
+Package: xyz.xninja.systeminfo
+Architecture: iphoneos-arm64e
+Version: 2.7.2-2
+Section: Tweaks
+Maintainer: ARX8x
+Depends: mobilesubstrate, oldabi
+Filename: ./debs/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64e.deb
+Size: 267968
+MD5sum: ed0b36813c4f48a9ffee1034941d62cc
+SHA1: 7ce269175c67b9b49e8481c7240ed406ea366726
+SHA256: a59b9dd95a98f11c1eb54074139774a30856658846754c0a056d2d36decc4531
+SHA512: 86c0c8a38e9af7c2ec9db7512e414c9685f8c67b0df8e55514fc1bf999b8d990e0ac1e449d0213f615133138f573348fbf925bdc71505a845d780d43306194dc
+Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
+Name: System Info
+Author: ARX8x
+
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64
 Version: 7.10.0
