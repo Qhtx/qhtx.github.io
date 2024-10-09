@@ -1,3 +1,20 @@
+Package: com.muirey03.cr4shed
+Architecture: iphoneos-arm64e
+Version: 4.3.1-1+debug
+Section: Tweaks
+Maintainer: Muirey03
+Installed-Size: 2356
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid, cm90.crossoveripc
+Filename: ./debs/com.muirey03.cr4shed_4.3.1-1+debug_iphoneos-arm64e.deb
+Size: 211468
+MD5: 0b56c44a59d088214ea586085298deb8
+SHA1: eab69cc49769b908147516498c06e3ab1160397c
+SHA256: 66de45c83893f92e3163dd5b2f0d65fa218d4f820e5191ef31548dd8c99d3818
+SHA512: d588da0e380ef99f8504eb768bd0ecc19b3128f609deae86be203ab40167c94bbde4805f7ca21d71588f7d173c0ff078a8f49b21333fbd4b1491d2c60a21b728
+Description: A modern crash reporter for iOS
+Name: Cr4shed
+Author: Muirey03
+
 Package: com.cokepokes.libnotifications
 Architecture: iphoneos-arm64e
 Version: 0.3-6-1+debug
