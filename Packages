@@ -4,7 +4,7 @@ Version: 2.5.3
 Section: Tweaks
 Maintainer: MTAC
 Installed-Size: 2848
-Depends: mobilesubstrate, rootless-compat, firmware (>= 15.0), preferenceloader, ws.hbang.common
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, ws.hbang.common
 Filename: ./debs/com.mtac.lynxtwo_2.5.3_iphoneos-arm64e.deb
 Size: 630732
 MD5: 8aa10b967ecedcf5d1c267196b7d9732
