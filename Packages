@@ -1,5 +1,5 @@
 Package: com.cokepokes.libnotifications
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Version: 0.3-6-1+debug
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
