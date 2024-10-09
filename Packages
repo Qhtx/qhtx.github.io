@@ -1,3 +1,21 @@
+Package: com.squidforce.copyvault
+Architecture: iphoneos-arm64e
+Version: 1.5.6
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 7360
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.squidforce.copyvault_1.5.6_iphoneos-arm64e.deb
+Size: 2267248
+MD5: 57a55f4916d87b70b17ac919e34a1d9c
+SHA1: c08d5744dde31702139c0243c3f7dc4ba64d9404
+SHA256: a94d2aff82acf83e2ee11b1a12eaeb16590c8f40f04caff8f0697e07fb75a097
+SHA512: 752eedd0fb9108852865c9aae284f6f702006c0fe639593acd8ff071f74aa8fcc9fb8d55f614edda1a5f1495362209686be5be9be3be0c2ceb17a8fd60eed9d6
+Description: Your Copy Vault, Your Pasteboard
+Name: CopyVault
+Author: SquidForce
+Icon: https://i.imgur.com/sfFuIVt.jpeg
+
 Package: com.muirey03.cr4shed
 Architecture: iphoneos-arm64e
 Version: 4.3.1-1+debug
