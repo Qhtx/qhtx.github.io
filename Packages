@@ -1,3 +1,20 @@
+Package: com.ps.batteryhealthenabler
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Installed-Size: 152
+Description: Enable Battery Health on unsupported devices.
+Name: Battery Health Enabler
+Author: PoomSmart
+Maintainer: PoomSmart
+Depends: mobilesubstrate
+Filename: ./debs/com.ps.batteryhealthenabler_1.0.0_iphoneos-arm64e.deb
+Size: 5444
+MD5: b226f3d79c0d8b497b9b32b24ec6aa94
+SHA1: 1292dc339333dcfc2bd927c87117e2289efef848
+SHA256: e03bf79a37d21b0a71d6a551b0777b2c70c710c0070cf5cfd2a30c286bfb8ec9
+SHA512: 98681c5fe9e3f8d7adad60c524de52fc668d4b66a32bf562410d2da68f2308912a7e5fda5438e2615eb10c15e1633eb91f79cf78771e9dd0f40e6b4b1bf8be2a
+
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm64e
 Version: 1.2.1
