@@ -1,3 +1,20 @@
+Package: com.jontelang.snapper3
+Architecture: iphoneos-arm64e
+Version: 1.2.1
+Section: Tweaks
+Installed-Size: 4148
+Description: Pin screenshots on the screen.
+Name: Snapper 3
+Author: Jonathan Winger-lang
+Maintainer: Jonathan Winger-lang
+Depends: mobilesubstrate, firmware(>=15.0), preferenceloader
+Filename: ./debs/com.jontelang.snapper3_1.2.1_iphoneos-arm64e.deb
+Size: 1023976
+MD5: fd9f02fd129b2ad60e439b08a9f55328
+SHA1: 3c153216be1c8918ace9f871c05e4bbd38bdd014
+SHA256: 7ce5306dd192d46fcea0719738ff2d2d8ffc69c70b7adfdb5fbdb8bb41bfa6a8
+SHA512: a3a67b67468f7080e134dd5f2618b863c307d85b13966c9516ae1530b7c6e797d513b3003b6dca6a31053bd4e59d3908afd574ceefca5bb1e7cb5033d7e75e72
+
 Package: com.squidforce.copyvault
 Architecture: iphoneos-arm64e
 Version: 1.5.6
