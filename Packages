@@ -14,6 +14,7 @@ SHA512: 6d8fa6a45f4060f0fe81be7d1304159813db1523575f6000d2a724ff4091d5a19afd3c54
 Description: Ultimate iDevice Customization for iOS 14, 15 & 16
 Name: Lynx 2
 Author: MTAC
+Pre-Depends: rootless-compat(>= 0.9)
 
 Package: xyz.cypwn.xinam1ne
 Maintainer: CyPwn
