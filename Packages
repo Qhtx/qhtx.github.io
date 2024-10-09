@@ -4,7 +4,7 @@ Version: 4.3.1-1+debug
 Section: Tweaks
 Maintainer: Muirey03
 Installed-Size: 2356
-Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid, cm90.crossoveripc
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid, cm90.crossoveripc, com.cokepokes.libnotifications
 Filename: ./debs/com.muirey03.cr4shed_4.3.1-1+debug_iphoneos-arm64e.deb
 Size: 211468
 MD5: 0b56c44a59d088214ea586085298deb8
