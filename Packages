@@ -1,20 +1,19 @@
-Package: com.mtac.lynxtwo
-Architecture: iphoneos-arm64e
-Version: 2.5.3
+Package: com.cokepokes.libnotifications
+Architecture: iphoneos-arm64
+Version: 0.3-6-1+debug
 Section: Tweaks
-Maintainer: MTAC
-Installed-Size: 2848
-Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, ws.hbang.common
-Filename: ./debs/com.mtac.lynxtwo_2.5.3_iphoneos-arm64e.deb
-Size: 630732
-MD5: 8aa10b967ecedcf5d1c267196b7d9732
-SHA1: 547926692b5bfeae7c03a77616bb4477794a2daa
-SHA256: 58eec1093120a9add808bf779cb20ef976112c6763b132f821b1e64fde5141da
-SHA512: 6d8fa6a45f4060f0fe81be7d1304159813db1523575f6000d2a724ff4091d5a19afd3c54101a12661c3d24960537af515b48de38aa1ac7a909cfc95009069da8
-Description: Ultimate iDevice Customization for iOS 14, 15 & 16
-Name: Lynx 2
-Author: MTAC
-Pre-Depends: rootless-compat(>= 0.9)
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 416
+Depends: firmware (>= 8.0), com.opa334.libsandy, cm90.crossoveripc
+Filename: ./debs/com.cokepokes.libnotifications_0.3-6-1+debug_iphoneos-arm64e.deb
+Size: 16700
+MD5: 4a5cf884d8997daa47553b3ed8475c2b
+SHA1: 72ebf69361a9cc528884fe72ee65a5b698a45ec9
+SHA256: 16b196ff2edaef6140982661af68928b9c76a01c60816c651491391e58d784de
+SHA512: 7745ddb26369cdcbd9047d2a73d154677235439216601c6d520053160793ff054d499cad0023ebab8a6d8594412ea3e9915be5d9a8c920c308f3c8c9fd976771
+Description: App notification library.
+Name: libnotifications
+Author: CokePokes <cokepokes@gmail.com>
 
 Package: xyz.cypwn.xinam1ne
 Maintainer: CyPwn
@@ -29,7 +28,7 @@ Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, file, odcctools, ldid,
 Provides: emt.paisseon.xinamine (= 99)
 Replaces: emt.paisseon.xinamine
 Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
-Section: Utilities
+Section: Tweaks
 Filename: ./debs/xinam1ne_2.6-8_iphoneos-arm64e.deb
 Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
 MD5: 1d805e655708d0eceb15d271df0e0d52
