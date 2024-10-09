@@ -1,3 +1,20 @@
+Package: com.mtac.lynxtwo
+Name: Lynx 2
+Description: Ultimate iDevice Customization for iOS 14, 15 & 16
+Maintainer: MTAC
+Author: MTAC
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Architecture: iphoneos-arm64e
+Version: 2.5.3
+Installed-Size: 2848
+MD5: 8aa10b967ecedcf5d1c267196b7d9732
+SHA1: 547926692b5bfeae7c03a77616bb4477794a2daa
+SHA256: 58eec1093120a9add808bf779cb20ef976112c6763b132f821b1e64fde5141da
+SHA512: 6d8fa6a45f4060f0fe81be7d1304159813db1523575f6000d2a724ff4091d5a19afd3c54101a12661c3d24960537af515b48de38aa1ac7a909cfc95009069da8
+Size: 630732
+Filename: ./debs/com.mtac.lynxtwo_2.5.3_iphoneos-arm64e.deb
+
 Package: xyz.cypwn.xinam1ne
 Maintainer: CyPwn
 Size: 1877832
