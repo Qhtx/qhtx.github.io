@@ -29,7 +29,7 @@ Author: Jax Roth
 Maintainer: Jax Roth
 Description: Allows iPhones to use “unsupported” charging accessories
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: .debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_iphoneos-arm64e.deb
+Filename: ./debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_iphoneos-arm64e.deb
 Size :4840
 MD5: 3310ef7893e267300fe6d39b65214934
 SHA1: 25818704dba366db49a3d0559db252413b6776ec
