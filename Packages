@@ -30,12 +30,12 @@ Architecture: iphoneos-arm64e
 Version: 1.0~b11
 Installed-Size: 6092
 Pre-Depends: rootless-compat(>= 0.9)
+Size: 1304060
+Filename: com.fouadraheb.regram_1.0~b11_iphoneos-arm64e.deb
 MD5: 9e04ccda3eb6fb961220c54088ca62b9
 SHA1: b8a4347afda206c2a7977fdd38f2126c4621cb09
 SHA256: 62156caf9deebd90e8bac5ad9061d1fa9babdd4b2f131542d99eff4ed6d76278
 SHA512: d6dcc2e7b25c7fad455295bb7e9d59c568b39db661a2b30bc3749041dd92590c99c6fb8e58a39a779f634eec5c3c823ea080e0ffe8bb0ef4b5a53b0b65b567d8
-Size: 1304060
-Filename: com.fouadraheb.regram_1.0~b11_iphoneos-arm64e.deb
 
 Package: com.jaxroth.supporttheunsupportedrevived
 Name: SupportTheUnsupported Revived
