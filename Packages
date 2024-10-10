@@ -29,12 +29,12 @@ Author: Jax Roth
 Maintainer: Jax Roth
 Description: Allows iPhones to use “unsupported” charging accessories
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_iphoneos-arm64e.deb
-Size :4840
 MD5: 3310ef7893e267300fe6d39b65214934
 SHA1: 25818704dba366db49a3d0559db252413b6776ec
 SHA256: c0252f9bec7ce4742cec0cb3041d053c90352cebe0e505ca5eb3f4d125a36cbe
 SHA512: 667770546bb3bbd355d4d76b7699dfaf56bc7048cdd6e0a83f8e59d3f8ab14a39a8db765936dc012d567b296675ac464bfaf4d4d1fa04767b9c33567baa23bce
+Filename: ./debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_iphoneos-arm64e.deb
+Size: 4840
 
 Package: com.kdt.trollpad
 Name: TrollPad
