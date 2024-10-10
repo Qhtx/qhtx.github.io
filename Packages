@@ -1,3 +1,23 @@
+Package: com.fouadraheb.regram
+Name: Regram for Instagram
+Description: The all-in-one tweak for Instagram
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.34)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+Architecture: iphoneos-arm64
+Version: 1.0~b11
+Installed-Size: 6092
+MD5: 2ff353d1a30fa1008fcc215b8246fb6c
+SHA1: 1b35d3aa7d39952f2eeb6168c4636101d2e976b8
+SHA256: fa9c3265f3a2531f653ee6a57ae9caea9311063c83c19e1a00a02d24f8dd882c
+SHA512: 834c21869c6579dca4266885ad180764d62f1165ac4b72bf4dd477639bd5f6e4ae974b2bdd8da9d503bc2baac54cc431823c753c3cd50b6da8c26ddc6b705192
+Filename: ./debs/com.fouadraheb.regram_1.0~b11_iphoneos-arm64.deb
+Size: 1291412
+
 Package: com.jaxroth.supporttheunsupportedrevived
 Name: SupportTheUnsupported Revived
 Version: 1.0.0
