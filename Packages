@@ -7,7 +7,7 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+Icon: https://i.imgur.com/eyNvIEL.jpeg
 Architecture: iphoneos-arm64
 Version: 1.0~b11
 Installed-Size: 6092
@@ -34,6 +34,7 @@ MD5: 4c01f5d4a7a5e6f2f573ecb0cd9c5c3b
 SHA1: c9ae0540decf89535c71639019338c93218f6b5c
 SHA256: 327bacaeb58322544722c07c96a5d50b7bbdcc7f2506245b823117c97d3833a8
 SHA512: fb4b5c1084dce6ae82c2576faff246546901295aba21270dee2f5b2dd81a99e04b41717239c788691b7b763979df3d26dad5b07a0ceaec9ed7235841e3c50676
+Icon: https://media.havoc.app/620c0c7c24c5820cc9bc0776?w=1920&q=75
 
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm64e
