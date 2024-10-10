@@ -1,3 +1,21 @@
+Package: com.f0u4d.watusitools
+Name: WatusiTools
+Version: 2.4.38
+Description: Library for Watusi, Regram and other tweaks
+Depends: firmware (>= 15.0)
+Section: Development
+Architecture: iphoneos-arm64e
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Pre-Depends: rootless-compat(>= 0.9)
+MD5: 7e071f24afd356ed9b49397c1a98d02e
+SHA1: dd2be399634e20f225ecc8d5ff38efca8c01efe7
+SHA256: b6f6ec148793e4451040b02833a1dc62e7050fdbaee6bcb91214769910e8e8bd
+SHA512: c352bd4bc415320098d165cb476fd1a938fc40d3433cde6323427bd16db13323a2075d7b985339a2fd064cd00e733e9608c23cb32548929b632406f01420acf6
+Filename: ./debs/com.f0u4d.watusitools_2.4.38_iphoneos-arm64e.deb
+Size: 4500712
+
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
 Description: The all-in-one tweak for Instagram
