@@ -25,16 +25,17 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-Icon: https://i.imgur.com/Ha3IO5J.jpeg
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
 Architecture: iphoneos-arm64e
 Version: 1.0~b11
 Installed-Size: 6092
-MD5: 6a1b94f833eafa609e2445d925b513e0
-SHA1: 4aee2ec50c486bb22273b06595520283bef408a1
-SHA256: 6438f2e259ec9056859961a0bdc4819726c8beaab0c40749be607ebbd329aa06
-SHA512: 0cd7a82d757057443cc7be05e507339e11ba9c3c9125228ca480db815c4eacfe081cbcc4a996f63fb33d7c2102b1ae1d1e1e69da7df057c64f56100e0d09e00f
-Filename: ./debs/com.fouadraheb.regram_1.0~b11_iphoneos-arm64e.deb
-Size: 1304460
+Pre-Depends: rootless-compat(>= 0.9)
+MD5: 9e04ccda3eb6fb961220c54088ca62b9
+SHA1: b8a4347afda206c2a7977fdd38f2126c4621cb09
+SHA256: 62156caf9deebd90e8bac5ad9061d1fa9babdd4b2f131542d99eff4ed6d76278
+SHA512: d6dcc2e7b25c7fad455295bb7e9d59c568b39db661a2b30bc3749041dd92590c99c6fb8e58a39a779f634eec5c3c823ea080e0ffe8bb0ef4b5a53b0b65b567d8
+Size: 1304060
+Filename: com.fouadraheb.regram_1.0~b11_iphoneos-arm64e.deb
 
 Package: com.jaxroth.supporttheunsupportedrevived
 Name: SupportTheUnsupported Revived
