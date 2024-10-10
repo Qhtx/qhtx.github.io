@@ -1,3 +1,20 @@
+Package: com.jaxroth.supporttheunsupportedrevived
+Name: SupportTheUnsupported Revived
+Version: 1.0.0
+Section: Tweaks
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Installed-Size: 136
+Author: Jax Roth
+Maintainer: Jax Roth
+Description: Allows iPhones to use “unsupported” charging accessories
+Filename: ./debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_iphoneos-arm64.deb
+Size: 4772
+MD5: 4c01f5d4a7a5e6f2f573ecb0cd9c5c3b
+SHA1: c9ae0540decf89535c71639019338c93218f6b5c
+SHA256: 327bacaeb58322544722c07c96a5d50b7bbdcc7f2506245b823117c97d3833a8
+SHA512: fb4b5c1084dce6ae82c2576faff246546901295aba21270dee2f5b2dd81a99e04b41717239c788691b7b763979df3d26dad5b07a0ceaec9ed7235841e3c50676
+
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm64e
 Version: 1.2.1
