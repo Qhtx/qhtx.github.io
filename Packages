@@ -67,40 +67,6 @@ Description: App notification library.
 Name: libnotifications
 Author: CokePokes <cokepokes@gmail.com>
 
-Package: com.shepgoba.settingswidgets
-Architecture: iphoneos-arm64
-Version: 1.2.3
-Section: Tweaks
-Maintainer: shepgoba
-Installed-Size: 512
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.shepgoba.settingswidgets_1.2.3_iphoneos-arm64.deb
-Size: 73128
-MD5sum: 5cb6367fdc6c37ee3a51d80c55c2f110
-SHA1: 9bce54a7333ebea8ba20fcbf2085987ef42a176c
-SHA256: 3319fca6adb315d57439f80e092b6a4def24521526d5f184fd21a35f9a3246b9
-SHA512: f97cb3e71e68e737d110ef8d311333513955e8004a9e02fc4df697ddd58ed584890abac94202321b17f6670dbac9272efc855a8acbb7bcb45f5d3407d100a25f
-Description: Bring good looking widgets to the front page of settings!
-Name: SettingsWidgets
-Author: shepgoba
-
-Package: com.shepgoba.settingswidgets
-Architecture: iphoneos-arm64e
-Version: 1.2.3
-Section: Tweaks
-Maintainer: shepgoba
-Installed-Size: 512
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.shepgoba.settingswidgets_1.2.3_iphoneos-arm64e.deb
-Size: 72148
-MD5sum: e7dfc14580b9ec225e1e5399d903819f
-SHA1: c317db96f5d115c6541fcb9b98181363c28e518f
-SHA256: 5d8556a14d649e9ddd0b8873ce58abae9e4d0377bda798bde522fb3b1ea8b6b8
-SHA512: 0f3f6a1d670345ea27a8b872ebb235adce7f18e83724f6efa4aab1dfa5a27b4bb9ab9a74370aa52dad206519caebbbbf322212dbbc8be9bcb5a00839b9aace37
-Description: Bring good looking widgets to the front page of settings!
-Name: SettingsWidgets
-Author: shepgoba
-
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64
 Version: 1.2.40
@@ -270,44 +236,6 @@ Name: StopAutoLaunchApps
 Author: zqbb
 Icon: https://i.imgur.com/f17XlCC.jpeg
 SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/stopapps.json
-
-Package: com.netskao.appdata
-Architecture: iphoneos-arm64
-Version: 1.4.2
-Section: Tweaks
-Maintainer: Nets
-Installed-Size: 3772
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.netskao.appdata_1.4.2_iphoneos-arm64.deb
-Size: 822612
-MD5sum: 7026b536a775789ac2a49036726aea09
-SHA1: d7d485bac1afa87dc0af85c0ee7fe58edeb6ab82
-SHA256: 2ff2d3d577a11e4f4dac410fc5159d3f9de8ac638c0ab4178129519e323c319c
-SHA512: f8be3c7bec3400755ed2ecc246e900597f6f79c65b12bbb4bf448547e7195d4589570abcfa2525ab166043cf28ca0d2839771c259d35f00f38b52833d7686cab
-Description: Swipe up, down, or use the 3D press menu on the desktop icon to quickly access application data tools. This version has been fully translated and optimized by the site administrator. Modifications and optimizations
-Name: AppData
-Author: Fouad Raheb
-Icon: https://i.imgur.com/cESJMBz.jpeg
-SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/AppData.json
-
-Package: com.netskao.appdata
-Architecture: iphoneos-arm64e
-Version: 1.4.2
-Section: Tweaks
-Maintainer: Nets
-Installed-Size: 3772
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.netskao.appdata_1.4.2_iphoneos-arm64e.deb
-Size: 824368
-MD5sum: 34552f4e7455ba94d1262e49d8380e00
-SHA1: 063488704157a336e08dbcb273bfeee4a96c9eee
-SHA256: 6d42b142025accb904d88a790474ba81545bec171552d0b155da24c4e5e7fcc4
-SHA512: 884100a59585f28b08099a441788fb5d2af435b3466e54b958724758138190e7c21a9abca7d57279d7cb7cba8038f8d9668ee6d667e4042b2d6bc5058191e9b1
-Description: Swipe up, down, or use the 3D press menu on the desktop icon to quickly access application data tools. This version has been fully translated and optimized by the site administrator. Modifications and optimizations
-Name: AppData
-Author: Fouad Raheb
-Icon: https://i.imgur.com/cESJMBz.jpeg
-SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/AppData.json
 
 Package: com.nightwind.lockbuttonx
 Architecture: iphoneos-arm64
