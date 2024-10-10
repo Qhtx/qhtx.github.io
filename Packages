@@ -1,10 +1,48 @@
+Package: com.fouadraheb.regram
+Name: Regram for Instagram
+Description: The all-in-one tweak for Instagram
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.34)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: https://i.imgur.com/Ha3IO5J.jpeg
+Architecture: iphoneos-arm64e
+Version: 1.0~b11
+Installed-Size: 6092
+MD5: 6a1b94f833eafa609e2445d925b513e0
+SHA1: 4aee2ec50c486bb22273b06595520283bef408a1
+SHA256: 6438f2e259ec9056859961a0bdc4819726c8beaab0c40749be607ebbd329aa06
+SHA512: 0cd7a82d757057443cc7be05e507339e11ba9c3c9125228ca480db815c4eacfe081cbcc4a996f63fb33d7c2102b1ae1d1e1e69da7df057c64f56100e0d09e00f
+Filename: ./debs/com.fouadraheb.regram_1.0~b11_iphoneos-arm64e.deb
+Size: 1304460
+
+Package: com.jaxroth.supporttheunsupportedrevived
+Name: SupportTheUnsupported Revived
+Version: 1.0.0
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Installed-Size: 136
+Author: Jax Roth
+Maintainer: Jax Roth
+Description: Allows iPhones to use “unsupported” charging accessories
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: .debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_iphoneos-arm64e.deb
+Size :4840
+MD5: 3310ef7893e267300fe6d39b65214934
+SHA1: 25818704dba366db49a3d0559db252413b6776ec
+SHA256: c0252f9bec7ce4742cec0cb3041d053c90352cebe0e505ca5eb3f4d125a36cbe
+SHA512: 667770546bb3bbd355d4d76b7699dfaf56bc7048cdd6e0a83f8e59d3f8ab14a39a8db765936dc012d567b296675ac464bfaf4d4d1fa04767b9c33567baa23bce
+
 Package: com.kdt.trollpad
 Name: TrollPad
 Description: Troll SpringBoard into thinking it's running on iPadOS.
 Maintainer: khanhduytran0
 Author: khanhduytran0
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
 Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
 SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
 Architecture: iphoneos-arm64e
