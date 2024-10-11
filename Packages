@@ -1,3 +1,28 @@
+Name: Apps Manager
+Package: com.tigisoftware.appdatamanager
+Priority: optional
+Depends: firmware (>= 7.0), ldid
+Version: 1.8.2-5
+Architecture: iphoneos-arm64e
+Description: Tool to WIPE, BACKUP, RESTORE AppData for installed Apps
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: TIGI Software <satashi2009@gmail.com>
+Section: Utilities
+Tag: purpose::uikit
+Installed-Size: 9121
+dev: satashi2009
+Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./deb/com.tigisoftware.appdatamanager_1.8.2-5_iphoneos-arm64e.deb
+Size: 2476352
+MD5: f07d458037f18ff3326b03adf183be3a
+SHA1: b62f286c9b171f9eefc0f50652b437c9746c98f4
+SHA256: a51fa38e5b09458242926a417b8a8f640987c6b4e0beab1ae4d183a662e5e0b2
+SHA512: e60681f673e971e819de7c5ef6f3c9064daa805b0c6856489745972bc75da06ecffa3230e074298bbe256311cb1c4ab63636251ed1065ebc6f19a0ecddc418ea
+
 Package: com.squidforce.copyvault
 Name: CopyVault
 Description: Your Copy Vault, Your Pasteboard
