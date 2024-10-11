@@ -1,3 +1,21 @@
+Package: com.squidforce.copyvault
+Name: CopyVault
+Description: Your Copy Vault, Your Pasteboard
+Maintainer: SquidForce
+Author: SquidForce
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 1.5.8
+Installed-Size: 6664
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.squidforce.copyvault_1.5.8_iphoneos-arm64e.deb
+Size: 2067392
+MD5: e21fa6efbfe2d9ea4c205e0316f3643f
+SHA1: fbb28b0128f58895c174c2bb0817816292980d8c
+SHA256: e6bf844ceb867429c7d879302066583f59b988c4549323505c5ce52634fc987a
+SHA512: 003fd91515ebf1781902da61ba782cbc7c56e603360936a19c7df5c49108d49005a2d0e0af216aad54d097e543f9a22e3198c7554a487f3042f0a0fb88e8e7ad
+
 Package: xyz.cypwn.xinam1ne
 Maintainer: CyPwn
 Name: Xinam1ne RootHide
