@@ -16,7 +16,7 @@ Installed-Size: 9121
 dev: satashi2009
 Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./deb/com.tigisoftware.appdatamanager_1.8.2-5_iphoneos-arm64e.deb
+Filename: ./debs/com.tigisoftware.appdatamanager_1.8.2-5_iphoneos-arm64e.deb
 Size: 2476352
 MD5: f07d458037f18ff3326b03adf183be3a
 SHA1: b62f286c9b171f9eefc0f50652b437c9746c98f4
