@@ -16,6 +16,25 @@ SHA1: bbd661952261389aa0f6ed975d0be9664e15cf36
 SHA256: 62ef6180ec9105e180ead5ad790b385df9beea56476d5e30d2dba9d2414c5182
 SHA512: 951bdbf92fce976d4569803583cf80f85f39df6baef98ccd8eab459f8b58a0acec8e503b6dd70a4b961c92ce7a9f124dca32b6e661706bb3829caa894a5987ab
 
+Package: net.cadoth.nosbreload
+Name: NoSBReload
+Version: 0.1.1-1
+Architecture: iphoneos-arm64e
+Description: Replace sbreload with traditional respring to fix autofill issues
+Depiction: https://repo.alexia.lol/depictions/net.cadoth.nosbreload
+SileoDepiction: https://repo.alexia.lol/sileo-depictions/net.cadoth.nosbreload
+Maintainer: alexia <me@alexia.lol>
+Author: alexia <me@alexia.lol>
+Section: System
+Depends: firmware (>> 15.0)
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/net.cadoth.nosbreload_0.1.1-1_iphoneos-arm64e.deb
+Size: 3668
+MD5: adbe580525283f911d9b3c98529e94da
+SHA1: 56104c54540da5c36ab594048d9eb52f8d3d863b
+SHA256: 7fceead462b48cc00f913d7264da469aeb371915312f0662a2c576cd6384b899
+SHA512: af24e98c8eb986ec04ba930288974ee74141700fabc588ce5fe1d09cbf4290de33c8a25900bf4006f0a10dab45bfea39188fa4e63ca89ae039c6e0df007372cb
+
 Package: com.sparklechan.swifty
 Name: FridaCodeManager
 Version: 1.5.3
