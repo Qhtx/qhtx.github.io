@@ -1,3 +1,20 @@
+Package: xyz.cypwn.xinam1ne
+Maintainer: CyPwn
+Name: Xinam1ne RootHide
+Version: 2.6-8
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Description: not here
+Section: Utilities
+Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/xyz.cypwn.xinam1ne_roothide_2.6-8_iphoneos-arm64e.deb
+Size: 18656
+MD5: c49490898fa23bc5ed6f082448d24016
+SHA1: 35ec324f6a2576c5e41d792700490d34d11a568d
+SHA256: e26f19fa1ef3e51519635aee1b3d46274cc86215d8368f07038d18f6dc4c8116
+SHA512: f9b6f6ff74f377d06ddc9d0c772f823df4bcd2ec9d53cdbd568b72a48d4ac8bfefee5b80f57c744567ee44351ba7e59aa0cba6bdb37ee35f9eb35babdddedd6b
+
 Package: net.cadoth.nosbreload
 Name: NoSBReload
 Version: 0.1.1-1
