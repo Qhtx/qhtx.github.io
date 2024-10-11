@@ -1,23 +1,21 @@
 Package: com.sparklechan.swifty
+Name: FridaCodeManager
 Version: 1.5.3
 Architecture: iphoneos-arm64e
-Section: Utilities
-Maintainer: FCCT <ceo@polcom.de>
-Author: FCCT <ceo@polcom.de>
-Installed-Size: 9703
-Depends: curl, swift, zip, ldid, unzip, clang
-Conflicts: com.sparklechan.sparkkit
-Name: FridaCodeManager
 Description: Full fledged Xcode-like IDE for iOS
-Icon: https://img.chariz.cloud/icon/fridacodemanager/icon@3x.png
-Depiction: https://chariz.com/get/fridacodemanager
-Tag: role::hacker, compatible_min::ios15.0
+Depends: curl, swift, zip, ldid, unzip, clang
+Icon: https://raw.githubusercontent.com/fridakitten/FridaCodeManager/main/Blueprint/FridaCodeManager.app/AppIcon.png
+Conflicts: com.sparklechan.sparkkit
+Maintainer: FCCT
+Author: FCCT
+Section: Utilities
+Tag: role::hacker
+MD5: 10ea2845d7e09eda56dfe9ce0f7d0f1f
+SHA1: aacb42e0b343692e93e327430f145a45f9c737ee
+SHA256: 2fde10f91be4523ffb18e7f27507a8f563243ed134ef2c6a178df8a7467503d4
+SHA512: c08396f593553e71e8253b8e56c0391ecda3aa5e53ad6c2c30154b05e9fc878efa9186cfd6f4a52adcff3c3530bf4fff8e3576bdc51f1ad0050311364a0c6f95
 Filename: ./debs/com.sparklechan.swifty_1.5.3_iphoneos-arm64e.deb
-Size: 3170512
-MD5: 3711f3cc56dc2ebb57d29b75dd1cd008
-SHA1: 43850cb88d2552f0676b1c37bc7bef3c5bb5b6c4
-SHA256: da3d482e134d91e90761962bd51f0b30698b10bb075c40c0032705e77cc3f5a2
-SHA512: a933634681fb13e0a9eb046b8f11a0b2be5b7118df006d395d8cc832eca68d712738fb525ab4a05bee026bfdd3f57581f0934ae7d68a514b056b3285103efae8
+Size: 3171352
 
 Package: com.f0u4d.watusitools
 Name: WatusiTools
