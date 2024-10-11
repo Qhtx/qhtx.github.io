@@ -1,3 +1,38 @@
+Package: com.nightwind.sileorespringfix
+Name: SileoRespringFix
+Description: Changes "sbreload" in Sileo to "killall SpringBoard" to avoid a bug in Dopamine where a black screen happens.
+Maintainer: Nightwind
+Author: Nightwind
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Installed-Size: 168
+Filename: ./debs/com.nightwind.sileorespringfix_0.0.1_iphoneos-arm64.deb
+Size: 4592
+MD5: 53e6cbedc970d890ff64eac09bdc2f77
+SHA1: 65217ddacaf263794a52b533b1561f78e0895089
+SHA256: 57078f1d287b7e863d258009bdbd5a3d5386c9f703413e40b671b669149eb0eb
+SHA512: 4bdda7d66774e2a48e17034888841d7710f2230bce56f5821da6ec0093316bffb451fad46d020997dcdfa0817e552a0e22f66b65447dbc2d755d9b4b43e4c386
+
+Package: com.nightwind.sileorespringfix
+Name: SileoRespringFix
+Description: Changes "sbreload" in Sileo to "killall SpringBoard" to avoid a bug in Dopamine where a black screen happens.
+Maintainer: Nightwind
+Author: Nightwind
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.nightwind.sileorespringfix_0.0.1_iphoneos-arm64e.deb
+Size: 4812
+MD5: 05bc7c8076ed9cbd292b730b7c0a68e2
+SHA1: 3ec0806043a80084e31ad52d805acb09d641ad99
+SHA256: cc328baba8310f254fa6dfb076a79040d52b922df6298c0719a05c2fd404afa9
+SHA512: 5ff193b0be5ddea400534f3df8ee735065ecde5c1c950b721d8c67a715c67083c65e78df6f43e755bc1e2a3132be63f0bb7ffa76eae4b896478549b021bf9539
+
 Name: Apps Manager
 Package: com.tigisoftware.appdatamanager
 Priority: optional
