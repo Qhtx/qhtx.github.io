@@ -8,13 +8,13 @@ SileoDepiction: https://repo.alexia.lol/sileo-depictions/net.cadoth.nosbreload
 Maintainer: alexia <me@alexia.lol>
 Author: alexia <me@alexia.lol>
 Section: System
-Depends: firmware (<< 15.0)
-Filename: .debs/net.cadoth.nosbreload_0.1.1-1_iphoneos-arm64.deb
-Size: 3508
-MD5: fa2f720ca803b5bc7a8d2010485f4bc8
-SHA1: cf031ac6c2c7fa5a620b5d3ab4dd63601b911d8e
-SHA256: 68e15684293ea1b5d2fa53d452111b181b7f77a82d4c1777dc3b29c55dd2abad
-SHA512: ffdad51f10d510e96f749fd7ce079dc81d9d723aead8cb42b5c17407a202ec78323060b221a4e3ec0a589563c71cee67319d51cd2acd78570079363369283f3d
+Depends: firmware (>> 15.0)
+Filename: ./debs/net.cadoth.nosbreload_0.1.1-1_iphoneos-arm64.deb
+Size: 3504
+MD5: 898f20ecbfad05c86f068a014f2841fa
+SHA1: bbd661952261389aa0f6ed975d0be9664e15cf36
+SHA256: 62ef6180ec9105e180ead5ad790b385df9beea56476d5e30d2dba9d2414c5182
+SHA512: 951bdbf92fce976d4569803583cf80f85f39df6baef98ccd8eab459f8b58a0acec8e503b6dd70a4b961c92ce7a9f124dca32b6e661706bb3829caa894a5987ab
 
 Package: com.sparklechan.swifty
 Name: FridaCodeManager
