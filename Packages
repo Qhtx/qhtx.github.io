@@ -1,3 +1,24 @@
+Package: com.sparklechan.swifty
+Version: 1.5.3
+Architecture: iphoneos-arm64e
+Section: Utilities
+Maintainer: FCCT <ceo@polcom.de>
+Author: FCCT <ceo@polcom.de>
+Installed-Size: 9703
+Depends: curl, swift, zip, ldid, unzip, clang
+Conflicts: com.sparklechan.sparkkit
+Name: FridaCodeManager
+Description: Full fledged Xcode-like IDE for iOS
+Icon: https://img.chariz.cloud/icon/fridacodemanager/icon@3x.png
+Depiction: https://chariz.com/get/fridacodemanager
+Tag: role::hacker, compatible_min::ios15.0
+Filename: ./debs/com.sparklechan.swifty_1.5.3_iphoneos-arm64e.deb
+Size: 3170512
+MD5: 3711f3cc56dc2ebb57d29b75dd1cd008
+SHA1: 43850cb88d2552f0676b1c37bc7bef3c5bb5b6c4
+SHA256: da3d482e134d91e90761962bd51f0b30698b10bb075c40c0032705e77cc3f5a2
+SHA512: a933634681fb13e0a9eb046b8f11a0b2be5b7118df006d395d8cc832eca68d712738fb525ab4a05bee026bfdd3f57581f0934ae7d68a514b056b3285103efae8
+
 Package: com.f0u4d.watusitools
 Name: WatusiTools
 Version: 2.4.38
