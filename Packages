@@ -1,3 +1,20 @@
+Package: netskao.appdata-rootless
+Version: 1.4.1
+Description: View & Manage Applications Data from your Home Screen & downgrade
+Maintainer: Nets
+Installed-Size: 23032
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Author: Fouad Raheb
+Name: AppData-Rootless
+Architecture: iphoneos-arm64
+Section: Tweaks
+Filename: ./debs/netskao.appdata-rootless_1.4.1_iphoneos-arm64.deb
+Size: 5072808
+MD5: dc4ef27d60fdbac908773332832c3554
+SHA1: 2ec0bbbe6b576fc2bd90b484d3e52cd6fc4475d3
+SHA256: 100c013eeddb7c4362f929b8deb8396e84cc5f0d5bf4817208c477816e752425
+SHA512: 175b4eb894dc9b737750a5296dbb7c12101a7037a1689032d39240ae04050bafcc18205e85807540b07ac0fefd88fbaa5de408d096677f6d5716dcd1ef62c714
+
 Package: com.ps.batteryhealthenabler
 Name: Battery Health Enabler
 Description: Enable Battery Health on unsupported devices.
