@@ -15,26 +15,6 @@ SHA1: 2ec0bbbe6b576fc2bd90b484d3e52cd6fc4475d3
 SHA256: 100c013eeddb7c4362f929b8deb8396e84cc5f0d5bf4817208c477816e752425
 SHA512: 175b4eb894dc9b737750a5296dbb7c12101a7037a1689032d39240ae04050bafcc18205e85807540b07ac0fefd88fbaa5de408d096677f6d5716dcd1ef62c714
 
-Package: com.ps.batteryhealthenabler
-Name: Battery Health Enabler
-Description: Enable Battery Health on unsupported devices.
-Maintainer: PoomSmart
-Author: PoomSmart
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
-Depiction: https://poomsmart.github.io/repo/depictions/batteryhealthenabler.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/batteryhealthenabler.json
-Architecture: iphoneos-arm64e
-Version: 1.0.0
-Installed-Size: 152
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.ps.batteryhealthenabler_1.0.0_iphoneos-arm64e.deb
-Size: 5444
-MD5: b226f3d79c0d8b497b9b32b24ec6aa94
-SHA1: 1292dc339333dcfc2bd927c87117e2289efef848
-SHA256: e03bf79a37d21b0a71d6a551b0777b2c70c710c0070cf5cfd2a30c286bfb8ec9
-SHA512: 98681c5fe9e3f8d7adad60c524de52fc668d4b66a32bf562410d2da68f2308912a7e5fda5438e2615eb10c15e1633eb91f79cf78771e9dd0f40e6b4b1bf8be2a
-
 Package: com.nightwind.sileorespringfix
 Name: SileoRespringFix
 Description: Changes "sbreload" in Sileo to "killall SpringBoard" to avoid a bug in Dopamine where a black screen happens.
@@ -51,84 +31,6 @@ MD5: 53e6cbedc970d890ff64eac09bdc2f77
 SHA1: 65217ddacaf263794a52b533b1561f78e0895089
 SHA256: 57078f1d287b7e863d258009bdbd5a3d5386c9f703413e40b671b669149eb0eb
 SHA512: 4bdda7d66774e2a48e17034888841d7710f2230bce56f5821da6ec0093316bffb451fad46d020997dcdfa0817e552a0e22f66b65447dbc2d755d9b4b43e4c386
-
-Package: com.nightwind.sileorespringfix
-Name: SileoRespringFix
-Description: Changes "sbreload" in Sileo to "killall SpringBoard" to avoid a bug in Dopamine where a black screen happens.
-Maintainer: Nightwind
-Author: Nightwind
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm64e
-Version: 0.0.1
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.nightwind.sileorespringfix_0.0.1_iphoneos-arm64e.deb
-Size: 4812
-MD5: 05bc7c8076ed9cbd292b730b7c0a68e2
-SHA1: 3ec0806043a80084e31ad52d805acb09d641ad99
-SHA256: cc328baba8310f254fa6dfb076a79040d52b922df6298c0719a05c2fd404afa9
-SHA512: 5ff193b0be5ddea400534f3df8ee735065ecde5c1c950b721d8c67a715c67083c65e78df6f43e755bc1e2a3132be63f0bb7ffa76eae4b896478549b021bf9539
-
-Name: Apps Manager
-Package: com.tigisoftware.appdatamanager
-Priority: optional
-Depends: firmware (>= 7.0), ldid
-Version: 1.8.2-5
-Architecture: iphoneos-arm64e
-Description: Tool to WIPE, BACKUP, RESTORE AppData for installed Apps
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Author: TIGI Software <satashi2009@gmail.com>
-Section: Utilities
-Tag: purpose::uikit
-Installed-Size: 9121
-dev: satashi2009
-Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.tigisoftware.appdatamanager_1.8.2-5_iphoneos-arm64e.deb
-Size: 2476352
-MD5: f07d458037f18ff3326b03adf183be3a
-SHA1: b62f286c9b171f9eefc0f50652b437c9746c98f4
-SHA256: a51fa38e5b09458242926a417b8a8f640987c6b4e0beab1ae4d183a662e5e0b2
-SHA512: e60681f673e971e819de7c5ef6f3c9064daa805b0c6856489745972bc75da06ecffa3230e074298bbe256311cb1c4ab63636251ed1065ebc6f19a0ecddc418ea
-
-Package: com.squidforce.copyvault
-Name: CopyVault
-Description: Your Copy Vault, Your Pasteboard
-Maintainer: SquidForce
-Author: SquidForce
-Section: Tweaks
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Architecture: iphoneos-arm64e
-Version: 1.5.8
-Installed-Size: 6664
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.squidforce.copyvault_1.5.8_iphoneos-arm64e.deb
-Size: 2067392
-MD5: e21fa6efbfe2d9ea4c205e0316f3643f
-SHA1: fbb28b0128f58895c174c2bb0817816292980d8c
-SHA256: e6bf844ceb867429c7d879302066583f59b988c4549323505c5ce52634fc987a
-SHA512: 003fd91515ebf1781902da61ba782cbc7c56e603360936a19c7df5c49108d49005a2d0e0af216aad54d097e543f9a22e3198c7554a487f3042f0a0fb88e8e7ad
-
-Package: xyz.cypwn.xinam1ne
-Maintainer: CyPwn
-Name: Xinam1ne RootHide
-Version: 2.6-8
-Architecture: iphoneos-arm64e
-Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Description: not here
-Section: Utilities
-Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/xyz.cypwn.xinam1ne_roothide_2.6-8_iphoneos-arm64e.deb
-Size: 18656
-MD5: c49490898fa23bc5ed6f082448d24016
-SHA1: 35ec324f6a2576c5e41d792700490d34d11a568d
-SHA256: e26f19fa1ef3e51519635aee1b3d46274cc86215d8368f07038d18f6dc4c8116
-SHA512: f9b6f6ff74f377d06ddc9d0c772f823df4bcd2ec9d53cdbd568b72a48d4ac8bfefee5b80f57c744567ee44351ba7e59aa0cba6bdb37ee35f9eb35babdddedd6b
 
 Package: net.cadoth.nosbreload
 Name: NoSBReload
@@ -147,121 +49,6 @@ MD5: 898f20ecbfad05c86f068a014f2841fa
 SHA1: bbd661952261389aa0f6ed975d0be9664e15cf36
 SHA256: 62ef6180ec9105e180ead5ad790b385df9beea56476d5e30d2dba9d2414c5182
 SHA512: 951bdbf92fce976d4569803583cf80f85f39df6baef98ccd8eab459f8b58a0acec8e503b6dd70a4b961c92ce7a9f124dca32b6e661706bb3829caa894a5987ab
-
-Package: net.cadoth.nosbreload
-Name: NoSBReload
-Version: 0.1.1-1
-Architecture: iphoneos-arm64e
-Description: Replace sbreload with traditional respring to fix autofill issues
-Depiction: https://repo.alexia.lol/depictions/net.cadoth.nosbreload
-SileoDepiction: https://repo.alexia.lol/sileo-depictions/net.cadoth.nosbreload
-Maintainer: alexia <me@alexia.lol>
-Author: alexia <me@alexia.lol>
-Section: System
-Depends: firmware (>> 15.0)
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/net.cadoth.nosbreload_0.1.1-1_iphoneos-arm64e.deb
-Size: 3668
-MD5: adbe580525283f911d9b3c98529e94da
-SHA1: 56104c54540da5c36ab594048d9eb52f8d3d863b
-SHA256: 7fceead462b48cc00f913d7264da469aeb371915312f0662a2c576cd6384b899
-SHA512: af24e98c8eb986ec04ba930288974ee74141700fabc588ce5fe1d09cbf4290de33c8a25900bf4006f0a10dab45bfea39188fa4e63ca89ae039c6e0df007372cb
-
-Package: com.sparklechan.swifty
-Name: FridaCodeManager
-Version: 1.5.3
-Architecture: iphoneos-arm64e
-Description: Full fledged Xcode-like IDE for iOS
-Depends: curl, swift, zip, ldid, unzip, clang
-Icon: https://raw.githubusercontent.com/fridakitten/FridaCodeManager/main/Blueprint/FridaCodeManager.app/AppIcon.png
-Conflicts: com.sparklechan.sparkkit
-Maintainer: FCCT
-Author: FCCT
-Section: Utilities
-Tag: role::hacker
-MD5: 10ea2845d7e09eda56dfe9ce0f7d0f1f
-SHA1: aacb42e0b343692e93e327430f145a45f9c737ee
-SHA256: 2fde10f91be4523ffb18e7f27507a8f563243ed134ef2c6a178df8a7467503d4
-SHA512: c08396f593553e71e8253b8e56c0391ecda3aa5e53ad6c2c30154b05e9fc878efa9186cfd6f4a52adcff3c3530bf4fff8e3576bdc51f1ad0050311364a0c6f95
-Filename: ./debs/com.sparklechan.swifty_1.5.3_iphoneos-arm64e.deb
-Size: 3171352
-
-Package: com.f0u4d.watusitools
-Name: WatusiTools
-Version: 2.4.38
-Description: Library for Watusi, Regram and other tweaks
-Depends: firmware (>= 15.0)
-Section: Development
-Architecture: iphoneos-arm64e
-Author: Fouad Raheb <support@fouadraheb.com>
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-Pre-Depends: rootless-compat(>= 0.9)
-MD5: 7e071f24afd356ed9b49397c1a98d02e
-SHA1: dd2be399634e20f225ecc8d5ff38efca8c01efe7
-SHA256: b6f6ec148793e4451040b02833a1dc62e7050fdbaee6bcb91214769910e8e8bd
-SHA512: c352bd4bc415320098d165cb476fd1a938fc40d3433cde6323427bd16db13323a2075d7b985339a2fd064cd00e733e9608c23cb32548929b632406f01420acf6
-Filename: ./debs/com.f0u4d.watusitools_2.4.38_iphoneos-arm64e.deb
-Size: 4500712
-
-Package: com.fouadraheb.regram
-Name: Regram for Instagram
-Description: The all-in-one tweak for Instagram
-Section: Tweaks
-Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.34)
-Author: Fouad Raheb <support@fouadraheb.com>
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
-Architecture: iphoneos-arm64e
-Version: 1.0~b11
-Installed-Size: 6092
-Pre-Depends: rootless-compat(>= 0.9)
-Size: 1304060
-Filename: ./debs/com.fouadraheb.regram_1.0~b11_iphoneos-arm64e.deb
-MD5: 9e04ccda3eb6fb961220c54088ca62b9
-SHA1: b8a4347afda206c2a7977fdd38f2126c4621cb09
-SHA256: 62156caf9deebd90e8bac5ad9061d1fa9babdd4b2f131542d99eff4ed6d76278
-SHA512: d6dcc2e7b25c7fad455295bb7e9d59c568b39db661a2b30bc3749041dd92590c99c6fb8e58a39a779f634eec5c3c823ea080e0ffe8bb0ef4b5a53b0b65b567d8
-
-Package: com.jaxroth.supporttheunsupportedrevived
-Name: SupportTheUnsupported Revived
-Version: 1.0.0
-Section: Tweaks
-Architecture: iphoneos-arm64e
-Depends: mobilesubstrate
-Installed-Size: 136
-Author: Jax Roth
-Maintainer: Jax Roth
-Description: Allows iPhones to use “unsupported” charging accessories
-Pre-Depends: rootless-compat(>= 0.9)
-MD5: 3310ef7893e267300fe6d39b65214934
-SHA1: 25818704dba366db49a3d0559db252413b6776ec
-SHA256: c0252f9bec7ce4742cec0cb3041d053c90352cebe0e505ca5eb3f4d125a36cbe
-SHA512: 667770546bb3bbd355d4d76b7699dfaf56bc7048cdd6e0a83f8e59d3f8ab14a39a8db765936dc012d567b296675ac464bfaf4d4d1fa04767b9c33567baa23bce
-Filename: ./debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_iphoneos-arm64e.deb
-Size: 4840
-
-Package: com.kdt.trollpad
-Name: TrollPad
-Description: Troll SpringBoard into thinking it's running on iPadOS.
-Maintainer: khanhduytran0
-Author: khanhduytran0
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
-Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
-SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
-Architecture: iphoneos-arm64e
-Version: 1.3
-Installed-Size: 536
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.kdt.trollpad_1.3_iphoneos-arm64e.deb
-Size: 22664
-MD5: 68c2c84bdbb1435b4c104d48051453f2
-SHA1: c64f9c0d2c1c6a7cca4c0df991cdd338d6dde84a
-SHA256: 8257cf6cbe74ecf0b2b2b987003c1a23acba687468aab4649092cee25e16b5dc
-SHA512: 4aeeca16fface2a29e497a6486d7f5ea5d798d28fcc3de844a1dfc61095a0f3275ca5a1de6052259b82a791f62a6620250200e532e44fd5a032210b194566b1f
 
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
@@ -301,75 +88,6 @@ SHA256: 327bacaeb58322544722c07c96a5d50b7bbdcc7f2506245b823117c97d3833a8
 SHA512: fb4b5c1084dce6ae82c2576faff246546901295aba21270dee2f5b2dd81a99e04b41717239c788691b7b763979df3d26dad5b07a0ceaec9ed7235841e3c50676
 Icon: https://media.havoc.app/620c0c7c24c5820cc9bc0776?w=1920&q=75
 
-Package: com.jontelang.snapper3
-Architecture: iphoneos-arm64e
-Version: 1.2.1
-Section: Tweaks
-Installed-Size: 4148
-Description: Pin screenshots on the screen.
-Name: Snapper 3
-Author: Jonathan Winger-lang
-Maintainer: Jonathan Winger-lang
-Depends: mobilesubstrate, firmware(>=15.0), preferenceloader
-Filename: ./debs/com.jontelang.snapper3_1.2.1_iphoneos-arm64e.deb
-Size: 1023976
-MD5: fd9f02fd129b2ad60e439b08a9f55328
-SHA1: 3c153216be1c8918ace9f871c05e4bbd38bdd014
-SHA256: 7ce5306dd192d46fcea0719738ff2d2d8ffc69c70b7adfdb5fbdb8bb41bfa6a8
-SHA512: a3a67b67468f7080e134dd5f2618b863c307d85b13966c9516ae1530b7c6e797d513b3003b6dca6a31053bd4e59d3908afd574ceefca5bb1e7cb5033d7e75e72
-
-Package: com.squidforce.copyvault
-Architecture: iphoneos-arm64e
-Version: 1.5.6
-Section: Tweaks
-Maintainer: SquidForce
-Installed-Size: 7360
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Filename: ./debs/com.squidforce.copyvault_1.5.6_iphoneos-arm64e.deb
-Size: 2267248
-MD5: 57a55f4916d87b70b17ac919e34a1d9c
-SHA1: c08d5744dde31702139c0243c3f7dc4ba64d9404
-SHA256: a94d2aff82acf83e2ee11b1a12eaeb16590c8f40f04caff8f0697e07fb75a097
-SHA512: 752eedd0fb9108852865c9aae284f6f702006c0fe639593acd8ff071f74aa8fcc9fb8d55f614edda1a5f1495362209686be5be9be3be0c2ceb17a8fd60eed9d6
-Description: Your Copy Vault, Your Pasteboard
-Name: CopyVault
-Author: SquidForce
-Icon: https://i.imgur.com/sfFuIVt.jpeg
-
-Package: com.muirey03.cr4shed
-Architecture: iphoneos-arm64e
-Version: 4.3.1-1+debug
-Section: Tweaks
-Maintainer: Muirey03
-Installed-Size: 2356
-Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid, cm90.crossoveripc, com.cokepokes.libnotifications
-Filename: ./debs/com.muirey03.cr4shed_4.3.1-1+debug_iphoneos-arm64e.deb
-Size: 211468
-MD5: 0b56c44a59d088214ea586085298deb8
-SHA1: eab69cc49769b908147516498c06e3ab1160397c
-SHA256: 66de45c83893f92e3163dd5b2f0d65fa218d4f820e5191ef31548dd8c99d3818
-SHA512: d588da0e380ef99f8504eb768bd0ecc19b3128f609deae86be203ab40167c94bbde4805f7ca21d71588f7d173c0ff078a8f49b21333fbd4b1491d2c60a21b728
-Description: A modern crash reporter for iOS
-Name: Cr4shed
-Author: Muirey03
-
-Package: com.cokepokes.libnotifications
-Architecture: iphoneos-arm64e
-Version: 0.3-6-1+debug
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 416
-Depends: firmware (>= 8.0), com.opa334.libsandy, cm90.crossoveripc
-Filename: ./debs/com.cokepokes.libnotifications_0.3-6-1+debug_iphoneos-arm64e.deb
-Size: 16700
-MD5: 4a5cf884d8997daa47553b3ed8475c2b
-SHA1: 72ebf69361a9cc528884fe72ee65a5b698a45ec9
-SHA256: 16b196ff2edaef6140982661af68928b9c76a01c60816c651491391e58d784de
-SHA512: 7745ddb26369cdcbd9047d2a73d154677235439216601c6d520053160793ff054d499cad0023ebab8a6d8594412ea3e9915be5d9a8c920c308f3c8c9fd976771
-Description: App notification library.
-Name: libnotifications
-Author: CokePokes <cokepokes@gmail.com>
-
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64
 Version: 1.2.40
@@ -383,23 +101,6 @@ MD5sum: 8d072e47c518e012d58853c640227fa8
 SHA1: e0a73bf9db725d6d250ac9d533ae18b6541f2cdc
 SHA256: 2ecb8465b933b1d53bed59384823a32ca92f138fc0e643a553f33ac8c91230f9
 SHA512: 7cdeed9dc943b94b1edb5028316fc0f345a2193e020dd9bbbbfe09f6d0711ef209b7c170c4ef6f1bfd20e328e3628d3652893c4bc1326c68d46b39e7378870ff
-Description: The all-in-one tweak for WhatsApp Messenger
-Name: Watusi 3 for WhatsApp
-Author: Fouad Raheb <support@fouadraheb.com>
-
-Package: com.fouadraheb.watusi3
-Architecture: iphoneos-arm64e
-Version: 1.2.40
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6660
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.33)
-Filename: ./debs/com.fouadraheb.watusi3_1.2.40_iphoneos-arm64e.deb
-Size: 1955832
-MD5sum: c746bfa8e5560d2176a92f365ac14be7
-SHA1: 4604f9c5e9f9e0db896233e0811857943aa5e2d8
-SHA256: d7ae51aef9644799680257bb8c15fb7d566906add04393145cf6a7e38cdf68ff
-SHA512: 8374267604af60728d4d4d2e64389ca57e477cfe4b43d22cf202a5945ea52c2b3f5f3606b0efcd4679e4704f75b13268a8374ddc24b4ced8886d46a62ef45030
 Description: The all-in-one tweak for WhatsApp Messenger
 Name: Watusi 3 for WhatsApp
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -420,22 +121,6 @@ Description: Library for Watusi and WhatsApp tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 
-Package: com.f0u4d.watusitools
-Architecture: iphoneos-arm64e
-Version: 2.4.34
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depends: firmware (>= 12.0)
-Filename: ./debs/com.f0u4d.watusitools_2.4.34_iphoneos-arm64e.deb
-Size: 4493824
-MD5sum: 93e4e6c43d31e96d4d9f007d1c89345d
-SHA1: 961a303b87a30437f4fe5dd068708e4ba5d742bd
-SHA256: eb6c96937367691827f0ea9f82095c6cf75e3abcc062d0c45ba9eb7bd3983671
-SHA512: 0ca3bbea0a5e857cf53e4b737676a1d4df469d1e19ba2a2c2fb140351b1a6e56555198b6f255a268b2d22abccad0c1e1cbd30ace26d39f3ce143d2e2efac8246
-Description: Library for Watusi and WhatsApp tweaks
-Name: WatusiTools
-Author: Fouad Raheb <support@fouadraheb.com>
-
 Package: xyz.xninja.systeminfo
 Architecture: iphoneos-arm64
 Version: 2.7.2-2
@@ -452,22 +137,6 @@ Description: System information in Settings app > General > About, and other sec
 Name: System Info
 Author: ARX8x
 
-Package: xyz.xninja.systeminfo
-Architecture: iphoneos-arm64e
-Version: 2.7.2-2
-Section: Tweaks
-Maintainer: ARX8x
-Depends: mobilesubstrate, oldabi
-Filename: ./debs/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64e.deb
-Size: 267968
-MD5sum: ed0b36813c4f48a9ffee1034941d62cc
-SHA1: 7ce269175c67b9b49e8481c7240ed406ea366726
-SHA256: a59b9dd95a98f11c1eb54074139774a30856658846754c0a056d2d36decc4531
-SHA512: 86c0c8a38e9af7c2ec9db7512e414c9685f8c67b0df8e55514fc1bf999b8d990e0ac1e449d0213f615133138f573348fbf925bdc71505a845d780d43306194dc
-Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
-Name: System Info
-Author: ARX8x
-
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64
 Version: 7.10.0
@@ -480,23 +149,6 @@ MD5sum: c950ece914ac3d0a4a6f0d04a7980436
 SHA1: 7f4d6b746a08222982813cc75126f0d99924fd4b
 SHA256: 705f284ff797d6f9815c86674a362092c8f6dcaa9a3ab7bd86b67633c321dd4a
 SHA512: ee2b848f120d56badf93bf626a7339ec75bd7729cf797e23f42b2721d50064c724f664186dd82e2313ac726ee7ca4580362198cc7b49fe6c6e6cd9d920bec0a5
-Description: The first real iOS system cleanup and management utility
-Name: iCleaner Pro
-Author: Ivano Bilenchi <support@ib-soft.net>
-icon: https://i.imgur.com/zn3sQw9.jpeg
-
-Package: com.exile90.icleanerpro
-Architecture: iphoneos-arm64e
-Version: 7.10.0
-Section: Tweaks
-Maintainer: Ivano Bilenchi <support@ib-soft.net>
-Depends: firmware (>= 15.0), findutils, apt | apt7
-Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e.deb
-Size: 1086808
-MD5sum: 21bf479297df73458a83123bf608a2e2
-SHA1: e8545b4a80ac3c860d024e3a90ab12bce754c23f
-SHA256: 667ffaa8ae3ab390aa122f44915254d57862b23f74cf6c60e7e0871965bd3800
-SHA512: 45d054f476e6ceaebb9a1627dcc37c5f7bbc0fcb0f981869dbadb01ef43775af0a2f1869028934716a515564004586d0f986a1b8dfde0a6ede7ffe60ed5e3592
 Description: The first real iOS system cleanup and management utility
 Name: iCleaner Pro
 Author: Ivano Bilenchi <support@ib-soft.net>
@@ -521,25 +173,6 @@ Author: zqbb
 Icon: https://i.imgur.com/f17XlCC.jpeg
 SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/stopapps.json
 
-Package: zp.stopautolaunchapps
-Architecture: iphoneos-arm64e
-Version: 2.0
-Section: Tweaks
-Maintainer: Hitori
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/zp.stopautolaunchapps_2.0_iphoneos-arm64e.deb
-Size: 3532
-MD5sum: 6874067e2eaedb7bbbf3f70907b1e3c6
-SHA1: 152007f0f7cf1e1dbf63a6181aa276328eba4b1f
-SHA256: 30fbc2f587193233df83e6c4f0bc15213956cdc8de0dbd9c2606c0dc4e448285
-SHA512: 1e48e0bd86bc3fb4acbbb87bd65e966a19ce46ec4996ed8820a8dc774f1b366969a17370ea62d1e9aa33ed5ea27c521c3c9c4c2671a0b9d762ca4b3cbd6c5e15
-Description: Stop Auto Launch Apps
-Name: StopAutoLaunchApps
-Author: zqbb
-Icon: https://i.imgur.com/f17XlCC.jpeg
-SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/stopapps.json
-
 Package: com.nightwind.lockbuttonx
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -553,24 +186,6 @@ MD5sum: aed631efa5bc37bea8aba1bf65baee15
 SHA1: a37b5b41570ced39e8f8a7334a65ad779a736220
 SHA256: 43473d4a7eecdc8e21b22cc8cd3ede6166f3d56f1144bca6b54347610e06a65a
 SHA512: 98d41b01af9440d9049ef5c5f13271b46ea8bf9dce68a87e481f652bb43c6bbf158a947678b967b74e4bced7ecd29079e036300e74c71d8ac4e4459ab89b8516
-Description: Simple tweak to remap the long press of the power button on notched devices to the power menu instead of Siri.
-Name: LockButtonX
-Author: Nightwind
-Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
-
-Package: com.nightwind.lockbuttonx
-Architecture: iphoneos-arm64e
-Version: 0.0.1
-Section: Tweaks
-Maintainer: Nightwind
-Installed-Size: 164
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.nightwind.lockbuttonx_0.0.1_iphoneos-arm64e.deb
-Size: 17804
-MD5sum: b277b0d66814d3a6016048b94da854f9
-SHA1: f01fe546b1222a10c4a04a6b112e31477bda31db
-SHA256: 15f70910ed6d8dbc23c207a0b0b54a766c0c6fdb165a34ef51e3e5b120e28558
-SHA512: c29584e2b7a450cdd579a1466f863883c1548e4a350dd0f5454c77194a3910bcafe5f6a2690bb43184333b1a9011b0dfe1b36db1f9a2aca92ace4e51af29cbc7
 Description: Simple tweak to remap the long press of the power button on notched devices to the power menu instead of Siri.
 Name: LockButtonX
 Author: Nightwind
@@ -611,23 +226,6 @@ Name: GoodWiFi
 Author: julioverne
 Icon: https://i.imgur.com/vqSvHq8.jpeg
 
-Package: com.julioverne.goodwifi
-Architecture: iphoneos-arm64e
-Version: 0.0~beta6
-Section: Tweaks
-Maintainer: Julio
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64e.deb
-Size: 74916
-MD5sum: 632f424992aee393b55890c42ad91ef3
-SHA1: 07b4eb5e38de1788c8129d98d8468eb86bf357f8
-SHA256: af4644b3c47434ef2bd15e9100432b75e9723c1c504e84f8c548b401caffa40c
-SHA512: 774e06c7e1969b1aa8ddf4e76b5bd611bfbd414d14c93eaff1e1c2cc4e3cad3315e1e2c7bf3fa9df40dd7e145e4ddc38c2cc8cfb6d5424962e073caa0b9af177
-Description: Better WiFi Preferences
-Name: GoodWiFi
-Author: julioverne
-Icon: https://i.imgur.com/vqSvHq8.jpeg
-
 Package: com.dvntm.safariii
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -641,24 +239,6 @@ MD5sum: 8e865c406486e63ad3f69a43c057b497
 SHA1: 2ae1b2ff2e1bda54b2e4590eae12195ccd0a1e00
 SHA256: a7ac9292c2414b6edb54a440b822660d0b421c7a93d75288c52834d73abebfd0
 SHA512: 7ab2079ec745f177edb0a949b3a4bca8563d9786b805ce98af4d737c7ebb47c41af329f4f51287bf1a75a16c456f6c62f79c1c4e21fc81f1cc3bcc4567f82433
-Description: Displays menu buttons on startup page in Safari for iOS15+
-Name: Safariii
-Author: dvntm
-Icon: https://i.imgur.com/PUe8T84.jpeg
-
-Package: com.dvntm.safariii
-Architecture: iphoneos-arm64e
-Version: 0.0.1
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.safariii_0.0.1_iphoneos-arm64e.deb
-Size: 2800
-MD5sum: efd79bde9da976d9d4a4b29b3ef10c15
-SHA1: 4ddadaa4b69833af20fa4851eb911b3edcf54b09
-SHA256: 45bde2478ea8571a423cad851647c6f9d76f2251f3a665b104ffc45d67d91be8
-SHA512: db9e6ad3365ebf3abcfa052bc3d88d55d30fae09df24b3d61fdcb8594085900672fc0269fe7782b8b4c007836000e99373154e99b05a9d7cc34d7a3b0e3fe88e
 Description: Displays menu buttons on startup page in Safari for iOS15+
 Name: Safariii
 Author: dvntm
@@ -681,23 +261,6 @@ Description: Allow installing unsigned profiles with the ability to write global
 Name: TrustEvaluator
 Author: daniel
 
-Package: daniel.trustevaluator
-Architecture: iphoneos-arm64e
-Version: 0.0.1
-Section: Tweaks
-Maintainer: daniel
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/daniel.trustevaluator_0.0.1_iphoneos-arm64e.deb
-Size: 2932
-MD5sum: 68a1a5c5dd84bdc632f5b024c8ebec3a
-SHA1: c405e56821cefb6bdfa9a47d73ee3ace692f0c20
-SHA256: f07f2caad3797a0c0304d59ab9cf21c91da010a9e670b162280d23582da7aea2
-SHA512: 4e12b59e17f6a0ddc961a8756285aacf1eed1fca7bb13f5ed53ba97eb4166e04c6f11f66ea2f86b71218eded42f178c870955ce8ad6b75ca74c362ac49b957db
-Description: Allow installing unsigned profiles with the ability to write global defaults.
-Name: TrustEvaluator
-Author: daniel
-
 Package: com.bandarhl.bhtiktok
 Architecture: iphoneos-arm64
 Version: 2.3
@@ -711,25 +274,6 @@ MD5sum: 73df7fc61cf3d70ea5cc809dd4dda5b8
 SHA1: 40866ca3b1e80515c35131e863cd5a9b2c36aaf1
 SHA256: a97a6cffff7060b49a48e4e04ba8c942276b0d71ed2c04f6f77fb6a598ae258f
 SHA512: 8a89b83623923eadd2a4e012838cbfa89f57c52ecc988e743f08c07537f7a8adc30575ea18e0e6b1d566f84ec2f3e9db059a13d64cef19eb106a748d0ab671f7
-Description: An awesome tweak for TikTok!
-Name: BHTikTok Plus
-Author: dvntm
-Icon: https://i.imgur.com/Pyp3fg8.jpeg
-SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/test.json
-
-Package: com.bandarhl.bhtiktok
-Architecture: iphoneos-arm64e
-Version: 2.3
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 1480
-Depends: mobilesubstrate
-Filename: ./debs/com.bandarhl.bhtiktok_2.3_iphoneos-arm64e.deb
-Size: 475816
-MD5sum: c18fae2c85029bdb6595631972536c02
-SHA1: d47b12fdd66f9ef077118836f75b8972192e6245
-SHA256: 656163e0a8aa1eedd39dcd4773d3bd4f4e273824619b119c73c3f0ff1210359c
-SHA512: f61508c569a94d473ae19be26823a7d0e3de2090b07a321c488cf08fb82566755c86c7413274e0ae92549bb32a70bd7e738d0dd313231497d5034b8b947b1140
 Description: An awesome tweak for TikTok!
 Name: BHTikTok Plus
 Author: dvntm
@@ -754,24 +298,6 @@ Name: DisableRTL
 Author: @iMokhles
 SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/DisableRTL.json
 
-Package: com.imokhles.disablertl
-Architecture: iphoneos-arm64e
-Version: 0.0.1-3+debug
-Section: Tweaks
-Maintainer: @iMokhles
-Installed-Size: 200
-Depends: mobilesubstrate
-Filename: ./debs/com.imokhles.disablertl_0.0.1-3+debug_iphoneos-arm64e.deb
-Size: 4528 
-MD5sum: 6e782965ba475d73d922eb4d68765caa
-SHA1: a98eddcc98085b166539667d11bbcd85ff833f3f
-SHA256: 0ad31d96793ffe34414d2d3d1bb74763e1beba0567fe5de8833d4161c6c590ff
-SHA512: f5c8325ba2bf0b9b9f84b5af4e98c8dcd5ee72097a76c3b7a4640a64c4ed51fb5d013cebae9acec9fb84ad2a0b4e6b07752e4ed205ab76fcd55866fee46624e4
-Description: Disable right-to-left languages across the system!
-Name: DisableRTL
-Author: @iMokhles
-SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/DisableRTL.json
-
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64
 Version: 4.3-5+debug
@@ -785,25 +311,6 @@ MD5sum: 521401c94c1bd3ab19a4dd0370cd875a
 SHA1: 127818d49a063faf60a45f8a7d530c3851ec0277
 SHA256: aa05d2d082f86b56e493bc5a731c7993da6160c23066f6ee416918dae08cef32
 SHA512: a2dcf16f431838ffd9330c316e889699969249d1c5350f5d68f005708abda8c735cbc11cc17e683c8550937493da16a016d10972f75419d291ea804499503fa4
-Description: An awesome tweak for Twitter!
-Name: BHTwitter
-Author: Bandar Alruwaili
-Icon: https://i.imgur.com/6nCH3FE.jpeg
-SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/BHTwitter.json
-
-Package: com.bandarhl.bhtwitter
-Architecture: iphoneos-arm64e
-Version: 4.3-5+debug
-Section: Tweaks
-Maintainer: Bandar Alruwaili
-Installed-Size: 6292
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/com.bandarhl.bhtwitter_4.3-5+debug_iphoneos-arm64e.deb
-Size: 1030076
-MD5sum: 86869c6c3d139d3cca0c58aad54c8a81
-SHA1: e92b3da1a5b6c3579dae1de460b773c45279890a
-SHA256: f920f0d6235934a8c565d9859bda29d50a9774c74b730653e18257d7a268f273
-SHA512: 581dbf8a3ac1d4db2a022f4d188fe1a6379670b773cc9e82bf7307728b1bf567ca581582ab92b496ede000a678479dc3f6d63fa00c41cdc590fbfe6edf3d2045
 Description: An awesome tweak for Twitter!
 Name: BHTwitter
 Author: Bandar Alruwaili
@@ -829,25 +336,6 @@ Author: Bandar Alruwaili
 Icon: https://i.imgur.com/lg6zKtD.jpeg
 SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/BHInsta.json
 
-Package: com.bandarhl.bhinsta
-Architecture: iphoneos-arm64e
-Version: 1.0.3
-Section: Tweaks
-Maintainer: Bandar Alruwaili
-Installed-Size: 648
-Depends: mobilesubstrate
-Filename: ./debs/com.bandarhl.bhinsta_1.0.3_iphoneos-arm64e.deb
-Size: 160808
-MD5sum: 1b0cca1b3cd53f93ab8ccffdce2156ab
-SHA1: 4414b566f3a5f9e19e484246a23f44a2ddeaabbe
-SHA256: c3fad74eed7e13d7cf4c06679daa3ddad7bdfbbfb76d5b7f65e3609588ed366d
-SHA512: b2677f0bafa005e14d0ddc39d39d19eff8e253e53efd2516a40b34f5c8f99403511dd5fdb0e7e977da5677a272ea2db49364b51de9ff303181f60df629ab6512
-Description: An awesome tweak for Instagram!
-Name: BHInsta
-Author: Bandar Alruwaili
-Icon: https://i.imgur.com/lg6zKtD.jpeg
-SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/BHInsta.json
-
 Package: com.dvntm.silentnotifs
 Architecture: iphoneos-arm64
 Version: 0.0.2
@@ -861,25 +349,6 @@ MD5sum: a9db8e137654f5b39eeb62905df47253
 SHA1: e3198d3d3e5ed4a5e62fdc33c239caadec0cac67
 SHA256: dd02accac8ac05eeaa69e5fffa410a5a9185af4bf1451564996ff4505f330453
 SHA512: 2461f307c6914f2cc4148405e9f1aaac4dc5346f816ff9123bbcb63b1401e1333c34547e53e663a1544ea09769c10f3e6acd234285d0251662c9a4a50292cfbb
-Description: Keep notifications silent while media is playing
-Name: SilentNotifs
-Author: dvntm
-Icon: https://i.imgur.com/pEW44HA.jpeg
-SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/SilentNotifs.json
-
-Package: com.dvntm.silentnotifs
-Architecture: iphoneos-arm64e
-Version: 0.0.2
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.silentnotifs_0.0.2_iphoneos-arm64e.deb
-Size: 3736
-MD5sum: 9243f5557ec595e5dd93e73e51b70d71
-SHA1: 25392792b3b4675fe224875ff667ccace657faee
-SHA256: 88e5db6059a9a8c7cc4f0e5c96cf2562293d1b4641c6aa3a11f3a432b7c884fc
-SHA512: 224473bccb44fbea522f94198ebc9a57f2dd9b4764a1c8cc0937877baacf9a7fbb1fa057daeee167948f5744ca496dc320803919e63f850be1dbd103e11a2a6c
 Description: Keep notifications silent while media is playing
 Name: SilentNotifs
 Author: dvntm
@@ -924,25 +393,6 @@ Author: dvntm
 Icon: https://i.imgur.com/LHHJmJA.jpeg
 SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/YouTubePlus.json
 
-Package: com.dvntm.ytlite
-Architecture: iphoneos-arm64e
-Version: 5.0.2
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 16140
-Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.ytlite_5.0.2_iphoneos-arm64e.deb
-Size: 6022152
-MD5sum: 49722ff196f499370267c1745ec614db
-SHA1: 09d961196ea5baa594c98bd8ee8bc2cff0f7553a
-SHA256: 140df1829ec592d9a166378f1205cea908f0346332f0d7270df42bb63adeb95e
-SHA512: c92256b0b50db0d2e807340d3aa967ca919658e0e0da9bf0cf585ba8d959f92eb55a6bfd1020a0c21d7db7095d45686dd768c1d25797b9d58e744dec4aa96aa5
-Description: An awesome tweak for YouTube!
-Name: YouTubePlus
-Author: dvntm
-Icon: https://i.imgur.com/LHHJmJA.jpeg
-SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/YouTubePlus.json
-
 Package: ai.akemi.appsyncunified
 Architecture: iphoneos-arm64
 Version: 112.0
@@ -956,25 +406,6 @@ MD5sum: 334e4ab247f242dd5ef0409f224f5ad3
 SHA1: dcea78b9f34c32d9a15741307402a6a6942ea495
 SHA256: b928da3369cb9d379ebf7f5f39a4fb2c880474b1f8f7d2eeff67da3008a9439e
 SHA512: 7a38359718c0cc99855dd895354559babe9eb47d4cfba588b60f5974276ee48d34f58d8ae27c92c85ca8d23e4a776521caedf90035713602871bdc4bf36ecba4
-Description: Enables the ability to install unsigned/fakesigned iOS applications.
-Name: AppSync Unified
-Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
-Icon: https://i.imgur.com/KMCa11k.jpeg
-SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/AppSync.json
-
-Package: ai.akemi.appsyncunified
-Architecture: iphoneos-arm64e
-Version: 112.0
-Section: Tweaks
-Maintainer: Karen/あけみ <karen@akemi.ai>
-Installed-Size: 676
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.1)
-Filename: ./debs/ai.akemi.appsyncunified_112.0_iphoneos-arm64e.deb
-Size: 32128
-MD5sum: 798dcace8dce9b97ef099745d10a0501
-SHA1: e46017f2420b878fdcbc09b5a717975148b583d4
-SHA256: 4d419ab15c4b2e5eb62e05bb65294156240fce43e5c1ac82dedbf0a5ddecc7e9
-SHA512: ba91566af3849ea58303031893da90c94ba8c61d19f4801078efb48376e75f049b112234cbbd22721fb54092ea55fc0761ceb8c96ea2c45380a2696a13e46c2f
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Name: AppSync Unified
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
