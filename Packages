@@ -1,3 +1,20 @@
+Package: com.f0u4d.watusitools
+Name: WatusiTools
+Version: 2.4.39
+Description: Library for Watusi, Regram and other tweaks
+Depends: firmware (>= 12.0)
+Section: Development
+Architecture: iphoneos-arm64
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Filename: ./debs/com.f0u4d.watusitools_2.4.39_iphoneos-arm64.deb
+Size: 4497276
+MD5: d6794cbf36f0f1466cb6dae2ff37aed2
+SHA1: c5eab5145e1c4bc9aae616c96370bde3e62c9fb2
+SHA256: abac0f326e86cf280110193ddcd933cf26d5fa0daa7b556ce4e54a097f2bdc6d
+SHA512: 4153822a9883acf2ec9c4b9754045f8f12af74a39932ce64ce82f4ab768ea236d757ef0413a711c559d5c7d56ad04b52c2e46283c9510286854bdb06b2135775
+
 Package: netskao.appdata-rootless
 Version: 1.4.1
 Description: View & Manage Applications Data from your Home Screen & downgrade
