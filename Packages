@@ -9,14 +9,14 @@ Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
 Tag: role::hacker, compatible::ios15, compatible::ios16
 Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png
 Architecture: iphoneos-arm64
-Version: 0.4.3
+Version: 0.4.2
 Installed-Size: 532
-Filename: ./debs/kr.xsf1re.vnodebypass_0.4.3_iphoneos-arm64.deb
-Size: 68928
-MD5: d3850a87b536d0ea67775da20718214f
-SHA1: 35153a06c11879c190ee936a5be941865120c1ef
-SHA256: 3f4ec26a7b887cfe0bf97192e9329bee741c3b68e88d18073d9a7cdc6e351df4
-SHA512: 3907fb43c83d4e57b832a6d3a3c7fa11d837554bce3a7c921536e1eabd0ea18fcf319f3d1bd0f5de7559d6a59d3b29f25b7d2b5475456c893c4718c4d2dcd8d7
+Filename: ./debs/kr.xsf1re.vnodebypass_0.4.2_iphoneos-arm64.deb
+Size: 68940
+MD5: f63f94487bb0c0072abf19c0aa942f22
+SHA1: 750702664c5944a7e6131aad73a3550b81b5b326
+SHA256: b88fbeb6232b25d63f2796ea53a5808a1e1c6f99573de64548fd8e12004a433c
+SHA512: e93114b0b69faf61439e4c31e2ea04482aa00bf8b4a7de2306875133078dc7591c06a1049078ab816fab61f5c4c0da71934c0541883be3b9ee9d51ce238ce3e3
 
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
