@@ -11,7 +11,7 @@ Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/L
 Architecture: iphoneos-arm64
 Version: 0.4.3
 Installed-Size: 532
-Filename: kr.xsf1re.vnodebypass_0.4.3_iphoneos-arm64.deb
+Filename: ./debs/kr.xsf1re.vnodebypass_0.4.3_iphoneos-arm64.deb
 Size: 68928
 MD5: d3850a87b536d0ea67775da20718214f
 SHA1: 35153a06c11879c190ee936a5be941865120c1ef
