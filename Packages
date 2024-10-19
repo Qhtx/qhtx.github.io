@@ -1,3 +1,23 @@
+Author: XsF1re, ichitaso, level3tjg
+Maintainer: alias20
+Package: kr.xsf1re.vnodebypass
+Name: vnodebypass
+Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
+Section: System
+Description: An expermental tool to hide jailbreak files for bypass detection. (Only supported iOS 15-16 with Dopamine2)
+Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
+Tag: role::hacker, compatible::ios15, compatible::ios16
+Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png
+Architecture: iphoneos-arm64
+Version: 0.4.3
+Installed-Size: 532
+Filename: kr.xsf1re.vnodebypass_0.4.3_iphoneos-arm64.deb
+Size: 68928
+MD5: d3850a87b536d0ea67775da20718214f
+SHA1: 35153a06c11879c190ee936a5be941865120c1ef
+SHA256: 3f4ec26a7b887cfe0bf97192e9329bee741c3b68e88d18073d9a7cdc6e351df4
+SHA512: 3907fb43c83d4e57b832a6d3a3c7fa11d837554bce3a7c921536e1eabd0ea18fcf319f3d1bd0f5de7559d6a59d3b29f25b7d2b5475456c893c4718c4d2dcd8d7
+
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
 Description: The all-in-one tweak for Instagram
