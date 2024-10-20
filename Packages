@@ -1,3 +1,19 @@
+Package: net.kayoko
+Maintainer: 82flex
+Version: 2.5
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Architecture: iphoneos-arm64
+Name: Kayoko
+Author: Traurige
+Description: A clipboard tweak, similar to Copylog and Nicelog, but free! Very user-friendly! It allows copying images to other software! Compatible with Dopamine. 82flex has fixed support for iOS 16, please wait for updates to resolve any issues!
+Filename: ./debs/net.kayoko_2.5_iphoneos-arm64.deb
+Size: 124468
+MD5: 2e85ddc0199f1725c704609e152c8f8a
+SHA1: bdd18d2e8f4ac562e15832b8d866a9281ab937b0
+SHA256: 9b6a6369327dc3ab22c33eb29a30b22e36700f1a3af184da81722019a01f42d6
+SHA512: 5b18cba26123cb27b66ffbc99dcddc5244673784b6e2db7ca25dd5be475fa9e2f245d3ba06ff80d1ad1a153253fc0245c118a007095dcb9aeab19c94449551b5
+
 Author: XsF1re, ichitaso, level3tjg
 Maintainer: alias20
 Package: kr.xsf1re.vnodebypass
