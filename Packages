@@ -1,3 +1,22 @@
+Package: com.fouadraheb.watusi3
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Description: The all-in-one tweak for WhatsApp Messenger
+Section: Tweaks
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.37)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+Architecture: iphoneos-arm64
+Version: 1.2.42
+Installed-Size: 6660
+Filename: com.fouadraheb.watusi3_1.2.42_iphoneos-arm64.deb
+Size: 1974512
+MD5: 323989f6aeecaa612675bf5f9583b557
+SHA1: df1cb9e97731a7085fb5a7f2f0c740794252d6d7
+SHA256: fcc1b619fc3dce000cb2d406a1e1fcd9dc1bac6477aaa0e09834db3f086b288d
+SHA512: 6123df9430be8b67540739f4a771ca94e7b4fdd3d4555a396d632141bab4d7c715401d4a0d261c48479c62b06390b38e963ace7b076b10abd1cdefef911c4605
+
 Package: com.RootHide.varclean
 Name: RootHide (rootless)
 Depends: firmware (>= 15.0)
