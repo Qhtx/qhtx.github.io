@@ -10,7 +10,7 @@ Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundl
 Architecture: iphoneos-arm64
 Version: 1.2.42
 Installed-Size: 6660
-Filename: com.fouadraheb.watusi3_1.2.42_iphoneos-arm64.deb
+Filename: ./debs/com.fouadraheb.watusi3_1.2.42_iphoneos-arm64.deb
 Size: 1974512
 MD5: 323989f6aeecaa612675bf5f9583b557
 SHA1: df1cb9e97731a7085fb5a7f2f0c740794252d6d7
