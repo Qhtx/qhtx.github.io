@@ -17,22 +17,21 @@ SHA1: df1cb9e97731a7085fb5a7f2f0c740794252d6d7
 SHA256: fcc1b619fc3dce000cb2d406a1e1fcd9dc1bac6477aaa0e09834db3f086b288d
 SHA512: 6123df9430be8b67540739f4a771ca94e7b4fdd3d4555a396d632141bab4d7c715401d4a0d261c48479c62b06390b38e963ace7b076b10abd1cdefef911c4605
 
-Package: com.RootHide.varclean
-Name: RootHide (rootless)
+Package: com.roothide.varclean
+Name: varClean (rootless)
 Depends: firmware (>= 15.0)
 Description: is a modded of the Roothide Manager App's without bootstrap/roothide , with varClean function only to clean jailbreak junks & related files that make the iOS enviroment detected as jailbroken.
 Maintainer: Waji1h
 Author: roothide
-Section: System
+Section: Application
 Architecture: iphoneos-arm64
-Version: 1.0
-Installed-Size: 912
-Filename: ./debs/com.RootHide.varclean_1.0_iphoneos-arm64.deb
-Size: 726244
-MD5: ae252b1b6715945eff136ddeb1a3f960
-SHA1: cab8c22cd38c3e253dd6609ab721507d7f8006b5
-SHA256: c2038ee1f74f938e315df99cdc4b75932c15cf06485ae677dc88d79c056e58b6
-SHA512: f2acc7379b0aaf8d865b701863d8ca6b21793bf9f7937d6cd588ce654e31d7fde771d5da9b66ed5cd6d6b94db65b610405f35c0ef7bb3eb630f387cd076f92b6
+Version: 0.7
+Filename: ./debs/com.roothide.varclean_0.7_iphoneos-arm64.deb
+Size: 733264
+MD5: d37cfc57736e3c5cb921cf3f3fd56efc
+SHA1: da88d5deb8dbbed106f71201fc248f66f554a324
+SHA256: 6489a94256261924d21a3f3a56302d72d6ca62e2ff2695428ec4a37bf6e279e6
+SHA512: 3b7fdcd09f140581d4399f60e665f6c6c6bfdfbdd035a72929c6ddc5ae9a3993f40e6879af5b5569e49a93f1064b995da4f03c8fc018328146f1fa6f2e93809b
 
 Package: net.kayoko
 Maintainer: 82flex
