@@ -1,19 +1,3 @@
-Package: com.roothide.varclean
-Version: 1.1
-Description: is a modded of the Roothide Manager App's without bootstrap/roothide , with varClean function only to clean jailbreak junks & related files that make the iOS enviroment detected as jailbroken.
-Maintainer: roothide
-Author: roothide
-Depends: firmware (>= 15.0)
-Name: varClean (rootless)
-Architecture: iphoneos-arm64
-Section: Application
-Filename: ./debs/com.roothide.varclean_1.1_.deb
-Size: 733416
-MD5: 0491509c805446c4a0e0d626fe9f53c4
-SHA1: 3f1a907152e7fe6501db3f7e2d3f6d647ccb60dc
-SHA256: 62cb8dac561972394f779fe98ec4efb413efddccd5a219196810eea891b0d83a
-SHA512: b9a26e42960ec41e82b2ddd24aebcec03fb78fac4bd01eb821c5e0209e5b8034af53f7c0c822dc7ab005e20332d613ac60d40939a3da2346375dd9815c5ce10d
-
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
@@ -26,7 +10,7 @@ Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundl
 Architecture: iphoneos-arm64
 Version: 1.2.42
 Installed-Size: 6660
-Filename: ./debs/com.fouadraheb.watusi3_1.2.42_.deb
+Filename: ./debs/com.fouadraheb.watusi3_1.2.42_iphoneos-arm64.deb
 Size: 1974512
 MD5: 323989f6aeecaa612675bf5f9583b557
 SHA1: df1cb9e97731a7085fb5a7f2f0c740794252d6d7
@@ -42,7 +26,7 @@ Author: roothide
 Section: Application
 Architecture: iphoneos-arm64
 Version: 0.7
-Filename: ./debs/com.roothide.varclean_0.7_.deb
+Filename: ./debs/com.roothide.varclean_0.7_iphoneos-arm64.deb
 Size: 733264
 MD5: d37cfc57736e3c5cb921cf3f3fd56efc
 SHA1: da88d5deb8dbbed106f71201fc248f66f554a324
@@ -58,7 +42,7 @@ Architecture: iphoneos-arm64
 Name: Kayoko
 Author: Traurige
 Description: A clipboard tweak, similar to Copylog and Nicelog, but free! Very user-friendly! It allows copying images to other software! Compatible with Dopamine. 82flex has fixed support for iOS 16, please wait for updates to resolve any issues!
-Filename: ./debs/net.kayoko_2.5_.deb
+Filename: ./debs/net.kayoko_2.5_iphoneos-arm64.deb
 Size: 124468
 MD5: 2e85ddc0199f1725c704609e152c8f8a
 SHA1: bdd18d2e8f4ac562e15832b8d866a9281ab937b0
@@ -78,7 +62,7 @@ Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/L
 Architecture: iphoneos-arm64
 Version: 0.4.2
 Installed-Size: 532
-Filename: ./debs/kr.xsf1re.vnodebypass_0.4.2_.deb
+Filename: ./debs/kr.xsf1re.vnodebypass_0.4.2_iphoneos-arm64.deb
 Size: 68940
 MD5: f63f94487bb0c0072abf19c0aa942f22
 SHA1: 750702664c5944a7e6131aad73a3550b81b5b326
@@ -98,7 +82,7 @@ Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x
 Architecture: iphoneos-arm64
 Version: 1.0~b13
 Installed-Size: 6252
-Filename: ./debs/com.fouadraheb.regram_1.0~b13_.deb
+Filename: ./debs/com.fouadraheb.regram_1.0~b13_iphoneos-arm64.deb
 Size: 1331148
 MD5: e05db7a8295279e951ebd5a89f88e77e
 SHA1: d6c7de790965055bcf8a7da147fd4515d0e371ab
@@ -115,7 +99,7 @@ Architecture: iphoneos-arm64
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-Filename: ./debs/com.f0u4d.watusitools_2.4.39_.deb
+Filename: ./debs/com.f0u4d.watusitools_2.4.39_iphoneos-arm64.deb
 Size: 4497276
 MD5: d6794cbf36f0f1466cb6dae2ff37aed2
 SHA1: c5eab5145e1c4bc9aae616c96370bde3e62c9fb2
@@ -132,7 +116,7 @@ Author: Fouad Raheb
 Name: AppData-Rootless
 Architecture: iphoneos-arm64
 Section: Tweaks
-Filename: ./debs/netskao.appdata-rootless_1.4.1_.deb
+Filename: ./debs/netskao.appdata-rootless_1.4.1_iphoneos-arm64.deb
 Size: 5072808
 MD5: dc4ef27d60fdbac908773332832c3554
 SHA1: 2ec0bbbe6b576fc2bd90b484d3e52cd6fc4475d3
@@ -149,7 +133,7 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
 Version: 0.0.1
 Installed-Size: 168
-Filename: ./debs/com.nightwind.sileorespringfix_0.0.1_.deb
+Filename: ./debs/com.nightwind.sileorespringfix_0.0.1_iphoneos-arm64.deb
 Size: 4592
 MD5: 53e6cbedc970d890ff64eac09bdc2f77
 SHA1: 65217ddacaf263794a52b533b1561f78e0895089
@@ -167,7 +151,7 @@ Maintainer: alexia <me@alexia.lol>
 Author: alexia <me@alexia.lol>
 Section: System
 Depends: firmware (>> 15.0)
-Filename: ./debs/net.cadoth.nosbreload_0.1.1-1_.deb
+Filename: ./debs/net.cadoth.nosbreload_0.1.1-1_iphoneos-arm64.deb
 Size: 3504
 MD5: 898f20ecbfad05c86f068a014f2841fa
 SHA1: bbd661952261389aa0f6ed975d0be9664e15cf36
@@ -191,7 +175,7 @@ MD5: 2ff353d1a30fa1008fcc215b8246fb6c
 SHA1: 1b35d3aa7d39952f2eeb6168c4636101d2e976b8
 SHA256: fa9c3265f3a2531f653ee6a57ae9caea9311063c83c19e1a00a02d24f8dd882c
 SHA512: 834c21869c6579dca4266885ad180764d62f1165ac4b72bf4dd477639bd5f6e4ae974b2bdd8da9d503bc2baac54cc431823c753c3cd50b6da8c26ddc6b705192
-Filename: ./debs/com.fouadraheb.regram_1.0~b11_.deb
+Filename: ./debs/com.fouadraheb.regram_1.0~b11_iphoneos-arm64.deb
 Size: 1291412
 
 Package: com.jaxroth.supporttheunsupportedrevived
@@ -204,7 +188,7 @@ Installed-Size: 136
 Author: Jax Roth
 Maintainer: Jax Roth
 Description: Allows iPhones to use “unsupported” charging accessories
-Filename: ./debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_.deb
+Filename: ./debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_iphoneos-arm64.deb
 Size: 4772
 MD5: 4c01f5d4a7a5e6f2f573ecb0cd9c5c3b
 SHA1: c9ae0540decf89535c71639019338c93218f6b5c
@@ -219,7 +203,7 @@ Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6660
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.33)
-Filename: ./debs/com.fouadraheb.watusi3_1.2.40_.deb
+Filename: ./debs/com.fouadraheb.watusi3_1.2.40_iphoneos-arm64.deb
 Size: 1971948
 MD5sum: 8d072e47c518e012d58853c640227fa8
 SHA1: e0a73bf9db725d6d250ac9d533ae18b6541f2cdc
@@ -235,7 +219,7 @@ Version: 2.4.34
 Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
-Filename: ./debs/com.f0u4d.watusitools_2.4.34_.deb
+Filename: ./debs/com.f0u4d.watusitools_2.4.34_iphoneos-arm64.deb
 Size: 4493776
 MD5sum: bf7da014d1d090837a07d22f8072d977
 SHA1: db0bf1593902a1a4564629ebbc033614dd33c751
@@ -251,7 +235,7 @@ Version: 2.7.2-2
 Section: Tweaks
 Maintainer: ARX8x
 Depends: mobilesubstrate, oldabi
-Filename: ./debs/xyz.xninja.systeminfo_2.7.2-2_.deb
+Filename: ./debs/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64.deb
 Size: 272176
 MD5sum: 7063110dd0857c255e02daa2326cc1d0
 SHA1: 45afd638237ae14414169cc081cd8c480636f13d
@@ -267,7 +251,7 @@ Version: 7.10.0
 Section: Tweaks
 Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Depends: firmware (>= 15.0), findutils, apt | apt7
-Filename: ./debs/com.exile90.icleanerpro_7.10.0_.deb
+Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
 Size: 1098448
 MD5sum: c950ece914ac3d0a4a6f0d04a7980436
 SHA1: 7f4d6b746a08222982813cc75126f0d99924fd4b
@@ -285,7 +269,7 @@ Section: Tweaks
 Maintainer: Hitori
 Installed-Size: 168
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/zp.stopautolaunchapps_2.0_.deb
+Filename: ./debs/zp.stopautolaunchapps_2.0_iphoneos-arm64.deb
 Size: 3660
 MD5sum: 4cc3cf68e50d26be1176ec8af4d9bd1d
 SHA1: f9cedaf1d004dc9735602cf93eae1666e5a41666
@@ -304,7 +288,7 @@ Section: Tweaks
 Maintainer: Nightwind
 Installed-Size: 164
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.nightwind.lockbuttonx_0.0.1_.deb
+Filename: ./debs/com.nightwind.lockbuttonx_0.0.1_iphoneos-arm64.deb
 Size: 17510
 MD5sum: aed631efa5bc37bea8aba1bf65baee15
 SHA1: a37b5b41570ced39e8f8a7334a65ad779a736220
@@ -315,13 +299,31 @@ Name: LockButtonX
 Author: Nightwind
 Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
 
+Package: com.m1337.varclean
+Architecture: iphoneos-arm64
+Version: 1.0-2+debug
+Section: Tweaks
+Maintainer: m1337
+Installed-Size: 912
+Depends: mobilesubstrate
+Filename: ./debs/com.m1337.varclean_1.0_iphoneos-arm64.deb
+Size: 732134
+MD5sum: 0fcac8d7f52ef089884f6cab532336c7
+SHA1: e47694f67c7509cf137fd8bdbfbbbc94d05706aa
+SHA256: 9b0c08cefd5702c304fd2cc414ba84f6da053453f76be4c9b28392b185e7a540
+SHA512: 41ef078836de28714eb986a01eb09bccb4f86f5b4e1702f859f0cee47e76bac79b541eeab2a4c9ec742fc82f3a4e4d456d8a9cb94300916184c47a8f63d855f6
+Description: varClean for rootless
+Name: varClean (rootless)
+Author: roothide
+Icon: https://raw.githubusercontent.com/m1337v/RootHideManagerApp/rootless/varClean/Assets.xcassets/AppIcon.appiconset/icon-1024.png
+
 Package: com.julioverne.goodwifi
 Architecture: iphoneos-arm64
 Version: 0.0~beta6
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.julioverne.goodwifi_0.0~beta6_.deb
+Filename: ./debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64.deb
 Size: 76396
 MD5sum: 6dacc3e6635b6be6d3f96d6209ecd84c
 SHA1: 96c6cff56a0eff0d9e5a11b728bc04399d936594
@@ -339,7 +341,7 @@ Section: Tweaks
 Maintainer: dvntm
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.safariii_0.0.1_.deb
+Filename: ./debs/com.dvntm.safariii_0.0.1_iphoneos-arm64.deb
 Size: 2862
 MD5sum: 8e865c406486e63ad3f69a43c057b497
 SHA1: 2ae1b2ff2e1bda54b2e4590eae12195ccd0a1e00
@@ -357,7 +359,7 @@ Section: Tweaks
 Maintainer: daniel
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/daniel.trustevaluator_0.0.1_.deb
+Filename: ./debs/daniel.trustevaluator_0.0.1_iphoneos-arm64.deb
 Size: 2916
 MD5sum: 6824d51ddf87bba5b049416fd40136d8
 SHA1: f994a9700ec217e4ac60de9837348bf477d40a9a
@@ -374,7 +376,7 @@ Section: Tweaks
 Maintainer: dvntm
 Installed-Size: 1480
 Depends: mobilesubstrate
-Filename: ./debs/bhtiktokplus_2.3_.deb
+Filename: ./debs/bhtiktokplus_2.3_iphoneos-arm64.deb
 Size: 481172 
 MD5sum: 73df7fc61cf3d70ea5cc809dd4dda5b8
 SHA1: 40866ca3b1e80515c35131e863cd5a9b2c36aaf1
@@ -393,7 +395,7 @@ Section: Tweaks
 Maintainer: @iMokhles
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./debs/com.imokhles.disablertl_0.0.1-3+debug_.deb
+Filename: ./debs/com.imokhles.disablertl_0.0.1-3+debug_iphoneos-arm64.deb
 Size: 4868 
 MD5sum: 5cc89eb3b20a52052fe160662cace182
 SHA1: 46b1c873a8e3ec925cfe47918a4fc7d8b911bcb8
@@ -411,7 +413,7 @@ Section: Tweaks
 Maintainer: Bandar Alruwaili
 Installed-Size: 6292
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/com.bandarhl.bhtwitter_4.3-5+debug_.deb
+Filename: ./debs/com.bandarhl.bhtwitter_4.3-5+debug_iphoneos-arm64.deb
 Size: 1063488
 MD5sum: 521401c94c1bd3ab19a4dd0370cd875a
 SHA1: 127818d49a063faf60a45f8a7d530c3851ec0277
@@ -430,7 +432,7 @@ Section: Tweaks
 Maintainer: Bandar Alruwaili
 Installed-Size: 648
 Depends: mobilesubstrate
-Filename: ./debs/com.bandarhl.bhinsta_1.0.3_.deb
+Filename: ./debs/com.bandarhl.bhinsta_1.0.3_iphoneos-arm64.deb
 Size: 163092
 MD5sum: eb712799da6070094c0b713fdf582486
 SHA1: 05234d6d614f092699408fea1ef74951ba494d6d
@@ -449,7 +451,7 @@ Section: Tweaks
 Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.silentnotifs_0.0.2_.deb
+Filename: ./debs/com.dvntm.silentnotifs_0.0.2_iphoneos-arm64.deb
 Size: 3852
 MD5sum: a9db8e137654f5b39eeb62905df47253
 SHA1: e3198d3d3e5ed4a5e62fdc33c239caadec0cac67
@@ -468,7 +470,7 @@ Section: Tweaks
 Maintainer: dvntm
 Installed-Size: 16140
 Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.ytlite_5.0.2_.deb
+Filename: ./debs/com.dvntm.ytlite_5.0.2_iphoneos-arm64.deb
 Size: 6100896
 MD5sum: 6548fd9a5d850111d18cdaf5ef3b1915
 SHA1: 89bb38dad2be416288596f43f1e00c3063792f47
@@ -487,7 +489,7 @@ Section: Tweaks
 Maintainer: Karen/あけみ <karen@akemi.ai>
 Installed-Size: 676
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.1)
-Filename: ./debs/ai.akemi.appsyncunified_112.0_.deb
+Filename: ./debs/ai.akemi.appsyncunified_112.0_iphoneos-arm64.deb
 Size: 33924
 MD5sum: 334e4ab247f242dd5ef0409f224f5ad3
 SHA1: dcea78b9f34c32d9a15741307402a6a6942ea495
