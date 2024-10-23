@@ -1,3 +1,19 @@
+Package: com.roothide.varclean
+Version: 1.1
+Description: is a modded of the Roothide Manager App's without bootstrap/roothide , with varClean function only to clean jailbreak junks & related files that make the iOS enviroment detected as jailbroken.
+Maintainer: roothide
+Author: roothide
+Depends: firmware (>= 15.0)
+Name: varClean (rootless)
+Architecture: iphoneos-arm64
+Section: Application
+Filename: ./debs/com.roothide.varclean_1.1_iphoneos-arm64.deb
+Size: 733416
+MD5: b53e5839c9101ec29693542751edd15a
+SHA1: 2c93a20e36e5018b037a874c6fbe657754ec14eb
+SHA256: 61475ce1af0017f04696a6c72ab394ffbac3c5f90e2f21c4140fdd7a16efdc0e
+SHA512: 56550a9aa0d10917781f0ea591fb65032ee9e83b0256c7fd3b9e79f1d6324357af257b3834de9a3a472246ba8957ddcc6073b8b1e50df5d8c9b249d1e08b4ed8
+
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
@@ -298,24 +314,6 @@ Description: Simple tweak to remap the long press of the power button on notched
 Name: LockButtonX
 Author: Nightwind
 Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
-
-Package: com.m1337.varclean
-Architecture: iphoneos-arm64
-Version: 1.0-2+debug
-Section: Tweaks
-Maintainer: m1337
-Installed-Size: 912
-Depends: mobilesubstrate
-Filename: ./debs/com.m1337.varclean_1.0_iphoneos-arm64.deb
-Size: 732134
-MD5sum: 0fcac8d7f52ef089884f6cab532336c7
-SHA1: e47694f67c7509cf137fd8bdbfbbbc94d05706aa
-SHA256: 9b0c08cefd5702c304fd2cc414ba84f6da053453f76be4c9b28392b185e7a540
-SHA512: 41ef078836de28714eb986a01eb09bccb4f86f5b4e1702f859f0cee47e76bac79b541eeab2a4c9ec742fc82f3a4e4d456d8a9cb94300916184c47a8f63d855f6
-Description: varClean for rootless
-Name: varClean (rootless)
-Author: roothide
-Icon: https://raw.githubusercontent.com/m1337v/RootHideManagerApp/rootless/varClean/Assets.xcassets/AppIcon.appiconset/icon-1024.png
 
 Package: com.julioverne.goodwifi
 Architecture: iphoneos-arm64
