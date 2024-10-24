@@ -7,6 +7,7 @@ Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
 Architecture: iphoneos-arm64
 Version: 0.0.2
+SileoDepiction: https://up-ipa.xyz/share/83TXYXU2eP5xpVRH/direct
 Installed-Size: 152
 Filename: ./debs/com.dvntm.cc18_0.0.2_iphoneos-arm64.deb
 Size: 4358
