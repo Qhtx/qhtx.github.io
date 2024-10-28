@@ -1,21 +1,3 @@
-Package: dev.objcmsgsend.iota
-Name: iota
-Depends: mobilesubstrate
-Replaces: dev.kanji.iota
-Description: A great Snapchat tweak v12.25 🥀.
-Maintainer: objc_msgSend
-Author: objc_msgSend
-Section: Tweaks
-Architecture: iphoneos-arm64
-Version: 2.4
-Installed-Size: 2472
-Filename: ./debs/dev.objcmsgsend.iota_2.4_iphoneos-arm64.deb
-Size: 557080
-MD5: 8dd50f546be9619c513ebac40157d514
-SHA1: 08970c29bd1cc0887d94c0fbaf1a4c6b9d7d3368
-SHA256: 9107a49d7ac5c19e583ee294e83d2c567377a95ee12152ed3d25af5ee1d1da96
-SHA512: b8ae95a53cd8bb2523d586bcce7d5466085a0a60b80da2d0604954e1a68088899dadf5732e0f3a1f8ec4955615b515aa2f7f754511bffc4ccb79783f81786f9d
-
 Package: com.dvntm.cc18
 Name: CC18
 Description: Round CC modules replication, like in iOS 18
@@ -25,7 +7,6 @@ Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
 Architecture: iphoneos-arm64
 Version: 0.0.2
-SileoDepiction: https://linkjar.co/o/8378d224-57a7-40c8-af48-e0288bc47077
 Installed-Size: 152
 Filename: ./debs/com.dvntm.cc18_0.0.2_iphoneos-arm64.deb
 Size: 4358
