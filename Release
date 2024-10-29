@@ -1,8 +1,8 @@
-Origin: Qhtx
-Label: Qhtx
+Origin:  ‏​‏  a7mdx
+Label: a7mdx
 Suite: stable
 Version: 1.0
-Codename: Qhtx
+Codename: a7mdx
 Architectures: iphoneos-arm64
 Components: main
-Description: All In One
+Description: rootless repo
