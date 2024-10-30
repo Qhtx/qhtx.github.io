@@ -1,8 +1,8 @@
-Origin:  ‏​‏  a7mdx
+Origin:  ‏​‏  a7mdx repo
 Label: a7mdx
 Suite: stable
 Version: 1.0
 Codename: a7mdx
 Architectures: iphoneos-arm64
 Components: main
-Description: rootless repo
+Description: rootless & roothide
