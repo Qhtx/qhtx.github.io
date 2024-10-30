@@ -1,3 +1,22 @@
+Package: com.fouadraheb.watusi3
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Description: The all-in-one tweak for WhatsApp Messenger
+Section: Tweaks
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.39)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+Architecture: iphoneos-arm64
+Version: 1.2.43
+Installed-Size: 6660
+Filename: ./debs/com.fouadraheb.watusi3_1.2.43_iphoneos-arm64.deb
+Size: 1975680
+MD5: e881fa911bb2d5ee7e05a8d77ba85ebd
+SHA1: 87b063b044a026839dabf12121510e1a07b9d5e3
+SHA256: b4800c6779e26e6b2b18a9ece8f814e03177fa85cdcada70d0232e1fe1edc8a0
+SHA512: a687ad3335719ce2fdd6894498ecdd6eff71bf6a7a6f3b1dab00e262fb1e624ee5050a799c418a93c87cf8794c68bf2d3cc624d22c530d15dad37407f51ae73d
+
 Package: com.dvntm.cmm
 Name: CallMeMaybe
 Description: Enhancer for the system Phone app
