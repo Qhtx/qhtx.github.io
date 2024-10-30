@@ -7,6 +7,25 @@ Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Installed-Size: 152
+Filename: ./debs/com.dvntm.ratebegone_0.0.1_iphoneos-arm64e.deb
+Size: 3176
+MD5: 1e96b688f65ce9ea233a4efae7ecddfe
+SHA1: 686f2122e5e2f09f1c6eb93bad924c70e1afb4ee
+SHA256: 9b22f9a93d38dbabee0be65391fcafb375252dac0140bea76f1009a03310691f
+SHA512: d336bdb29806d4c856199b6fbba4ab03869d0468dbcbc8502f44a312d2693169e1d7c97b55355d060fa82e62a5fb56f6dbb486365d53ceea45f0ebde89d7a28d
+
+Package: com.dvntm.ratebegone
+Name: RateBeGone
+Description: Removes annoying rate app pop-ups
+Maintainer: dvntm
+Author: dvntm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
 Architecture: iphoneos-arm64
 Version: 0.0.1
 Installed-Size: 152
