@@ -1,3 +1,22 @@
+Package: com.dvntm.ratebegone
+Name: RateBeGone
+Description: Removes annoying rate app pop-ups
+Maintainer: dvntm
+Author: dvntm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Installed-Size: 152
+Filename: ./debs/com.dvntm.ratebegone_0.0.1_iphoneos-arm64.deb
+Size: 3252
+MD5: 212b5a6765b8300478dacc3cc278bd6a
+SHA1: 89729705fe7d2cfbac362e0030deeed93bdb7991
+SHA256: 383af30db6594dca5017bc60d392461548200c2eba9c2194c56b97c6137e131a
+SHA512: 0300a896632c8031c2d02e7b98157e82af29f2361bd49d11e469649b1111bbdc916fc6a202737acf2a8a399fde16ac4fd93867cd096b051c6069773b1e6544af
+
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
