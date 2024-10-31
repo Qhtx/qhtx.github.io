@@ -1,3 +1,21 @@
+Package: com.squidforce.copyvault
+Name: CopyVault
+Description: Your Copy Vault, Your Pasteboard
+Maintainer: SquidForce
+Author: SquidForce
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 1.5.9
+Installed-Size: 6696
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.squidforce.copyvault_1.5.9_iphoneos-arm64e.deb
+Size: 2069744
+MD5: 3bd9c76db4ab372b5deebe466f9e2c46
+SHA1: b91803b689c58473bc65917a27cfd430e85e7bcc
+SHA256: 275bf9a100e454f7ef3ff013c877010f8d98f2bcf0a9a28d66a2c488b97e0421
+SHA512: 6e17c9ebac23d82a0a42502f698ec4b840aa199c962382d2fa30581838e5a299201d65a39d5bf9f6b6b6cd876787eb0a3b264b4b0ac6e1f6d25215770291bb5c
+
 Package: weeb.lillie.youtubedislikesreturn
 Version: 1.12.8
 Architecture: iphoneos-arm64e
