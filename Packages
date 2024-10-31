@@ -1,3 +1,21 @@
+Package: com.0xkuj.notificationsgroupcount
+Name: NotificationsGroupCount
+Description: Count those notifications inside Apple notifications grouping!
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Installed-Size: 448
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.0xkuj.notificationsgroupcount_1.0.0_iphoneos-arm64e.deb
+Size: 77916
+MD5: 2abc64021e5ea9e85914707c5bca7278
+SHA1: 0947f5128e8e53890e019c4e39b5177b1116053d
+SHA256: 7047d46fc3123d19c7dcbc99361b46629debda71f24894f03115b533993ffdba
+SHA512: f9c27fd4d78d4d23ac130747f72db177d0dc69d98c2b7098107eb12d86ad5d3127c4a04fe8acda712a6d36479cedaac6e98f88a1b21004d23589b6079a51508a
+
 Package: com.dvntm.ratebegone
 Name: RateBeGone
 Description: Removes annoying rate app pop-ups
