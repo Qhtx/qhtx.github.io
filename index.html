@@ -14,7 +14,7 @@
             color: #fff;
             background-color: rgba(29, 51, 125, 0.9);
         }
-        
+
         .content {
             position: relative;
             display: flex;
@@ -26,6 +26,23 @@
             text-align: center;
         }
 
+        /* Profile Image */
+        .profile-image {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            margin-top: 20px;
+            position: relative;
+            box-shadow: 0 0 15px rgba(255, 255, 255, 0.8), 0 0 30px rgba(255, 255, 255, 0.6);
+            animation: glow 2s infinite alternate;
+        }
+
+        @keyframes glow {
+            0% { box-shadow: 0 0 15px rgba(255, 255, 255, 0.8), 0 0 30px rgba(255, 255, 255, 0.6); }
+            100% { box-shadow: 0 0 25px rgba(255, 255, 255, 1), 0 0 50px rgba(255, 255, 255, 0.8); }
+        }
+
+        /* Glassy Button Effect */
         .buttons {
             display: flex;
             flex-direction: column;
@@ -38,30 +55,76 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            gap: 10px;
             padding: 10px;
             text-align: center;
             text-decoration: none;
             color: white;
-            border: 2px solid white;
-            border-radius: 5px;
+            border-radius: 10px;
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            backdrop-filter: blur(10px);
+            transition: transform 0.2s, box-shadow 0.2s;
         }
 
-        .twitter { background-color: rgba(29, 161, 242, 0.8); }
-        .rootless { background-color: rgba(51, 51, 51, 0.8); }
+        .buttons a:hover {
+            transform: scale(1.05);
+            box-shadow: 0px 4px 15px rgba(255, 255, 255, 0.5);
+        }
+
+        .twitter { background-color: rgba(29, 161, 242, 0.1); }
+        .rootless { background-color: rgba(51, 51, 51, 0.1); }
     </style>
 </head>
 <body>
 
     <div class="content">
-        <img src="https://i.imgur.com/Ao9WX2Z.jpeg" alt="Ahmed's Image" style="width: 150px; height: 150px; border-radius: 50%; margin-top: 20px;">
+        <img src="https://i.imgur.com/Ao9WX2Z.jpeg" alt="Ahmed's Image" class="profile-image">
         <h1>Ahmed AlGhrbi</h1>
 
         <div class="buttons">
             <a href="https://x.com/ipapplus" target="_blank" class="twitter">Twitter</a>
-            <a href="sileo://source/https://a7m.dev" target="_blank" class="rootless">Rootless / RootHide</a>
+            <a href="sileo://source/https://a7mdx.com" target="_blank" class="rootless">Rootless / RootHide</a>
         </div>
     </div>
 
-</body>
-</html>
+    <!-- Snowfall Effect -->
+
+<script>
+    const snowflakesContainer = document.createElement("div");
+    snowflakesContainer.style.position = "absolute";
+    snowflakesContainer.style.top = "0";
+    snowflakesContainer.style.left = "0";
+    snowflakesContainer.style.width = "100%";
+    snowflakesContainer.style.height = "100%";
+    snowflakesContainer.style.pointerEvents = "none";
+    document.body.appendChild(snowflakesContainer);
+
+    function createSnowflake() {
+        const snowflake = document.createElement("div");
+        snowflake.innerHTML = "&#10052;";
+        snowflake.style.position = "absolute";
+        snowflake.style.top = "-10px";
+        snowflake.style.fontSize = Math.random() * 5 + 5 + "px";  // Smaller size (5-10px)
+        snowflake.style.color = "white";
+        snowflake.style.left = Math.random() * window.innerWidth + "px";
+        snowflake.style.opacity = Math.random();
+
+        snowflakesContainer.appendChild(snowflake);
+
+        let speed = Math.random() * 2 + 1;  // Slower speed (1-3px per frame)
+        let rotation = Math.random() * 360;
+
+        function fall() {
+            snowflake.style.top = parseFloat(snowflake.style.top) + speed + "px";
+            snowflake.style.transform = `rotate(${rotation}deg)`;
+            if (parseFloat(snowflake.style.top) > window.innerHeight) {
+                snowflake.remove();
+            } else {
+                requestAnimationFrame(fall);
+            }
+        }
+        fall();
+    }
+
+    setInterval(createSnowflake, 150);  // Slightly reduced frequency for a gentle snowfall effect
+</script>
