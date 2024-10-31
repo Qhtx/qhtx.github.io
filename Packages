@@ -1,3 +1,24 @@
+Package: weeb.lillie.youtubedislikesreturn
+Version: 1.12.8
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: PoomSmart and kirb <ytdislikesreturn@gmail.com>
+Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
+Installed-Size: 224
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Name: Return YouTube Dislike
+Description: Bring Back Dislikes On iOS YouTube
+Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
+Depiction: https://chariz.com/get/return-youtube-dislike
+Tag: compatible_min::ios11.0
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/weeb.lillie.youtubedislikesreturn_1.12.8_iphoneos-arm64e.deb
+Size: 24856
+MD5: cf37dceade9970db1a35bd2675ff4e68
+SHA1: 3c6c99dda4e7d5e94e4af1b125167777f8e6493e
+SHA256: 32b35b664d2f1ad7807d45a7ae4189d5636ffe867524ef9d461c0f5733e7377b
+SHA512: a9815a9a6e4ff921dad632b104eec101f90441582052d63ffe203e4f9306f84d1d3fda1bc2b6071653214b36da5e3ab75db033bb6b5698f7bd9b3d38940630a2
+
 Package: com.0xkuj.notificationsgroupcount
 Name: NotificationsGroupCount
 Description: Count those notifications inside Apple notifications grouping!
