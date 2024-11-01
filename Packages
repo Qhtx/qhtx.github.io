@@ -1,3 +1,21 @@
+Package: com.0xkuj.notificationsgroupcount
+Name: NotificationsGroupCount
+Description: Count those notifications inside Apple notifications grouping!
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Installed-Size: 448
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.0xkuj.notificationsgroupcount_1.0.1_iphoneos-arm64e.deb
+Size: 77984
+MD5: c79b82bbe1f28c353a11bef8ba8b1f1d
+SHA1: 105d21f960c24ca7b25493f98746fc547db50af8
+SHA256: 1295df4c4661c2ca6fe2d1c5c995cda072860e625c74162fe27f6bc4bffd6892
+SHA512: 0c41f6a06f74c7734efb102f55e965a3030293168886d1144629480e1a16b7ea14f971c8c4b2b8ab7ac546f713e6023cb0a69c601131641f949aab67f4b819d9
+
 Package: com.squidforce.copyvault
 Name: CopyVault
 Description: Your Copy Vault, Your Pasteboard
