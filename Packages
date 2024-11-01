@@ -1,3 +1,41 @@
+Author: CreatureSurvive <support@creaturecoding.com>
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Description: A minimal color picker library for developers
+Version: 1.0.6
+Name: libCSColorPicker
+Section: System
+Package: com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0.6_iphoneos-arm64.deb
+Size: 149100
+MD5: b6d3bdbefc7cca1ed469185ab6320207
+SHA1: 6065572afb0561ce4f3762257b1cbc0d772f8d65
+SHA256: f607ba673446d5c960f3783829837df2f31f51921e282710fa6ef4340858a0ae
+SHA512: 4de4112b76ce3e93cb9aacbaeaca2b97be4a12f34abb9f1403883de23250f86a0a224327440d3d275b37a9494a5dae260f229294b62b2cac562eda8a795c8c96
+
+Author: Asterix <asterix_gaul@outlook.com>
+Architecture: iphoneos-arm64
+Description: Digital battery in statusbar
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Version: 1.1.0
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.creaturesurvive.libcscolorpicker
+Name: DigitalBattery13
+Section: Tweaks
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalbattery13Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalbattery13Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: asterix
+Tag: purpose::extension, compatible::ios13
+Installed-Size: 509
+Package: com.asterix.digitalbattery13
+Icon: file:///Library/PreferenceBundles/DigitalBattery13.bundle/icon@2x.png
+Filename: ./debs/com.asterix.digitalbattery13_1.1.0_iphoneos-arm64.deb
+Size: 39956
+MD5: 04ca83cc07a4e01cbccbc4421ba41878
+SHA1: 7b24d1e99a8e6d195a390a791209330b6ddc22ce
+SHA256: b417990a371895a53128ab95a09fded2e48b222a70ba956ebe4d576b04653955
+SHA512: 513316e00c47d82993142739dbab12d39ec6b5db3adf0fa4f29a4a6b41ee7b22a4edabf4f176e4808b437cdf932e56e48ed85d3185e1578d635e06edfbd7736e
+
 Package: dev.objcmsgsend.iota
 Name: iota
 Depends: mobilesubstrate, org.haxi0.derootifier
