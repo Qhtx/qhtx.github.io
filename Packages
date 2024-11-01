@@ -281,14 +281,14 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
 Architecture: iphoneos-arm64
-Version: 1.0~b13
+Version: 1.0~b14
 Installed-Size: 6252
-Filename: ./debs/com.fouadraheb.regram_1.0~b13_iphoneos-arm64.deb
-Size: 1331148
-MD5: e05db7a8295279e951ebd5a89f88e77e
-SHA1: d6c7de790965055bcf8a7da147fd4515d0e371ab
-SHA256: 19e0dae7a6a897f58897ec9a4897324fbd294dd00b061ceb9d8858de6215b8e0
-SHA512: e89df68939ac3994fd24a012aa7c0aecc8dd6d74f9f178daf29b55834740888f5d6c1098935824c3222a13a1b12b8bdbd6fb3d78991a34d8e9ee4c105a393e03
+Filename: ./debs/com.fouadraheb.regram_1.0~b14_iphoneos-arm64.deb
+Size: 1329972
+MD5: 403e0b22b2e3d46818bebea74df7c106
+SHA1: c532c01b4c1b5fe8c620e4d7872fcb4a268daf64
+SHA256: 0e74d30f20ce577245f5631d28089dea312fb4e2efbde6a7a1795adee45769aa
+SHA512: e2ca18b31949da99351252cac2ec30fad0c4c97fd4bd4cc796a0d5350f8e88d25eedc8a774a3e5986e2e76e779ad7312b3288f2d10ae73ea369784af5d768489
 
 Package: netskao.appdata-rootless
 Version: 1.4.1
