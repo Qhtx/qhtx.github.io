@@ -1,6 +1,6 @@
 Package: dev.objcmsgsend.iota
 Name: iota
-Depends: mobilesubstrate
+Depends: mobilesubstrate, xyz.cypwn.xinam1ne
 Replaces: dev.kanji.iota
 Description: A great tweak for Snapchat v12.25 🥀.
 Maintainer: objc_msgSend
