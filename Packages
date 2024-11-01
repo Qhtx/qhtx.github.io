@@ -1,3 +1,21 @@
+Package: com.tonykraft.inosleep
+Name: iNoSleep
+Version: 1.2.4
+Section: Tweaks
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Installed-Size: 368
+Author: Tony Kraft <iostonykraft@gmail.com>
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Description: Allows Wifi to stay connected when the device is locked.
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.inosleep.html
+Filename: ./debs/com.tonykraft.inosleep_1.2.4_iphoneos-arm64.deb
+Size: 31646
+MD5: c114b2b650d9e1762c767f491b204126
+SHA1: e79b59d3b1fa13ee4701aa15ba08fb9033119b94
+SHA256: 5dc860e698e04f663eb5c93ef2d8a88fec4714d54765bfcb04d19dc0895113cb
+SHA512: d566e6d673f3f9f4931a305c1e7406b9ac372d5ceee447afb920b67d5696b30d71e11f6ac6f49ea0e25308c7b394cb0322c68a40094cc13c6f38899ce0c8067d
+
 Package: org.haxi0.derootifier
 Version: 1.3
 Description: rootful to rootless
