@@ -1,6 +1,6 @@
 Package: dev.objcmsgsend.iota
 Name: iota
-Depends: mobilesubstrate, xyz.cypwn.xinam1ne
+Depends: mobilesubstrate, org.haxi0.derootifier
 Replaces: dev.kanji.iota
 Description: A great tweak for Snapchat v12.25 🥀.
 Maintainer: objc_msgSend
@@ -63,11 +63,11 @@ Architecture: iphoneos-arm64
 Section: Applications
 Icon: https://i.imgur.com/P97SEPg.jpeg
 Filename: ./debs/org.haxi0.derootifier_1.3_iphoneos-arm64.deb
-Size: 528948
-MD5: bd1c1db7e8ff289e24454092123e2885
-SHA1: 751fd3b8695dbc3cae1d24c0eedb835983dc62b0
-SHA256: 869d8d447dbb1066f23b09f5d880dc2f5c41f7fe44de15d53fbe7d0cf817d157
-SHA512: 3ee1b6cb818a0322556755001f812c4f80c18af1eccaa19eb239df9063e4983d057dd499565c6ce2f3962b4a0fccb5a8b45c9d3c7b4d7e15d25acedd922ca338
+Size: 529288
+MD5: 4444f0f9a062779398fa2ef1e86281e7
+SHA1: 38f9bbcd89fc1b61eb485f0c45d620ecd4ecc8ef
+SHA256: 3fb2ca57c3be0672446af0c2c5d27573652d77df802778ceef517b3a9629a635
+SHA512: 6256acda05c34dae7c4d46ca5c35dadd085fbf44b85dc52dd2aa828b7fd5f3595b50245218cf58165957e549ed00473a6dce90a1070adf95f07134d6488ae8a5
 
 Package: com.raulsaeed.bhtiktok++
 Name: BHTikTok++
