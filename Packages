@@ -14,27 +14,27 @@ SHA256: f607ba673446d5c960f3783829837df2f31f51921e282710fa6ef4340858a0ae
 SHA512: 4de4112b76ce3e93cb9aacbaeaca2b97be4a12f34abb9f1403883de23250f86a0a224327440d3d275b37a9494a5dae260f229294b62b2cac562eda8a795c8c96
 
 Author: Asterix <asterix_gaul@outlook.com>
-Architecture: iphoneos-arm64
-Description: Digital battery in statusbar
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Version: 1.1.0
-Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.creaturesurvive.libcscolorpicker
 Name: DigitalBattery13
+Package: com.asterix.digitalbattery13
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.creaturesurvive.libcscolorpicker
 Section: Tweaks
+Installed-Size: 509
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Description: Digital battery in statusbar for iOS13
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalbattery13Dp
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalbattery13Dp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: asterix
 Tag: purpose::extension, compatible::ios13
-Installed-Size: 509
-Package: com.asterix.digitalbattery13
 Icon: file:///Library/PreferenceBundles/DigitalBattery13.bundle/icon@2x.png
 Filename: ./debs/com.asterix.digitalbattery13_1.1.0_iphoneos-arm64.deb
-Size: 39956
-MD5: 04ca83cc07a4e01cbccbc4421ba41878
-SHA1: 7b24d1e99a8e6d195a390a791209330b6ddc22ce
-SHA256: b417990a371895a53128ab95a09fded2e48b222a70ba956ebe4d576b04653955
-SHA512: 513316e00c47d82993142739dbab12d39ec6b5db3adf0fa4f29a4a6b41ee7b22a4edabf4f176e4808b437cdf932e56e48ed85d3185e1578d635e06edfbd7736e
+Size: 39320
+MD5: 2e8a6413d12396cad335936def79915a
+SHA1: 101ee53c8c964055207276611cb544f2caeeec55
+SHA256: 5d87410d9766d75b0c847519ae27109edee18d158ad0a36ac3647178fd62f0c0
+SHA512: 0a05440879001a41902f7c989cb649278c750fabd33b6abeac92b053183a059c2f83fc9784ac1cf70bc32fbb9fa11065b3038ab7c1c257a62394d271d614ff92
 
 Package: dev.objcmsgsend.iota
 Name: iota
