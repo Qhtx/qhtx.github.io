@@ -1,3 +1,21 @@
+Package: com.fissiondev.uranium
+Name: Uranium
+Version: 1.2.7
+Section: Tweaks
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0)
+Installed-Size: 468
+Author: FissionDev
+Maintainer: FissionDev
+Description: Lots Of Options To Enhance Your iOS Experience!
+Icon: https://andrewrepo.github.io/Depictions/Icons/Uraniumicon@3x.png
+Filename: ./debs/com.fissiondev.uranium_1.2.7_iphoneos-arm64.deb
+Size: 47142
+MD5: 70d96c445215189a189e81136e27e6c5
+SHA1: 94228a94f8735d086a7aea83b1889b27a662f7cf
+SHA256: e8ec5dc08329b9932726f237592cd128b07885389434aa6ceea68dacbf99647c
+SHA512: 77e87447e634fe66ff846ecc8fbfad0a22a2a87447ef5d9b1e40b6663e24678694ee2ed05797f144ecc0db2e8b02cc69d939e3b957bcb35984ba1f20df611934
+
 Package: com.tonykraft.inosleep
 Name: iNoSleep
 Version: 1.2.4
