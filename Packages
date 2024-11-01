@@ -165,25 +165,6 @@ SHA1: 87b063b044a026839dabf12121510e1a07b9d5e3
 SHA256: b4800c6779e26e6b2b18a9ece8f814e03177fa85cdcada70d0232e1fe1edc8a0
 SHA512: a687ad3335719ce2fdd6894498ecdd6eff71bf6a7a6f3b1dab00e262fb1e624ee5050a799c418a93c87cf8794c68bf2d3cc624d22c530d15dad37407f51ae73d
 
-Package: com.dvntm.cmm
-Name: CallMeMaybe
-Description: Enhancer for the system Phone app
-Maintainer: dvntm
-Author: dvntm
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
-Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
-Architecture: iphoneos-arm64
-Version: 1.0
-Installed-Size: 264
-Filenamed: ./debs/com.dvntm.cmm_1.0_iphoneos-arm64.deb
-Size: 34796 
-MD5: 128264f679269e66692603fd7d52909f
-SHA1: 720062c3c208576bf8f9464285068555afd25a8b
-SHA256: 8459dab939d0b362c4406d249d4ce293454e15d14e7690bee301e137e3e348d6
-SHA512: 17ec94a1f92d6fa4ce9fb89dcbe28a153ae03d124453ae70e107590d36bba2f5561f1b9fe16f0d62842324967802eb69ba09f1f0a8b6fd73b7e39f9b934ea59e
-
 Package: com.dvntm.cc18
 Name: CC18
 Description: Round CC modules replication, like in iOS 18
