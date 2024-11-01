@@ -1,3 +1,38 @@
+Package: com.raulsaeed.bhtiktok++
+Name: BHTikTok++
+Description: An awesome tweak for TikTok!
+Maintainer: raul saeed
+Author: raul saeed
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.4.5-161+debug
+Installed-Size: 996
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.raulsaeed.bhtiktok++_1.4.5-161+debug_iphoneos-arm64e.deb
+Size: 133908
+MD5: 3f874ac22d8d2aa8289f97050817d656
+SHA1: 6a1bc83ee2509e1c8f0be5737f95d8283cc20da4
+SHA256: 101ed5d8330513ae165117f90b00e8b1497fe35b2af2749f1e3f6cbeb38a4773
+SHA512: 5555301ea6f2a15277206da5afae6b01685062c0100a9a5a30cac1aa74032cdcb23c61f3ec901336c4c0d61d3f09fed1a83fcefa4fb8ba7e72c6d9e20a89772f
+
+Package: com.raulsaeed.bhtiktok++
+Name: BHTikTok++
+Description: An awesome tweak for TikTok!
+Maintainer: raul saeed
+Author: raul saeed
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.4.5-161+debug
+Installed-Size: 996
+Filename: ./debs/com.raulsaeed.bhtiktok++_1.4.5-161+debug_iphoneos-arm64.deb
+Size: 149636
+MD5: ec2ecee62cdad4f581e743a57ed8ca2a
+SHA1: 494f34651b60d1b1990f634a833b45d628a3ccb7
+SHA256: 54fad18889845ba60d4718dd27261f0a12d099cc859e1008243da11b56e8e543
+SHA512: a3f9594420fe3bc6c5f59788c4c7e61c4a5d6ae6965f0e839dffc2857b401a5796f768b25f2d42110e1510a6cb0611b6b1102d07f480f976545219b67dda87d5
+
 Package: com.0xkuj.notificationsgroupcount
 Name: NotificationsGroupCount
 Description: Count those notifications inside Apple notifications grouping!
