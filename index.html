@@ -12,8 +12,7 @@
             overflow: hidden;
             font-family: Arial, sans-serif;
             color: #fff;
-            background: url('https://i.imgur.com/a3hCsKK.jpeg') no-repeat center center fixed;
-            background-size: cover;
+            background-color: rgba(29, 51, 125, 0.9);
         }
 
         .content {
@@ -102,22 +101,22 @@
 
     function createSnowflake() {
         const snowflake = document.createElement("div");
+        snowflake.innerHTML = "&#10052;";
         snowflake.style.position = "absolute";
         snowflake.style.top = "-10px";
-        snowflake.style.width = Math.random() * 3 + 2 + "px";  // Random small size (2-5px)
-        snowflake.style.height = snowflake.style.width;
-        snowflake.style.borderRadius = "50%";
-        snowflake.style.backgroundColor = "white";
-        snowflake.style.boxShadow = `0 0 ${Math.random() * 5 + 2}px white`;  // Subtle glow
+        snowflake.style.fontSize = Math.random() * 5 + 5 + "px";  // Smaller size (5-10px)
+        snowflake.style.color = "white";
         snowflake.style.left = Math.random() * window.innerWidth + "px";
         snowflake.style.opacity = Math.random();
 
         snowflakesContainer.appendChild(snowflake);
 
         let speed = Math.random() * 2 + 1;  // Slower speed (1-3px per frame)
+        let rotation = Math.random() * 360;
 
         function fall() {
             snowflake.style.top = parseFloat(snowflake.style.top) + speed + "px";
+            snowflake.style.transform = `rotate(${rotation}deg)`;
             if (parseFloat(snowflake.style.top) > window.innerHeight) {
                 snowflake.remove();
             } else {
@@ -127,7 +126,5 @@
         fall();
     }
 
-    setInterval(createSnowflake, 150);  // Adjusted frequency for gentle snowfall effect
+    setInterval(createSnowflake, 150);  // Slightly reduced frequency for a gentle snowfall effect
 </script>
-</body>
-</html>
