@@ -173,15 +173,15 @@ Maintainer: haxi0
 Author: haxi0
 Depends: mobilesubstrate, odcctools, fakeroot, ldid, oldabi, com.tigisoftware.filza, file
 Name: Derootifier
+Icon: https://i.imgur.com/P97SEPg.jpeg
 Architecture: iphoneos-arm64
 Section: Applications
-Icon: https://i.imgur.com/P97SEPg.jpeg
-Filename: ./debs/org.haxi0.derootifier_1.3_iphoneos-arm64.deb
-Size: 529288
-MD5: 4444f0f9a062779398fa2ef1e86281e7
-SHA1: 38f9bbcd89fc1b61eb485f0c45d620ecd4ecc8ef
-SHA256: 3fb2ca57c3be0672446af0c2c5d27573652d77df802778ceef517b3a9629a635
-SHA512: 6256acda05c34dae7c4d46ca5c35dadd085fbf44b85dc52dd2aa828b7fd5f3595b50245218cf58165957e549ed00473a6dce90a1070adf95f07134d6488ae8a5
+Filename: /debs/org.haxi0.derootifier_1.3_iphoneos-arm64.deb
+Size: 529416
+MD5: 3244594637ec0bd1e1dca7ca499271ec
+SHA1: ff1cfc2f9736a7fc195332671529a6fb8e0984c6
+SHA256: c7953b51a1a6608332098dad82eae1bd3b9fa423630f96ad882a0bcf9f9dd123
+SHA512: 9a0691f26a428c465d448da343bf6358dd77a2b26debb4a8462e6d1732d21c30efea1d3321f8cb5c0cbbe755215fac783e7caf50532230da7198d184308653ed
 
 Package: com.raulsaeed.bhtiktok++
 Name: BHTikTok++
