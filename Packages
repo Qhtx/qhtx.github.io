@@ -1,3 +1,21 @@
+Package: com.0xkuj.notificationsgroupcount
+Name: NotificationsGroupCount
+Description: Count those notifications inside Apple notifications grouping!
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Installed-Size: 480
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.0xkuj.notificationsgroupcount_1.0.2_iphoneos-arm64e.deb
+Size: 78432
+MD5: 6628ac538001a720e121bc13a2c5b6a4
+SHA1: 4929658f3dba1d3905ef4a2de21393f25b8ef890
+SHA256: f32bdf6226149b258cf384d0fea9ac14087b090aee66dc7cebbdab2fd665c5e9
+SHA512: d0485d725acd91e77b217d3c449f878b562669ad4226d4f755d54f82e3adf2d20a23cfc75d26d945c228402266b9a7e9951b3ab2abf0f1c044267dbd496909e2
+
 Author: CreatureSurvive <support@creaturecoding.com>
 Architecture: iphoneos-arm64e
 Maintainer: CreatureSurvive <support@creaturecoding.com>
