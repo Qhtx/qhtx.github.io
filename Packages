@@ -1,4 +1,62 @@
 Author: CreatureSurvive <support@creaturecoding.com>
+Architecture: iphoneos-arm64e
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Description: A minimal color picker library for developers
+Version: 1.0.6
+Name: libCSColorPicker
+Section: System
+Package: com.creaturesurvive.libcscolorpicker
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0.6_iphoneos-arm64e.deb
+Size: 144828
+MD5: 14448a0025e70c9bc6dd47a17333d58a
+SHA1: 2f8bee1e3f7395094c77c1ef5c580280c8395777
+SHA256: 3c8dc6916fc066c00d799388066c595fa93f122801510a248224c23bba6cd97f
+SHA512: e0dffc8e54f1b6e515b6c08c9dec4f13e9538e39100af6567f775162e6d07ce8fc1b1c0451ff0ca4dff4c7ddecac334e7e45b149374621f5e4520188d98082a3
+
+Author: Asterix <asterix_gaul@outlook.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: DigitalBattery13
+Package: com.asterix.digitalbattery13
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.creaturesurvive.libcscolorpicker
+Section: Tweaks
+Installed-Size: 509
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Description: Digital battery in statusbar for iOS13
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalbattery13Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalbattery13Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: asterix
+Tag: purpose::extension, compatible::ios13
+Icon: file:///Library/PreferenceBundles/DigitalBattery13.bundle/icon@2x.png
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.asterix.digitalbattery13_1.1.0_iphoneos-arm64e.deb
+Size: 39372
+MD5: f317bd06df0a8688043e9863ff252f57
+SHA1: fe7d86423cd907d139b56b22118781126c610279
+SHA256: 6c8803a3ab0ee4f688ae0f25b3307162c416a431b14ff7d4daf8d76ed6a2e6bc
+SHA512: 98a7dddfec01f227e8e0d7c532c01c0c5ef9b49c8efbbdf780dc0d1d33b0f58b2333ba3c69d5ce27699a8924cf361fda216f53a69e42b1bfda40c461b014b8f8
+
+Package: com.rpgfarm.a-font
+Name: A-Font
+Depends: mobilesubstrate, preferenceloader
+Description: Change your font!
+Maintainer: Baw Appie <pp121324@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.10.1
+Installed-Size: 2476
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.rpgfarm.a-font_1.10.1_iphoneos-arm64e.deb
+Size: 400136
+MD5: 3cdfa6d4e9325dc2cf67ab7d7218a127
+SHA1: 4988559b051e17cf9a933b89f97945f3e9ee25cf
+SHA256: 0d9463efe00affe00116d9a2a57546a3e6e67c0d4a334d3da19198a738f3cd54
+SHA512: dc381b46cc982a7ab6afa8dee165da17534bd724110e1974b9e16542f8f2be15a629c67bc30bf1de64dd8ca2485a372468d74fc85c4b7584a8aa7d6aeab573d2
+
+Author: CreatureSurvive <support@creaturecoding.com>
 Architecture: iphoneos-arm64
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Description: A minimal color picker library for developers
