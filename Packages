@@ -1,3 +1,22 @@
+Package: net.cadoth.nosbreload
+Name: NoSBReload
+Version: 0.1.1-1
+Architecture: iphoneos-arm64e
+Description: Replace sbreload with traditional respring to fix autofill issues
+Depiction: https://repo.alexia.lol/depictions/net.cadoth.nosbreload
+SileoDepiction: https://repo.alexia.lol/sileo-depictions/net.cadoth.nosbreload
+Maintainer: alexia <me@alexia.lol>
+Author: alexia <me@alexia.lol>
+Section: System
+Depends: firmware (>> 15.0)
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/net.cadoth.nosbreload_0.1.1-1_iphoneos-arm64e.deb
+Size: 3672
+MD5: 308cc637238651c25a3aea43639936e3
+SHA1: e7b96d16ea8fcda4e0d3ed8243bb2b4e67feafd4
+SHA256: 31e3decd458ad01d2c3ba990171fc33898da9ca976de4add40d85b03e29441b6
+SHA512: 88e8ed9fec3c5d6bed518dc21fc3be656e36e80c59f5548cc29b1f94e0186536b9806b7a4de82f556e161911b7e08a2595eb8fc48d2c2245a818d116780f59f8
+
 Package: me.ahmedbafkir.dleasy
 Name: DLEasy
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
