@@ -1083,16 +1083,15 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
-Architecture: iphoneos-arm64e
-Version: 1.0~b13
+Architecture: iphoneos-arm64
+Version: 1.0~b14
 Installed-Size: 6252
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.fouadraheb.regram_1.0~b13_iphoneos-arm64e.deb
-Size: 1342840
-MD5: e9a19507938a4b6633d2571b75376f2a
-SHA1: f1877ae261fbdfa56e48c52fc847fcad049be135
-SHA256: dfd888200295499c0d689e5b83cd33e26a58c8c01894ae2705125183e44f4e0f
-SHA512: 83e9c847854295643ba90ed22349c1810dd262dc7e050d621f78982b89d8fce076904305ea7d67f482308ceb1ef6d598226d231f58b235ba347c1a03b6a04647
+Filename: ./debs/com.fouadraheb.regram_1.0~b14_iphoneos-arm64.deb
+Size: 1330172
+MD5: d5cb98925fa3886f58147ceec2c5a614
+SHA1: 4b23ad264d26dbf121ef29066c4ff2639af89e01
+SHA256: 63c9ff1840896603519d58bbdebabac9006669002e0d55f84d80dc078a3f9102
+SHA512: 1cb3afff618c0083286e24026004b9a54e6a4686665b1dd7c26e738026eb6a6aefd1886bc6c7f76b6f9b04b38846011c1c22a2dbb174bc45d5be315efcd1a60f
 
 Package: com.yourepo.cydiageek.wiredock
 Architecture: iphoneos-arm64e
@@ -2077,15 +2076,15 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
 Architecture: iphoneos-arm64e
-Version: 1.0~b12
-Installed-Size: 6220
+Version: 1.0~b14
+Installed-Size: 6252
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.fouadraheb.regram_1.0~b12_iphoneos-arm64e.deb
-Size: 1341196
-MD5: adfc4525cb90ff0d7df0b13dfe70b127
-SHA1: 0f61f48d84c6be839e99faa3464d912dc8e44919
-SHA256: a2629886b60bb79b45b07e1bb51a2445132ed685ea7034c86ed67046ff4d6732
-SHA512: 7ba5f4336a717035c171c3bf4a198f36a32584b43a10de887dea36e1c57363ed1dcdae20a4cd6c3508d83a1b93cea77c1a2c5e4bebb922aaf5bd8826e14e2887
+Filename: ./debs/com.fouadraheb.regram_1.0~b14_iphoneos-arm64e.deb
+Size: 1343752
+MD5: fc3997803ffc49a7677ddc23fa988f38
+SHA1: a9e88a3bfb9112df16041bfcb9b7989308fd39ee
+SHA256: 971a99c7e8b284122353e41ee1e8faa1d9c4f32b8b363a5216358369b31eb071
+SHA512: f1954c564896b34609fbac50956dd8ed13abdc375d71f91342cdd2e756866266873e1ecda24343f93db191cab20d2b261fe3e660a6c9f5a68bc028d2a4002593
 
 Package: xyz.skitty.spectrum
 Name: Spectrum
