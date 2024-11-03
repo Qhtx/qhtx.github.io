@@ -822,20 +822,20 @@ Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Description: The all-in-one tweak for WhatsApp Messenger
 Section: Tweaks
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.39)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
 Architecture: iphoneos-arm64e
-Version: 1.2.43
-Installed-Size: 6660
+Version: 1.2.44
+Installed-Size: 6688
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.fouadraheb.watusi3_1.2.43_iphoneos-arm64e.deb
-Size: 1958208
-MD5: afc6ffe471fdc464e2d6097d302ba90a
-SHA1: d5c7f78d6798619b294a609a8a29bd207f129051
-SHA256: 4a70b0ac8e695b52c0c1ab6b3f2fd429c9e58cc40bf85bdc0f30130aaeccb605
-SHA512: 29aa72ebb5432e5850df376e3038a31e4482924605206d68cda38fedc5988befed97c0aec384b15612e32f10e34a67b4ba6af03747c0cec3646f481dbdd061d7
+Filename: ./debs/com.fouadraheb.watusi3_1.2.44_iphoneos-arm64e.deb
+Size: 1961212
+MD5: 729ab97afb79b44ce64e2cb97ca44c2d
+SHA1: 43fba194e2d22ed5d68ebf4c1fffe59b96f20fc1
+SHA256: 8db637674eead38c1a25d3f0bdc2d8cd2703ed24f33105b2812b7afe91ec5bf3
+SHA512: 885f9c862af0af89940869b070b95b49f8a43f962e616e0df186b64908d68a929020347f71daf54e306be201006e1bd6ffca3235f5f2daf4ea41204ee6fcc1b9
 
 Package: com.dvntm.cmm
 Name: CallMeMaybe
@@ -1991,21 +1991,21 @@ SHA512: d2c4530bcee82b76ca62e47af7629b5954d510962bb26f7e840dd545dbd7df6860b850b6
 
 Package: com.f0u4d.watusitools
 Name: WatusiTools
-Version: 2.4.39
+Version: 2.4.40
 Description: Library for Watusi, Regram and other tweaks
-Depends: firmware (>= 15.0)
+Depends: firmware (>= 12.0)
 Section: Development
 Architecture: iphoneos-arm64e
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.f0u4d.watusitools_2.4.39_iphoneos-arm64e.deb
-Size: 4501600
-MD5: 85b688ae62c590ea5e5f23fa6dc6af0d
-SHA1: ce959842068b42914af43290877f0b6f67c01205
-SHA256: 582c7d0e4ce701a03f464d38dff36ba2d253efb450bee28b2fc35b9160994f67
-SHA512: 5e1ed8a3ab8206a7a9b982c5c75f11787cd2a675a1db7463fc7b7a4353c0663e20da5a6a31ced2ca9317d5fa7721c8fd411f2f0891aabc16e7bf938f242d9599
+Filename: ./debs/com.f0u4d.watusitools_2.4.40_iphoneos-arm64e.deb
+Size: 4497396
+MD5: afd6a1734ff9a8bb7160258ea2595ec7
+SHA1: 378c9e2e5aac37a6de1544a4b7f404c187b66142
+SHA256: 160c60859aa749aa24049e8e83ac37b7f76b050e0171736836df544588d4248e
+SHA512: c5fc7b35a51002536ee0d677651ee4879ff863b7b9e136bb7df31b5e018e8ac90983839af3017ae6ca7508a3dc7b2ea8336b5411a30ec5f039e7b706a306ef57
 
 Package: com.julioverne.goodwifi
 Maintainer: Julio
