@@ -567,7 +567,7 @@ Author: Fouad Raheb <support@fouadraheb.com>
 
 Package: com.f0u4d.watusitools
 Name: WatusiTools
-Version: 2.4.39
+Version: 2.4.40
 Description: Library for Watusi, Regram and other tweaks
 Depends: firmware (>= 12.0)
 Section: Development
@@ -575,12 +575,13 @@ Architecture: iphoneos-arm64
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-Filename: ./debs/com.f0u4d.watusitools_2.4.39_iphoneos-arm64.deb
-Size: 4497384
-MD5: a77121a75f3bb947e65f7c097d132a5a
-SHA1: d250d4f88885bcb3897543a757a752d38bd9df0a
-SHA256: 9c43544c54812ba85a9cf3b1feb4e64001121b7530c84cb11db00295b073177f
-SHA512: b664c7d7d7586f5bd721132e0d0114e8ced2b1713afd32981fe6edee485be146b27f8b406add8c7e544fd6ba3ba3d493660bac807f0661006ece0210101a0397
+Filename: ./debs/
+com.f0u4d.watusitools_2.4.40_iphoneos-arm64.deb
+Size: 4497924
+MD5: 37eeab0dcc7d61d5cf407e5eb386baaa
+SHA1: d2a9331a8459441f54758020a746fa168e4e2140
+SHA256: a77d3ff6eae8011d9d8411a8d25381c910d7166ee2dcc78e8a03aeeb87f56e9c
+SHA512: f4b56b069b90fe68fce8c32b9194b5496111ae6b5b7e2b33e5a0c3ba510b9e447f4b41e001b43c31245691795dd57ae61f42e7f08b0dbce7e053a0cb6146eefe
 
 Package: xyz.xninja.systeminfo
 Architecture: iphoneos-arm64
