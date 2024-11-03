@@ -142,11 +142,11 @@ Maintainer: FissionDev
 Description: Lots Of Options To Enhance Your iOS Experience!
 Icon: https://andrewrepo.github.io/Depictions/Icons/Uraniumicon@3x.png
 Filename: ./debs/com.fissiondev.uranium_1.2.7_iphoneos-arm64.deb
-Size: 47142
-MD5: 70d96c445215189a189e81136e27e6c5
-SHA1: 94228a94f8735d086a7aea83b1889b27a662f7cf
-SHA256: e8ec5dc08329b9932726f237592cd128b07885389434aa6ceea68dacbf99647c
-SHA512: 77e87447e634fe66ff846ecc8fbfad0a22a2a87447ef5d9b1e40b6663e24678694ee2ed05797f144ecc0db2e8b02cc69d939e3b957bcb35984ba1f20df611934
+Size: 38516
+MD5: 380018fcd3aea541b41ca19cfaa0c30b
+SHA1: 60683c559d63968f4eb929a0cf30e03589ff1012
+SHA256: 6fe81022115cbc0ebf3b9c3436f6d03e0682afa160c4e561cd54988a60f794c3
+SHA512: 5cae7ae4813d8056e1f86504c0200dd0edf254799a9111a4fcbf2c1da67f86853ef73eb67969e3c03ecf9b954f994fe5f5f25ace9c5c79d9b134f8fd6a41eff6
 
 Package: com.tonykraft.inosleep
 Name: iNoSleep
@@ -542,10 +542,10 @@ Maintainer: Jax Roth
 Description: Allows iPhones to use “unsupported” charging accessories
 Filename: ./debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_iphoneos-arm64.deb
 Size: 4772
-MD5: 4c01f5d4a7a5e6f2f573ecb0cd9c5c3b
-SHA1: c9ae0540decf89535c71639019338c93218f6b5c
-SHA256: 327bacaeb58322544722c07c96a5d50b7bbdcc7f2506245b823117c97d3833a8
-SHA512: fb4b5c1084dce6ae82c2576faff246546901295aba21270dee2f5b2dd81a99e04b41717239c788691b7b763979df3d26dad5b07a0ceaec9ed7235841e3c50676
+MD5: 983a087d34956d773df79d17647e23b6
+SHA1: c2e2a58d21655a9999b2bd66052675593d73349d
+SHA256: 7868252395fddb8626be87ea96c86bb88cae9827233c0d66b2b6e83dfaa15769
+SHA512: f1847ee468842caaead6c7f77640a97b0fa88dd935d5489e2dbff3582e0eb66230955aaad4f489df1ca6c558953bc57b2582546e0fe27026792671650c11da39
 Icon: https://media.havoc.app/620c0c7c24c5820cc9bc0776?w=1920&q=75
 
 Package: com.fouadraheb.watusi3
@@ -640,11 +640,11 @@ Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64.deb
-Size: 76396
-MD5sum: 6dacc3e6635b6be6d3f96d6209ecd84c
-SHA1: 96c6cff56a0eff0d9e5a11b728bc04399d936594
-SHA256: 167518b99f8637cdcdafb8886362aeb2c8799549ed4d9dc8f2d124237dbeea79
-SHA512: c974f914869da4ca2e75e6efe27ba19211d3595120168205df25dd78c5787136f96b2bb9379deaa420bfff90cc902d6662904fb0a4b7cc25931b46b7c199547e
+Size: 76500
+MD5: 915b31cf0a0ac669e8f190763878fec6
+SHA1: 2880e5f6f0e9442aaee767d06bb53dbacde754c0
+SHA256: c2c0adc68f0d702b0b762cd17d42ac31a9348d11f3e0717eb1386bc624adeaf9
+SHA512: b4d8c245c732751a92ca2b817e098c44758b9d853647a9bd8a05d2bb9c8666ad1a22fde8c20e9d8d6cc33bd56d8ddb7dc2031e05eff5418e8e2a04add4848427
 Description: Better WiFi Preferences
 Name: GoodWiFi
 Author: julioverne
