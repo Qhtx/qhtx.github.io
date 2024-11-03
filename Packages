@@ -575,8 +575,7 @@ Architecture: iphoneos-arm64
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-Filename: ./debs/
-com.f0u4d.watusitools_2.4.40_iphoneos-arm64.deb
+Filename: ./debs/com.f0u4d.watusitools_2.4.40_iphoneos-arm64.deb
 Size: 4497924
 MD5: 37eeab0dcc7d61d5cf407e5eb386baaa
 SHA1: d2a9331a8459441f54758020a746fa168e4e2140
