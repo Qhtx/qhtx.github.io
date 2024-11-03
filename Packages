@@ -177,11 +177,11 @@ Icon: https://i.imgur.com/P97SEPg.jpeg
 Architecture: iphoneos-arm64
 Section: Applications
 Filename: /debs/org.haxi0.derootifier_1.3_iphoneos-arm64.deb
-Size: 529416
-MD5: 3244594637ec0bd1e1dca7ca499271ec
-SHA1: ff1cfc2f9736a7fc195332671529a6fb8e0984c6
-SHA256: c7953b51a1a6608332098dad82eae1bd3b9fa423630f96ad882a0bcf9f9dd123
-SHA512: 9a0691f26a428c465d448da343bf6358dd77a2b26debb4a8462e6d1732d21c30efea1d3321f8cb5c0cbbe755215fac783e7caf50532230da7198d184308653ed
+Size: 529272
+MD5: 25b9ea072c6cd64bed45ebbe4bea5d83
+SHA1: 3dbaa5b30f59a4b3826822374f92b2386533e4d4
+SHA256: 0a76758d3f87ff3335e01fe572af12c8fefcf3580965d6cadc9d6dea5a8824af
+SHA512: 4c20866affddff364a1a5bb5c4bbd198afe09e92427fcd9443c188642be995780a55f712aaccc11803fdcbeead82d9f5c5c8ef0f0a9ca4c713238361962dc876
 
 Package: com.raulsaeed.bhtiktok++
 Name: BHTikTok++
