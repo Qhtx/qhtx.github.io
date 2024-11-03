@@ -1,3 +1,21 @@
+Package: com.den.igformat
+Name: IGFormat
+Description: An awesome MobileSubstrate tweak!
+Maintainer: MrDeNsor
+Author: MrDeNsor
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 0.0.1-169+debug
+Installed-Size: 328
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.den.igformat_0.0.1-169+debug_iphoneos-arm64e.deb
+Size: 40360
+MD5: 8269246e0cfbc00cf638732a981f8675
+SHA1: a349aef34a5c7fd6d5ae9406b7e03ce747cab1ee
+SHA256: 3257962f45868e02246fa66d90eabf42f318ac1ab6022df1b3883df84bbb1466
+SHA512: 2df6fadd3b48de3b60ffc5680fe5201941b032c62e984ba3f31c7c31493492a531d899b068440a9e600b0392041ddf299b0df6eef12347d1377bf3bbee4d7e3c
+
 Package: net.cadoth.nosbreload
 Name: NoSBReload
 Version: 0.1.1-1
