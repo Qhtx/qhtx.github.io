@@ -521,7 +521,7 @@ Depends: firmware (>= 15.0)
 Description: is a modded of the Roothide Manager App's without bootstrap/roothide , with varClean function only to clean jailbreak junks & related files that make the iOS enviroment detected as jailbroken.
 Maintainer: Waji1h
 Author: roothide
-Section: Application
+Section: Tweaks
 Architecture: iphoneos-arm64
 Version: 0.7
 Filename: ./debs/com.roothide.varclean_0.7_iphoneos-arm64.deb
