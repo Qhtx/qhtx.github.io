@@ -3,128 +3,119 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ahmed AlGhrbi</title>
+    <title>ipapplus</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700" rel="stylesheet">
     <style>
-        body, html {
+        body {
             margin: 0;
-            padding: 0;
-            height: 100%;
+            font-family: 'Cairo', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: url('background.png') no-repeat center center/cover;
+            height: 100vh;
+            color: rgba(224, 224, 224, 0.8);
             overflow: hidden;
-            font-family: Arial, sans-serif;
-            color: #fff;
-            background-color: rgba(29, 51, 100, 0.9);
+            padding: 20px;
         }
 
-        .content {
-            position: relative;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            height: 90vh;
-            z-index: 1;
+        .container {
+            width: 100%;
+            max-width: 400px;
+            background: rgba(30, 30, 30, 0.9);
+            border-radius: 15px;
+            padding: 20px;
             text-align: center;
-        }
-
-        /* Profile Image */
-        .profile-image {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            margin-top: 20px;
-            position: relative;
-            box-shadow: 0 0 15px rgba(255, 255, 255, 0.8), 0 0 30px rgba(255, 255, 255, 0.6);
-            animation: glow 2s infinite alternate;
-        }
-
-        @keyframes glow {
-            0% { box-shadow: 0 0 15px rgba(255, 255, 255, 0.8), 0 0 30px rgba(255, 255, 255, 0.6); }
-            100% { box-shadow: 0 0 25px rgba(255, 255, 255, 1), 0 0 50px rgba(255, 255, 255, 0.8); }
-        }
-
-        /* Glassy Button Effect */
-        .buttons {
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-            margin-top: 20px;
-            width: 200px;
-        }
-
-        .buttons a {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            padding: 10px;
-            text-align: center;
-            text-decoration: none;
-            color: white;
-            border-radius: 10px;
-            background: rgba(255, 255, 255, 0.1);
-            border: 1px solid rgba(255, 255, 255, 0.3);
+            box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.8);
             backdrop-filter: blur(10px);
-            transition: transform 0.2s, box-shadow 0.2s;
+            animation: fadeIn 1s ease-in-out;
         }
 
-        .buttons a:hover {
-            transform: scale(1.05);
-            box-shadow: 0px 4px 15px rgba(255, 255, 255, 0.5);
+        .profile-image {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            overflow: hidden;
+            margin: 0 auto 10px;
+            background-color: #3E66FB;
+            padding: 5px;
+            box-shadow: 0 0 10px rgba(0, 188, 212, 0.5);
         }
 
-        .twitter { background-color: rgba(29, 161, 242, 0.1); }
-        .rootless { background-color: rgba(51, 51, 51, 0.1); }
+        .profile-image img {
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+        }
+
+        h1 {
+            font-size: 2rem;
+            margin: 10px 0;
+            color: #3E66FB;
+        }
+
+        .bio {
+            font-size: 1rem;
+            color: rgba(176, 176, 176, 0.8);
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+
+        .link-button {
+            display: block;
+            background-color: #3E66FB;
+            color: rgba(255, 255, 255, 0.8);
+            padding: 12px 20px;
+            margin: 10px 0;
+            border-radius: 30px;
+            text-decoration: none;
+            font-size: 1rem;
+            transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(13, 71, 161, 0.3);
+        }
+
+        .link-button:hover {
+            background-color: #0b3d91;
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(13, 71, 161, 0.5);
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 1.5rem;
+            }
+
+            .bio {
+                font-size: 0.9rem;
+            }
+
+            .link-button {
+                font-size: 0.9rem;
+                padding: 10px 18px;
+            }
+        }
     </style>
 </head>
 <body>
-
-    <div class="content">
-        <img src="https://i.imgur.com/piK3zr2.jpeg" alt="Ahmed's Image" class="profile-image">
-        <h1>Ahmed AlGhrbi</h1>
-
-        <div class="buttons">
-            <a href="https://x.com/ipapplus" target="_blank" class="twitter">Twitter</a>
-            <a href="sileo://source/https://a7m.dev" target="_blank" class="rootless">Rootless / RootHide</a>
+    <div class="container">
+        <div class="profile-image">
+            <img src="profile.png" alt="Profile">
         </div>
+        
+        <h1>Ahmed AlGhrbi</h1>
+        <p class="bio">سبحان الله والحمد لله ولا إله إلا الله والله أكبر </p>
+        
+        <a href="https://x.com/ipapplus" class="link-button">Twitter</a>
+        <a href="https://t.me/ipapplus" class="link-button">Telegram</a>
+        <a href="sileo://source/https://a7m.dev" class="link-button">jb repo</a>
+        <a href="https://github.com/ipapplus/Dopamine2-roothide/releases" class="link-button">Github</a>   
     </div>
-
-    <!-- Snowfall Effect -->
-
-<script>
-    const snowflakesContainer = document.createElement("div");
-    snowflakesContainer.style.position = "absolute";
-    snowflakesContainer.style.top = "0";
-    snowflakesContainer.style.left = "0";
-    snowflakesContainer.style.width = "100%";
-    snowflakesContainer.style.height = "100%";
-    snowflakesContainer.style.pointerEvents = "none";
-    document.body.appendChild(snowflakesContainer);
-
-    function createSnowflake() {
-        const snowflake = document.createElement("div");
-        snowflake.innerHTML = "&#10052;";
-        snowflake.style.position = "absolute";
-        snowflake.style.top = "-10px";
-        snowflake.style.fontSize = Math.random() * 5 + 5 + "px";  // Smaller size (5-10px)
-        snowflake.style.color = "white";
-        snowflake.style.left = Math.random() * window.innerWidth + "px";
-        snowflake.style.opacity = Math.random();
-
-        snowflakesContainer.appendChild(snowflake);
-
-        let speed = Math.random() * 2 + 1;  // Slower speed (1-3px per frame)
-        let rotation = Math.random() * 360;
-
-        function fall() {
-            snowflake.style.top = parseFloat(snowflake.style.top) + speed + "px";
-            snowflake.style.transform = `rotate(${rotation}deg)`;
-            if (parseFloat(snowflake.style.top) > window.innerHeight) {
-                snowflake.remove();
-            } else {
-                requestAnimationFrame(fall);
-            }
-        }
-        fall();
-    }
-
-    setInterval(createSnowflake, 150);  // Slightly reduced frequency for a gentle snowfall effect
-</script>
+</body>
+</html>
