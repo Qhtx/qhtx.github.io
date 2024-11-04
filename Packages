@@ -1,3 +1,21 @@
+Package: com.0xkuj.3dappversionspoofer
+Version: 2.1.1
+Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs
+Maintainer: 0xkuj
+Installed-Size: 408
+Depends: com.opa334.altlist
+Author: 0xkuj
+Name: 3DAppVersionSpoofer
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.0xkuj.3dappversionspoofer_2.1.1_iphoneos-arm64e.deb
+Size: 59192
+MD5: c4caf1f64b7c0e9be2ee0c929f4dfbba
+SHA1: fd1f7842a72db7101be9a9322dc62a1928c43919
+SHA256: 6e2ff5125ae7ee07a07ebe30a5865826302acc696efecdf547303c07a0a208ef
+SHA512: efc2d49f432013a6c4e61867fe46fcea2cc3b1ab8839e172965189046b77bc5a91622b8c48b1acb1bce8b21e44efa04b972f487834ac9a1f30dedbd649769b6a
+
 Package: com.den.igformat
 Name: IGFormat
 Description: An awesome MobileSubstrate tweak!
