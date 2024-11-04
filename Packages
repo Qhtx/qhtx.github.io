@@ -24,15 +24,15 @@ Author: MrDeNsor
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64e
-Version: 0.0.1-170+debug
-Installed-Size: 364
+Version: 0.0.9-1+debug
+Installed-Size: 372
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.den.igformat_0.0.1-170+debug_iphoneos-arm64e.deb
-Size: 45532
-MD5: e5bef60d7fa177bfeabab2783c325f34
-SHA1: 01c754f248b4eb68e55e19b3c98d4b95b9444a80
-SHA256: 85e4ffca71e5088b46558ceed0bc575892657e7dc24575652d68cdff4b3fffed
-SHA512: 8fcb75ab7aaf18331b4acf04eb1477be51d425130f1e9c7fb7685b3238389b8d0046c70c206d82a9bcdf0b775764fb8626ec9915d3bb40c7a68d842945430697
+Filename: ./debs/com.den.igformat_0.0.9-1+debug_iphoneos-arm64e.deb
+Size: 51048
+MD5: b9215450608833d1f9e4c7df4939a4e7
+SHA1: be6b6f8f311895c3ffceeb4f59e8ac5353e754fb
+SHA256: c431e05b14432e7bf0dea52473834c7e7758d37f823d4d1983f1e2f0755ba1ff
+SHA512: a479472091a8642201f6478f761fe5bbc4db0a28301b4920ceb143be02ae0cb196da667ca6c802fe50442a1401c2e6d07456d65bf72b9234708568701c5f3097
 
 Package: net.cadoth.nosbreload
 Name: NoSBReload
