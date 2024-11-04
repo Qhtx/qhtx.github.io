@@ -1841,61 +1841,61 @@ Name: Stalky
 Description: Track & download your contacts latest profile & statuses updates on WhatsApp
 Section: Tweaks
 Enhances: WhatsApp
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.33)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
 Architecture: iphoneos-arm64e
-Version: 4.1.29
-Installed-Size: 6772
+Version: 4.1.31
+Installed-Size: 6780
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.f0u4d.stalky_4.1.29_iphoneos-arm64e.deb
-Size: 1575800
-MD5: 7979d8dea494bff403c4575c05592906
-SHA1: 67b591ea64ffe0d2fb534e39acdfb25d291ecfa8
-SHA256: e396ec5f485086a9d4e378a08e63c1ebf9c04a107a381636de6279208f1ea379
-SHA512: 637a90c6f6132d5b6992fa736a176a3dde6c23573e91be43191f2867c60b32835bf6e4307acfb7cf784590b2fa276aca8a3f544312f0127cecdca50e278623f7
+Filename: ./debs/com.f0u4d.stalky_4.1.31_iphoneos-arm64e.deb
+Size: 1580108
+MD5: 4a71a5eea8ebed93dd51209b2855dd76
+SHA1: a949331e1da483219653b90f5a97b11b65ef5ace
+SHA256: 4abad2559c2b47b15bac0d480b701b6d2223dd39f60ac94197456eb02f79b2c0
+SHA512: 2d35d2c22e8e3c152222b60b782a3ce594e532b7ab5e380d525adfce24927b1e6dda886f1e7ad1815e385ca59ebb1f35c44db42585598e953747346af2694905
 
 Package: com.f0u4d.onlinenotify
 Name: OnlineNotify
 Description: Track your friends on WhatsApp Messenger!
 Section: Tweaks
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.33)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
 Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
 Architecture: iphoneos-arm64e
-Version: 3.4.6
-Installed-Size: 692
+Version: 3.4.9
+Installed-Size: 700
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.f0u4d.onlinenotify_3.4.6_iphoneos-arm64e.deb
-Size: 178428
-MD5: ee6c7f45f0b031ce6d138b518e0d8f61
-SHA1: c8baca4d5ce5b01b202f840f4e8256470c108eb1
-SHA256: d4160903117261b77768a6a32866d45e1679e5a3dcb10b5614018a5323f30e63
-SHA512: cd8146d5e0108847bd71942f69bff309b6e6b09afa3fa3956ea98f07719c2712698af88451ff810128f9ff40ce74f78da7fea96b99beeb1d94cbc2e3f1cfceb5
+Filename: ./debs/com.f0u4d.onlinenotify_3.4.9_iphoneos-arm64e.deb
+Size: 184088
+MD5: 1478c67f5f029fe7ac8cb124e12b25c5
+SHA1: fff1d13bb8a70269f43433123c8766dbf8e4f37d
+SHA256: d0f5716382827624c648c443cb75dfd3b74f9b5e4c236f302eb1ac4d8722a0d8
+SHA512: 1c09a52b7ffd80a3affbd02c190687b63f030c126220a811bd7192a53a1deb742b1b27308c0275e6965600979237b0f6061cb8c94b94ead29e3eb047a4c69e0d
 
 Package: com.fouadraheb.contactsync
 Name: ContactSync
 Description: Sync WhatsApp Profile Pictures to your Contacts
 Section: Tweaks
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.32)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
 Architecture: iphoneos-arm64e
-Version: 1.1.9
-Installed-Size: 612
+Version: 1.1.10
+Installed-Size: 620
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.fouadraheb.contactsync_1.1.9_iphoneos-arm64e.deb
-Size: 110332
-MD5: c2b12f68f371434b58d5ee32b5e3a892
-SHA1: d845229fb98fb2680712ecdf1bdb161a58b337db
-SHA256: e9528f3760583dfbb0c9737a9ba17de710778e547dbc23073c8f8ac16815e3e3
-SHA512: 19130ee000836464afcf900288aedef0b352f481c1875250effa18c414e17640cfd8ae8cc30a0d2e0f8ba69ff033055e6e66e9f7a05b9ac47bbd72159ae9d2dc
+Filename: ./debs/com.fouadraheb.contactsync_1.1.10_iphoneos-arm64e.deb
+Size: 114692
+MD5: 045e4cb0e6eea8fee4e283eb12bd6d3f
+SHA1: 5ecb3b2cc6cbc54b3a7456349324d3b2e2663044
+SHA256: 4a762ab66172a3219bd053db1aa9c20168e8545ad9ddd44601f68bb0992d60c5
+SHA512: 8c4aad131bf14cedb36aaa0b985139849e575dbfc5ba691d7153b9d36e8d74bba8bb696b7796a43bc261136d512e8e22be7b9edca6149e5ab887c901d076a99d
 
 Package: com.creaturecoding.shuffle
 Name: Shuffle
