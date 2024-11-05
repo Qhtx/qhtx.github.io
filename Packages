@@ -1,3 +1,35 @@
+Package: com.burbn.theta
+Name: Theta For Instagram
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Description: an awesome tweak for instagram
+Maintainer: @no
+Author: @no
+Section: Tweaks
+Version: 1.0
+Filename: ./debs/com.burbn.theta_1.0_iphoneos-arm64e.deb
+Size: 662692
+MD5: ea5c1bb60d2a5fa69e6a07d2d3e67284
+SHA1: 50eb7eeaae0a4296452955ea40f123eb6937c599
+SHA256: aade938451b5f3c7e91ccc466e56c5cff7525f8be6f790097cc6f70f8fa5d843
+SHA512: 4f404933d24e8e43ba8e2f6a34136863ace9c924a95fcaeb2980dc78e439bc8b2b1b179475e120d231a44e74ac5fb6bac14dbbe42ae97e988369ebf5ee224bcc
+
+Package: com.burbn.theta
+Name: Theta For Instagram
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Description: an awesome tweak for instagram
+Maintainer: @no
+Author: @no
+Section: Tweaks
+Version: 1.0
+Filename: ./debs/com.burbn.theta_1.0_iphoneos-arm64.deb
+Size: 662360
+MD5: d61d098c66529415aefc40ae01858d96
+SHA1: 047ee47a0fc4c5972f83877439461269ab5091fd
+SHA256: 3e8058b2b546352789ec120cc06f3f2cd81e89fcc90e54d93c2920b97925bd54
+SHA512: 5060e81311a8215de25bc1623d3220cf731159e98cce56c784409304070723ff072d5a95d4ed2b223d599286dd0cfaff7076204dee410fc21f1b175f4a0f921b
+
 Package: com.0xkuj.3dappversionspoofer
 Version: 2.1.1
 Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs
