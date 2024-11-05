@@ -1,3 +1,19 @@
+Package: com.tools4cydiaxf.newproject
+Name: NewProject (roothide)
+Description: make packages انشاء مشروع تويك وتوليد بسهوله !
+Maintainer: Tools4cydia
+Author: Tools4cydia
+Section: Utilities
+Architecture: iphoneos-arm64e
+Version: 2.0.2-1+roothide
+Installed-Size: 54028
+Filename: ./debs/newproject_2.0.2-1_arm64e.deb
+Size: 351116
+MD5: 7476b9344f0d570fdfc37377e0633cab
+SHA1: 28300f50e6bc674cb3c711e5b2cfec0400bb6524
+SHA256: 6cf42292fa233f10ce81d5ed7f4851e96e9924ad3676e6f5a7469b6e94f5db80
+SHA512: 0887437b347a946f03414eada84c92ed1b4dc37eab8d7f5e0195ebed17a13554722c85e272726024a5aa948df50f7ccabde6f869cc92fd2968d85824159ba5f5
+
 Package: com.0xkuj.3dappversionspoofer
 Version: 2.1.1
 Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs
