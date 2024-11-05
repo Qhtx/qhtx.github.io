@@ -1,121 +1,73 @@
 <!DOCTYPE html>
-<html lang="ar">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ipapplus</title>
-    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700" rel="stylesheet">
-    <style>
-        body {
-            margin: 0;
-            font-family: 'Cairo', sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background: url('file/background.png') no-repeat center center/cover;
-            height: 100vh;
-            color: rgba(224, 224, 224, 0.8);
-            overflow: hidden;
-            padding: 20px;
-        }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>@ipapplus</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: url('./file/back.jpg') no-repeat center center fixed;
+    background-size: cover;
+    overflow: hidden;
+  }
 
-        .container {
-            width: 100%;
-            max-width: 400px;
-            background: rgba(30, 30, 30, 0.9);
-            border-radius: 15px;
-            padding: 20px;
-            text-align: center;
-            box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.8);
-            backdrop-filter: blur(10px);
-            animation: fadeIn 1.3s ease-in-out;
-        }
+  #profile-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+    width: 250px;
+  }
 
-        .profile-image {
-            width: 100px;
-            height: 100px;
-            border-radius: 50%;
-            overflow: hidden;
-            margin: 0 auto 10px;
-            background-color: #3E60BC;
-            padding: 5px;
-            box-shadow: 0 0 10px rgba(0, 188, 212, 0.5);
-        }
+  #profile-box img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
 
-        .profile-image img {
-            width: 100%;
-            height: 100%;
-            border-radius: 50%;
-        }
+  .button-container a {
+    display: block;
+    margin: 5px auto;
+    padding: 10px 20px;
+    color: white;
+    background: #333;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background 0.3s;
+    width: 80%;
+    text-align: center;
+  }
 
-        h1 {
-            font-size: 2rem;
-            margin: 10px 0;
-            color: #3E60BC;
-        }
+  .button-container a:hover {
+    background: #555;
+  }
 
-        .bio {
-            font-size: 1rem;
-            color: rgba(176, 176, 176, 0.8);
-            margin-bottom: 20px;
-            line-height: 1.6;
-        }
-
-        .link-button {
-            display: block;
-            background-color: #3E60BC;
-            color: rgba(255, 255, 255, 0.8);
-            padding: 12px 20px;
-            margin: 10px 0;
-            border-radius: 30px;
-            text-decoration: none;
-            font-size: 1rem;
-            transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
-            position: relative;
-            overflow: hidden;
-            box-shadow: 0 4px 8px rgba(13, 71, 161, 0.3);
-        }
-
-        .link-button:hover {
-            background-color: #0b3d91;
-            transform: translateY(-5px);
-            box-shadow: 0 6px 12px rgba(13, 71, 161, 0.5);
-        }
-
-        @keyframes fadeIn {
-            from { opacity: 0; }
-            to { opacity: 1; }
-        }
-
-        @media (max-width: 600px) {
-            h1 {
-                font-size: 1.5rem;
-            }
-
-            .bio {
-                font-size: 0.9rem;
-            }
-
-            .link-button {
-                font-size: 0.9rem;
-                padding: 10px 18px;
-            }
-        }
-    </style>
+  .button-container a i {
+    margin-right: 5px;
+  }
+</style>
 </head>
 <body>
-    <div class="container">
-        <div class="profile-image">
-            <img src="file/profile.png" alt="Profile">
-        </div>
-        
-        <h1>Ahmed AlGhrbi</h1>
-        <p class="bio">سبحان الله والحمد لله ولا إله إلا الله والله أكبر </p>
-        
-        <a href="https://x.com/ipapplus" class="link-button">Twitter</a>
-        <a href="https://t.me/ipapplus" class="link-button">Telegram</a>
-        <a href="sileo://source/https://a7m.dev" class="link-button">jb repo</a>
-        <a href="https://github.com/ipapplus/Dopamine2-roothide/releases" class="link-button">Github</a>   
+  <div id="profile-box">
+    <img src="./assets/pfp/default.jpg" alt="Profile Picture">
+    <h2 style="white-space: nowrap;">Ahmed AlGhrbi</h2>
+    <p>سبحان الله وبحمده</p>
+    <div class="button-container">
+      <a href="sileo://source/https://a7m.dev" target="_blank"><i class="fab fa-github"></i> Repo</a>
+      <a href="https://x.com/ipapplus" target="_blank"><i class="fab fa-twitter"></i> Twitter</a>
+      <a href="https://t.me/ipapplus" target="_blank"><i class="fab fa-telegram"></i> Telegram</a>
     </div>
+  </div>
 </body>
 </html>
