@@ -1,3 +1,21 @@
+Package: com.sergy.immortalizer
+Name: Immortalizer
+Description: Foreground your tweaks even if they are in the background!
+Maintainer: sergy
+Author: sergy
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Installed-Size: 412
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.sergy.immortalizer_1.0.0_iphoneos-arm64e.deb
+Size: 28024
+MD5: 1ae779f49a03a8f5e2e1f76c9cba4903
+SHA1: 37e33fce552e4398741a534392b38b049995a9f6
+SHA256: c79cdaca112d3edcfe4543b02abc444397286b16ac8acf270e3186e5a967f787
+SHA512: 1485aa0637aa38582ccad1a7ca0ee0b7888d811b3e1168c5e19de7c09bd8ac3d47aee01bbdfae5dac15fe3234354958cdfe59590faf092841868ee83f678e703
+
 Package: com.burbn.theta
 Name: Theta For Instagram
 Depends: mobilesubstrate
