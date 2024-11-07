@@ -1,3 +1,39 @@
+Package: me.tomt000.copylog
+Name: CopyLog
+Depends: mobilesubstrate, preferenceloader, com.0xkuj.copylogfix16
+Architecture: iphoneos-arm64e
+Description: Clipboard history manager for iOS!
+Maintainer: TomT000
+Author: TomT000
+Section: Tweaks
+Version: 1.5.6
+Installed-Size: 4252
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/me.tomt000.copylog_1.5.6_iphoneos-arm64e.deb
+Size: 1507160
+MD5: 13f52649781b70eb0dab1bff4858ca21
+SHA1: e0e16b036e7454f473a4cf49a62482a023dc08b8
+SHA256: ae8d7841dd0c46b7691745e1c91dc33e12d0382abe7b7d31e88a45858fc40d4f
+SHA512: 6ae6fd5b0dabc2c3878414e3a77448d3221380d5d373577d2536cbdac48725c7f50ba0182027578865f9d2fbf542059b6c057c6d6bca2fbb963f6869e107d7ed
+
+Package: com.0xkuj.copylogfix16
+Name: CopyLogFix16
+Description: Fix copylog not working on iOS16
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
+Depends: me.tomt000.copylog, firmware (>= 16.0)
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.0xkuj.copylogfix16_1.0.1_iphoneos-arm64e.deb
+Size: 6288
+MD5: e268eb6bb5c3f353c6b4295b198b245c
+SHA1: 39693c9f14b9ba5dbf702cc86c7f9541ffa72565
+SHA256: fc6ce93b97a7edf5ff737c292a3669a48707a460c25584bd41cb225a38fcabeb
+SHA512: dee6bd80d8a3549e3f7f2fb098fd59edbf4c24b29345f1723d31a660d18c5794de58649e79639f12aa48cec3badf7bec8e7fd93bf5c25342b4ad03cb5bf65b01
+
 Package: com.sergy.immortalizer
 Name: Immortalizer
 Description: Foreground your tweaks even if they are in the background!
