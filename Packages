@@ -1,3 +1,44 @@
+Package: com.fouadraheb.regram
+Name: Regram for Instagram
+Description: The all-in-one tweak for Instagram
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.39)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+Architecture: iphoneos-arm64e
+Version: 1.0~b15
+Installed-Size: 6252
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/regram_1.0~b15_arm64e.deb
+Size: 1343684
+MD5: b8b8972f9410e693f49a4572d7ec097a
+SHA1: 4dd0c820e4c748679e074c806440a23238911f65
+SHA256: eeac6b3329a8ab6e8f461f888e9b2af17e70fe812d2a473c5f8033f52f94f46a
+SHA512: bbaa3915015d831b06cf27c66076dd0666907e951c69a7f318f8355fbe2b2614c95a1785accf5fc71d5a2030016e8f4dd0754d4558cbd0c6070610b26f3f2956
+
+Package: com.fouadraheb.regram
+Name: Regram for Instagram
+Description: The all-in-one tweak for Instagram
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.39)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+Architecture: iphoneos-arm64
+Version: 1.0~b15
+Installed-Size: 6252
+Filename: ./debs/regram_1.0~b15_arm64.deb
+Size: 1331968
+MD5: bcb7753a9156daeeca55ec369ae76299
+SHA1: 28b748dae7ee0137c664b4ddf5e4147aa01d720d
+SHA256: fa284571dbdd8b5aba746804815ab49aa158f88cbfe690fb614ef6d384181338
+SHA512: be80d04bd3d8d0d758c29fdf2ea7cbec517a1d3a427238962b84c022f338da37f9cef6992248b13882dbbe28737bc8fd7c241114efc9e3930e84015f6ad01a4d
+
 Package: com.den.igformat
 Name: IGFormat
 Description: An awesome MobileSubstrate tweak!
