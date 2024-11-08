@@ -330,7 +330,7 @@ Name: Uranium
 Version: 1.2.7
 Section: Tweaks
 Architecture: iphoneos-arm64
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0), oldabi
 Installed-Size: 468
 Author: FissionDev
 Maintainer: FissionDev
@@ -348,7 +348,7 @@ Name: iNoSleep
 Version: 1.2.4
 Section: Tweaks
 Architecture: iphoneos-arm64
-Depends: mobilesubstrate
+Depends: mobilesubstrate, oldabi
 Installed-Size: 368
 Author: Tony Kraft <iostonykraft@gmail.com>
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
@@ -833,7 +833,7 @@ Architecture: iphoneos-arm64
 Version: 0.0~beta6
 Section: Tweaks
 Maintainer: Julio
-Depends: mobilesubstrate, preferenceloader
+Depends: mobilesubstrate, preferenceloader, oldabi
 Filename: ./debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64.deb
 Size: 76500
 MD5: 915b31cf0a0ac669e8f190763878fec6
