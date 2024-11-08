@@ -1,3 +1,21 @@
+Package: com.den.igformat
+Name: IGFormat
+Description: An awesome MobileSubstrate tweak!
+Maintainer: MrDeNsor
+Author: MrDeNsor
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.10-1+debug
+Installed-Size: 424
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.den.igformat_1.10-1+debug_iphoneos-arm64e.deb
+Size: 55552
+MD5: 77d16697d862c4aeb364f876b419dd72
+SHA1: e41451093d261ccbe4fa1376c8a128420afa2450
+SHA256: fccd6c5f1b8161a41b84b8317eabacdbf5d0723ef9827f41c98e0593c3d66bf4
+SHA512: bce2bc9d17e00ed20a15e5a9a9085599b9dba672094c92c68af8da03c296b806cc9d9d85b6a1b36afd6487b6b4a3a1f1ec64622af6ab1b5a6687deee78997a16
+
 Package: me.tomt000.copylog
 Name: CopyLog
 Depends: mobilesubstrate, preferenceloader, com.0xkuj.copylogfix16
