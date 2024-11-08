@@ -1,3 +1,21 @@
+Package: com.sergy.immortalizer
+Name: Immortalizer
+Description: Foreground your apps even if they are in the background!
+Maintainer: sergy
+Author: sergy
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Installed-Size: 412
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.sergy.immortalizer_1.0.1_iphoneos-arm64e.deb
+Size: 28104
+MD5: 7c26958204d8b42b42ecec3459e29c59
+SHA1: e828d7653e4183df3055e3e7980117546c6b914f
+SHA256: a11eeec21d62fe97ef3e05081dade015c22eb1bc2316715a4146ccd077a26cbc
+SHA512: a78829f6039141cf8063ac5da4fb10a29f050a22c0f99f708509db7cad8619e933c13471c60351712b323c49c9e65ab85af97fb7a585f1cca2d5ed4330b4390b
+
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
 Description: The all-in-one tweak for Instagram
