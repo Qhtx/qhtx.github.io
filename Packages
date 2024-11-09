@@ -1,3 +1,22 @@
+Package: com.fouadraheb.watusi3
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Description: The all-in-one tweak for WhatsApp Messenger
+Section: Tweaks
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+Architecture: iphoneos-arm64
+Version: 1.2.45
+Installed-Size: 6688
+Filename: ./debs/com.fouadraheb.watusi3_1.2.45_iphoneos-arm64.deb
+Size: 1978116
+MD5: a754ec6bca78b18958d64b133c64e109
+SHA1: a53b1b7cf3c57299baf2acc4ced6ae720c00ea14
+SHA256: 573d47ce7db094d9b30f927cb4dc34ef1b9abd3cab80fa72a8a6b1bd16503e61
+SHA512: e1aa017ee06327048ffd964a65dfaa7620bab93c4462760e664e590956f841f7d71c1cbf3082664db22e9b14de72468e9869518f2fcc000715d39d2e5ea86f4c
+
 Package: com.sergy.immortalizer
 Name: Immortalizer
 Description: Foreground your apps even if they are in the background!
