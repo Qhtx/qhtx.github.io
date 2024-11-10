@@ -1,3 +1,26 @@
+Name: BottomControlX
+Package: com.xcxiao.bottomcontrolx
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, oldabi
+Version: 1.3.3
+Architecture: iphoneos-arm64e
+Description: Easier access to your ControlCenter on iPhone X.
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bottomcontrolxDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bottomcontrolxDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: XCXiao <958169971@qq.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Installed-Size: 479
+dev: xcxiao
+Filename: ./debs/com.xcxiao.bottomcontrolx_1.3.3_iphoneos-arm64e.deb
+Size: 108656
+MD5: 3d35e57f0a7b598777d4d3cdffc91007
+SHA1: 26a30de968b718f85d3d089f36f2b806010330d0
+SHA256: 905bfecfea288a2fc4677aecec86f9ae91b666cab24a64db954c97ecf0b57c37
+SHA512: 1582a106d0075c9b0c986bcf2c0a7296c8147e878c031e40b17a8afd49aef1274ac2f3d44a56bc7703d5d28b3cffcb9087a052e02cb2c99680943add39a3ac67
+
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
