@@ -7,6 +7,26 @@ Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitool
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+Architecture: iphoneos-arm64e
+Version: 1.2.45
+Installed-Size: 6688
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.fouadraheb.watusi3_1.2.45_iphoneos-arm64e.deb
+Size: 1961140
+MD5: a179d229b134853d31dcd90525d92db3
+SHA1: ef406e807b27424dc6d24f562cae3c042ab23c85
+SHA256: 08ffb774242da796c03192e22c9901608e83c1ba9e91bce4bd1db355b387184b
+SHA512: b3e8bdecc600b425f443ea629525ea9e3bb54b608e927f9e179f55659c4e93fcf12fb5163d3a172bce8ac99698a4a3ba761c15663da65b949b0756c71254e023
+
+Package: com.fouadraheb.watusi3
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Description: The all-in-one tweak for WhatsApp Messenger
+Section: Tweaks
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
 Architecture: iphoneos-arm64
 Version: 1.2.45
 Installed-Size: 6688
