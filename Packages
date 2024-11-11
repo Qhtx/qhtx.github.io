@@ -1973,7 +1973,9 @@ Name: PowerSelector
 Package: com.ichitaso.powerselector11
 Pre-Depends: rootless-compat(>= 0.9), firmware (>= 11.0)
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
-Section: Applications
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Section: Utilities
 Description: The power supply relation of a device is operated.
 Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
 Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
@@ -1985,11 +1987,11 @@ Architecture: iphoneos-arm64e
 Version: 1.4.0
 Installed-Size: 2212
 Filename: ./debs/com.ichitaso.powerselector11_1.4.0_iphoneos-arm64e.deb
-Size: 201688
-MD5: cc005c4990a6332cd0e3e287d05ee4a0
-SHA1: e95f435e1b2e0cc7387740fa67247c672cae82c3
-SHA256: d1d2e3c0d04d8825c8442f4b0e4ec5fd26b770a8ec0686392cd058f0253d8c85
-SHA512: 51ae1ea6c28d2fbd22815c82a993075f309d816d7d7262e9a01fa6624ea9ed078c63251fa55aa2239652de94bd81b20b44fcd36f213072f24b3cce9cc0be36bf
+Size: 208512
+MD5: 7ea41de4b84485885c7d5976a0fb673c
+SHA1: de485b4d0de069e13fe27ab741e1cad3bca3470d
+SHA256: 314c969984c36e9ee410e2bfab7eee972101b1e5a910f2fd0516cd02e8ca246e
+SHA512: f1a8ced0c7b048353ee2f52477f5aee44b426694ffe850cb54ea4e8613576422a4cc6980e0fb5dd037d935b0f05c0c3812b8f931d7ebc7149eca7a95017c76d5
 
 Package: com.shepgoba.settingswidgets
 Name: SettingsWidgets
