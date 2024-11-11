@@ -1,3 +1,25 @@
+Package: xyz.cypwn.xinam1ne
+Maintainer: CyPwn
+Depiction: https://repo.cypwn.xyz/depiction/2816
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2816
+Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
+Name: Xinam1ne AIO
+Version: 2.6-8
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Provides: emt.paisseon.xinamine (= 99)
+Replaces: emt.paisseon.xinamine
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
+Section: xinam1ne
+Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/xyz.cypwn.xinam1ne_2.6-8_iphoneos-arm64e.deb
+Size: 23604
+MD5: 216f7fedde31c48d30f3ed0c6044e5d7
+SHA1: 7c311c9d6f6a397fb06e5786736a857fe1e23ff6
+SHA256: 2cbd2808693b5cb65d1832547060a7b0693f390e17cc9542cd4b279153a5525d
+SHA512: 09e3326806b1e941bfcc784c25237bb78883f879d868ba4bbfdc2db6b6cec4db68d2117bbcb84a7a44251bed5f620c5bd1a3066c781562cf11b64827afb032c6
+
 Name: BottomControlX
 Package: com.xcxiao.bottomcontrolx
 Priority: optional
