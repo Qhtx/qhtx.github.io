@@ -915,21 +915,25 @@ Name: System Info
 Author: ARX8x
 
 Package: com.exile90.icleanerpro
-Architecture: iphoneos-arm64
-Version: 7.10.0
-Section: Tweaks
-Maintainer: Ivano Bilenchi <support@ib-soft.net>
-Depends: firmware (>= 15.0), findutils, apt | apt7
-Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
-Size: 1098448
-MD5sum: c950ece914ac3d0a4a6f0d04a7980436
-SHA1: 7f4d6b746a08222982813cc75126f0d99924fd4b
-SHA256: 705f284ff797d6f9815c86674a362092c8f6dcaa9a3ab7bd86b67633c321dd4a
-SHA512: ee2b848f120d56badf93bf626a7339ec75bd7729cf797e23f42b2721d50064c724f664186dd82e2313ac726ee7ca4580362198cc7b49fe6c6e6cd9d920bec0a5
-Description: The first real iOS system cleanup and management utility
 Name: iCleaner Pro
+Description: The first real iOS system cleanup and management utility
 Author: Ivano Bilenchi <support@ib-soft.net>
-icon: https://i.imgur.com/zn3sQw9.jpeg
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Version: 7.10.0
+Architecture: iphoneos-arm64
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Section: Utilities
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Icons/iCleaner.png
+Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
+Size: 981148
+MD5: 948ddb04633657b5a94bae025e45ba89
+SHA1: 30425adf2730d4d49acc0975faf7ba2e2d506894
+SHA256: cf287daf0341c069c56a971475535f76ccd355e5f345f3fafc6dac0a4ef97289
+SHA512: 1a3e3f2f7c97d3d5c89cdc7ccc21fcaa5169b44ae2f38decf19d3bdc4fe5e3dd13aa1df56dab9efa534632a1ca5343f13cc4f740b6216e5eecf3cba4faedf66c
 
 Package: com.nightwind.lockbuttonx
 Architecture: iphoneos-arm64
@@ -1950,16 +1954,18 @@ Version: 7.10.0
 Architecture: iphoneos-arm64e
 Homepage: http://ib-soft.net/icleaner
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
-Section: Applications
+Section: Utilities
 Depends: firmware (>= 4.0), findutils, apt | apt7
-Icon: file:///Applications/iCleaner.app/Icon.png
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Icons/iCleaner.png
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e.deb
-Size: 1086712
-MD5: 4c683665079ede69e0218a33bb718a2a
-SHA1: bb83d53048c8481b398ee0cccff01d49f3582651
-SHA256: 4cb93779682275ac4520f31ad5abab61eec7d2e0d4f3e4fc5cc505412ae7ef5e
-SHA512: e48767f68dfcb9186c11c757ede9e4cce19dea1fc31465c868c54ea60844f8a2aad20c12a14294e41f94c6aa2a2c1e9e390633a7dcfb4583fc977977036a66c5
+Size: 2500518
+MD5: bb1826e6af958907109933ad586eab2f
+SHA1: c917607a10aaa056a2f9e0d52f10ed97bd16ab4d
+SHA256: 22ef654d77be783b83c7f66db1888dd88d35520446c422110ee70f29880ff75c
+SHA512: 611ee5e6359896aabc3e7e1c44c27aa480c324144b93dcc48b55cc4234f131ac67523f408df020ad1e7d4c4a97e0717afd9771eec64ac3da251995f049837277
 
 Author: ichitaso <willfeeltips+ps11@gmail.com>
 Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
