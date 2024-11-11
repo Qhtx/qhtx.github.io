@@ -2352,22 +2352,22 @@ SHA512: abae850cfeeac0e04f999c0c75319c8179d3740ce5ad82d232fd739b340aa7b9d1690812
 
 Package: com.netskao.appdata
 Name: AppData
-Description: View & Manage Applications Data from your Home Screen & downgrade apps.
-Conflicts: netskao.appdata-rootless, com.fouadraheb.appdata
-Section: Tweaks
+Description: View & Manage Applications Data from your Home Screen
+Section: Netskao-Tweaks
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Author: Fouad Raheb
 Maintainer: Nets
 Architecture: iphoneos-arm64e
-Version: 1.4.2
-Installed-Size: 3772
+Version: 1.4.4
+Installed-Size: 13548
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.netskao.appdata_1.4.2_iphoneos-arm64e.deb
-Size: 823352
-MD5: 518147946840d953969849b59741ddd3
-SHA1: c7cfecd49b9d5b766808423de8a55eca25f3fec2
-SHA256: 35d0be632c16be00995dd9357f339bdc98e92f24ea93555cf0293b63c96cc944
-SHA512: e0f96336f7b6ea2a9d1b602cf4fd43263e644a3a923edffc2c1c44a7bc1df54719def8d2413353fba6af91c70ade02825920207521c4ffb742137f9e6d770c26
+Filename: ./debs/com.netskao.appdata_1.4.4_iphoneos-arm64e.deb
+Size: 5049568
+MD5: afff04c2ed8c05da11edb5f391396eb7
+SHA1: 656547520400a4ed10cfb0d8543694c38d36fd9c
+SHA256: 58e8dea3a853abc42dad14f4bb4cc24451d8a1e41e1dc47ff03926cafb5414d7
+SHA512: 0eee9d7dc071f1d1d25e79ff79d7b24b8a4fb9fd58f1907d19d9e02c1d1c647d418b85f13d33f0fd9d085328e5a0ac040e7ccff3b57fd8d7bbe20eb670ca2970
 
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
