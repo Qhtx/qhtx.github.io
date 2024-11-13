@@ -1,3 +1,37 @@
+Package: com.82flex.iconrestore
+Name: Icon Restore
+Description: Save and restore the layout of your icons.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.7
+Installed-Size: 412
+Filename: ./debs/com.82flex.iconrestore_1.7_iphoneos-arm64e.deb
+Size: 30404
+MD5: 0aa2b5ce8fc9e254a9b0429393e88769
+SHA1: 765b7a1df88cbeb81c07c12ce709424f74465ff4
+SHA256: 10339ba6b8fcbb93b72e5634dbd8575736eb21fc7c5c540413d55807f14f28ac
+SHA512: 255ba0ec40ff1544ec4442c13ba02206dee55bce57a856247dd96e388969952b5b79543ceaf5936253fa5f65a95b818c8fd0fefbc4e1219d73021c734d9f8ce0
+
+Package: com.82flex.iconrestore
+Name: Icon Restore
+Description: Save and restore the layout of your icons.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.7
+Installed-Size: 412
+Filename: ./debs/com.82flex.iconrestore_1.7_iphoneos-arm64.deb
+Size: 30460
+MD5: fd6409554b1bdbb3f7cc707147b1356f
+SHA1: 943d2e18477aaa2947f44e5e3e240eb2b4ed7728
+SHA256: 1ffd1e0836e4d2e03c9abb931249ec3ec3a24df6308b06d7d126dc4d42281eb3
+SHA512: c2b77a35ca01811e7ad2aba3fb43bcf1c7060262a285e72bb2db24dd635da796ccc43198b331cc44562168703996513d43ab49941b87166cfdc5cf6960ba4abf
+
 Package: com.den.igformat
 Name: IGFormat
 Description: Powerful Instagram Tweak
