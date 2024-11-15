@@ -742,7 +742,7 @@ SHA256: 275bf9a100e454f7ef3ff013c877010f8d98f2bcf0a9a28d66a2c488b97e0421
 SHA512: 6e17c9ebac23d82a0a42502f698ec4b840aa199c962382d2fa30581838e5a299201d65a39d5bf9f6b6b6cd876787eb0a3b264b4b0ac6e1f6d25215770291bb5c
 
 Package: weeb.lillie.youtubedislikesreturn
-Version: 1.12.8
+Version: 1.12.10
 Architecture: iphoneos-arm64e
 Section: Tweaks
 Maintainer: PoomSmart and kirb <ytdislikesreturn@gmail.com>
@@ -755,12 +755,12 @@ Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
 Depiction: https://chariz.com/get/return-youtube-dislike
 Tag: compatible_min::ios11.0
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/weeb.lillie.youtubedislikesreturn_1.12.8_iphoneos-arm64e.deb
-Size: 24856
-MD5: cf37dceade9970db1a35bd2675ff4e68
-SHA1: 3c6c99dda4e7d5e94e4af1b125167777f8e6493e
-SHA256: 32b35b664d2f1ad7807d45a7ae4189d5636ffe867524ef9d461c0f5733e7377b
-SHA512: a9815a9a6e4ff921dad632b104eec101f90441582052d63ffe203e4f9306f84d1d3fda1bc2b6071653214b36da5e3ab75db033bb6b5698f7bd9b3d38940630a2
+Filename: ./debs/weeb.lillie.youtubedislikesreturn_1.12.10_iphoneos-arm64e.deb
+Size: 26716
+MD5: 7911adddb3e306ce7d6e494a14e98fca
+SHA1: 581edab7abcc1e4d02d5f6d565123dbf1a4a1d78
+SHA256: 46bec4f266f0357928450e14e0e69e94f937d8c62f989629366634752c9293b8
+SHA512: 4f77f1f1f6341d3ed20e9889d5e74e5eeaf9cf187c53ffc9837436c83497847e483d19a8e26084d0c3aaf10df77d2e1fe0d153e79744cae5c619cfaa2ad172b0
 
 Package: com.0xkuj.notificationsgroupcount
 Name: NotificationsGroupCount
