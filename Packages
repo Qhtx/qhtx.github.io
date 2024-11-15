@@ -1,3 +1,43 @@
+Package: com.teslaman3092.popoutbuttons
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 481
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Name: PopOutButtons
+Description: PopOutButtons bring the iOS 18 buttons popouts to iOS 13-17
+Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
+Depiction: https://chariz.com/get/popoutbuttons
+Tag: compatible_min::ios13.0
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.teslaman3092.popoutbuttons_1.0.1_iphoneos-arm64e.deb
+Size: 73044
+MD5: 4078899980243f214fd7f9cb0e75618f
+SHA1: 1199960539996b81f15bc000f241750229c6274f
+SHA256: 74caa115c7239aae8630f6838c2964bd9501529e88ae62bd92520c23e2dfbacd
+SHA512: 6d95c5c67983e194ac99d5cb5170bea67c7cbe6efa6e5114d3964370fa1b89cb08f9ccab2845a5aaca5835a1fc06a9f4fa09463dd64950f429725e3022876660
+
+Package: com.sergy.immortalizer
+Name: Immortalizer
+Description: Foreground your apps even if they are in the background!
+Maintainer: sergy
+Author: sergy
+Section: Tweaks
+Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Architecture: iphoneos-arm64e
+Version: 2.0.0-1
+Installed-Size: 652
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.sergy.immortalizer_2.0.0-1_iphoneos-arm64e.deb
+Size: 57444
+MD5: 634a9cde4758d0e8f0f589fa6326ed7f
+SHA1: a58b8e22a9063ee037b90b707705519a655edbec
+SHA256: 77a072a600f874c301af3096248cee8f190327cf6816a5409b4174b254fe05eb
+SHA512: 214d7535e85f2f5b336b9ba4112ec50d4f612f4917f4920af4e858cd3ac6c56097d806cf0a4d3cd1adeb395ba8e2eb396f3063d70e715f6a3c4dfa062ddd60f8
+
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
