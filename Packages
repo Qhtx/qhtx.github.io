@@ -1,3 +1,22 @@
+Package: com.opa334.cranelite
+Name: Crane Lite
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.crane, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Description: Multiple containers for one application!
+Maintainer: opa334
+Author: opa334
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.3.16-3
+Installed-Size: 2184
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.opa334.cranelite_1.3.16-3_iphoneos-arm64e.deb
+Size: 905898
+MD5: ccd4e8fe23402fdb47c4662039d785a7
+SHA1: b601ef397392e94396a1118056eb7597cbcbbb7b
+SHA256: b7eabcb7373c01f7c2f11c335ab6ba58f097c2108a263aa347c593ac35ec8091
+SHA512: 7574ef115f04f7b3234ed3d399ec3e7e722fd34a9c8537296912aa19496907e40c0e45a118a8ca429fb11b05c113cb3c1a9fa7aa334589e224e0786abcf0ce6a
+
 Package: com.teslaman3092.popoutbuttons
 Version: 1.0.1
 Architecture: iphoneos-arm64e
