@@ -1385,31 +1385,31 @@ SHA1: 4de9839df6440eac21b9ba7181cf481c71105e03
 SHA256: c311f88da21da8bf57529bde9fa8cdcd95194d878c82abde0de36cbb3513131e
 SHA512: dad9dcbd26f57b31f0122265b2cab6d7849e12017f464903d75670fea6d1da5517497c4aa4482fcc9e50a36f259da60b22df95e8ce94c58a432b68295e57ce31
 
-Name: BlockAppUpdate
+Name: BlockAppUpdate 屏蔽App Store更新
 Package: cn.zqbb.disupdateapp
 Priority: optional
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
-Version: 1.1.0-1
+Version: 2.0.0-2
 Architecture: iphoneos-arm64e
 Description: Block App Store Updates!
-Homepage: http://moreinfo.thebigbos.org/moreinfo/depiction.php?file=disupdateappDp
-Depiction: http://moreinfo.thebigbos.org/moreinfo/depiction.php?file=disupdateappDp
-SileoDepiction: https://rootless.zq66.eu.org/web/cn.zqbb.orzfolder
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
+SileoDepiction: https://rootless.zq666.eu.org/web/cn.zqbb.orzfolder
 Sponsor: thebigboss.org <http://thebigboss.org>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: zqbb <w2599z@gmail.com>
 Section: Tweaks
 Tag: purpose::extension
-Installed-Size: 732
+Installed-Size: 764
 dev: zqbb
 Icon: file:///var/jb/Library/PreferenceBundles/duapre.bundle/icon@2x.png
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/cn.zqbb.disupdateapp_1.1.0-1_iphoneos-arm64e.deb
-Size: 130832
-MD5: e4f2d93bf0cd62ed6483871ef9d8a84f
-SHA1: ccef39df8eb9747bebd30c055d0c2d117f8f4249
-SHA256: 9da21b05a77be8936a4094bb07419686db0b69c6905d5412cfd82c364acda456
-SHA512: 5f64990e8371395e6d451bf776df613736504cf8462158fbd873bf909a422d1b6eaf94ab3097c0a72351d8b139a29c680e262eb7b7b02ebd8c8b39540ef856ac
+Filename: ./debs/cn.zqbb.disupdateapp_2.0.0-2_iphoneos-arm64e.deb
+Size: 195024
+MD5: 879b35b6ef6f3480003be69eff162c21
+SHA1: e83da547b4f4eb8ca65316b707657807b72acbdc
+SHA256: aee6d381d82e7cd5dc7851cbcd718554af64f8917fc3035e0c048e23f0cb07a7
+SHA512: 44321e555197f15c3a1635c78ba045189636026ad8d5d05ecd4b808989ffb538b0b0f4171227360508c3b67f750764dbe91bbc584adbda1a6fcb5fb3e84e8e03
 
 Package: com.jontelang.snapper3
 Name: Snapper 3
