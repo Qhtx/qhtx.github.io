@@ -9,10 +9,11 @@
   body {
     margin: 0;
     padding: 0;
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
     background: url('./file/back.jpg') no-repeat center center fixed;
     background-size: cover;
     overflow: hidden;
+    color: #f5f5f5;
   }
 
   #profile-box {
@@ -21,50 +22,82 @@
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    color: white;
-    background: rgba(0, 0, 0, 0.6);
-    padding: 30px;
-    border-radius: 10px;
-    box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
-    width: 250px;
+    background: rgba(0, 0, 0, 0.75);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.7);
+    width: 300px;
+    animation: fadeIn 1s ease-in-out;
   }
 
   #profile-box img {
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     border-radius: 50%;
+    margin-bottom: 15px;
+    border: 3px solid #444;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+  }
+
+  #profile-box h2 {
+    font-size: 22px;
+    font-weight: bold;
     margin-bottom: 10px;
+    color: #2F6C8C;
+  }
+
+  #profile-box p {
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: #d1d1d1;
   }
 
   .button-container a {
-    display: block;
-    margin: 5px auto;
-    padding: 10px 20px;
-    color: white;
-    background: #333;
-    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px auto;
+    padding: 12px 25px;
+    color: #fff;
+    background: #2c3e50;
+    border-radius: 25px;
     text-decoration: none;
-    transition: background 0.3s;
-    width: 80%;
-    text-align: center;
+    transition: background 0.3s, transform 0.2s;
+    width: 85%;
+    font-size: 16px;
+    font-weight: bold;
   }
 
   .button-container a:hover {
-    background: #555;
+    background: #34495e;
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
   }
 
   .button-container a i {
-    margin-right: 5px;
+    margin-right: 10px;
+    font-size: 18px;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translate(-50%, -60%);
+    }
+    to {
+      opacity: 1;
+      transform: translate(-50%, -50%);
+    }
   }
 </style>
 </head>
 <body>
   <div id="profile-box">
     <img src="./file/profile.jpg" alt="Profile Picture">
-    <h2 style="white-space: nowrap;">Ahmed AlGhrbi</h2>
+    <h2>Ahmed AlGhrbi</h2>
     <p>سبحان الله وبحمده</p>
     <div class="button-container">
-      <a href="sileo://source/https://a7m.dev" target="_blank"><i class="fab fa-github"></i> Repo</a>
+      <a href="sileo://source/https://a7m.dev" target="_blank"><i class="fas fa-code"></i> Repo</a>
       <a href="https://x.com/ipapplus" target="_blank"><i class="fab fa-twitter"></i> Twitter</a>
       <a href="https://t.me/ipapplus" target="_blank"><i class="fab fa-telegram"></i> Telegram</a>
     </div>
