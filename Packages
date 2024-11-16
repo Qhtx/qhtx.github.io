@@ -1,3 +1,21 @@
+Package: dev.traurige.eneko
+Name: Eneko
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Description: Live wallpapers for iOS
+Maintainer: Traurige <hello@traurige.dev>
+Author: Traurige <hello@traurige.dev>
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.4.2
+Installed-Size: 404
+Filename: ./debs/dev.traurige.eneko_1.4.2_iphoneos-arm64.deb
+Size: 28288
+MD5: 6e454c89f7365b9d88d1398cc9c12ba5
+SHA1: c28a1919e68be29cfb7729d77f89966e2ab87491
+SHA256: 983ab04bc7f1d6d5cafafdc50b7788b78e1c5182924bae20be1b5da4e469644d
+SHA512: 2f476bc09f5c52707e0252faf8047101cb2a7750ef29d0b03dbcc5a098c2ced85a4c7c0198de3133c255268e135d0bea631293e9d176e094303133fe42b312c7
+
 Package: com.opa334.cranelite
 Name: Crane Lite
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
