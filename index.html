@@ -3,27 +3,110 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="صفحة تعريفية خاصة بـ Ahmed AlGhrbi">
-  <title>@ipapplus - Profile</title>
-  <link rel="stylesheet" href="styles.css">
+  <title>@ipapplus</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Arial', sans-serif;
+      background: linear-gradient(135deg, #000000, #2e004f, #4b007a, #000000);
+      background-size: 400% 400%;
+      animation: gradient-animation 5s linear infinite;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      color: #fff;
+    }
+
+    @keyframes gradient-animation {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    #profile-box {
+      text-align: center;
+      background: rgba(0, 0, 0, 0.7);
+      padding: 40px 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+      width: 300px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    #profile-box:hover {
+      transform: scale(1.05);
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.7);
+    }
+
+    #profile-box img {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      margin-bottom: 15px;
+      box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2);
+    }
+
+    #profile-box h2 {
+      font-size: 1.5rem;
+      margin: 10px 0;
+      color: #f0f0f0;
+      text-transform: capitalize;
+      letter-spacing: 2px;
+      font-weight: bold;
+      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    }
+
+    #profile-box p {
+      font-size: 1rem;
+      color: #dcdcdc;
+      margin-bottom: 20px;
+      letter-spacing: 1px;
+      text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    }
+
+    .button-container a {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 8px auto;
+      padding: 12px;
+      color: white;
+      background: rgba(90, 42, 130, 0.3);
+      border: 1px solid #5a2a82;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 1rem;
+      font-weight: bold;
+      letter-spacing: 1px;
+      transition: background 0.3s ease, transform 0.3s ease;
+      width: 80%;
+    }
+
+    .button-container a:hover {
+      background: rgba(90, 42, 130, 0.6);
+      color: #fff;
+      transform: scale(1.05);
+    }
+
+    .button-container a i {
+      margin-right: 8px;
+      font-size: 1.2rem;
+    }
+  </style>
 </head>
 <body>
-  <header id="profile-box">
-    <img src="./file/profile.jpg" alt="Profile Picture of Ahmed AlGhrbi" loading="lazy">
-    <h2>Ahmed AlGhrbi</h2>
+  <div id="profile-box">
+    <img src="https://i.imgur.com/ud1apEZ.jpeg" alt="Profile Picture">
+    <h2>Ahmed Alghrbi</h2>
     <p>سبحان الله وبحمده</p>
     <div class="button-container">
-      <a href="sileo://source/https://a7m.dev" target="_blank" aria-label="Visit Ahmed's Repo">
-        <i class="fas fa-code"></i> Repo
-      </a>
-      <a href="https://x.com/ipapplus" target="_blank" aria-label="Visit Ahmed's Twitter">
-        <i class="fab fa-twitter"></i> Twitter
-      </a>
-      <a href="https://t.me/ipapplus" target="_blank" aria-label="Visit Ahmed's Telegram">
-        <i class="fab fa-telegram"></i> Telegram
-      </a>
+      <a href="sileo://source/https://a7m.dev" target="_blank"><i class="fab fa-github"></i>Repo</a>
+      <a href="https://x.com/ipapplus" target="_blank"><i class="fab fa-twitter"></i>Twitter</a>
+      <a href="https://t.me/ipapplus" target="_blank"><i class="fab fa-telegram"></i>Telegram</a>
     </div>
-  </header>
+  </div>
 </body>
 </html>
