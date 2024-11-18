@@ -1,3 +1,72 @@
+Package: com.den.igformat
+Name: IGFormat
+Description: Powerful Instagram Tweak
+Maintainer: MrDeNsor
+Author: MrDeNsor
+Section: Tweaks
+Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.16-1+debug
+Installed-Size: 716
+Filename: ./debs/com.den.igformat_1.16-1+debug_iphoneos-arm64e.deb
+Size: 111860
+MD5: b6a06fb7a6adeffe1fa669597d07ed37
+SHA1: 9d5fe5052967762631ea91ce4eab860d551db3ab
+SHA256: 2a687d17c569110f5c405d57ebf313cdd961a73d9bb535da8b27a7a40260c62c
+SHA512: 27f3063e8048b503fc637051cb9f388e0250229f87dcba5688c413a437eaa25c37a3aa2cba2c36587c52e6a29bf42498b87ababa0778b61cb99821bb90ca00a4
+
+Author: 0xkuj <kujmank@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Block WA Updates
+Package: com.0xkuj.blockwaupdates
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Section: Tweaks
+Installed-Size: 172
+Version: 1.1
+Architecture: iphoneos-arm64e
+Description: Blocks Whatsapp message saying you must update
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blockwaupdatesDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blockwaupdatesDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: 0xkuj
+Tag: purpose::extension
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.0xkuj.blockwaupdates_1.1_iphoneos-arm64e.deb
+Size: 4608
+MD5: c79c7cd6841345b2c6ece2cc67598717
+SHA1: d883407290e0c3c63ebde2f99b5a84ebfa665245
+SHA256: ce9e96daf147ec264d58a459d13437053e7f1701c7d80c57c522afd1fc4a0cb1
+SHA512: fccf2b49ff59fafd67629b4716de5f24a1de3bc821420e656ba61759c129849e121195d080efb9ddc3e9d5e0da6b80e099133127103c6cb76db9b776ab5cc724
+
+Name: BlockAppUpdate 屏蔽App Store更新
+Package: cn.zqbb.disupdateapp
+Priority: optional
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Version: 2.0.0-3
+Architecture: iphoneos-arm64e
+Description: Block App Store Updates!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
+SileoDepiction: https://rootless.zq666.eu.org/web/cn.zqbb.orzfolder
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: zqbb <w2599z@gmail.com>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 764
+dev: zqbb
+Icon: file:///var/jb/Library/PreferenceBundles/duapre.bundle/icon@2x.png
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/cn.zqbb.disupdateapp_2.0.0-3_iphoneos-arm64e.deb
+Size: 274644
+MD5: 5f912b4e23eced6f588432103e4dcde1
+SHA1: 9208458e68e172ab27d1757933a04a57ed4f7e4b
+SHA256: 614be20846f0a9beb762665d6f0708b060e103ae8f31cc170755169852006ace
+SHA512: 5a675239bf11abbf43208bba915b57dea457dade957e87a79fb48481e0dd37d0f6cd8ec88065235d7a4f003c77f77f4fd8602b86607714e34821ece2b335513a
+
 Package: dev.traurige.eneko
 Name: Eneko
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
@@ -680,7 +749,7 @@ Package: dev.objcmsgsend.iota
 Name: iota
 Depends: mobilesubstrate
 Replaces: dev.kanji.iota
-Description: A great Snapchat tweak 🥀.
+Description: A great Snapchat tweak ð¥.
 Maintainer: objc_msgSend
 Author: objc_msgSend
 Section: Tweaks
@@ -1103,7 +1172,7 @@ Depends: mobilesubstrate
 Installed-Size: 136
 Author: Jax Roth
 Maintainer: Jax Roth
-Description: Allows iPhones to use “unsupported” charging accessories
+Description: Allows iPhones to use âunsupportedâ charging accessories
 Filename: ./debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_iphoneos-arm64.deb
 Size: 4772
 MD5: 983a087d34956d773df79d17647e23b6
@@ -1370,7 +1439,7 @@ Package: ai.akemi.appsyncunified
 Architecture: iphoneos-arm64
 Version: 112.0
 Section: Tweaks
-Maintainer: Karen/あけみ <karen@akemi.ai>
+Maintainer: Karen/ããã¿ <karen@akemi.ai>
 Installed-Size: 676
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.1)
 Filename: ./debs/ai.akemi.appsyncunified_112.0_iphoneos-arm64.deb
@@ -1381,7 +1450,7 @@ SHA256: b928da3369cb9d379ebf7f5f39a4fb2c880474b1f8f7d2eeff67da3008a9439e
 SHA512: 7a38359718c0cc99855dd895354559babe9eb47d4cfba588b60f5974276ee48d34f58d8ae27c92c85ca8d23e4a776521caedf90035713602871bdc4bf36ecba4
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Name: AppSync Unified
-Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Author: Karen/ããã¿, Linus Yang <karen@akemi.ai>
 Icon: https://i.imgur.com/KMCa11k.jpeg
 SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/AppSync.json
 
@@ -1463,7 +1532,7 @@ SHA1: 4de9839df6440eac21b9ba7181cf481c71105e03
 SHA256: c311f88da21da8bf57529bde9fa8cdcd95194d878c82abde0de36cbb3513131e
 SHA512: dad9dcbd26f57b31f0122265b2cab6d7849e12017f464903d75670fea6d1da5517497c4aa4482fcc9e50a36f259da60b22df95e8ce94c58a432b68295e57ce31
 
-Name: BlockAppUpdate 屏蔽App Store更新
+Name: BlockAppUpdate å±è½App Storeæ´æ°
 Package: cn.zqbb.disupdateapp
 Priority: optional
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
@@ -1987,7 +2056,7 @@ Depends: mobilesubstrate
 Installed-Size: 136
 Author: Jax Roth
 Maintainer: Jax Roth
-Description: Allows iPhones to use “unsupported” charging accessories
+Description: Allows iPhones to use âunsupportedâ charging accessories
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_iphoneos-arm64e.deb
 Size: 4840
@@ -2092,7 +2161,7 @@ SHA512: 4e12b59e17f6a0ddc961a8756285aacf1eed1fca7bb13f5ed53ba97eb4166e04c6f11f66
 
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 17.0)
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
-Maintainer: Karen/あけみ <karen@akemi.ai>
+Maintainer: Karen/ããã¿ <karen@akemi.ai>
 Homepage: https://cydia.akemi.ai/
 Provides: appsync, net.angelxwind.appsyncunified
 Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
@@ -2100,7 +2169,7 @@ Package: ai.akemi.appsyncunified
 Name: AppSync Unified
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Section: Tweaks
-Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Author: Karen/ããã¿, Linus Yang <karen@akemi.ai>
 Architecture: iphoneos-arm64e
 Version: 112.0
 Installed-Size: 676
