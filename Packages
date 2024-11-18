@@ -1,3 +1,21 @@
+Package: com.mtac.ampere
+Name: Ampere
+Architecture: iphoneos-arm64e
+Description: iOS 16 Style Battery Indicator
+Maintainer: MTAC
+Author: MTAC
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Version: 1.4
+Installed-Size: 604
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.mtac.ampere_1.4_iphoneos-arm64e.deb
+Size: 129106
+MD5: c3e09eca9f96388b9f473a4ba23fc28f
+SHA1: 5442c173611b76dffd32d596cc4cebb5767b8de2
+SHA256: 105472d1d79c2440bc17c301ddc82decb63298daa3b08f0031291a2e9060dc7c
+SHA512: 9ca80211d8c6a029cb03531899639a294522b7b7a4dff77d4a5387248d3eb611b5ead6b9ea8fec3062c9fa3378766be165185a40a6e77c52de59a8b24c7aca89
+
 Package: com.den.igformat
 Name: IGFormat
 Description: Powerful Instagram Tweak
