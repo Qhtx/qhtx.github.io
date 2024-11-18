@@ -95,6 +95,41 @@
       margin-right: 8px;
       font-size: 1.2rem;
     }
+
+    .hidden-options {
+      display: none;
+      flex-direction: column;
+      margin-top: 10px;
+    }
+
+    .hidden-options a {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 8px auto;
+      padding: 12px;
+      color: white;
+      background: rgba(90, 42, 130, 0.3);
+      border: 1px solid #5a2a82;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 1rem;
+      font-weight: bold;
+      letter-spacing: 1px;
+      transition: background 0.3s ease, transform 0.3s ease;
+      width: 80%;
+    }
+
+    .hidden-options a:hover {
+      background: rgba(90, 42, 130, 0.6);
+      color: #fff;
+      transform: scale(1.05);
+    }
+
+    .hidden-options a i {
+      margin-right: 8px;
+      font-size: 1.2rem;
+    }
   </style>
 </head>
 <body>
@@ -106,7 +141,21 @@
       <a href="sileo://source/https://a7m.dev" target="_blank"><i class="fab fa-github"></i>Repo</a>
       <a href="https://x.com/ipapplus" target="_blank"><i class="fab fa-twitter"></i>Twitter</a>
       <a href="https://t.me/ipapplus" target="_blank"><i class="fab fa-telegram"></i>Telegram</a>
+      <a href="#" id="show-options"><i class="fas fa-plus"></i> More</a>
+    </div>
+    <div class="hidden-options" id="hidden-options">
+      <a href="https://x.com/ipapplus/status/1806667569702596669?" target="_blank"><i class="fas fa-link"></i>حذف دوبامين في ثواني</a>
+      <a href="https://x.com/ipapplus/status/1858151457628786982?"><i class="fas fa-link"></i>اخفاء الراجحي دوبامين</a>
+      <a href="https://x.com/ipapplus/status/1847516665682043356?"><i class="fas fa-link"></i>حل أغلب البنوك</a>
     </div>
   </div>
+
+  <script>
+    document.getElementById('show-options').addEventListener('click', function(e) {
+      e.preventDefault();
+      const options = document.getElementById('hidden-options');
+      options.style.display = options.style.display === 'flex' ? 'none' : 'flex';
+    });
+  </script>
 </body>
 </html>
