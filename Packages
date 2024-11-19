@@ -1,3 +1,48 @@
+Package: ru.rj.ftt
+Name: Flex To Theos
+Depends: mobilesubstrate, com.randy420.tools (>=2.3.7)
+Description: First made by iPadkid358 - then updated by myself. Change Flex 3 patches into Theos projects using simple terminal commands. 
+  
+ - Use 'ftt -?' For a full list of options.
+Depiction: https://Randy-420.GitHub.io/depic/ftt.html
+Homepage: https://theemeraldisle.family
+Maintainer: Randy420 <randy.skinner@hotmail.com>
+Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
+Section: Utilities
+Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
+Architecture: iphoneos-arm64e
+Version: 1.4
+Installed-Size: 1300
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/ru.rj.ftt_1.4_iphoneos-arm64e.deb
+Size: 356948
+MD5: 572bbef943ad6b0a46133eefa828443b
+SHA1: 2c6e1fbd9f1ff5f1c5412f446ab9b5ef86eb2921
+SHA256: 350015eac8451f616879c7fa3575096e5ff0173ac4f5ad3a13ff3c456074a096
+SHA512: fbb474358b73c6d424086459586467c9b24c86ba77638190c4164246adc2f2ebf9586236a692a744884a8dc24979b9e7c6a5873e923d3be1301afb238de0c2c7
+
+Package: com.randy420.tools
+Name: 420 Tools
+Description: 420Tools holds the preferences for all my tweaks as well as shared files for my tweaks.
+Depiction: https://Randy-420.GitHub.io/depic/420Tools.html
+Depends: firmware (<= 15.0) | cy+cpu.arm64v8 | oldabi-xina | oldabi
+Homepage: https://theemeraldisle.family
+Maintainer: Randy420 <randy.skinner@hotmail.com>
+Author: Randy420 <randy.skinner@hotmail.com>
+Section: System
+Tag: role::hacker
+Replaces: com.randy420.encrypt
+Architecture: iphoneos-arm64e
+Version: 2.3.9
+Installed-Size: 2392
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.randy420.tools_2.3.9_iphoneos-arm64e.deb
+Size: 556392
+MD5: dbfd374cb6bfb233d230dce581dc53d6
+SHA1: 37149e6162a7749b63d0827e5c575231b6f2a7ff
+SHA256: 295c5f02f3179c99e8c62e72e5612c9d1adc7139b37a5832c3f7867eb949454a
+SHA512: 0d4b888117f559139625d4a5cc9b6f22e84feb5f69fb8a32e0faa9363ece3b23fb3a46551493cbb882e8e1e3b74f6fde52f8e0e15bfbc3fc973e71b67365a297
+
 Package: com.mtac.ampere
 Name: Ampere
 Architecture: iphoneos-arm64e
