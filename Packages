@@ -1,3 +1,64 @@
+Package: com.fouadraheb.contactsync
+Name: ContactSync
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
+Architecture: iphoneos-arm64e
+Version: 1.1.12
+Installed-Size: 620
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.fouadraheb.contactsync_1.1.12_iphoneos-arm64e.deb
+Size: 120004
+MD5: 1f796b3009a4bbc1e6a741a9aec4f362
+SHA1: 97c6564bbf6b8dffea83d88bf14e6717746a3c13
+SHA256: 9af78ed94d26df17dd023d8c43728e7d8cdd0b559f414f85035562bd95b160dc
+SHA512: f63fd9c00c9777b6bf5a40f24679a2dd07595c9bab10e6e035f39bc1b0607feb07a02fc4a9865b38cbbda8bef1b0349dd22c85d6092b963238f5e5394a11485c
+
+Package: com.f0u4d.stalky
+Name: Stalky
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Section: Tweaks
+Enhances: WhatsApp
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Architecture: iphoneos-arm64e
+Version: 4.1.32
+Installed-Size: 6780
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.f0u4d.stalky_4.1.32_iphoneos-arm64e.deb
+Size: 1613100
+MD5: 75fb0340adf130fd9538fc177f1bcb89
+SHA1: 9046ea6538861ab6eec0e15a84b51edbda508146
+SHA256: 44890588bdb1efe3467baf9c13fe85c11e06e4c79d314c80bca23c3ef57b7608
+SHA512: 32e95f9e5ff226b17c0401ec109a4c10726250e67538a74827ee69e27a49ed6e474ba23de792403b653cdcde756da58c69a6d7c01240f2d1f6a9efae56495eba
+
+Package: com.f0u4d.onlinenotify
+Name: OnlineNotify
+Description: Track your friends on WhatsApp Messenger!
+Section: Tweaks
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+Architecture: iphoneos-arm64e
+Version: 3.4.10
+Installed-Size: 700
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.f0u4d.onlinenotify_3.4.10_iphoneos-arm64e.deb
+Size: 188096
+MD5: 9787920815c73d78fad1b37c0437368b
+SHA1: da43b4db9fee37b691ac7479cb4376fa2dc21f7a
+SHA256: fd8d01810e8e3e786fbadeaed987f954988b94024781041816837515e088c899
+SHA512: 067460efd8e929c92e68797941de4d425d7d710d76dcb91334900f97c02f788aaf90ac6d0426a09b9a36797c1b97b429038cad511d9c4e2f52c1c91d0e53c5a8
+
 Package: com.f0u4d.watusitools
 Name: WatusiTools
 Version: 2.4.42
