@@ -1,3 +1,21 @@
+Package: com.f0u4d.watusitools
+Name: WatusiTools
+Version: 2.4.42
+Description: Library for Watusi, Regram and other tweaks
+Depends: firmware (>= 12.0)
+Section: Development
+Architecture: iphoneos-arm64e
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.f0u4d.watusitools_2.4.42_iphoneos-arm64e.deb
+Size: 8997476
+MD5: a7b0d74cd758651bced1aa3e1326f92e
+SHA1: 06e17be618264c1baf972f1c0f07467938f29d3d
+SHA256: 8843323a1a291fb9f79163d1c9e40100e58f8a10cb6207ac9b375f585f9d38fb
+SHA512: 248e8f6824210eaf209a40a367bc259073c28048b9e1d8e11687272b1d87444aa004a6188e5bac8a367cf8688c981a1a2a7db6c27edfca6abb90654b15a263c0
+
 Package: ru.rj.ftt
 Name: Flex To Theos
 Depends: mobilesubstrate, com.randy420.tools (>=2.3.7)
