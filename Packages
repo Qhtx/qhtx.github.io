@@ -1,3 +1,123 @@
+Package: com.f0u4d.onlinenotify
+Name: OnlineNotify
+Description: Track your friends on WhatsApp Messenger!
+Section: Tweaks
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.43)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+Architecture: iphoneos-arm64e
+Version: 3.4.11
+Installed-Size: 700
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.f0u4d.onlinenotify_3.4.11_iphoneos-arm64e.deb
+Size: 184108
+MD5: 25e86ff6d130e4efff8d9869cc40669e
+SHA1: f46f5e18104c000b44edb8133d484bf3c226a44f
+SHA256: e155c5b27358b773ff1babc46937039a1f7cbf444ebfc44063aad9ceec9fb2f3
+SHA512: d396c8f78d26479702afb9ec2e1ad618554c53f0f4bf6586406a196411a884d98432b4d0cbb4680575eae378b2ce03f15463e65718a71bb077330ffc935c601b
+
+Package: com.f0u4d.stalky
+Name: Stalky
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Section: Tweaks
+Enhances: WhatsApp
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.43)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Architecture: iphoneos-arm64e
+Version: 4.1.33
+Installed-Size: 6780
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.f0u4d.stalky_4.1.33_iphoneos-arm64e.deb
+Size: 1579812
+MD5: 28f615684edd1c700a37afc5a8e97fa0
+SHA1: b2a71c767df2061b43e2c90a208bff910d18f9c7
+SHA256: 6f05f2ced956188dcd8dffb5e2aca95a8fb998726054016bbf335b89d4b62db0
+SHA512: ac7667c1a4b5d38c1c9de0a80bdeda2be97d1c5bc13f66c7447175f82f0561fae27407e04912793d8f3bdb0127900141d256aafbcaed5e2bd7982dcede4a0f70
+
+Package: com.f0u4d.watusitools
+Name: WatusiTools
+Version: 2.4.44
+Description: Library for Watusi, Regram and other tweaks
+Depends: firmware (>= 12.0)
+Section: Development
+Architecture: iphoneos-arm64e
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.f0u4d.watusitools_2.4.44_iphoneos-arm64e.deb
+Size: 4815320
+MD5: f80151e6d39a214407b2ef09f3e2606f
+SHA1: 0fd6b8c3fdfc2a29c17fb0115da5eec45aa24942
+SHA256: b20f55f37c33f07dddf71a1313ca5f17d5b0b77093367ac190efa99589eecc60
+SHA512: 9827ba04970975e610ad4f97010da2e9f70c1985fff489ae419c3c7bbd79d276f7a4201ffb4f2e54e5e11dcab09bac571934ec4089157a17146566b9366b0e69
+
+Package: com.fouadraheb.contactsync
+Name: ContactSync
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.43)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
+Architecture: iphoneos-arm64e
+Version: 1.1.13
+Installed-Size: 620
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.fouadraheb.contactsync_1.1.13_iphoneos-arm64e.deb
+Size: 116608
+MD5: 51f3eaeba9efec6da4b6ce6c0bd9ceeb
+SHA1: 53f410b697386598fd311ebe8e8a9ae7c66d87f1
+SHA256: 821e864e9cde079bce3e05920691c2e33f607d425f63d8e4466f10e0eb662881
+SHA512: 2d4d5ccf6350520118ddfe5c0ef5625a262ae7a20de8918479c77ff79f3e7e4763727ed544417d9af66d1878593704152f9088766a28bf640b78d572a735c420
+
+Package: com.fouadraheb.regram
+Name: Regram for Instagram
+Description: The all-in-one tweak for Instagram
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.44)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+Architecture: iphoneos-arm64e
+Version: 1.0~b17
+Installed-Size: 6284
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.fouadraheb.regram_1.0~b17_iphoneos-arm64e.deb
+Size: 1353576
+MD5: 0e8d60583bb064082c87f31bb5ca6682
+SHA1: 29375b566dbe40bb06a76bb7b525f06467bb7d5a
+SHA256: 63200c628dd315905c22373257fe918b212ce5e979e2ea64cf45bbab1922d7f2
+SHA512: 6e0767ba86291ff4d939eeacc1eed60bedd7400de44c26d18ebbaabfafae7f683ae2067f30915f97a06710c99e6fc442308e69840398f8c127b0f9b103e0c561
+
+Package: com.fouadraheb.watusi3
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Description: The all-in-one tweak for WhatsApp Messenger
+Section: Tweaks
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.43)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+Architecture: iphoneos-arm64e
+Version: 1.2.47
+Installed-Size: 6672
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.fouadraheb.watusi3_1.2.47_iphoneos-arm64e.deb
+Size: 1962412
+MD5: 2dddce565ff074f3d09ddd9ad44dc814
+SHA1: 768fff24bb8219257e5e79a74078109786b68bbf
+SHA256: 109692b4a12393975083fe2dddf6ffcd409bbf74d2b91b60291d477e6302e83c
+SHA512: b3c6ace90a829c093c3ed952ce20df0ddd6b683725cd84d6ea5cc2795c8dfeaee19ea33a51c374b1b55b80501100f0c5a2bfbb31b979f8bd613f082525306d49
+
 Package: com.fouadraheb.contactsync
 Name: ContactSync
 Description: Sync WhatsApp Profile Pictures to your Contacts
