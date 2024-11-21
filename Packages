@@ -267,7 +267,7 @@ Depends: firmware (<= 15.0) | cy+cpu.arm64v8 | oldabi-xina | oldabi
 Homepage: https://theemeraldisle.family
 Maintainer: Randy420 <randy.skinner@hotmail.com>
 Author: Randy420 <randy.skinner@hotmail.com>
-Section: System
+Section: Tweaks
 Tag: role::hacker
 Replaces: com.randy420.encrypt
 Architecture: iphoneos-arm64e
@@ -593,28 +593,6 @@ MD5: 051ca15c263fa8a4fe230117b7d850d7
 SHA1: 90653910052a8256e7f107274f4ee8f30f4c4322
 SHA256: 9ae6caa0a8dc88dac1abecc8d61618645500e7fd6f45448cdd7e1ef8a160caf8
 SHA512: 97933af33828723ab8839bf6a0680fd18e13332c17857c48be40cb0e16635e1f85353653c940b61c294f8234ff0c628e77fad6cb8c2e1e8a062f3f172c225d19
-
-Package: xyz.cypwn.xinam1ne
-Maintainer: CyPwn
-Depiction: https://repo.cypwn.xyz/depiction/2816
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2816
-Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
-Name: Xinam1ne AIO
-Version: 2.6-8
-Architecture: iphoneos-arm64e
-Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Provides: emt.paisseon.xinamine (= 99)
-Replaces: emt.paisseon.xinamine
-Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
-Section: for test !
-Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/xyz.cypwn.xinam1ne_2.6-8_iphoneos-arm64e.deb
-Size: 23604
-MD5: 216f7fedde31c48d30f3ed0c6044e5d7
-SHA1: 7c311c9d6f6a397fb06e5786736a857fe1e23ff6
-SHA256: 2cbd2808693b5cb65d1832547060a7b0693f390e17cc9542cd4b279153a5525d
-SHA512: 09e3326806b1e941bfcc784c25237bb78883f879d868ba4bbfdc2db6b6cec4db68d2117bbcb84a7a44251bed5f620c5bd1a3066c781562cf11b64827afb032c6
 
 Name: BottomControlX
 Package: com.xcxiao.bottomcontrolx
@@ -1357,7 +1335,7 @@ Maintainer: alias20
 Package: kr.xsf1re.vnodebypass
 Name: vnodebypass
 Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
-Section: System
+Section: Tweaks
 Description: An expermental tool to hide jailbreak files for bypass detection. (Only supported iOS 15-16 with Dopamine2)
 Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
 Tag: role::hacker, compatible::ios15, compatible::ios16
