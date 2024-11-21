@@ -246,7 +246,7 @@ Depiction: https://Randy-420.GitHub.io/depic/ftt.html
 Homepage: https://theemeraldisle.family
 Maintainer: Randy420 <randy.skinner@hotmail.com>
 Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
-Section: Utilities
+Section: Tweaks
 Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
 Architecture: iphoneos-arm64e
 Version: 1.4
@@ -606,7 +606,7 @@ Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, file, odcctools, ldid,
 Provides: emt.paisseon.xinamine (= 99)
 Replaces: emt.paisseon.xinamine
 Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
-Section: xinam1ne
+Section: for test !
 Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/xyz.cypwn.xinam1ne_2.6-8_iphoneos-arm64e.deb
@@ -1109,7 +1109,7 @@ Depends: mobilesubstrate, odcctools, fakeroot, ldid, oldabi, file
 Name: Derootifier
 Icon: https://i.imgur.com/P97SEPg.jpeg
 Architecture: iphoneos-arm64
-Section: Applications
+Section: Tweaks
 Filename: /debs/org.haxi0.derootifier_1.3_iphoneos-arm64.deb
 Size: 529272
 MD5: 25b9ea072c6cd64bed45ebbe4bea5d83
@@ -1541,7 +1541,7 @@ Version: 7.10.0
 Architecture: iphoneos-arm64
 Homepage: http://ib-soft.net/icleaner
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
-Section: Utilities
+Section: Tweaks
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
@@ -2489,7 +2489,7 @@ Priority: optional
 Description: Dedicated settings app for tweaks
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Author: CreatureSurvive <support@creaturecoding.com>
-Section: Applications
+Section: Tweaks
 dev: CreatureSurvive
 Homepage: https://creaturecoding.com/
 Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
@@ -2572,7 +2572,7 @@ Version: 7.10.0
 Architecture: iphoneos-arm64e
 Homepage: http://ib-soft.net/icleaner
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
-Section: Utilities
+Section: Tweaks
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
@@ -2593,7 +2593,7 @@ Pre-Depends: rootless-compat(>= 0.9), firmware (>= 11.0)
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
 Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
 Replaces: com.ichitaso.powerselector11
-Section: Utilities
+Section: Tweaks
 Description: The power supply relation of a device is operated.
 Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
 Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
@@ -2971,7 +2971,7 @@ SHA512: abae850cfeeac0e04f999c0c75319c8179d3740ce5ad82d232fd739b340aa7b9d1690812
 Package: com.netskao.appdata
 Name: AppData
 Description: View & Manage Applications Data from your Home Screen
-Section: Netskao-Tweaks
+Section: Tweaks
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Author: Fouad Raheb
 Maintainer: Nets
@@ -3480,7 +3480,7 @@ SileoDepiction: https://raw.githubusercontent.com/re4yo/re4yo.github.io/refs/hea
 Sponsor: thebigboss.org <http://thebigboss.org>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: TIGI Software <satashi2009@gmail.com>
-Section: Applications
+Section: Tweaks
 Tag: purpose::uikit
 Installed-Size: 9121
 dev: satashi2009
