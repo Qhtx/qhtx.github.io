@@ -1,3 +1,42 @@
+Package: com.fouadraheb.watusi3
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Description: The all-in-one tweak for WhatsApp Messenger
+Section: Tweaks
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.44)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+Architecture: iphoneos-arm64e
+Version: 1.2.48
+Installed-Size: 6672
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.fouadraheb.watusi3_1.2.48_iphoneos-arm64e.deb
+Size: 1962192
+MD5: 8761f491ca8d5b42cdf4243e6acc190b
+SHA1: 6c810f5961f1b5460bd509a895400e90ae874c34
+SHA256: 01916d801d03ffba9dcdf84b519e93bdd377635383db4def686736c7e7567875
+SHA512: 34dc45a9f11decb7cf8cfcc000bb4507b90b071c094be05c4102ad54607ecf45ed661ffed88f06549e84f03f8e8871335d2de841048217111d18519c5ed430e7
+
+Package: com.fouadraheb.watusi3
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Description: The all-in-one tweak for WhatsApp Messenger
+Section: Tweaks
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.44)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+Architecture: iphoneos-arm64
+Version: 1.2.48
+Installed-Size: 6672
+Filename: ./debs/com.fouadraheb.watusi3_1.2.48_iphoneos-arm64.deb
+Size: 1978912
+MD5: 4a27317fff49f6e63f2b30fc93b5a23a
+SHA1: 4c0e974cdd0886421231eb65ad6d86033f3304b7
+SHA256: a1aab2ac7b9af3b3f65e82c2555185c98fd461757a8d15548a21d94ed72ec354
+SHA512: 49ce3c7f592ec5d6e8dff38e75f9e900470bfe6aa71a93106ebbfd1c1fed14bad03c1d61424cb7bd4411f9ae28bcf0378b5aad9944a7872f6a6a32507eea3692
+
 Package: com.f0u4d.onlinenotify
 Name: OnlineNotify
 Description: Track your friends on WhatsApp Messenger!
