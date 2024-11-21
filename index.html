@@ -10,9 +10,9 @@
       margin: 0;
       padding: 0;
       font-family: 'Arial', sans-serif;
-      background: linear-gradient(135deg, #000000, #2e004f, #4b007a, #000000);
+      background: linear-gradient(135deg, #800080, #FFC0CB, #008080, #800080); /* More vibrant gradient */
       background-size: 400% 400%;
-      animation: gradient-animation 5s linear infinite;
+      animation: gradient-animation 10s ease infinite; /* Smoother animation */
       display: flex;
       align-items: center;
       justify-content: center;
@@ -28,40 +28,42 @@
 
     #profile-box {
       text-align: center;
-      background: rgba(0, 0, 0, 0.7);
+      background: rgba(255, 255, 255, 0.1); /* Semi-transparent white background */
       padding: 40px 20px;
-      border-radius: 12px;
+      border-radius: 20px; /* More rounded corners */
       box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
       width: 300px;
       transition: transform 0.3s ease, box-shadow 0.3s ease;
+      backdrop-filter: blur(10px); /* Add a blur effect */
     }
 
     #profile-box:hover {
-      transform: scale(1.05);
+      transform: scale(1.1); /* Increased scale on hover */
       box-shadow: 0 8px 30px rgba(0, 0, 0, 0.7);
     }
 
     #profile-box img {
-      width: 120px;
-      height: 120px;
+      width: 150px; /* Slightly larger image */
+      height: 150px;
       border-radius: 50%;
       margin-bottom: 15px;
-      box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2);
+      box-shadow: 0 4px 8px rgba(255, 255, 255, 0.3); /* Brighter shadow */
+      border: 3px solid #fff; /* Add a white border */
     }
 
     #profile-box h2 {
-      font-size: 1.5rem;
+      font-size: 2rem; /* Larger heading */
       margin: 10px 0;
-      color: #f0f0f0;
+      color: #fff;
       text-transform: capitalize;
-      letter-spacing: 2px;
+      letter-spacing: 3px;
       font-weight: bold;
       text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
     }
 
     #profile-box p {
-      font-size: 1rem;
-      color: #dcdcdc;
+      font-size: 1.1rem; /* Slightly larger paragraph text */
+      color: #eee;
       margin-bottom: 20px;
       letter-spacing: 1px;
       text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
@@ -71,64 +73,66 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      margin: 8px auto;
-      padding: 12px;
+      margin: 10px auto; /* Increased margin */
+      padding: 14px; /* Increased padding */
       color: white;
-      background: rgba(90, 42, 130, 0.3);
-      border: 1px solid #5a2a82;
-      border-radius: 8px;
+      background: rgba(255, 255, 255, 0.2); /* Semi-transparent white background */
+      border: none; /* Remove border */
+      border-radius: 10px; /* More rounded corners */
       text-decoration: none;
-      font-size: 1rem;
+      font-size: 1.1rem; /* Slightly larger font size */
       font-weight: bold;
       letter-spacing: 1px;
-      transition: background 0.3s ease, transform 0.3s ease;
-      width: 80%;
+      transition: background 0.3s ease, transform 0.3s ease, color 0.3s ease;
+      width: 85%;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* Add a subtle shadow */
     }
 
     .button-container a:hover {
-      background: rgba(90, 42, 130, 0.6);
-      color: #fff;
+      background: rgba(255, 255, 255, 0.3);
+      color: #800080; /* Purple hover color */
       transform: scale(1.05);
     }
 
     .button-container a i {
       margin-right: 8px;
-      font-size: 1.2rem;
+      font-size: 1.3rem; /* Slightly larger icons */
     }
 
     .hidden-options {
       display: none;
       flex-direction: column;
-      margin-top: 10px;
+      margin-top: 15px; /* Increased margin */
     }
 
     .hidden-options a {
       display: flex;
       align-items: center;
       justify-content: center;
-      margin: 8px auto;
-      padding: 12px;
+      margin: 10px auto; /* Increased margin */
+      padding: 14px; /* Increased padding */
       color: white;
-      background: rgba(90, 42, 130, 0.3);
-      border: 1px solid #5a2a82;
-      border-radius: 8px;
+      background: rgba(255, 255, 255, 0.2); /* Semi-transparent white background */
+      border: none; /* Remove border */
+      border-radius: 10px; /* More rounded corners */
       text-decoration: none;
-      font-size: 1rem;
+      font-size: 1.1rem; /* Slightly larger font size */
       font-weight: bold;
       letter-spacing: 1px;
-      transition: background 0.3s ease, transform 0.3s ease;
-      width: 80%;
+      transition: background 0.3s ease, transform 0.3s ease, color 0.3s ease;
+      width: 85%;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* Add a subtle shadow */
     }
 
     .hidden-options a:hover {
-      background: rgba(90, 42, 130, 0.6);
-      color: #fff;
+      background: rgba(255, 255, 255, 0.3);
+      color: #800080; /* Purple hover color */
       transform: scale(1.05);
     }
 
     .hidden-options a i {
       margin-right: 8px;
-      font-size: 1.2rem;
+      font-size: 1.3rem; /* Slightly larger icons */
     }
   </style>
 </head>
@@ -145,8 +149,8 @@
     </div>
     <div class="hidden-options" id="hidden-options">
       <a href="https://x.com/ipapplus/status/1806667569702596669?" target="_blank"><i class="fas fa-link"></i>حذف دوبامين في ثواني</a>
-      <a href="https://x.com/ipapplus/status/1858151457628786982?"><i class="fas fa-link"></i>اخفاء الراجحي دوبامين</a>
-      <a href="https://x.com/ipapplus/status/1847516665682043356?"><i class="fas fa-link"></i>حل أغلب البنوك</a>
+      <a href="https://x.com/ipapplus/status/1858151457628786982?" target="_blank"><i class="fas fa-link"></i>اخفاء الراجحي دوبامين</a>
+      <a href="https://x.com/ipapplus/status/1847516665682043356?" target="_blank"><i class="fas fa-link"></i>حل أغلب البنوك</a>
     </div>
   </div>
 
