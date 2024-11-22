@@ -1,3 +1,41 @@
+Package: com.foxfort.libfoxfortutils
+Name: libfoxfortutils
+Depends: firmware (>= 11.0), com.opa334.libsandy
+Description: library for Foxfort tweaks
+Maintainer: FoxfortMobile
+Author: FoxfortMobile
+Section: Development
+Tag: role::developer
+Architecture: iphoneos-arm64e
+Version: 1.4.8
+Installed-Size: 1288
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.foxfort.libfoxfortutils_1.4.8_iphoneos-arm64e.deb
+Size: 279596
+MD5: a21dc1deed28439d1ac4386788347022
+SHA1: 8e2adc3f688d0ae2a9c15819c2c463717abf8d8b
+SHA256: 0b70b8640873d0acd72c3190d56ff3d96b3afb5f296bccc35ea83dcf71862a61
+SHA512: c30faedcb9078a805d119d3ee0864663a03e6757d58a649d895244f76a5eaa7e51af912213e9442c5aa05fcf1a06e43fb61914d0051608048f77dd744770b7c6
+
+Package: com.foxfort.foxforttools
+Name: FoxFort Tools
+Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.4.8)
+Description: Helper tools for Foxfort tweaks
+Maintainer: FoxfortMobile
+Author: FoxfortMobile
+Section: Development
+Tag: role::developer
+Architecture: iphoneos-arm64e
+Version: 1.4.14
+Installed-Size: 2196
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.foxfort.foxforttools_1.4.14_iphoneos-arm64e.deb
+Size: 489576
+MD5: 86a7cb8c9e59fa5c17cd9750389fc339
+SHA1: d3576051e7cd21167718db93f75d634e0afc9f95
+SHA256: 4d52ace4cb4a2a4c0efcd24ebdc22dbb481c757fed0a16a08e92f62e6129ce36
+SHA512: 2d1260bf84e29b31251cbeda3315a759556e9e85def4b0f6a39af186fd6639353b395138b555bdd8846e388672815eaf7cf041106a9ad57b40f0ef2a87059087
+
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
