@@ -1,3 +1,35 @@
+Package: com.tools4cydia.copylinkdeb
+Name: CopyLinkDeb
+Description: تحميل ونسخ روابط ديب من سورسات Download deb files from sources!
+Maintainer: Tools4cydia
+Author: Tools4cydia
+Section: Utilities
+Architecture: iphoneos-arm64e
+Version: 2.0.4-15+rootless
+Installed-Size: 11552
+Filename: ./debs/com.tools4cydia.copylinkdeb_2.0.4-15+rootless_iphoneos-arm64e.deb
+Size: 475356
+MD5: d3dcd6eb42ea0882405743117348bb32
+SHA1: ece2e8ddb8a24693fc780fc8502f36f735440afc
+SHA256: 116bf173b777583c344f114b27a650c2f367b910bf3156898450870cd42539c1
+SHA512: 66e1745f88ed4e9bde20f5895530751856b139155e3eb67200b683925d53c58d5122f1dbfa4cbe18f6c251ea6f19b99232151fc56a2125e36d379026d2072ace
+
+Package: com.tools4cydia.copylinkdeb
+Name: CopyLinkDeb
+Description: تحميل ونسخ روابط ديب من سورسات Download deb files from sources!
+Maintainer: Tools4cydia
+Author: Tools4cydia
+Section: Utilities
+Architecture: iphoneos-arm64
+Version: 2.0.4-15+rootless
+Installed-Size: 11552
+Filename: ./debs/com.tools4cydia.copylinkdeb_2.0.4-15+rootless_iphoneos-arm64.deb
+Size: 478968
+MD5: d8b8693de602af3521b8bdf2ccb83892
+SHA1: fe670b220a914a1dee2c4f472437cceb072062f4
+SHA256: 6b4bd1fd61aac87ce3b4a0a99bc3aff9898c3632dfb668c4fbde00015ab511f8
+SHA512: 4c6fd3dd4587011585703a1f45c3ff519e838e376be2f086edb0c622ad359e6d6fca749cf7cfbf791800c86694225ca1fdf16a94852b1890e37b2629159818aa
+
 Package: com.foxfort.libfoxfortutils
 Name: libfoxfortutils
 Depends: firmware (>= 11.0), com.opa334.libsandy
@@ -825,37 +857,37 @@ SHA1: 37e33fce552e4398741a534392b38b049995a9f6
 SHA256: c79cdaca112d3edcfe4543b02abc444397286b16ac8acf270e3186e5a967f787
 SHA512: 1485aa0637aa38582ccad1a7ca0ee0b7888d811b3e1168c5e19de7c09bd8ac3d47aee01bbdfae5dac15fe3234354958cdfe59590faf092841868ee83f678e703
 
-Package: com.burbn.theta
-Name: Theta For Instagram
-Depends: mobilesubstrate
+Package: dev.objcmsgsend.theta
+Name: Theta
+Description: An awesome tweak for Instagram!
+Maintainer: objc_msgSend
+Author: objc_msgSend
+Section: Tweaks
 Architecture: iphoneos-arm64e
-Description: an awesome tweak for instagram
-Maintainer: @no
-Author: @no
-Section: Tweaks
-Version: 1.0
-Filename: ./debs/com.burbn.theta_1.0_iphoneos-arm64e.deb
-Size: 662692
-MD5: ea5c1bb60d2a5fa69e6a07d2d3e67284
-SHA1: 50eb7eeaae0a4296452955ea40f123eb6937c599
-SHA256: aade938451b5f3c7e91ccc466e56c5cff7525f8be6f790097cc6f70f8fa5d843
-SHA512: 4f404933d24e8e43ba8e2f6a34136863ace9c924a95fcaeb2980dc78e439bc8b2b1b179475e120d231a44e74ac5fb6bac14dbbe42ae97e988369ebf5ee224bcc
+Version: 1.1
+Installed-Size: 2820
+Filename: ./debs/dev.objcmsgsend.theta_1.1_iphoneos-arm64e.deb
+Size: 983892
+MD5: 5f5e835d3d98102d8a7488627ac86ec8
+SHA1: 8db7629e6edd085ed5ed4cc01d17922956342b75
+SHA256: 03e95949c07a9b336c717fa3b6192d0749de6106c29af63e4c6586ef2590f7c1
+SHA512: d3e247acb991ee230750bb90b251988e040b9f106f91191da6902ab2da2a7053a8ef715d833c3d425b86364fbcf39cde6cc10bc6eac9512b8ad0ec375a09518f
 
-Package: com.burbn.theta
-Name: Theta For Instagram
-Depends: mobilesubstrate
-Architecture: iphoneos-arm64
-Description: an awesome tweak for instagram
-Maintainer: @no
-Author: @no
+Package: dev.objcmsgsend.theta
+Name: Theta
+Description: An awesome tweak for Instagram!
+Maintainer: objc_msgSend
+Author: objc_msgSend
 Section: Tweaks
-Version: 1.0
-Filename: ./debs/com.burbn.theta_1.0_iphoneos-arm64.deb
-Size: 662360
-MD5: d61d098c66529415aefc40ae01858d96
-SHA1: 047ee47a0fc4c5972f83877439461269ab5091fd
-SHA256: 3e8058b2b546352789ec120cc06f3f2cd81e89fcc90e54d93c2920b97925bd54
-SHA512: 5060e81311a8215de25bc1623d3220cf731159e98cce56c784409304070723ff072d5a95d4ed2b223d599286dd0cfaff7076204dee410fc21f1b175f4a0f921b
+Architecture: iphoneos-arm64
+Version: 1.1
+Installed-Size: 2576
+Filename: ./debs/dev.objcmsgsend.theta_1.1_iphoneos-arm64.deb
+Size: 675648
+MD5: 8ec93889bd892e285d2ed5ae528e409a
+SHA1: 03b94e83da573fa76c2792d428cff7f6e78d0166
+SHA256: 4fd74dcc722f8aefc88cda6c2f2012cc9ec2acda61cfad8287b9658288ebd03f
+SHA512: abbb2f998c22416e2e7762a61864c929e5fe790352b7b0e0dcac6f916d4499e49b4a46959c4f0cc8ffe36a3049c18098f149dbb6af7774bd2dd57a84f4070925
 
 Package: com.0xkuj.3dappversionspoofer
 Version: 2.1.1
