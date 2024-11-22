@@ -7,12 +7,13 @@ Section: Utilities
 Architecture: iphoneos-arm64e
 Version: 2.0.4-15+rootless
 Installed-Size: 11552
+Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.tools4cydia.copylinkdeb_2.0.4-15+rootless_iphoneos-arm64e.deb
-Size: 475356
-MD5: d3dcd6eb42ea0882405743117348bb32
-SHA1: ece2e8ddb8a24693fc780fc8502f36f735440afc
-SHA256: 116bf173b777583c344f114b27a650c2f367b910bf3156898450870cd42539c1
-SHA512: 66e1745f88ed4e9bde20f5895530751856b139155e3eb67200b683925d53c58d5122f1dbfa4cbe18f6c251ea6f19b99232151fc56a2125e36d379026d2072ace
+Size: 475432
+MD5: 5556f6d76467ad4dfea2a93769b7db3c
+SHA1: d17982ab4995b2b8dc8f0a90801c7578b355bf1b
+SHA256: edf363d7365847f1381c7f0c062646db2d23a1cc44af8414880ec66dfe465d18
+SHA512: 1330b2d4dc28abf92a380795eb6d8ae22e878a2080e32add8f417ff59f8fb23bc41d30ce3cb991c36cf166fc504a21bf7e76d402294bfdfad75d376befadf1bd
 
 Package: com.tools4cydia.copylinkdeb
 Name: CopyLinkDeb
