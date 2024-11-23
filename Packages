@@ -1252,26 +1252,6 @@ SHA1: 750702664c5944a7e6131aad73a3550b81b5b326
 SHA256: b88fbeb6232b25d63f2796ea53a5808a1e1c6f99573de64548fd8e12004a433c
 SHA512: e93114b0b69faf61439e4c31e2ea04482aa00bf8b4a7de2306875133078dc7591c06a1049078ab816fab61f5c4c0da71934c0541883be3b9ee9d51ce238ce3e3
 
-Package: com.fouadraheb.regram
-Name: Regram for Instagram
-Description: The all-in-one tweak for Instagram
-Section: Tweaks
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.39)
-Author: Fouad Raheb <support@fouadraheb.com>
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
-Architecture: iphoneos-arm64
-Version: 1.0~b14
-Installed-Size: 6252
-Filename: ./debs/com.fouadraheb.regram_1.0~b14_iphoneos-arm64.deb
-Size: 1329972
-MD5: 403e0b22b2e3d46818bebea74df7c106
-SHA1: c532c01b4c1b5fe8c620e4d7872fcb4a268daf64
-SHA256: 0e74d30f20ce577245f5631d28089dea312fb4e2efbde6a7a1795adee45769aa
-SHA512: e2ca18b31949da99351252cac2ec30fad0c4c97fd4bd4cc796a0d5350f8e88d25eedc8a774a3e5986e2e76e779ad7312b3288f2d10ae73ea369784af5d768489
-
 Package: netskao.appdata-rootless
 Version: 1.4.1
 Description: View & Manage Applications Data from your Home Screen & downgrade
@@ -1324,26 +1304,6 @@ SHA1: bbd661952261389aa0f6ed975d0be9664e15cf36
 SHA256: 62ef6180ec9105e180ead5ad790b385df9beea56476d5e30d2dba9d2414c5182
 SHA512: 951bdbf92fce976d4569803583cf80f85f39df6baef98ccd8eab459f8b58a0acec8e503b6dd70a4b961c92ce7a9f124dca32b6e661706bb3829caa894a5987ab
 
-Package: com.fouadraheb.regram
-Name: Regram for Instagram
-Description: The all-in-one tweak for Instagram
-Section: Tweaks
-Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.34)
-Author: Fouad Raheb <support@fouadraheb.com>
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-Icon: https://i.imgur.com/Ha3IO5J.jpeg
-Architecture: iphoneos-arm64
-Version: 1.0~b11
-Installed-Size: 6092
-MD5: 2ff353d1a30fa1008fcc215b8246fb6c
-SHA1: 1b35d3aa7d39952f2eeb6168c4636101d2e976b8
-SHA256: fa9c3265f3a2531f653ee6a57ae9caea9311063c83c19e1a00a02d24f8dd882c
-SHA512: 834c21869c6579dca4266885ad180764d62f1165ac4b72bf4dd477639bd5f6e4ae974b2bdd8da9d503bc2baac54cc431823c753c3cd50b6da8c26ddc6b705192
-Filename: ./debs/com.fouadraheb.regram_1.0~b11_iphoneos-arm64.deb
-Size: 1291412
-
 Package: com.jaxroth.supporttheunsupportedrevived
 Name: SupportTheUnsupported Revived
 Version: 1.0.0
@@ -1361,23 +1321,6 @@ SHA1: c2e2a58d21655a9999b2bd66052675593d73349d
 SHA256: 7868252395fddb8626be87ea96c86bb88cae9827233c0d66b2b6e83dfaa15769
 SHA512: f1847ee468842caaead6c7f77640a97b0fa88dd935d5489e2dbff3582e0eb66230955aaad4f489df1ca6c558953bc57b2582546e0fe27026792671650c11da39
 Icon: https://media.havoc.app/620c0c7c24c5820cc9bc0776?w=1920&q=75
-
-Package: com.fouadraheb.watusi3
-Architecture: iphoneos-arm64
-Version: 1.2.40
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6660
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.33)
-Filename: ./debs/com.fouadraheb.watusi3_1.2.40_iphoneos-arm64.deb
-Size: 1971948
-MD5sum: 8d072e47c518e012d58853c640227fa8
-SHA1: e0a73bf9db725d6d250ac9d533ae18b6541f2cdc
-SHA256: 2ecb8465b933b1d53bed59384823a32ca92f138fc0e643a553f33ac8c91230f9
-SHA512: 7cdeed9dc943b94b1edb5028316fc0f345a2193e020dd9bbbbfe09f6d0711ef209b7c170c4ef6f1bfd20e328e3628d3652893c4bc1326c68d46b39e7378870ff
-Description: The all-in-one tweak for WhatsApp Messenger
-Name: Watusi 3 for WhatsApp
-Author: Fouad Raheb <support@fouadraheb.com>
 
 Package: com.f0u4d.watusitools
 Version: 2.4.40
@@ -1870,26 +1813,6 @@ MD5: 02469facbbba984e20b4f5e3d1413e68
 SHA1: 20fb25c83596f74170c546696239a469ed380e39
 SHA256: c368ee20aaf1bb59c696670184f3fba23834fef93da6fd79d4552d46bcd10663
 SHA512: 7f4bc5fc58a2382fc378c49a405ec9e0e09fca77e21c6a972028c3c0233f1f0262ea24f4f002adce1e4c387cb5c3a860a1930d5271ac4554c5b1852b3fb26710
-
-Package: com.fouadraheb.regram
-Name: Regram for Instagram
-Description: The all-in-one tweak for Instagram
-Section: Tweaks
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.39)
-Author: Fouad Raheb <support@fouadraheb.com>
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
-Architecture: iphoneos-arm64
-Version: 1.0~b14
-Installed-Size: 6252
-Filename: ./debs/com.fouadraheb.regram_1.0~b14_iphoneos-arm64.deb
-Size: 1330172
-MD5: d5cb98925fa3886f58147ceec2c5a614
-SHA1: 4b23ad264d26dbf121ef29066c4ff2639af89e01
-SHA256: 63c9ff1840896603519d58bbdebabac9006669002e0d55f84d80dc078a3f9102
-SHA512: 1cb3afff618c0083286e24026004b9a54e6a4686665b1dd7c26e738026eb6a6aefd1886bc6c7f76b6f9b04b38846011c1c22a2dbb174bc45d5be315efcd1a60f
 
 Package: com.yourepo.cydiageek.wiredock
 Architecture: iphoneos-arm64e
