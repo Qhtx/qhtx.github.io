@@ -1511,21 +1511,21 @@ Name: Watusi 3 for WhatsApp
 Author: Fouad Raheb <support@fouadraheb.com>
 
 Package: com.f0u4d.watusitools
-Name: WatusiTools
 Version: 2.4.40
 Description: Library for Watusi, Regram and other tweaks
-Depends: firmware (>= 12.0)
-Section: Development
-Architecture: iphoneos-arm64
-Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
+Author: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
+Architecture: iphoneos-arm64
+Section: Development
 Filename: ./debs/com.f0u4d.watusitools_2.4.40_iphoneos-arm64.deb
-Size: 4497924
-MD5: 37eeab0dcc7d61d5cf407e5eb386baaa
-SHA1: d2a9331a8459441f54758020a746fa168e4e2140
-SHA256: a77d3ff6eae8011d9d8411a8d25381c910d7166ee2dcc78e8a03aeeb87f56e9c
-SHA512: f4b56b069b90fe68fce8c32b9194b5496111ae6b5b7e2b33e5a0c3ba510b9e447f4b41e001b43c31245691795dd57ae61f42e7f08b0dbce7e053a0cb6146eefe
+Size: 4498516
+MD5: e0f89c551894b8dedda2f6480132b74e
+SHA1: 448d1fa303aa1bbb7bb90b773e606ed4cf6dab2e
+SHA256: 3060a9048101a42cd9c343594fd0167473a3de155a3ea73839c3c5ad1076b551
+SHA512: 80741d8476a15323dc4f6faf81e13bfa15b253ff3b86a90bc5b0eb4b10ae9c9b5f9473ec6ebca9a3ac7470501d6e0d5cbb1585dee965a8d78b566be7e86dc8a4
 
 Package: xyz.xninja.systeminfo
 Architecture: iphoneos-arm64
