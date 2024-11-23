@@ -170,26 +170,6 @@ SHA1: 29375b566dbe40bb06a76bb7b525f06467bb7d5a
 SHA256: 63200c628dd315905c22373257fe918b212ce5e979e2ea64cf45bbab1922d7f2
 SHA512: 6e0767ba86291ff4d939eeacc1eed60bedd7400de44c26d18ebbaabfafae7f683ae2067f30915f97a06710c99e6fc442308e69840398f8c127b0f9b103e0c561
 
-Package: com.fouadraheb.watusi3
-Name: Watusi 3 for WhatsApp
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
-Description: The all-in-one tweak for WhatsApp Messenger
-Section: Tweaks
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.43)
-Author: Fouad Raheb <support@fouadraheb.com>
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
-Architecture: iphoneos-arm64e
-Version: 1.2.47
-Installed-Size: 6672
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.fouadraheb.watusi3_1.2.47_iphoneos-arm64e.deb
-Size: 1962412
-MD5: 2dddce565ff074f3d09ddd9ad44dc814
-SHA1: 768fff24bb8219257e5e79a74078109786b68bbf
-SHA256: 109692b4a12393975083fe2dddf6ffcd409bbf74d2b91b60291d477e6302e83c
-SHA512: b3c6ace90a829c093c3ed952ce20df0ddd6b683725cd84d6ea5cc2795c8dfeaee19ea33a51c374b1b55b80501100f0c5a2bfbb31b979f8bd613f082525306d49
-
 Package: com.fouadraheb.contactsync
 Name: ContactSync
 Description: Sync WhatsApp Profile Pictures to your Contacts
@@ -250,24 +230,6 @@ MD5: 9787920815c73d78fad1b37c0437368b
 SHA1: da43b4db9fee37b691ac7479cb4376fa2dc21f7a
 SHA256: fd8d01810e8e3e786fbadeaed987f954988b94024781041816837515e088c899
 SHA512: 067460efd8e929c92e68797941de4d425d7d710d76dcb91334900f97c02f788aaf90ac6d0426a09b9a36797c1b97b429038cad511d9c4e2f52c1c91d0e53c5a8
-
-Package: com.f0u4d.watusitools
-Name: WatusiTools
-Version: 2.4.42
-Description: Library for Watusi, Regram and other tweaks
-Depends: firmware (>= 12.0)
-Section: Development
-Architecture: iphoneos-arm64e
-Author: Fouad Raheb <support@fouadraheb.com>
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.f0u4d.watusitools_2.4.42_iphoneos-arm64e.deb
-Size: 8997476
-MD5: a7b0d74cd758651bced1aa3e1326f92e
-SHA1: 06e17be618264c1baf972f1c0f07467938f29d3d
-SHA256: 8843323a1a291fb9f79163d1c9e40100e58f8a10cb6207ac9b375f585f9d38fb
-SHA512: 248e8f6824210eaf209a40a367bc259073c28048b9e1d8e11687272b1d87444aa004a6188e5bac8a367cf8688c981a1a2a7db6c27edfca6abb90654b15a263c0
 
 Package: ru.rj.ftt
 Name: Flex To Theos
@@ -477,80 +439,6 @@ MD5: 634a9cde4758d0e8f0f589fa6326ed7f
 SHA1: a58b8e22a9063ee037b90b707705519a655edbec
 SHA256: 77a072a600f874c301af3096248cee8f190327cf6816a5409b4174b254fe05eb
 SHA512: 214d7535e85f2f5b336b9ba4112ec50d4f612f4917f4920af4e858cd3ac6c56097d806cf0a4d3cd1adeb395ba8e2eb396f3063d70e715f6a3c4dfa062ddd60f8
-
-Package: com.fouadraheb.watusi3
-Name: Watusi 3 for WhatsApp
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
-Description: The all-in-one tweak for WhatsApp Messenger
-Section: Tweaks
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.41)
-Author: Fouad Raheb <support@fouadraheb.com>
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
-Architecture: iphoneos-arm64e
-Version: 1.2.46
-Installed-Size: 6704
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.fouadraheb.watusi3_1.2.46_iphoneos-arm64e.deb
-Size: 1995300
-MD5: b108c962c10c2a4ded507152556554a0
-SHA1: bfd7c75ec1ec26650b70b4c662224b6ec4b6c704
-SHA256: 5b9385e3b8c045721d17dc53f4959d69820bd074f25ec1e3527feb7bbde2960e
-SHA512: 789d9d9385029d86e2cc44f91ff9364d7ffdc4ff297c7990a2b37a7ad06e96728deac20ea73db028e6c249bf5383fa2a92efa0330e129cfae23358c250ada695
-
-Package: com.fouadraheb.watusi3
-Name: Watusi 3 for WhatsApp
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
-Description: The all-in-one tweak for WhatsApp Messenger
-Section: Tweaks
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.41)
-Author: Fouad Raheb <support@fouadraheb.com>
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
-Architecture: iphoneos-arm64
-Version: 1.2.46
-Installed-Size: 6704
-Filename: ./debs/com.fouadraheb.watusi3_1.2.46_iphoneos-arm64.deb
-Size: 1980704
-MD5: d67ef66b80737cf43d628e7e95b24d15
-SHA1: f9a1820b4fded3bff0e3c159bc2461c140d44ded
-SHA256: ec6dacbf7699dbaa38c9b31fdb0c45272005b9915b5fb889eacefc9cf421b612
-SHA512: 4e7e54f89847c8d8a92e711b92b1a722945e54bac49d0f992fc75184b0ed1b442aecf9ad1e322aeac4146fc75e0623f3ba601823091a99e3a14ce18987aec590
-
-Package: com.f0u4d.watusitools
-Name: WatusiTools
-Version: 2.4.41
-Description: Library for Watusi, Regram and other tweaks
-Depends: firmware (>= 12.0)
-Section: Development
-Architecture: iphoneos-arm64e
-Author: Fouad Raheb <support@fouadraheb.com>
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.f0u4d.watusitools_2.4.41_iphoneos-arm64e.deb
-Size: 8997732
-MD5: 3684225fd49537773ac30d4c8a66ede1
-SHA1: 930adb5eccc6aa4d95945e278dddee5e07050379
-SHA256: ff1e17d420450eef84ab548392fa29c93f48fcc6ff838cd31e7893aed33dc558
-SHA512: e84a57f15a39c4dae928ef00f35d908e8bafaeec3f7d454ba8b2a498e077bbd0256ce288629e6b24f3d55f6572424ee665b05bbf7405460ccfc24be7edcdfc6e
-
-Package: com.f0u4d.watusitools
-Name: WatusiTools
-Version: 2.4.41
-Description: Library for Watusi, Regram and other tweaks
-Depends: firmware (>= 12.0)
-Section: Development
-Architecture: iphoneos-arm64
-Author: Fouad Raheb <support@fouadraheb.com>
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-Filename: ./debs/com.f0u4d.watusitools_2.4.41_iphoneos-arm64.deb
-Size: 4501708
-MD5: ab3fe5d76d7847dc6c78aed3ed5dad82
-SHA1: 61a1d6292e2fb45bae4dc6114149be0c30b8a994
-SHA256: d5182d2eb1498030e5f466c112ca1397d70eabac278b7fc118643d624dcc95ab
-SHA512: 4bed0b64526b513417dfe779112af11e02d3846d7ad1344d7430f0c6c2d2510a8f6a366b9b8b0b50b5e04fc56c8b524dba38b32912eaa0e8ecdcd0b53eb24d51
 
 Package: com.82flex.iconrestore
 Name: Icon Restore
@@ -1276,25 +1164,6 @@ SHA1: 89729705fe7d2cfbac362e0030deeed93bdb7991
 SHA256: 383af30db6594dca5017bc60d392461548200c2eba9c2194c56b97c6137e131a
 SHA512: 0300a896632c8031c2d02e7b98157e82af29f2361bd49d11e469649b1111bbdc916fc6a202737acf2a8a399fde16ac4fd93867cd096b051c6069773b1e6544af
 
-Package: com.fouadraheb.watusi3
-Name: Watusi 3 for WhatsApp
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
-Description: The all-in-one tweak for WhatsApp Messenger
-Section: Tweaks
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
-Author: Fouad Raheb <support@fouadraheb.com>
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
-Architecture: iphoneos-arm64
-Version: 1.2.44
-Installed-Size: 6688
-Filename: ./debs/com.fouadraheb.watusi3_1.2.44_iphoneos-arm64.deb
-Size: 1978412
-MD5: bf8f29e7a627ebd8121e9e3540cd95c9
-SHA1: 987e986b3dc4c174e9203fac3fdb9445d7927673
-SHA256: 28401865b98e7978d43b274981b239836e129e82caf93931b1725d99f533332a
-SHA512: 582d4e931155e5adb3ea5d011f5f011b3894c9d4fdaee88013bbf3a60753eeedbeaa6eb67d82ca2885ac773c79cb8d4d9671200850ad1e70b4ea4ff4f0a3ace1
-
 Package: com.dvntm.cc18
 Name: CC18
 Description: Round CC modules replication, like in iOS 18
@@ -1765,26 +1634,6 @@ Name: AppSync Unified
 Author: Karen/ããã¿, Linus Yang <karen@akemi.ai>
 Icon: https://i.imgur.com/KMCa11k.jpeg
 SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/AppSync.json
-
-Package: com.fouadraheb.watusi3
-Name: Watusi 3 for WhatsApp
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
-Description: The all-in-one tweak for WhatsApp Messenger
-Section: Tweaks
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
-Author: Fouad Raheb <support@fouadraheb.com>
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
-Architecture: iphoneos-arm64e
-Version: 1.2.44
-Installed-Size: 6688
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.fouadraheb.watusi3_1.2.44_iphoneos-arm64e.deb
-Size: 1961212
-MD5: 729ab97afb79b44ce64e2cb97ca44c2d
-SHA1: 43fba194e2d22ed5d68ebf4c1fffe59b96f20fc1
-SHA256: 8db637674eead38c1a25d3f0bdc2d8cd2703ed24f33105b2812b7afe91ec5bf3
-SHA512: 885f9c862af0af89940869b070b95b49f8a43f962e616e0df186b64908d68a929020347f71daf54e306be201006e1bd6ffca3235f5f2daf4ea41204ee6fcc1b9
 
 Package: com.dvntm.cmm
 Name: CallMeMaybe
