@@ -1,3 +1,41 @@
+Package: com.ps.injectionfoundation
+Name: Injection Foundation
+Architecture: iphoneos-arm64e
+Description: Inject UIKit tweaks into Foundation apps.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Depiction: https://poomsmart.github.io/repo/depictions/injectionfoundation.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/injectionfoundation.json
+Version: 1.0.1
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.injectionfoundation_1.0.1_iphoneos-arm64e.deb
+Size: 5684
+MD5: 4a39da39a5881dddb4ffc136550bb5eb
+SHA1: 03dc0d9271425f13a48517b7d12204acc274b3d9
+SHA256: bc0e7ae821f1bb80803cd5d95d9a0e982cd6e4bef08d9a726175140f8ac4df23
+SHA512: 8998791901d84845d469bbad66ebc198479c67cdb586a704d8f946e8d9a8fd848cd393aa0a8ca0d916d334b3b79152eaf27a60a2cdf796bb4cc78c1b84026718
+
+Package: com.ps.highgraphics
+Name: HighGraphics
+Depends: mobilesubstrate, firmware (>= 7.0)
+Description: Best UIKit graphics for older devices.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.highgraphics_1.1.0_iphoneos-arm64e.deb
+Size: 5794
+MD5: c5c6dd7882fd373ac1f2a9f73cec8bb4
+SHA1: 08116907da4984e594bb4fdfb1d0899411fc9fae
+SHA256: 3e9a30e42764a34e362b3b920b87571a41dbbabe4497e2c5068df7b72b4c938d
+SHA512: c26d0c2675f914f2377e57012b44576142e7966d522d0341ff9777bca1514e7d8573862ed3d4e1befe7b160439bc02a8a03d4fc22130c9807f73c499342694f8
+
 Package: com.tools4cydia.copylinkdeb
 Name: CopyLinkDeb
 Description: تحميل ونسخ روابط ديب من سورسات Download deb files from sources!
