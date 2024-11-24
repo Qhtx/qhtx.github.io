@@ -1,3 +1,40 @@
+Package: com.0xkuj.ccadsbegone.rootless
+Name: CCAdsBeGone (rootless)
+Depends: com.opa334.ccsupport, com.ps.letmeblock (>= 1.3.0)
+Description: CC Toggle to block ads on demand!
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
+Conflicts: com.0xkuj.ccadsbegone
+Architecture: iphoneos-arm64e
+Version: 1.3
+Installed-Size: 1076
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.0xkuj.ccadsbegone.rootless_1.3_iphoneos-arm64e.deb
+Size: 140530
+MD5: 91c8625c12b532861df460cd768b1fef
+SHA1: 9e707225ad38b9dfb599085503b617ed0b19f1bf
+SHA256: d5c38d1502887f491ab597e2658c083be647a0597d2c267ece0bc13d2085bcac
+SHA512: cb38b2902124917dd2296badec5b674f350f88cb6889a3df754026144c1ea4aa0811ba28f0e7d9b56f9755d874de059a1b15e8dd9e78048d6faa7fa5f9645065
+
+Package: com.0xkuj.notificationsgroupcount
+Name: NotificationsGroupCount
+Description: Count those notifications inside Apple notifications grouping!
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Installed-Size: 480
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.0xkuj.notificationsgroupcount_1.0.5_iphoneos-arm64e.deb
+Size: 93386
+MD5: ebe9548aafe24a1aaf90fda975531525
+SHA1: d21a4e9f1624d52c973d38cc0b1c0d58b2da371a
+SHA256: 7341d26d76e2e2c978bd1f6273f531f50e23235976bb1bdcbc23f108e5bb4493
+SHA512: b054b8306716e8120f0a8a0adfbf8a7839f99a08a96fc61265c30873a6b1a6ca8de4b8d3f532083d5bf3eaddc1a8698bc3234220f56f8bc8dd902204890309fc
+
 Package: com.tools4cydia.copylinkdeb
 Name: CopyLinkDeb
 Description: تحميل ونسخ روابط ديب من سورسات Download deb files from sources!
@@ -2587,15 +2624,15 @@ Section: Tweaks
 Depiction: https://poomsmart.github.io/repo/depictions/letmeblock.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/letmeblock.json
 Architecture: iphoneos-arm64e
-Version: 1.2.1
+Version: 1.3.0
 Installed-Size: 140
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.ps.letmeblock_1.2.1_iphoneos-arm64e.deb
-Size: 7850
-MD5: 3a5e2f4e57cc8dfca3b711d805b2abc3
-SHA1: 26766600d7a23d67a95224e690eecccd7087f3b8
-SHA256: 557a8a3d73326ce5aaf9f27bce5b45037b11a9a7e8af37b505eb15bc86672c5f
-SHA512: 13be31f12731274c53e6d5be6d989aa9f617329a44a809768ce7ff37c68300c76ffc2a897291bce5eb610130af6ac532ff603189cbc7eb051d261329e4d86a4b
+Filename: ./debs/com.ps.letmeblock_1.3.0_iphoneos-arm64e.deb
+Size: 8564
+MD5: 23aed44bfd37d086ff945d4ba2ecfe0e
+SHA1: daa1806dd96fa55e0a03a53e7f96ed5013b9588f
+SHA256: 928cea34bc434cb1cf7a385ebbdc489e934ac55b16fba8646eb06982c4521f42
+SHA512: 4670a7d1dacfa3f2ed07c763d947f7c11863d3384b8c23d4ca6de62225954ff5ca767660559ba50f7c57d9a1c7fbc55128adc5523d24cc863b9cc54d3bf88a4e
 
 Package: com.ps.replaykitmax
 Name: ReplayKit Max
