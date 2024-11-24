@@ -1,40 +1,3 @@
-Package: com.0xkuj.ccadsbegone.rootless
-Name: CCAdsBeGone (rootless)
-Depends: com.opa334.ccsupport, com.ps.letmeblock (>= 1.3.0)
-Description: CC Toggle to block ads on demand!
-Maintainer: 0xkuj
-Author: 0xkuj
-Section: Tweaks
-Conflicts: com.0xkuj.ccadsbegone
-Architecture: iphoneos-arm64e
-Version: 1.3
-Installed-Size: 1076
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.0xkuj.ccadsbegone.rootless_1.3_iphoneos-arm64e.deb
-Size: 140530
-MD5: 91c8625c12b532861df460cd768b1fef
-SHA1: 9e707225ad38b9dfb599085503b617ed0b19f1bf
-SHA256: d5c38d1502887f491ab597e2658c083be647a0597d2c267ece0bc13d2085bcac
-SHA512: cb38b2902124917dd2296badec5b674f350f88cb6889a3df754026144c1ea4aa0811ba28f0e7d9b56f9755d874de059a1b15e8dd9e78048d6faa7fa5f9645065
-
-Package: com.0xkuj.notificationsgroupcount
-Name: NotificationsGroupCount
-Description: Count those notifications inside Apple notifications grouping!
-Maintainer: 0xkuj
-Author: 0xkuj
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm64e
-Version: 1.0.5
-Installed-Size: 480
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.0xkuj.notificationsgroupcount_1.0.5_iphoneos-arm64e.deb
-Size: 93386
-MD5: ebe9548aafe24a1aaf90fda975531525
-SHA1: d21a4e9f1624d52c973d38cc0b1c0d58b2da371a
-SHA256: 7341d26d76e2e2c978bd1f6273f531f50e23235976bb1bdcbc23f108e5bb4493
-SHA512: b054b8306716e8120f0a8a0adfbf8a7839f99a08a96fc61265c30873a6b1a6ca8de4b8d3f532083d5bf3eaddc1a8698bc3234220f56f8bc8dd902204890309fc
-
 Package: com.tools4cydia.copylinkdeb
 Name: CopyLinkDeb
 Description: تحميل ونسخ روابط ديب من سورسات Download deb files from sources!
@@ -868,24 +831,6 @@ SHA1: c5c55d9d02e85e268cf8b337a94be4377539fa83
 SHA256: 24ab0a98509816247adafddd72f6652542bc721a9453058da25e19d2783a9d3d
 SHA512: d138813d77f208becc344451e39504683435796043ca8cdd552d77aeb6263a0c45ee08951f27fc5d8fa00597e293d373697d50b7391e0dcb61ae9bf4f4d7ef8c
 
-Package: com.0xkuj.notificationsgroupcount
-Name: NotificationsGroupCount
-Description: Count those notifications inside Apple notifications grouping!
-Maintainer: 0xkuj
-Author: 0xkuj
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm64e
-Version: 1.0.2
-Installed-Size: 480
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.0xkuj.notificationsgroupcount_1.0.2_iphoneos-arm64e.deb
-Size: 78432
-MD5: 6628ac538001a720e121bc13a2c5b6a4
-SHA1: 4929658f3dba1d3905ef4a2de21393f25b8ef890
-SHA256: f32bdf6226149b258cf384d0fea9ac14087b090aee66dc7cebbdab2fd665c5e9
-SHA512: d0485d725acd91e77b217d3c449f878b562669ad4226d4f755d54f82e3adf2d20a23cfc75d26d945c228402266b9a7e9951b3ab2abf0f1c044267dbd496909e2
-
 Author: CreatureSurvive <support@creaturecoding.com>
 Architecture: iphoneos-arm64e
 Maintainer: CreatureSurvive <support@creaturecoding.com>
@@ -1088,24 +1033,6 @@ SHA1: 494f34651b60d1b1990f634a833b45d628a3ccb7
 SHA256: 54fad18889845ba60d4718dd27261f0a12d099cc859e1008243da11b56e8e543
 SHA512: a3f9594420fe3bc6c5f59788c4c7e61c4a5d6ae6965f0e839dffc2857b401a5796f768b25f2d42110e1510a6cb0611b6b1102d07f480f976545219b67dda87d5
 
-Package: com.0xkuj.notificationsgroupcount
-Name: NotificationsGroupCount
-Description: Count those notifications inside Apple notifications grouping!
-Maintainer: 0xkuj
-Author: 0xkuj
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm64e
-Version: 1.0.1
-Installed-Size: 448
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.0xkuj.notificationsgroupcount_1.0.1_iphoneos-arm64e.deb
-Size: 77984
-MD5: c79b82bbe1f28c353a11bef8ba8b1f1d
-SHA1: 105d21f960c24ca7b25493f98746fc547db50af8
-SHA256: 1295df4c4661c2ca6fe2d1c5c995cda072860e625c74162fe27f6bc4bffd6892
-SHA512: 0c41f6a06f74c7734efb102f55e965a3030293168886d1144629480e1a16b7ea14f971c8c4b2b8ab7ac546f713e6023cb0a69c601131641f949aab67f4b819d9
-
 Package: com.squidforce.copyvault
 Name: CopyVault
 Description: Your Copy Vault, Your Pasteboard
@@ -1144,24 +1071,6 @@ MD5: 7911adddb3e306ce7d6e494a14e98fca
 SHA1: 581edab7abcc1e4d02d5f6d565123dbf1a4a1d78
 SHA256: 46bec4f266f0357928450e14e0e69e94f937d8c62f989629366634752c9293b8
 SHA512: 4f77f1f1f6341d3ed20e9889d5e74e5eeaf9cf187c53ffc9837436c83497847e483d19a8e26084d0c3aaf10df77d2e1fe0d153e79744cae5c619cfaa2ad172b0
-
-Package: com.0xkuj.notificationsgroupcount
-Name: NotificationsGroupCount
-Description: Count those notifications inside Apple notifications grouping!
-Maintainer: 0xkuj
-Author: 0xkuj
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm64e
-Version: 1.0.0
-Installed-Size: 448
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.0xkuj.notificationsgroupcount_1.0.0_iphoneos-arm64e.deb
-Size: 77916
-MD5: 2abc64021e5ea9e85914707c5bca7278
-SHA1: 0947f5128e8e53890e019c4e39b5177b1116053d
-SHA256: 7047d46fc3123d19c7dcbc99361b46629debda71f24894f03115b533993ffdba
-SHA512: f9c27fd4d78d4d23ac130747f72db177d0dc69d98c2b7098107eb12d86ad5d3127c4a04fe8acda712a6d36479cedaac6e98f88a1b21004d23589b6079a51508a
 
 Package: com.dvntm.ratebegone
 Name: RateBeGone
