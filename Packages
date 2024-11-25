@@ -1,3 +1,21 @@
+Package: com.f0u4d.watusitools
+Name: WatusiTools
+Version: 2.4.45
+Description: Library for Watusi, Regram and other tweaks
+Depends: firmware (>= 12.0)
+Section: Development
+Architecture: iphoneos-arm64e
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.f0u4d.watusitools_2.4.45_iphoneos-arm64e.deb
+Size: 13219208
+MD5: 31da57ecf1e97d25c3e09e81a758431f
+SHA1: 70e963a4c4bbc697916baf63bfc0185116934fcb
+SHA256: 33b17504a926ff4d5a3f032cb17d88327ef0a0449e3c77f20cd9b747b3c154dd
+SHA512: 1700bcfeeb7851dc6d989c048a86df77191a438393581a35aa3b34a0e04cc7ee2873687a636ea5c432bd08c561d64650fa040d820b69635fefa8548395246853
+
 Package: com.ps.injectionfoundation
 Name: Injection Foundation
 Architecture: iphoneos-arm64e
@@ -150,21 +168,20 @@ SHA512: ac7667c1a4b5d38c1c9de0a80bdeda2be97d1c5bc13f66c7447175f82f0561fae27407e0
 
 Package: com.f0u4d.watusitools
 Name: WatusiTools
-Version: 2.4.44
+Version: 2.4.45
 Description: Library for Watusi, Regram and other tweaks
 Depends: firmware (>= 12.0)
 Section: Development
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.f0u4d.watusitools_2.4.44_iphoneos-arm64e.deb
-Size: 4815320
-MD5: f80151e6d39a214407b2ef09f3e2606f
-SHA1: 0fd6b8c3fdfc2a29c17fb0115da5eec45aa24942
-SHA256: b20f55f37c33f07dddf71a1313ca5f17d5b0b77093367ac190efa99589eecc60
-SHA512: 9827ba04970975e610ad4f97010da2e9f70c1985fff489ae419c3c7bbd79d276f7a4201ffb4f2e54e5e11dcab09bac571934ec4089157a17146566b9366b0e69
+Filename: ./debs/com.f0u4d.watusitools_2.4.45_iphoneos-arm64.deb
+Size: 4898432
+MD5: 6ee5622f080820091a0df827166e965f
+SHA1: 1c9ae9202e36d842c573ed48ecfec6eb948c6364
+SHA256: a81909cbb606041df3f6df8f90eb7c3031f2c0ed6d2002c5b20c9a03e3ce1310
+SHA512: 917450505e4ad6a0ae92cfcfc722ddd1022ab835cc72a4ae376620d05538050d0a721f4e1638ccca07f9700c15832a12f3491be225cc2b53817a9be7a79e6624
 
 Package: com.fouadraheb.contactsync
 Name: ContactSync
