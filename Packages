@@ -1003,8 +1003,8 @@ SHA512: 0a05440879001a41902f7c989cb649278c750fabd33b6abeac92b053183a059c2f83fc97
 Package: dev.objcmsgsend.iota
 Name: iota
 Depends: mobilesubstrate
-Replaces: dev.kanji.iota
-Description: A great Snapchat tweak ð¥.
+Replaces: dev.objcmsgsend.iota.ar
+Description: A great Snapchat tweak 🥀.
 Maintainer: objc_msgSend
 Author: objc_msgSend
 Section: Tweaks
@@ -1012,11 +1012,11 @@ Architecture: iphoneos-arm64
 Version: 2.4
 Installed-Size: 2472
 Filename: ./debs/dev.objcmsgsend.iota_2.4_iphoneos-arm64.deb
-Size: 517408
-MD5: beac27e0f252399977a8655e7adbc144
-SHA1: 27a8852ec9b2dd2a7ed37199398cbe7202215221
-SHA256: 49e9468bbbb2c27e2e1f275379cba5f43d99db3e37000efe9f7aa19eb2c61649
-SHA512: 4072e79a34d2ceee9c4b2927ce50e12d350113983e2ed91e5c1c70d0042b8dc004ec926723462d9957648d1585693324d20b906cc8a2d0bcd9910841050cbb66
+Size: 557156
+MD5: aa018cbedf63a4c9092d380bf1da911b
+SHA1: 22c98581b63136e5ffe05924eec41df64d9b5e89
+SHA256: b87988663797a53c280c5cba3f7fcaade39a8c1bcc5409f034e5ab0d3602a964
+SHA512: d6478d065bbe6a624bb0139ea9c06ed56dbcb2006fc1217de51771ecef89d582fdaa98967aa704c4d8c5fc2e03c58dff0e4fe0f0ea81e827101b4467d6417750
 
 Package: com.fissiondev.uranium
 Name: Uranium
