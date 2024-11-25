@@ -1,7 +1,7 @@
 Package: dev.objcmsgsend.iota.ar
 Name: iota ar
 Depends: mobilesubstrate
-Replaces: dev.objcmsgsend.iota
+Conflicts: dev.objcmsgsend.iota
 Description: A great Snapchat tweak 🥀.
 Maintainer: objc_msgSend
 Author: objc_msgSend
@@ -1003,7 +1003,7 @@ SHA512: 0a05440879001a41902f7c989cb649278c750fabd33b6abeac92b053183a059c2f83fc97
 Package: dev.objcmsgsend.iota
 Name: iota
 Depends: mobilesubstrate
-Replaces: dev.objcmsgsend.iota.ar
+Conflicts: dev.objcmsgsend.iota.ar
 Description: A great Snapchat tweak 🥀.
 Maintainer: objc_msgSend
 Author: objc_msgSend
