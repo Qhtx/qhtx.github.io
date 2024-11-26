@@ -1,3 +1,24 @@
+Package: com.den.igformat
+Name: IGFormat
+Description: Powerful Instagram Tweak
+Maintainer: MrDeNsor
+Author: MrDeNsor
+Section: Tweaks
+Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.19-1+debug
+Installed-Size: 912
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.den.igformat_1.19-1+debug_iphoneos-arm64e.deb
+Size: 146064
+MD5: ec21913531265e4d52e8f938c1c35171
+SHA1: 78e11236d00e1af55e55d1b3f75a2785d02f5552
+SHA256: a9bd306681476b962f6fd492e29a5a09abe4f0baeb2dedbce7d7db6e06964fd6
+SHA512: f5be3fde452a966f52a32cfcbfb6a5158615b80eba599a0b33054a06076011cda2aa304db46e5137785795bde4e8143c2931add3f63016132435bbd04cd85cb8
+
 Package: com.miro.uyou
 Name: uYou
 Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
