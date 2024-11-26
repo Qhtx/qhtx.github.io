@@ -1,3 +1,65 @@
+Package: com.miro.libmiroshared
+Name: libMiROShared
+Depends: firmware (>=14.0)
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
+Description: Shared library for my tweaks.
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Development
+Tag: role::developer, compatible_min::ios14
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Installed-Size: 4932
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.miro.libmiroshared_1.0.1_iphoneos-arm64e.deb
+Size: 2552698
+MD5: bd09fd0dcdba98fba866b820dd523a43
+SHA1: 4725ac8913a4c88bb40ede9a5562f1a0521d0807
+SHA256: 9e18746879b9179778fc427a47300148f8617b57a84bf680b9c30e4a96d99bea
+SHA512: 18183e265adf183146df9968526c56acbe9242719b876cbaee4a4a9a0ef837189c9cef863e72bd62018724266b5bd98f8f303c7e6420642561a283b821bf4d0c
+
+Package: com.miro.libphonenumber
+Name: libPhoneNumber
+Depends: firmware (>=14.0)
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libphonenumber
+Description: Google's phone number handling library.
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Development
+Tag: role::developer, compatible_min::ios14
+Architecture: iphoneos-arm64e
+Version: 1.1
+Installed-Size: 604
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.miro.libphonenumber_1.1_iphoneos-arm64e.deb
+Size: 174870
+MD5: 2ff90c65bd59e3ed63681acc2f67def8
+SHA1: 215ac74933bd5972c363252e1b38d8a8d4741634
+SHA256: 081682a77f4f82c7a865a6528b4ae2d9245090e886a0e02faaf9581ab809bfc2
+SHA512: e81a57dbf35c78fb579605deace1a5cc22bb6b745cf626f18176d2e8f54ed4b936d31d6424acb8e80db5238e8754106ed544310f0f3ba6c50ccda9fb67d5ee2f
+
+Package: com.miro.yellowpages2
+Name: YellowPages 2
+Depends: firmware (>=14.0), mobilesubstrate, preferenceloader, com.miro.libmiroshared (>=1.0.1), com.miro.libphonenumber, com.opa334.libsandy
+Conflicts: com.iarrays.whoozit, ru.rejail.whoozit, com.miro.yellowpages
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.yellowpages2
+Description: Say Goodbye to Unknown Callers
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios14
+Icon: file:////Library/PreferenceBundles/YellowPages2.bundle/Header.png
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Installed-Size: 736
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.miro.yellowpages2_1.0.1_iphoneos-arm64e.deb
+Size: 254804
+MD5: f0ea945cf484e712969c84dbe7fc2fc4
+SHA1: fdac1236135de96834f88a6ad27738da3bfea229
+SHA256: fe328ea4ce463118aac01c5426ffc777b57181a5c3b23c71ec342f0b9fecf670
+SHA512: 9ab11ed2b15849f75c7bed16936942f898d8b495ed0bad7394b0537cea1667e852e57227152c4c2b8084eae728b6d59cc8de92e3d936aa2a1f11ac51ef1a9165
+
 Package: com.miro.yellowpages2
 Name: YellowPages 2
 Depends: firmware (>=14.0), mobilesubstrate, preferenceloader, com.miro.libmiroshared (>=1.0.1), com.miro.libphonenumber, com.opa334.libsandy
