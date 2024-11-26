@@ -1,3 +1,85 @@
+Package: com.miro.uyou
+Name: uYou
+Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
+Description: The best tweak for the YouTube app
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios13
+Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
+Architecture: iphoneos-arm64
+Version: 3.0.1
+Installed-Size: 31200
+Filename: ./debs/com.miro.uyou_3.0.1_iphoneos-arm64.deb
+Size: 10948110
+MD5: 9eb39d64200461cb4f64e7ab47358ace
+SHA1: ff43999f2889dcd6a5ce4b21a174c1fd825ce289
+SHA256: 6ec9a970e059b6ae458eda958544af749d0c420d76d10ebbf73733b36204df92
+SHA512: 88fda1d6fe5f0acbce53d68a1d7798a62ad8f881a998563071d0d4c63f53792b3dde5b46377b2964279de7b6f89ede8aa5c132fd47bfbd1eba4dc351cf319cc3
+
+Package: com.miro.uyouimport
+Name: uYouImport
+Depends: firmware (>=13.0), mobilesubstrate
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
+Description: Library for importing songs/videos into the Music app.
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios13
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 444
+Filename: ./debs/com.miro.uyouimport_1.0_iphoneos-arm64.deb
+Size: 81376
+MD5: 583568c6e3b2215fd5d69da939f112b9
+SHA1: 582f9f84d000bb2b93b846c8e87226e778a5c19e
+SHA256: b7dd9822f4e7cf6a255eab72877d00229c86d648b50892419b96ed61b9b19bea
+SHA512: ad944dd6183770d2dc829bbac23c8f6e5b2e71eb28fbfdcfb760b17dcd9a23da4d8425a09b251747eae40b9787b85aff82285a361f7a3a77555689b5721ee356
+
+Package: com.miro.uyou
+Name: uYou
+Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
+Description: The best tweak for the YouTube app
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios13
+Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
+Architecture: iphoneos-arm64e
+Version: 3.0.1
+Installed-Size: 31200
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.miro.uyou_3.0.1_iphoneos-arm64e.deb
+Size: 10813888
+MD5: ce2d1ff2446fa48ab3af298b983156c1
+SHA1: e61099e935f897b906cec1baffcd6c8db61d2d87
+SHA256: 05761c4e1a29de45fea872db44701c1f124cba4c3c63cdc7d2e1fc03dd83828e
+SHA512: 59a59d585285c741a24c240d3332740922faeb24eba9e0dfbd7cd14bed4d3f584f2c3b4152d09c46c09c5ea63df6908f0c64049fd6e59e458b15d59faef6eb67
+
+Package: com.miro.uyouimport
+Name: uYouImport
+Depends: firmware (>=13.0), mobilesubstrate
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
+Description: Library for importing songs/videos into the Music app.
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios13
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 444
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.miro.uyouimport_1.0_iphoneos-arm64e.deb
+Size: 79708
+MD5: 37b659261a52babcef5f8dce51fbb4b0
+SHA1: 6c9498c83d6710f065b2eb1869b2cacf7ab76694
+SHA256: 89a08fa0c323cdc9097f7b54b7b9119b5646fcc7be58c4826b0d1c0523f45e7a
+SHA512: 84dea223eaac441d5451d354f5a52c0db550fb13c6f2bbd0327c6b484567fdf924bd98952ef04297c5087769de60eaa9d998a7a6ed46716c697c307496a15bae
+
 Package: dev.objcmsgsend.iota.ar
 Name: iota ar
 Depends: mobilesubstrate
