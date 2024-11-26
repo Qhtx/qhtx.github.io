@@ -1,3 +1,81 @@
+Package: com.ps.yougroupsettings
+Name: YouGroupSettings
+Description: Allow tweak-made settings to be grouped and displayed in iOS YouTube app.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Depiction: https://poomsmart.github.io/repo/depictions/yougroupsettings.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/yougroupsettings.json
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Installed-Size: 80
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.yougroupsettings_1.0.1_iphoneos-arm64e.deb
+Size: 5160
+MD5: 270ffdd2fa8ead8ba67575ba0020dfa8
+SHA1: 7bf66d73b33ba07d64f0cc1967c47d56ee849fdc
+SHA256: 5aa6892c03d6e61b194a3129fa1b9c5d83e751cefb5c6c4d5c004119b8a00f49
+SHA512: 3dc15b9aa4332117e069ef4ab70507e66aaca7d997f7280126ff752e6bf32c5b07836b915b2900d23e684a4de880f8569145bedd8f047844e4fd51aa96b5caaa
+
+Package: com.ps.youquality
+Name: YouQuality
+Description: View/change video quality in YouTube faster.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytvideooverlay (>= 1.2.0)
+Depiction: https://poomsmart.github.io/repo/depictions/youquality.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youquality.json
+Architecture: iphoneos-arm64e
+Version: 1.2.1
+Installed-Size: 120
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.youquality_1.2.1_iphoneos-arm64e.deb
+Size: 7796
+MD5: 3654da6765517e36191f2358d43c34ba
+SHA1: 30c3c297517775bff292936a6f286333225114bd
+SHA256: 25fce58655fefcca4f0d1f1efb13849b3867982882fbac084b073d0a6675893b
+SHA512: a08325024257a9083496280806cdb4bee57a01261d95f992bd5b9310d77ad8284152b4247841d2149a2423e8dc487de177a031f49301c46e9a4757cfa31df13a
+
+Package: com.ps.ytdarker
+Name: YTDarker
+Description: Enable native darker dark mode on YouTube.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.ytdarker_1.0.3_iphoneos-arm64e.deb
+Size: 3148
+MD5: b1640045f96ba14e01ecbb4b497238d0
+SHA1: 15efc1cf952c5c21b64d70c47f20d43c7feb5e16
+SHA256: 483ee692cb9969b6c092c412683edc43a340d240cc72076ce7f6259c7f6f257a
+SHA512: 38dd66ea846ab4af514d48decc80595e478467dbdb38858487eaa8379b6b65e05fb31a049a6b0cd5ae1a297c271234b3cf408172fad9d2b946850fd1855b8f2b
+
+Package: com.ps.ytvideooverlay
+Name: YTVideoOverlay
+Description: A helper tweak to add buttons on YouTube video overlay.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.yougroupsettings
+Depiction: https://poomsmart.github.io/repo/depictions/ytvideooverlay.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytvideooverlay.json
+Architecture: iphoneos-arm64e
+Version: 1.2.2
+Installed-Size: 120
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.ytvideooverlay_1.2.2_iphoneos-arm64e.deb
+Size: 11012
+MD5: e44c6f4a943afa44479304226d9c335d
+SHA1: a052fb64534eb9d626b1bfdc5777b3c32f1db2a4
+SHA256: f957d085bbdcc5a9a47e460b0c3c4338d97e76a7077837d2a713a72e52f763fd
+SHA512: 410e40292a3dc2768eda16b27d7387eef2108b4974c9dd909a20a91a14bb203b4210ae30136d95637344ae7336861ee4cef3cd8738609ecd99df8f950fbf1f10
+
 Package: com.den.igformat
 Name: IGFormat
 Description: Powerful Instagram Tweak
