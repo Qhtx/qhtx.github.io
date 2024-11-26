@@ -1,3 +1,62 @@
+Package: com.miro.yellowpages2
+Name: YellowPages 2
+Depends: firmware (>=14.0), mobilesubstrate, preferenceloader, com.miro.libmiroshared (>=1.0.1), com.miro.libphonenumber, com.opa334.libsandy
+Conflicts: com.iarrays.whoozit, ru.rejail.whoozit, com.miro.yellowpages
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.yellowpages2
+Description: Say Goodbye to Unknown Callers
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios14
+Icon: file:////Library/PreferenceBundles/YellowPages2.bundle/Header.png
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Installed-Size: 736
+Filename: ./debs/com.miro.yellowpages2_1.0.1_iphoneos-arm64.deb
+Size: 225324
+MD5: 3d796b7c78c0a0cdeb97e83622cf0f4f
+SHA1: 8494ca84a10f622bcbc776e7908ed087ae432a08
+SHA256: 67bd321305f423bb15f77c45e6a5693e281846bba4e550a6416e48a4bb202f75
+SHA512: 34eb64b52a36d100624c5e848bb72948626bc816aa383eecaeaf733ef404f542864c0212a8c5fc48283df16cddf8fe736c48ed96625e36b8e98184fb140592fb
+
+Package: com.miro.libphonenumber
+Name: libPhoneNumber
+Depends: firmware (>=14.0)
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libphonenumber
+Description: Google's phone number handling library.
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Development
+Tag: role::developer, compatible_min::ios14
+Architecture: iphoneos-arm64
+Version: 1.1
+Installed-Size: 604
+Filename: ./debs/com.miro.libphonenumber_1.1_iphoneos-arm64.deb
+Size: 139676
+MD5: cd61d8c83e947719c242f2a69c6ee1e4
+SHA1: de1b127dac42a30bbf87a5fd4870d991b81caea9
+SHA256: eb731095145b467834c602f258ae08c984bfbe08d75940bc58521d358e05d75d
+SHA512: 25b82dc7fea67cf7a80cc1017e0ba000c3df61d92e5fe6d3a60027455d15b26a2911b7f61fe812ce0a5763258643ecafd72e28e5070c0774c4a3919bf2cdf71c
+
+Package: com.miro.libmiroshared
+Name: libMiROShared
+Depends: firmware (>=14.0)
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
+Description: Shared library for my tweaks.
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Development
+Tag: role::developer, compatible_min::ios14
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Installed-Size: 4932
+Filename: ./debs/com.miro.libmiroshared_1.0.1_iphoneos-arm64.deb
+Size: 716660
+MD5: 1ec8f1e8c9e32dc89464b9c4cc935668
+SHA1: 540453b3846f66f30c1a338679d52b7816e6a587
+SHA256: 073fcd393c14e2c08a5841883e0495551b0dab246dad6fcd07b45b1616fa2770
+SHA512: 562d3faecc678c51a477b82c75ad8d429f9dc3d09da7d6412050e91e257f859d93e7d1cb1caaf3560183c4f4b1d831426c0704a1d9e5e11db4afa6ff3c97fe97
+
 Package: com.ps.yougroupsettings
 Name: YouGroupSettings
 Description: Allow tweak-made settings to be grouped and displayed in iOS YouTube app.
