@@ -1,3 +1,23 @@
+Package: com.den.igformat
+Name: IGFormat
+Description: Powerful Instagram Tweak
+Maintainer: MrDeNsor
+Author: MrDeNsor
+Section: Tweaks
+Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.20-2+debug
+Installed-Size: 980
+Filename: ./debs/com.den.igformat_1.20-2+debug_iphoneos-arm64e.deb
+Size: 133272
+MD5: 24bbf5dd452c3120b7b5b854dde46938
+SHA1: 604d48351ce7348bbd1fed381c47e0979d7cc5e7
+SHA256: dec1ef7ddb928b5ca33d04a68d6ddc7d099d4cdbd59bdd51fe53a50c9e1fe3e3
+SHA512: 4686c8e6fb3ed2f2e1f40331360bff8b0cec3ab671e69f9011010bee4f62d919181585a6b8851874efe32e18abf9234179b97723b2ba737aace2f89462fb00c3
+
 Package: com.miro.libmiroshared
 Name: libMiROShared
 Depends: firmware (>=14.0)
