@@ -1,3 +1,23 @@
+Package: dev.zero.wicked
+Name: wicked
+Replaces: dev.zero.wisp
+Conflicts: dev.zero.wisp
+Description: wicked
+Maintainer: zero
+Author: zero
+Section: Development
+Icon: https://raw.githubusercontent.com/HearseDev/hearsedev.github.io/main/tweak-assets/Wicked_2048x2048.png
+Architecture: iphoneos-arm64e
+Version: 3.0b10
+Installed-Size: 19416
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/dev.zero.wicked_3.0b10_iphoneos-arm64e.deb
+Size: 7907224
+MD5: 52a5df4453278787f4450586fc08dc6e
+SHA1: 61e210831f68da28c490827feb0972666f5fcd12
+SHA256: e0da2e9402ee1cf45ff27c1e067875a8a2022477778a7f29b4066f58a24f5195
+SHA512: d7256ae540403351b708a97b493e77dfd682bc387da211175176d580c7aeda4d44a44d5dae1ee454fe2f37c8d91e9dd0f9340270b7e39ab47bb3728bd210bcd3
+
 Package: com.den.igformat
 Name: IGFormat
 Description: Powerful Instagram Tweak
