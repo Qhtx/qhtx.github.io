@@ -1,3 +1,43 @@
+Package: com.den.igformat
+Name: IGFormat
+Description: Powerful Instagram Tweak
+Maintainer: MrDeNsor
+Author: MrDeNsor
+Section: Tweaks
+Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.21-2+debug
+Installed-Size: 1020
+Filename: ./debs/com.den.igformat_1.21-2+debug_iphoneos-arm64e.deb
+Size: 136880
+MD5: f98cfb9fda9d0a6c28377de45cde1b0e
+SHA1: cfe1a0d19231dc32fcea78f099d98497678f80f7
+SHA256: 570d9d1eab56e1104e38a1eecfff0ad8b3c0bf7c179672650603053a2271706d
+SHA512: 4c3a7e1244c8ec00688afad43fc2a14aa0c4d540d47a550d7ab5fdcd4285069820b97a2b92950bef77012eb25ffd4ce31e05ed9ceecc4833ec7de6a3839b99ab
+
+Package: com.den.igformat
+Name: IGFormat
+Description: Powerful Instagram Tweak
+Maintainer: MrDeNsor
+Author: MrDeNsor
+Section: Tweaks
+Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.21-2+debug
+Installed-Size: 1020
+Filename: ./debs/com.den.igformat_1.21-2+debug_iphoneos-arm64.deb
+Size: 141696
+MD5: 7e99b28adc98128b75968786a8fa1ffe
+SHA1: 6c1792acfdc2c2ed9ff4f5229500f0f429ccd35f
+SHA256: 2d9d2006395726255475a1b1ca61fb927919760ffee52c71e2e41aee895cdf0a
+SHA512: 0510639d14bb2e30f6ee3b77dde89d3b20706b4ac180551ae70ec9cd8a1e6e2d082f86eecbe157b3bcc49860b1b2fcb6a13d74593b2840e311a228abbf688628
+
 Package: com.f0u4d.watusitools
 Name: WatusiTools
 Version: 2.4.46
