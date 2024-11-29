@@ -1,3 +1,57 @@
+Package: com.f0u4d.watusitools
+Name: WatusiTools
+Version: 2.4.46
+Description: Library for Watusi, Regram and other tweaks
+Depends: firmware (>= 12.0)
+Section: Development
+Architecture: iphoneos-arm64e
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.f0u4d.watusitools_2.4.46_iphoneos-arm64e.deb
+Size: 4875272
+MD5: ca64d466fb1837177f2b9a27ba73fae8
+SHA1: 394ab21f1a261271801aa96c7141ebb6a7c56ce6
+SHA256: ad47a5c6737ba3c341e92eb211215322a3a1e96eee4e9298fbf199092f60d20a
+SHA512: ab277feb29d537b9dcb351a02a1003f8e86334e28b4f1deef646fb178bbff691480879cc0fee976d26ab6b5d4f0cbb618f706bad70216352d810b3f159fc97ce
+
+Package: com.f0u4d.watusitools
+Name: WatusiTools
+Version: 2.4.46
+Description: Library for Watusi, Regram and other tweaks
+Depends: firmware (>= 12.0)
+Section: Development
+Architecture: iphoneos-arm64
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Filename: ./debs/com.f0u4d.watusitools_2.4.46_iphoneos-arm64.deb
+Size: 4899432
+MD5: 214422482c733a270e6e8e997a8e83ca
+SHA1: 7cd515e3fee33d338707dc15185effa2d576465e
+SHA256: 20df4469a2518d27bc69a0e0f9d1d7264fae5e8af2c3dacdffabf0adc80c19be
+SHA512: 920ca80072a08d2dd065ff87d7b6f8840657f3f5190905888205c224b8d85135f7998d10c3fe37db2d5bd07c970d67ce0498e65dd0c59f1ecfe3abc96cac318a
+
+Package: com.netskao.dumpdecrypter
+Name: DumpDecrypter
+Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Section: Netskao-Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate
+Author: Netskao
+Maintainer: Nets
+Architecture: iphoneos-arm64e
+Version: 1.5-1
+Installed-Size: 952
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.dumpdecrypter.json
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.netskao.dumpdecrypter_1.5-1_iphoneos-arm64e.deb
+Size: 393764
+MD5: a105bd1d036b779360564bac6125da7c
+SHA1: 6acf20e5e76156050f201d42fc6c1495391145ac
+SHA256: 1070282d6843a32a6acf8ba4321d053a7e6c4dbb206d4c1187d959e221ddeb9a
+SHA512: 088da1711034fbb3c557324ead5aaead0c657f85f14035d2013c51b2ceb261ba9fc6dfc0a3898dfae82da929ff498c7cc8229e11a205888498390237e62c7199
+
 Package: com.den.igformat
 Name: IGFormat
 Description: Powerful Instagram Tweak
