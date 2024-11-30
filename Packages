@@ -1,3 +1,45 @@
+Package: com.ps.yougroupsettings
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: PoomSmart <unicorn03.glimmer@icloud.com>
+Author: PoomSmart <unicorn03.glimmer@icloud.com>
+Installed-Size: 110
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Name: YouGroupSettings
+Description: Allow tweak-made settings to be grouped and displayed in iOS YouTube app.
+Icon: https://img.chariz.cloud/icon/yougroupsettings/icon@3x.png
+Depiction: https://chariz.com/get/yougroupsettings
+Tag: compatible_min::ios11.0
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.yougroupsettings_1.0.3_iphoneos-arm64e.deb
+Size: 5220
+MD5: 4ec5c23d6fd67ed7ad39b4a506e1047b
+SHA1: 32413adaeb31bc0c1b055e394081c3ce9215ddc3
+SHA256: a17397df5b26f619f89a50e21f252e19ee2ea97c593a40d11f6633a92ae1301d
+SHA512: 76fbfe99869ae4451de4af79eaebb2ad195ecfed657f66b24ece396155421d5b9b8ea2c2ca943c152af2a2dba30b2c63134995a9eea2c6843b6d77713cc67bdc
+
+Package: weeb.lillie.youtubedislikesreturn
+Version: 1.12.13
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: PoomSmart and kirb <ytdislikesreturn@gmail.com>
+Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
+Installed-Size: 229
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Name: Return YouTube Dislike
+Description: Bring Back Dislikes On iOS YouTube
+Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
+Depiction: https://chariz.com/get/return-youtube-dislike
+Tag: compatible_min::ios11.0
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/weeb.lillie.youtubedislikesreturn_1.12.13_iphoneos-arm64e.deb
+Size: 25120
+MD5: c62eec0b4b4aae145c3ad8be33643602
+SHA1: 4dcdd80caccf962366dba95aefcf95e3e605a224
+SHA256: 61d017dd1985f5b5fc38b23eb0d75b3623dd0e3dd5011ef5eb46b77457deb5b8
+SHA512: 9f730c8679684c28e335b7347872995e8bd09804b04ebd8630cc1d4fcaa70d9417675a8c6177fc780c72cd790042c631b234b83cecf771c935b010d514b1d700
+
 Package: dev.zero.wicked
 Name: wicked
 Replaces: dev.zero.wisp
