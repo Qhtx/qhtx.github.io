@@ -1,3 +1,44 @@
+Package: com.nguyenasang.snmessenger
+Name: SNMessenger
+Depends: mobilesubstrate, firmware (>= 12.4)
+Description: A full-featured tweak for Messenger.
+Maintainer: NguyenASang
+Author: NguyenASang
+Section: Tweaks
+Replaces: com.haoict.messengernoads
+Provides: com.haoict.messengernoads
+Conflicts: com.haoict.messengernoads
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Installed-Size: 844
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.nguyenasang.snmessenger_1.0.1_iphoneos-arm64e.deb
+Size: 672718
+MD5: 5694397be2b6a4bee40880f4a32c9639
+SHA1: 0732b305b7ab3934c2f1048eb89ec141b6f6bca0
+SHA256: d358c12932a425a950dcb9132349a6427e92394b55da5aac42fbea0cf1bb48ea
+SHA512: dd3d63f5d063fafa4e091267736680907000b4feba359dff2a6d3121e0067cfe4fc608a10f205c27d5a11887fdf37da061525d4b826b88ef00fda6b89da1d633
+
+Package: com.nguyenasang.snmessenger
+Name: SNMessenger
+Depends: mobilesubstrate, firmware (>= 12.4)
+Description: A full-featured tweak for Messenger.
+Maintainer: NguyenASang
+Author: NguyenASang
+Section: Tweaks
+Replaces: com.haoict.messengernoads
+Provides: com.haoict.messengernoads
+Conflicts: com.haoict.messengernoads
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Installed-Size: 844
+Filename: ./debs/com.nguyenasang.snmessenger_1.0.1_iphoneos-arm64.deb
+Size: 653700
+MD5: e925f59c89d4652d39c501ce8e3f7484
+SHA1: 62687bfac32e0630f5faadf8746aa522b6222242
+SHA256: 63f888503de71b432f3fa40bd0286762d970cd071ff0f03839d3a7e84932f6bc
+SHA512: c625cf5ab86349bd1785302a6470726fe90c14c306db6e979d151278a4a3f89ce63fff296eb26b1bc59c9c29fa5f3d0a38fb1fcda612b7b4d6b39e52e0787bdc
+
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
 Description: The all-in-one tweak for Instagram
