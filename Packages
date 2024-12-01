@@ -1,3 +1,24 @@
+Package: com.fouadraheb.regram
+Name: Regram for Instagram
+Description: The all-in-one tweak for Instagram
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.46)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+Architecture: iphoneos-arm64e
+Version: 1.0~b18
+Installed-Size: 6284
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.fouadraheb.regram_1.0~b18_iphoneos-arm64e.deb
+Size: 3705552
+MD5: cc5a6762ec13a2748b0f77a9a6f788ca
+SHA1: 51627416373b26c6672563e12d327d12cd7a7471
+SHA256: 1c95dfea81d795113a8e33380ba1d915c54b1695c9adda7e041ef6414da7d10e
+SHA512: b1c80b096f11bfd2d53a19d380720d7cea636188b7846a4810bdda875ebb64199346d8075764c4c0320cfa7c070551604dda44a86d4ea66d298c0f63ccfe4380
+
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
