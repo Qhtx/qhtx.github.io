@@ -1,3 +1,63 @@
+Package: com.nan.miic
+Name: Move Icon Image Cache
+Version: 0.1.0
+Section: System
+Author: zhaonan
+Maintainer: zhaonan
+Architecture: iphoneos-arm64
+Depends: coreutils
+Description: 将系统图标图片缓存文件夹指向 /tmp 达到每次重启时清空缓存的目的，可能可以解决异常缓存造成的不好影响？
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.miic/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Filename: ./debs/com.nan.miic_0.1.0_iphoneos-arm64.deb
+Size: 1136
+MD5: 107e5844a695ca219ae5a5af8d0a2fe5
+SHA1: 3adcf36e07994fb59320ed578a77dbde0860a574
+SHA256: 20f8becc8faead0a6c3c1897dc2e6656d190c84c4e13085244cac1c8d6e9cf23
+SHA512: 2c5c2c4eb8a38929e60e1d3009d2b0328d014efe1496b1358f7acdcc1befd3570ca794473fcefe71ca5e41baa68ee7fedf5d8b6b3c454d6ba668f1f0d665a045
+
+Package: com.nan.disablethermalmonitord
+Name: Disable Thermalmonitord
+Section: System
+Author: zhaonan
+Maintainer: zhaonan
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Depends: plutil
+Description: 关闭 thermalmonitord，可能防温控，低电量降频应该失效
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablethermalmonitord/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Filename: ./debs/com.nan.disablethermalmonitord_0.1.0_iphoneos-arm64.deb
+Size: 1204
+MD5: 3d22e473d8538affc6818cfe2050d7c3
+SHA1: 27ccc7d65f89f70a0af4b77fd85d09f28d2525fc
+SHA256: 6f9c811ae5dbce65c46e8bcc6425a21e68f9508fd542afb5a0df2625a2cb7641
+SHA512: 8c04d9ccbdf561fbf1e4ca3d7b2d76a0c58f7e40e713dd9d0a27f68b3157119a21d77d51af6afdf3e454f81984fcf2dc724a53dbdc103f6f0ca35e4406555da6
+
+com.nan.pointless_0.1.0_iphoneos-arm64.deb - 1596 bytes
+MD5: b0103df5ea03af6351eeac295de11de3
+SHA1: e9e30d39ba5f2a8580a2208ecbf61f875dd4fdde
+SHA256: b66f861c0ff3df4d7b8876ba89bd2c15f3da9e0dd2b2e7092084881b5a782f18
+SHA512: c776e786311d17ab94b7e0f72008b083cbad5fd9e744c44ff00d7fbeef2197c54d529ec734b0c70fb8a47ec6f294a32de3bf39cb341349c8095c844e9bc0eb3f
+
+com.nan.rebirth_0.1.4_iphoneos-arm64.deb - 2048 bytes
+MD5: e6f7d69585def8cd2de8a6965fee08af
+SHA1: 4c6051c44b9c3ecb98f361f83a6339d91d7ac91e
+SHA256: f318f3c16e65320fa54baa7d7f72ec24354a4e9e18ae5cde44000de5b25a46f5
+SHA512: 0f41f2d59d9403b27031a4d26dce45bf09e47b1ec75bb4cb9fe6754aaf3b98ebc0404c6da27d8620d57f05e930110e2957107a556b0aa8450057ff124e649c54
+
+com.nan.realitytmp_0.2.2_iphoneos-arm64.deb - 2204 bytes
+MD5: 8f7b05679fec15a2932c405f406b4cd4
+SHA1: c7074dbcc6e15f6fff92c2568629382678d1cbe7
+SHA256: 15b8cd0cfd703e60c6e72bbcc272e13d5e86b000a0f0ae53ac3e188fe740ea2e
+SHA512: e8a20707f2ca8ce52e9f98c20b5863322b492adb03fd3210a704aa03abdf409ff40ca814bd97492d1204a2bb43d0a4cb931d5769e7f141ee37a6bdb66b9a41da
+
+com.nan.jbir_0.1.0_iphoneos-arm64.deb - 1644 bytes
+MD5: dea7bb12223cd741337c5d314117bc82
+SHA1: 1b0a5c9f9413e13cc13ef1b1e57a478cfce53647
+SHA256: c7cea5841fa93428b4e174cacd11c0c01818e3210298e8ec04a70012a2c11ccb
+SHA512: 02f4bfd340441d712c29b1f5097c6c4ea60b2270a51bf97e00f19a6ae6d27481c6cc370ec6ea95d793d33a1e1bf9560016d94b5302d8211e68a46db57981f4aa
+
 Package: dev.zero.wicked
 Name: wicked
 Replaces: dev.zero.wisp
@@ -431,12 +491,6 @@ SHA1: 5ec88c17bec178eeb350d055e1a9506bcdb0e3d2
 SHA256: ec3e9b81ab8fe93089036a0cf8d7121893d80160296f718edd1221f32affcc25
 SHA512: 241ec7b0968e14bca6b524512b4e1cfef7fbbb02820d2b341e26bfc3308957b89b24cf1a5192ec41b0758b8ed98401103d399b6ff162dee557aefb0e7877f0ce
 
-touchvis_2.8_iphoneos-arm64.deb - 708500 bytes
-MD5: 21eff0feb87ad441e0e333ff2e9f6f92
-SHA1: 6cdd87e20871b0559c60ee35aea1abe334188a53
-SHA256: 29ff1b481698fc01e53534b78af9f97e99d4321866d30568b2045e145aed2a3e
-SHA512: 15307b7fd4dbdbfeba9345a0abe8a2f6ddabaa6fc83c6053cf6bfa79cf568d5d9db34b36b9dabb7264ac51d785932ba9fd80017cd91c21b3b85ed9d18264932c
-
 Package: com.mtac.prefs.localizer
 Name: PreferenceLocalizer
 Architecture: iphoneos-arm64
@@ -494,12 +548,6 @@ MD5: 105f64c129fbc234576aac9ef9fe49a6
 SHA1: 649bf89b9dae70c27aeea470ce405b9f14b5d4c6
 SHA256: 8829ede582290d47f32025cde66e138a5eb5109273027c23ad65866308b8e599
 SHA512: 566019bfac24a9a9eff9c3bd233f71b4d84c18db7e0d6ad5ab63d93c05660deebb0fd940c26ca4104381ad36d08139c81af892b3c577c36c98cb20b52a78d3a8
-
-com.dao.bigshotsnapper3plugin_1.1_iphoneos-arm64.deb - 19220 bytes
-MD5: 11166dac0fb9ea11f60ed95fafac20d3
-SHA1: 584dc54d27da38e4544ce69d25d91247ec36edb1
-SHA256: b19e5d3750dcc499b0d2b627d2b746e8965794729ba1ebd7963c5053b00dc64f
-SHA512: 26b98909b75771a1d5007ddb4c9a38571698f831400628199216575fe5af4c57bf317c8ab8014ae2caa587a2dcff2f4f32c77b6f9f874242552eaadc710685c4
 
 Package: zp.stopautolaunchapps
 Description: Stop Auto Launch Apps
@@ -810,12 +858,6 @@ MD5: efae35a2879d140279dfbf6c2cc7ea46
 SHA1: 8d7267da91e7bf4858d61d3a082ef916209d1379
 SHA256: 6525a6b0ace53b959b949315b51f0e9a6675daff82d71ce116cb49d2122af02f
 SHA512: 5e3a6eb9db08ed812b6da730b7a640dd477585d97946c69fe43a54523d89241d98b7685789f9fd8ca8c8fa2759c363117305bcde1b121d4d40e1c48a539e4abb
-
-codes.aurora.kayokos_2.7_iphoneos-arm64.deb - 123916 bytes
-MD5: 732103a195739806a8fb1e4da1e41c10
-SHA1: 1ffcbc75432877c2a740679e8e58e7fd7d4c4601
-SHA256: a1012fefb52c723d3b0893159ba45973d5506b8aa725538e8de5bb3b1a0d6d12
-SHA512: 2098b0b6935b8e8e72c4f5b9086f094e79fb254f92d3044f3c63e9356c40db4047c1195e397e7876b002e38f036d808b3a133860e45787abeb75576484b5cd5d
 
 Package: com.ps.batteryhealthenabler
 Name: Battery Health Enabler
@@ -2692,6 +2734,7 @@ Author: XsF1re, ichitaso, level3tjg
 Maintainer: alias20
 Package: kr.xsf1re.vnodebypass
 Name: vnodebypass
+Conflicts: com.nan.jbir ,com.nan.jbirp
 Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
 Section: Tweaks
 Description: An expermental tool to hide jailbreak files for bypass detection. (Only supported iOS 15-16 with Dopamine2)
