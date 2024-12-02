@@ -175,7 +175,18 @@ SHA1: ece61e11126bd7327bfeb258740766b029d414c7
 SHA256: 19ca6459459b567c34ce830af718ec41f9cf319c7ccc0f0d476da04ae49dbf60
 SHA512: fa657e798e2f700788d0d0218778f6624359f4c218bcf5300be7b30fd300736a0da44f968dc85246e462497626d03c7fb43ab1a4f088fcf7206b8fc84b8c7c6d
 
-com.shepgoba.settingswidgets_1.2.3_iphoneos-arm64.deb - 73112 bytes
+Package: com.shepgoba.settingswidgets
+Name: SettingsWidgets
+Depends: mobilesubstrate, preferenceloader
+Description: Bring good looking widgets to the front page of settings!
+Maintainer: shepgoba
+Author: shepgoba
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.2.3
+Installed-Size: 512
+Filename: ./debs/com.shepgoba.settingswidgets_1.2.3_iphoneos-arm64.deb
+Size: 73112
 MD5: 027515e2b64bde33c6ed50fda9f18e48
 SHA1: 619943a5e2039deeff8099b4e8d6589c25224ca4
 SHA256: f73caac05a4ea62031233e6dfae9b55d60537f5fba6519db8161ca866db2d5ae
@@ -450,7 +461,19 @@ SHA1: c3f43c400bb689d9d1aca56fc72916d2320a89df
 SHA256: 90bd627e7bb1eed784f42e974d4faec3810953292bccf3c71103ff641e576d41
 SHA512: c4f488ef84154b3c557709965c7472657f0b792836e591df8183143f10975febcd53a97f0d640079506006038a98cf08e0cc2e407a16c3e3d9c370e635ffda20
 
-dev.traurige.eneko_1.4.2_iphoneos-arm64.deb - 28456 bytes
+Package: dev.traurige.eneko
+Name: Eneko
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Description: Live wallpapers for iOS
+Maintainer: Traurige <hello@traurige.dev>
+Author: Traurige <hello@traurige.dev>
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.4.2
+Installed-Size: 404
+Filename: ./debs/dev.traurige.eneko_1.4.2_iphoneos-arm64.deb
+Size: 28456
 MD5: e25d1c124704d4a4080a21f04a95a93a
 SHA1: ecd7ae867017395255234be0753e86007a243547
 SHA256: ac5c8b5ce148a7312913116c78f675149aa27909dc4cee4cd9dfe637563cceff
@@ -1586,24 +1609,6 @@ MD5: 5f912b4e23eced6f588432103e4dcde1
 SHA1: 9208458e68e172ab27d1757933a04a57ed4f7e4b
 SHA256: 614be20846f0a9beb762665d6f0708b060e103ae8f31cc170755169852006ace
 SHA512: 5a675239bf11abbf43208bba915b57dea457dade957e87a79fb48481e0dd37d0f6cd8ec88065235d7a4f003c77f77f4fd8602b86607714e34821ece2b335513a
-
-Package: dev.traurige.eneko
-Name: Eneko
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Conflicts: love.litten.eneko
-Description: Live wallpapers for iOS
-Maintainer: Traurige <hello@traurige.dev>
-Author: Traurige <hello@traurige.dev>
-Section: Tweaks
-Architecture: iphoneos-arm64
-Version: 1.4.2
-Installed-Size: 404
-Filename: ./debs/dev.traurige.eneko_1.4.2_iphoneos-arm64.deb
-Size: 28288
-MD5: 6e454c89f7365b9d88d1398cc9c12ba5
-SHA1: c28a1919e68be29cfb7729d77f89966e2ab87491
-SHA256: 983ab04bc7f1d6d5cafafdc50b7788b78e1c5182924bae20be1b5da4e469644d
-SHA512: 2f476bc09f5c52707e0252faf8047101cb2a7750ef29d0b03dbcc5a098c2ced85a4c7c0198de3133c255268e135d0bea631293e9d176e094303133fe42b312c7
 
 Package: com.opa334.cranelite
 Name: Crane Lite
