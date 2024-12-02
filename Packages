@@ -27,7 +27,8 @@ Section: Utilities
 Architecture: iphoneos-arm64
 Version: 4.0.1-4
 Installed-Size: 23200
-Filename: ./debs/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm64.deb - 8700882 bytes
+Filename: ./debs/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm64.deb
+Size: 8700882
 MD5: 3ba64c6c17e4a92c3afc89a95a224532
 SHA1: edaaf4766eeafcbc2186eecdc99a519b8eca2ed5
 SHA256: 5d354834ad5d44fcd2c1e3bdb4d082c25df6f8ba48f837745c2be1aec3f8f981
@@ -96,7 +97,8 @@ SileoDepiction: https://rootless.002599.xyz/web/zp.cocoatop64.unject
 Architecture: iphoneos-arm64
 Version: 3.1.1
 Installed-Size: 504
-Filename: ./debs/zp.cocoatop64.unject_3.1.1_iphoneos-arm64.deb - 139024 bytes
+Filename: ./debs/zp.cocoatop64.unject_3.1.1_iphoneos-arm64.deb
+Size: 139024
 MD5: dd8cc81bce506c0216f220a7b1defdfa
 SHA1: 7f25289d6e636fcd6de0740dfa0046ef8c81acf4
 SHA256: 757e1c437c1de0586aeb77ecf8dd73f801875d4d85446fb9069bd673f9cd6586
@@ -277,7 +279,8 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
 Version: 1.1.0
 Installed-Size: 168
-Filename: ./debs/com.wrp1002.nosettingsbadge_1.1.0_iphoneos-arm64.deb - 4386 bytes
+Filename: ./debs/com.wrp1002.nosettingsbadge_1.1.0_iphoneos-arm64.deb
+Size: 4386
 MD5: eb490f9575dac7396e9ab1a332cb7a30
 SHA1: f3d3baf3ed3a07ce5d1593e5c0a98eb1000ceb1e
 SHA256: beeb3283ed1bf25e445f6e855d9a52ce733a68cf296a58fb488ab9a0870fdb2f
