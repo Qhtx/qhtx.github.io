@@ -127,7 +127,7 @@ Architecture: iphoneos-arm64
 Description: Allow extensions to read the list of installed apps
 Maintainer: Ryan Petrich <rpetrich@gmail.com>
 Author: Ryan Petrich <rpetrich@gmail.com>
-Depends: mobilesubstrate, firmware (>= 15.0), com.rpetrich.rocketbootstrap, xyz.cypwn.xinam1ne
+Depends: mobilesubstrate, firmware (>= 15.0), rocketbootstrap, xyz.cypwn.xinam1ne
 Section: System
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
 Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
