@@ -108,7 +108,18 @@ SHA1: cd12112a3197a800fc1e1fe45779cba2ec47e921
 SHA256: 4259c4f9ba2bb891b854fb0fbb6ad309ef2ddb8b9016c3c7d6b9490d5202f9e7
 SHA512: 7721b482e7e2fdcc117bf9906788a50263f7135ed6ce02c19de81e7f4cc9ba3fc89734ccddfc58e9051cb1436c68cae966e4ce4e4a86f0a27810dab9f48c302d
 
-cm90.crossoveripc_1.1-1+debug_iphoneos-arm64.deb - 15374 bytes
+Package: cm90.crossoveripc
+Name: CrossOverIPC
+Depends: mobilesubstrate
+Description: A cross-process communication tool for sending and receiving messages on iOS 15 & 16 for rootless JBs
+Maintainer: @CrazyMind90
+Author: @CrazyMind90
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.1-1+debug
+Installed-Size: 364
+Filename: ./debs/cm90.crossoveripc_1.1-1+debug_iphoneos-arm64.deb
+Size: 15374
 MD5: f20b39388b84f1769f55ebd92956347e
 SHA1: 920583a16a7e1204d6f160f85f58ef0afe137019
 SHA256: 509b4132f6ae542887eb49376a7a5cdf43069331ac8e469655f90baa0ead2c9f
@@ -168,7 +179,24 @@ SHA1: dce8c5a7037de5ad3dd8220a99a6354e4ac4e8c6
 SHA256: 1e1639ed3b4f21accdb4e26017c42df1d5b268eea821048a7561a7db43e65393
 SHA512: f2a4d0098147c1a1a8f7205f7c34a1a1c0e64260da0974772e385e03fe84c04bf2188792ab574c06c7684cb9c97fdb43d32723e160975730448d7c89f53c2050
 
-org.thebigboss.libcolorpicker_1.6.9.1_iphoneos-arm64.deb - 71096 bytes
+Package: org.thebigboss.libcolorpicker
+Name: libcolorpicker (Unofficial)
+Depends: firmware (>= 6.0)
+Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
+Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
+Description: An awesome library of some sort!!
+Maintainer: Bailey Seymour
+Author: Bailey Seymour
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64
+Version: 1.6.9.1
+Installed-Size: 392
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=org.thebigboss.libcolorpicker
+Icon: https://p2kdev.github.io/repo/api/packageinfo/org.thebigboss.libcolorpicker/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/org.thebigboss.libcolorpicker.json
+Filename: ./debs/org.thebigboss.libcolorpicker_1.6.9.1_iphoneos-arm64.deb
+Size: 71096
 MD5: dcd979434652725495b904063c88cceb
 SHA1: 9e19e8bf343dd27b072ad91eae13a5232e1dac40
 SHA256: d9fd2065a9ccb11e9dc5c7cdec10ff278544bff028e36110a71b8cebb4b7edfc
@@ -367,7 +395,18 @@ SHA1: 02d21ff03c51fa75df6282501597222526953f04
 SHA256: 281f4bacf22ccdf3afa7059d57231fa5b4794c50803a2b23d11c29d6bb018e5c
 SHA512: a03016d87a866a9c06bc13d046fe529d7c6a61319482bfe412b67341c398c246e89950af16b513e24730d335799bf6a13ee5f91d36b47de4b133645d29328567
 
-com.muirey03.cr4shed_4.3.1-1+debug_iphoneos-arm64.deb - 231584 bytes
+Package: com.muirey03.cr4shed
+Name: Cr4shed
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), cm90.crossoveripc, com.cokepokes.libnotifications
+Description: A modern crash reporter for iOS
+Maintainer: Muirey03
+Author: Muirey03
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 4.3.1-1+debug
+Installed-Size: 2404
+Filename: ./debs/com.muirey03.cr4shed_4.3.1-1+debug_iphoneos-arm64.deb
+Size: 231584
 MD5: 88eb9a71266fb2744af5521d20208193
 SHA1: 43b5f81b8d0db56b1b4047cf5dde95c736276f85
 SHA256: e6c064973f5b196e35b5222c8f52ea3a6c13d027eceb5e6437c1838cd54aba40
@@ -604,7 +643,23 @@ SHA1: 654cbdfb6b8824de4d9a142e048da5a75fc67c17
 SHA256: f5277f726cf5804b289d8bc08094752b31e91b75c000e48fda6c7a338df821b8
 SHA512: ae9e059829fce39f7dcbcf531868210fa1d61328bf5196a625fdbf3d5b5ae7bb8acaff27b1271923fb7c08bc4fbe5c44452f222ec1fc6243e097cb716bc71331
 
-com.cokepokes.libnotifications_0.3-6_iphoneos-arm64.deb - 15866 bytes
+Name: libnotifications
+Package: com.cokepokes.libnotifications
+Priority: optional
+Depends: firmware (>= 8.0), cm90.crossoveripc
+Description: App notification library.
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: CokePokes <cokepokes@gmail.com>
+Section: Development
+dev: cokepokes
+Architecture: iphoneos-arm64
+Version: 0.3-6
+Installed-Size: 376
+Filename: ./debs/com.cokepokes.libnotifications_0.3-6_iphoneos-arm64.deb
+Size: 15866
 MD5: 42ec30335286174767cdd893800eb12b
 SHA1: d1efd18082c8b0f804f86a6efe68a4fb0fa16c76
 SHA256: b88884857a216e093a6459d0fcdd413846ce9390a2a301f93482ce046ab334fa
@@ -627,7 +682,20 @@ SHA1: f3d3baf3ed3a07ce5d1593e5c0a98eb1000ceb1e
 SHA256: beeb3283ed1bf25e445f6e855d9a52ce733a68cf296a58fb488ab9a0870fdb2f
 SHA512: 263f96ee83873147fb8447a427f31a4dbdba10b86d54a4f0c29de30863a3e139e1843a53b30ac05947a551a5ca1f6dcfc1b6be65cfb71fd2f83351802f28cdf3
 
-com.brend0n.notransitcardversionlimit_0.0.2_iphoneos-arm64.deb - 7784 bytes
+Package: com.brend0n.notransitcardversionlimit
+Name: NoTransitCardVersionLimit
+Depends: mobilesubstrate
+Description: Spoof OS version in Wallet App!
+Maintainer: Brend0n <brendonjkding@126.com>
+Author: Brend0n <brendonjkding@126.com>
+Section: Tweaks
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.notransitcardversionlimit
+SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.notransitcardversionlimit/depiction.json
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Installed-Size: 216
+Filename: ./debs/com.brend0n.notransitcardversionlimit_0.0.2_iphoneos-arm64.deb
+Size: 7784
 MD5: c1edfcfe352a56e3e1073e7ab71d2778
 SHA1: c5f9f7ad347a16004136189ce0d9949b7e30e44a
 SHA256: ed4536680540419aaefdf5b06aca293fe448426e657260066cec1e82d8a82b03
