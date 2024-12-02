@@ -4,7 +4,20 @@ SHA1: 89617c2a6bc2fac6507b858e93d727e6a6e97eb9
 SHA256: 7bc27e6cd72f6b5d8c3e31070ee1712f61e696bd136f3995cf3777b0ff511982
 SHA512: 0af8a0eb247892b79d4c06c71cd1ae4614017463132fb131723e071736eec2303f8dc1e278e9734cb1f0620f39ecfc72030a9e605ca77ac063583b72417990e4
 
-com.muirey03.libmryipc_2.0.1_iphoneos-arm64.deb - 14760 bytes
+Package: com.muirey03.libmryipc
+Name: libMRYIPC-Rootless
+Depends: mobilesubstrate
+Conflicts: ws.hbang.stopcrashingpls (=1.0)
+Description: Support package for my tweak Novus that's available on Havoc repo, recompiled for rootless. Will get removed when the originial author updates it for rootless.
+Maintainer: nicho1asdev
+Author: Muirey03
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64
+Version: 2.0.1
+Installed-Size: 304
+Filename: ./debs/com.muirey03.libmryipc_2.0.1_iphoneos-arm64.deb
+Size: 14760
 MD5: 1a905e9c25d7357c4d3c5f7a11172152
 SHA1: 7df3a1ef7f9970eab50d8edad5dcae3987d5db8b
 SHA256: d78dc4dcb32a1013c8453859c7afcf9b81ecd246ce27ae1d0a78d04c2dfd1bfa
@@ -163,7 +176,21 @@ SHA1: 619943a5e2039deeff8099b4e8d6589c25224ca4
 SHA256: f73caac05a4ea62031233e6dfae9b55d60537f5fba6519db8161ca866db2d5ae
 SHA512: 889664b666bd6d625fb10b5204b6f5154a462b40abf0e9bbf651478643bae4952e1cedfbd9e3aca3dd812ce316793870b76576556d315ce237161abf012ce13f
 
-com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64.deb - 40822 bytes
+Package: com.julioverne.goodwifi
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Better WiFi Preferences
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
+Icon: file:///var/jb/Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+Name: GoodWiFi
+Architecture: iphoneos-arm64
+Version: 0.0~beta6
+Installed-Size: 412
+Filename: ./debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64.deb
+Size: 40822
 MD5: a1001e8b942bd4870f4c5e55096ec28a
 SHA1: 79c9c4197f616a2b885ed496af43a437390d21a0
 SHA256: 6c329bfdb459abe3e7cb2f6dc7ccd6d5fb6607838864cf97193d70e96eed130c
@@ -273,7 +300,19 @@ SHA1: 584dc54d27da38e4544ce69d25d91247ec36edb1
 SHA256: b19e5d3750dcc499b0d2b627d2b746e8965794729ba1ebd7963c5053b00dc64f
 SHA512: 26b98909b75771a1d5007ddb4c9a38571698f831400628199216575fe5af4c57bf317c8ab8014ae2caa587a2dcff2f4f32c77b6f9f874242552eaadc710685c4
 
-zp.stopautolaunchapps_1.1_iphoneos-arm64.deb - 2992 bytes
+Package: zp.stopautolaunchapps
+Description: Stop Auto Launch Apps
+Maintainer: Hitori
+Author: zqbb
+Name: StopAutoLaunchApps
+Depends: mobilesubstrate, firmware (>= 15.0)
+Section: Tweaks
+SileoDepiction: https://siieo.github.io/sileodepictions/StopAutoLaunchApps/StopAutoLaunchApps.json
+Architecture: iphoneos-arm64
+Version: 1.1
+Installed-Size: 168
+Filename: ./debs/zp.stopautolaunchapps_1.1_iphoneos-arm64.deb
+Size: 2992
 MD5: 7a53ee58deb44f21b62a4200a9b671d3
 SHA1: b987e22e1859825dbe9411492edbb302de0c4e58
 SHA256: 6a608886173c6ac0e3a184a0fc463aedf238eeed1c890b3ca0e42b7ded29f1a7
@@ -297,7 +336,22 @@ SHA1: c85bb326be05ecab63285f1ab79ba5c3d4f9c8c1
 SHA256: 878c3bb588252b5efe20ab83bebb45dd2e0caee1622c334b86692e762b56a017
 SHA512: d40b447b5244257132e8f81d8c03b204719a244e94cf41e6df623c32bfcc1e807537d266593d866df2b52d2b2d043d0a50c48eb32cf98924d599b712c84e0c76
 
-me.nixuge.networkmanager_1.4.3_iphoneos-arm64.deb - 37720 bytes
+Package: me.nixuge.networkmanager
+Name: NetworkManagerReborn
+Depends: mobilesubstrate, com.opa334.ccsupport
+Description: Force 2G/3G/4G/5G connection from the Control Center
+Maintainer: Nixuge
+Author: NoisyFlake, Nixuge
+Section: Control Center (Modules)
+Architecture: iphoneos-arm64
+Version: 1.4.3
+Installed-Size: 396
+Depiction: http://cydia.nixuge.me/depiction/web/me.nixuge.networkmanager.html
+SileoDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
+ModernDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
+Icon: http://cydia.nixuge.me/assets/me.nixuge.networkmanager/icon.png
+Filename: ./debs/me.nixuge.networkmanager_1.4.3_iphoneos-arm64.deb
+Size: 37720
 MD5: 402214901aca2e45c30556ceb235c6a1
 SHA1: 2f986934a77a3a97876604913cff4fef84ba6f82
 SHA256: 98cc27a29834f7579b50ac0c60242b150dae0f8a29d1944a31a636614640544a
@@ -2478,23 +2532,6 @@ Description: Simple tweak to remap the long press of the power button on notched
 Name: LockButtonX
 Author: Nightwind
 Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
-
-Package: com.julioverne.goodwifi
-Architecture: iphoneos-arm64
-Version: 0.0~beta6
-Section: Tweaks
-Maintainer: Julio
-Depends: mobilesubstrate, preferenceloader, oldabi
-Filename: ./debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64.deb
-Size: 76500
-MD5: 915b31cf0a0ac669e8f190763878fec6
-SHA1: 2880e5f6f0e9442aaee767d06bb53dbacde754c0
-SHA256: c2c0adc68f0d702b0b762cd17d42ac31a9348d11f3e0717eb1386bc624adeaf9
-SHA512: b4d8c245c732751a92ca2b817e098c44758b9d853647a9bd8a05d2bb9c8666ad1a22fde8c20e9d8d6cc33bd56d8ddb7dc2031e05eff5418e8e2a04add4848427
-Description: Better WiFi Preferences
-Name: GoodWiFi
-Author: julioverne
-Icon: https://i.imgur.com/vqSvHq8.jpeg
 
 Package: com.dvntm.safariii
 Architecture: iphoneos-arm64
