@@ -1,3 +1,43 @@
+Package: xyz.cypwn.xinam1ne
+Maintainer: CyPwn
+Depiction: https://repo.cypwn.xyz/depiction/2816
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2816
+Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
+Name: Xinam1ne AIO
+Version: 2.6-8
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Provides: emt.paisseon.xinamine (= 99)
+Replaces: emt.paisseon.xinamine
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
+Section: Utilities
+Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/xyz.cypwn.xinam1ne_2.6-8_iphoneos-arm64e.deb
+Size: 11420
+MD5: 43166e6b8ba83de6d58e07eceefaacf8
+SHA1: 1910c997c15851c21abef1005917ff172a21a647
+SHA256: d7f450c9216fd651065fa6bfb8da7c068ff4b5cf6dacc8935f32270ca4bc68ec
+SHA512: 2a9391f908b2990419752ef8766d6dcbbacbc74c640665c660827f2c549ba0f28be9e7ac3ff480c0847a859d4cc0cb7c343ae696236b83b5aeef1bfd6ea3eea3
+
+Package: com.squidforce.copyvault
+Name: CopyVault
+Description: Your Copy Vault, Your Pasteboard
+Maintainer: SquidForce
+Author: SquidForce
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 1.7.0
+Installed-Size: 5416
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.squidforce.copyvault_1.7.0_iphoneos-arm64e.deb
+Size: 4692244
+MD5: 219444b2cb0529c3d84121e6c2e20c72
+SHA1: 15f003f076af819ec423e42e0ef6c014a645fe0f
+SHA256: cb037e61116037f4f5d135501d409501e95a0648154aca379815fdb2f969d809
+SHA512: fe211aff7f04e0414842a70653deff067bfdd2d336b75bc45c69fec75f4db807f4d868de0b3a201c81e2edd3f327a9c1196fa9a7d767282766924709e0372e57
+
 Package: com.nan.miic
 Name: Move Icon Image Cache
 Version: 0.1.0
