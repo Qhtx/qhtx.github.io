@@ -47,7 +47,17 @@ SHA1: edaaf4766eeafcbc2186eecdc99a519b8eca2ed5
 SHA256: 5d354834ad5d44fcd2c1e3bdb4d082c25df6f8ba48f837745c2be1aec3f8f981
 SHA512: 111d9b7b0889cf8ffe7e005500181cadb9875f6c98ccf3392e2d767c3c562cb72c74582d4c7de1eb1940b4b8a51ba12f45f31f3d613f0159bc6b7076873ea61f
 
-com.nathan.internalstoragesettings_1.0_iphoneos-arm64.deb - 3860 bytes
+Package: com.nathan.internalstoragesettings
+Name: InternalStorageSettings
+Description: Tweak to enable the hidden storage settings
+Maintainer: Nathan Senter
+Author: Nathan Senter
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 136
+Filename: ./debs/com.nathan.internalstoragesettings_1.0_iphoneos-arm64.deb
+Size: 3860
 MD5: a8d5cabab357fd08bec861648ec9dbeb
 SHA1: ec724279da07746d3a788254ae281db6e41c9ec3
 SHA256: e592d1cfc5670fe90f86221722ed62ff60a5a24bd7e29b4c532062d1b5aac66c
@@ -99,7 +109,20 @@ SHA1: ed94cc8ae276ab9312cb6b24557647cd9ac2bd2c
 SHA256: 9e1c54f0694733f5445d8335b9c140ef8016bb10fdf9bc3e874da103e32fea0a
 SHA512: dee54d6d9c593f5176331442ef57cc10ab6d03fefcc9c9516868ac015921640d6185abe9b2f322ab8e7c3be743e828b8cab4a028a21b059cc014ad7f56e005d9
 
-com.lizynz.telegaicons.rootless_1.3_iphoneos-arm64.deb - 19370 bytes
+Package: com.lizynz.telegaicons.rootless
+Name: Telega Icons
+Depends: mobilesubstrate, firmware (>= 15.0)
+Description: Change the telegram icon
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.telegaicons
+SileoDepiction: https://lizynz.github.io/depictions/com.lizynz.telegaicons/TelegaIcons.json
+Maintainer: Lizynz <lizynz@ya.ru>
+Author: Lizynz <lizynz@ya.ru>
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.3
+Installed-Size: 216
+Filename: ./debs/com.lizynz.telegaicons.rootless_1.3_iphoneos-arm64.deb
+Size: 19370
 MD5: 991a3a9bccdce6748e2041e93c1566b3
 SHA1: dce8c5a7037de5ad3dd8220a99a6354e4ac4e8c6
 SHA256: 1e1639ed3b4f21accdb4e26017c42df1d5b268eea821048a7561a7db43e65393
@@ -290,7 +313,20 @@ SHA1: 6cdd87e20871b0559c60ee35aea1abe334188a53
 SHA256: 29ff1b481698fc01e53534b78af9f97e99d4321866d30568b2045e145aed2a3e
 SHA512: 15307b7fd4dbdbfeba9345a0abe8a2f6ddabaa6fc83c6053cf6bfa79cf568d5d9db34b36b9dabb7264ac51d785932ba9fd80017cd91c21b3b85ed9d18264932c
 
-com.mtac.prefs.localizer_1.2_iphoneos-arm64.deb - 8690 bytes
+Package: com.mtac.prefs.localizer
+Name: PreferenceLocalizer
+Architecture: iphoneos-arm64
+Description: Quickly change language of Settings app
+Maintainer: MTAC
+Author: MTAC
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://mtac.app/repo/assets/com.mtac.prefs.localizer/icon-rounded.png
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.prefs.localizer.json
+Version: 1.2
+Installed-Size: 172
+Filename: ./debs/com.mtac.prefs.localizer_1.2_iphoneos-arm64.deb
+Size: 8690
 MD5: 59bd338b86754c25e6882744f3322372
 SHA1: 03bae3e75f6e23c86be7fae4185a61543f94ea58
 SHA256: 0c1ba94b7903ff6d446efbe5c1b5ceead18c51c59e73cdf863e5804ae6c1d7b1
@@ -455,7 +491,18 @@ SHA1: c5f9f7ad347a16004136189ce0d9949b7e30e44a
 SHA256: ed4536680540419aaefdf5b06aca293fe448426e657260066cec1e82d8a82b03
 SHA512: 4c7d5e8c7db8da18c742bbacd47c2e37e46d4d0e0faa7cd9083dde105fbf926bb06974e23182e77c13678f7eaf066f4aa350e0f0ed69ab86f90b32acd58b6d08
 
-com.rpgfarm.a-font_1.10.1_iphoneos-arm64.deb - 494572 bytes
+Package: com.rpgfarm.a-font
+Name: A-Font
+Depends: mobilesubstrate, preferenceloader
+Description: Change your font!
+Maintainer: Baw Appie <pp121324@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.10.1
+Installed-Size: 2476
+Filename: ./debs/com.rpgfarm.a-font_1.10.1_iphoneos-arm64.deb
+Size: 494572
 MD5: 01b1c8b7b6552093d04de9f5be50ff65
 SHA1: c3f43c400bb689d9d1aca56fc72916d2320a89df
 SHA256: 90bd627e7bb1eed784f42e974d4faec3810953292bccf3c71103ff641e576d41
