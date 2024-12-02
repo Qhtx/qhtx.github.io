@@ -58,7 +58,18 @@ SHA1: 920583a16a7e1204d6f160f85f58ef0afe137019
 SHA256: 509b4132f6ae542887eb49376a7a5cdf43069331ac8e469655f90baa0ead2c9f
 SHA512: a64b093ae429d36eb18932a2f29fe5020aefae50745486252de45ec8a3c3325ebd210d4a31088f23905938fed51b05a91b30afe8527e623e228195bb0563e4db
 
-libskittycolor_1.0_iphoneos-arm64.deb - 22418 bytes
+Package: libskittycolor
+Name: libskittycolor
+Description: A simple color picker implementation.
+Maintainer: Skitty
+Author: Skitty
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 204
+Filename: ./debs/libskittycolor_1.0_iphoneos-arm64.deb
+Size: 22418
 MD5: 35149956e98e904274a00a83c9cc6e31
 SHA1: 02568f5c6de443a2321f8e3f1f3db990e2252f5e
 SHA256: a5f5b1999adacd469effc9f41c20167a7f014a107b0cb3386099c2f5ebb42492
@@ -213,7 +224,21 @@ SHA1: 03bae3e75f6e23c86be7fae4185a61543f94ea58
 SHA256: 0c1ba94b7903ff6d446efbe5c1b5ceead18c51c59e73cdf863e5804ae6c1d7b1
 SHA512: 06d6ce74ed7272e87be1d881441b861055f8e436bda14c2ee204a8574130ea8eb7d1c6ec498e54409458cb0f0c822281dabdafe64ccb2f529e9a5a9148307d52
 
-xyz.skitty.spectrum_1.1_iphoneos-arm64.deb - 60814 bytes
+Package: xyz.skitty.spectrum
+Name: Spectrum
+Depends: mobilesubstrate, libskittycolor, firmware (>= 13.0)
+Description: Customize system colors!
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.spectrum/
+SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.spectrum/sileo.json
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.spectrum.png
+Maintainer: Skitty
+Author: Skitty & EvenDev
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.1
+Installed-Size: 580
+Filename: ./debs/xyz.skitty.spectrum_1.1_iphoneos-arm64.deb
+Size: 60814
 MD5: 1fb3cad655bbd4f831af4eb3b0384f80
 SHA1: d7783f337ed583c0a4603592f1e8b7cef51b31e9
 SHA256: 4749d93c697b70ad9a87c1489e6c8509570d5d428be58b7abb5ca65b05988e77
@@ -367,7 +392,23 @@ SHA1: 8d7267da91e7bf4858d61d3a082ef916209d1379
 SHA256: 6525a6b0ace53b959b949315b51f0e9a6675daff82d71ce116cb49d2122af02f
 SHA512: 5e3a6eb9db08ed812b6da730b7a640dd477585d97946c69fe43a54523d89241d98b7685789f9fd8ca8c8fa2759c363117305bcde1b121d4d40e1c48a539e4abb
 
-rocketbootstrap_1.1.0~rootless_iphoneos-arm64.deb - 21852 bytes
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Architecture: iphoneos-arm64
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Version: 1.1.0~rootless
+Depends: firmware (>= 15.0), mobilesubstrate
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Name: RocketBootstrap
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Tag: purpose::extension, role::developer
+Installed-Size: 552
+Package: rocketbootstrap
+Filename: ./debs/rocketbootstrap_1.1.0~rootless_iphoneos-arm64.deb
+Size: 21852
 MD5: 83cb53e44e129605391b419f656fd6db
 SHA1: de1bc7915753540180b573203861c657e32d2817
 SHA256: 77b4f86596e68889a8b2f7b9b4494de277773672a5613a3192b4b0cc3412c646
