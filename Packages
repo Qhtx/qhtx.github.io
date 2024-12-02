@@ -121,26 +121,6 @@ SHA1: fe9ef05fbd713187d184c09720a0bf58c8e1312e
 SHA256: 6dba3ab16ed0d5ac658d84f28f106bea88fd418dd4efdee435f01de9d3dca14b
 SHA512: 7aa5d7d9825b62f37c03ae4ec421da377bbbe2c0758fb29498d59fa2c3dd3724cc4ea91bc7f20cd3cd984bd4a38be2a0f0569e1b3b7f6f04170d67b8519b2ba0
 
-Package: applist
-Name: AppList
-Architecture: iphoneos-arm64
-Description: Allow extensions to read the list of installed apps
-Maintainer: Ryan Petrich <rpetrich@gmail.com>
-Author: Ryan Petrich <rpetrich@gmail.com>
-Depends: mobilesubstrate, firmware (>= 15.0), rocketbootstrap, xyz.cypwn.xinam1ne
-Section: System
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
-Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
-dev: rpetrich
-Version: 1.5.16
-Installed-Size: 780
-Filename: ./debs/applist_1.5.16_iphoneos-arm64.deb
-Size: 193116
-MD5: 41a94a495b3db027c4ac7bdce44be646
-SHA1: cc887378154e6494f4f9c5a3ad450c375cf34134
-SHA256: 800787a871d4b9bdfc4aa79653e74219d798580fc43c5705eac410b7cda3fbca
-SHA512: a460dc6e244bbaa2ddff6fa34451f156c563d3b47ac22732e96970fa9a78eabf3b0c0e03c62bbfd9e093cc49f31dae94fcf1bbac40695aadd6159ab22a40d81c
-
 com.ps.replaykitmax_1.0.1_iphoneos-arm64.deb - 3332 bytes
 MD5: 3f9ad3a301f6d31b9969451ba85ea789
 SHA1: e785ab54560f53486bd7cad52a48b8b0c3727f2d
@@ -391,28 +371,6 @@ MD5: efae35a2879d140279dfbf6c2cc7ea46
 SHA1: 8d7267da91e7bf4858d61d3a082ef916209d1379
 SHA256: 6525a6b0ace53b959b949315b51f0e9a6675daff82d71ce116cb49d2122af02f
 SHA512: 5e3a6eb9db08ed812b6da730b7a640dd477585d97946c69fe43a54523d89241d98b7685789f9fd8ca8c8fa2759c363117305bcde1b121d4d40e1c48a539e4abb
-
-Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
-Architecture: iphoneos-arm64
-Description: Support library allowing tweaks to communicate with sandboxed processes
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Version: 1.1.0~rootless
-Depends: firmware (>= 15.0), mobilesubstrate
-Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
-Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
-Name: RocketBootstrap
-Section: Tweaks
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: rpetrich
-Tag: purpose::extension, role::developer
-Installed-Size: 552
-Package: rocketbootstrap
-Filename: ./debs/rocketbootstrap_1.1.0~rootless_iphoneos-arm64.deb
-Size: 21852
-MD5: 83cb53e44e129605391b419f656fd6db
-SHA1: de1bc7915753540180b573203861c657e32d2817
-SHA256: 77b4f86596e68889a8b2f7b9b4494de277773672a5613a3192b4b0cc3412c646
-SHA512: bf559305a21b89247228f7e6281d763e6046551d3daa525cd7ceee0a522a5072235f5758e9fff2db4f8ee77a0997004d5e345d5fd1056e9704825f5ed35ffb6c
 
 codes.aurora.kayokos_2.7_iphoneos-arm64.deb - 123916 bytes
 MD5: 732103a195739806a8fb1e4da1e41c10
