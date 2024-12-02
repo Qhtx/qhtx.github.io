@@ -115,13 +115,37 @@ SHA1: 7f25289d6e636fcd6de0740dfa0046ef8c81acf4
 SHA256: 757e1c437c1de0586aeb77ecf8dd73f801875d4d85446fb9069bd673f9cd6586
 SHA512: 07c4e44ca091eab41c4f940e18526cf9f8473965ef4c78939fcfb77b0661bf1048a285a3d1b64ca95e24b7ace2ea555564d7dca4b80b3ffc59138b2830a18404
 
-com.ps.highgraphics_1.1.0_iphoneos-arm64.deb - 4222 bytes
+Package: com.ps.highgraphics
+Name: HighGraphics
+Depends: mobilesubstrate, firmware (>= 7.0)
+Description: Best UIKit graphics for older devices.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Installed-Size: 152
+Filename: ./debs/com.ps.highgraphics_1.1.0_iphoneos-arm64.deb
+Size: 4222
 MD5: 750a6ca53d714a8e456797071a6d580a
 SHA1: fe9ef05fbd713187d184c09720a0bf58c8e1312e
 SHA256: 6dba3ab16ed0d5ac658d84f28f106bea88fd418dd4efdee435f01de9d3dca14b
 SHA512: 7aa5d7d9825b62f37c03ae4ec421da377bbbe2c0758fb29498d59fa2c3dd3724cc4ea91bc7f20cd3cd984bd4a38be2a0f0569e1b3b7f6f04170d67b8519b2ba0
 
-com.ps.replaykitmax_1.0.1_iphoneos-arm64.deb - 3332 bytes
+Package: com.ps.replaykitmax
+Name: ReplayKit Max
+Architecture: iphoneos-arm64
+Description: Record screen without resolution cap.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0)
+Depiction: https://poomsmart.github.io/repo/depictions/replaykitmax.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/replaykitmax.json
+Version: 1.0.1
+Installed-Size: 152
+Filename: ./debs/com.ps.replaykitmax_1.0.1_iphoneos-arm64.deb
+Size: 3332
 MD5: 3f9ad3a301f6d31b9969451ba85ea789
 SHA1: e785ab54560f53486bd7cad52a48b8b0c3727f2d
 SHA256: 775fc6ae2ead2e3321707c8833f69832dcd01fb5782eecd9351fbb7fe3105f2d
@@ -186,7 +210,20 @@ SHA1: 43b5f81b8d0db56b1b4047cf5dde95c736276f85
 SHA256: e6c064973f5b196e35b5222c8f52ea3a6c13d027eceb5e6437c1838cd54aba40
 SHA512: 6d3658117bb37ef9485b252eb1a2ac7508bf13812a1a248e1d9b18feef56d03ebf4854b9c0ec45a72f5b4420c6502801d05de5bb6f65ff36bef3b14d2f449573
 
-com.ps.latesttranslate_6.0.1_iphoneos-arm64.deb - 228888 bytes
+Package: com.ps.latesttranslate
+Name: LatestTranslate
+Description: Make Apple's Translate app support all languages to date.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 17.0)
+Depiction: https://poomsmart.github.io/repo/depictions/latesttranslate.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/latesttranslate.json
+Architecture: iphoneos-arm64
+Version: 6.0.1
+Installed-Size: 46592
+Filename: ./debs/com.ps.latesttranslate_6.0.1_iphoneos-arm64.deb
+Size: 228888
 MD5: 881d5c9d58aafdb775bb3891afce48c2
 SHA1: 5ec88c17bec178eeb350d055e1a9506bcdb0e3d2
 SHA256: ec3e9b81ab8fe93089036a0cf8d7121893d80160296f718edd1221f32affcc25
@@ -360,7 +397,20 @@ SHA1: 1d841504fbd18d9578b2ec260f47229b329f04a7
 SHA256: b05ba1d2a6ff672e9553462dfaa7da4c7fdad761cf6f516be5ab33adc007d4a7
 SHA512: f767ae9ab6542f97a4c2f14998b27d816d406b7b2e1b11feec1a8ec6f38b968b43f06a18acab4a33156c8c4716f68dd7d99a451c2fa122de36c5c1e62b785c99
 
-com.ps.letmeblock_1.3.0_iphoneos-arm64.deb - 6190 bytes
+Package: com.ps.letmeblock
+Name: LetMeBlock
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), com.opa334.libsandy
+Description: Make mDNSResponder care more about /etc/hosts
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depiction: https://poomsmart.github.io/repo/depictions/letmeblock.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/letmeblock.json
+Architecture: iphoneos-arm64
+Version: 1.3.0
+Installed-Size: 140
+Filename: ./debs/com.ps.letmeblock_1.3.0_iphoneos-arm64.deb
+Size: 6190
 MD5: eaebb6437016a6b043e31fa258e85803
 SHA1: a577ade337190ea7c7aaae42b801c0983be611d8
 SHA256: 72cd74890de21f2f94115ee347d7e7a6131e38f7811f0dcdffce6ae37b58c1a0
@@ -378,7 +428,20 @@ SHA1: 1ffcbc75432877c2a740679e8e58e7fd7d4c4601
 SHA256: a1012fefb52c723d3b0893159ba45973d5506b8aa725538e8de5bb3b1a0d6d12
 SHA512: 2098b0b6935b8e8e72c4f5b9086f094e79fb254f92d3044f3c63e9356c40db4047c1195e397e7876b002e38f036d808b3a133860e45787abeb75576484b5cd5d
 
-com.ps.batteryhealthenabler_1.0.0_iphoneos-arm64.deb - 5434 bytes
+Package: com.ps.batteryhealthenabler
+Name: Battery Health Enabler
+Description: Enable Battery Health on unsupported devices.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
+Depiction: https://poomsmart.github.io/repo/depictions/batteryhealthenabler.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/batteryhealthenabler.json
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 152
+Filename: ./debs/com.ps.batteryhealthenabler_1.0.0_iphoneos-arm64.deb
+Size: 5434
 MD5: 0ca1bad2a71148ce73af82df31d8c511
 SHA1: f2f7c9a9cfdba5a655151b16005e3ce6d7224948
 SHA256: e69996de5ca92e7808f28792ac64a6744bd7da607a7eb199f1128c08aeb229ad
