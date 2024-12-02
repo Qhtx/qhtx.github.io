@@ -34,25 +34,72 @@ SHA1: 27ccc7d65f89f70a0af4b77fd85d09f28d2525fc
 SHA256: 6f9c811ae5dbce65c46e8bcc6425a21e68f9508fd542afb5a0df2625a2cb7641
 SHA512: 8c04d9ccbdf561fbf1e4ca3d7b2d76a0c58f7e40e713dd9d0a27f68b3157119a21d77d51af6afdf3e454f81984fcf2dc724a53dbdc103f6f0ca35e4406555da6
 
-com.nan.pointless_0.1.0_iphoneos-arm64.deb - 1596 bytes
+Package: com.nan.pointless
+Name: Pointless
+Section: Addons
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Author: zhaonan
+Maintainer: zhaonan
+Description: 毫无意义的守护进程，但是能解决我手机闲置时过度发热和闲置时接入电源重启的问题
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.pointless/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Filename: ./debs/com.nan.pointless_0.1.0_iphoneos-arm64.deb
+Size: 1596
 MD5: b0103df5ea03af6351eeac295de11de3
 SHA1: e9e30d39ba5f2a8580a2208ecbf61f875dd4fdde
 SHA256: b66f861c0ff3df4d7b8876ba89bd2c15f3da9e0dd2b2e7092084881b5a782f18
 SHA512: c776e786311d17ab94b7e0f72008b083cbad5fd9e744c44ff00d7fbeef2197c54d529ec734b0c70fb8a47ec6f294a32de3bf39cb341349c8095c844e9bc0eb3f
 
-com.nan.rebirth_0.1.4_iphoneos-arm64.deb - 2048 bytes
+Package: com.nan.rebirth
+Name: Rebirth
+Section: Terminal_Support
+Author: zhaonan
+Maintainer: zhaonan
+Architecture: iphoneos-arm64
+Version: 0.1.4
+Depends: coreutils, lsof
+Description: 生成为转生准备的 deb，只需清除越狱后分享给 Sileo，将会依赖安装此包时本地已安装的插件（需要自己先添加源），创建的文件位于 /var/mobile/Documents/
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.rebirth/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Filename: ./debs/com.nan.rebirth_0.1.4_iphoneos-arm64.deb
+Size: 2048
 MD5: e6f7d69585def8cd2de8a6965fee08af
 SHA1: 4c6051c44b9c3ecb98f361f83a6339d91d7ac91e
 SHA256: f318f3c16e65320fa54baa7d7f72ec24354a4e9e18ae5cde44000de5b25a46f5
 SHA512: 0f41f2d59d9403b27031a4d26dce45bf09e47b1ec75bb4cb9fe6754aaf3b98ebc0404c6da27d8620d57f05e930110e2957107a556b0aa8450057ff124e649c54
 
-com.nan.realitytmp_0.2.2_iphoneos-arm64.deb - 2204 bytes
+Package: com.nan.realitytmp
+Name: Reality tmp
+Section: Addons
+Author: zhaonan
+Maintainer: zhaonan
+Architecture: iphoneos-arm64
+Version: 0.2.2
+Description: 将 jb tmp 放在 /tmp 以防止越来越多的缓存垃圾
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.realitytmp/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Filename: ./debs/com.nan.realitytmp_0.2.2_iphoneos-arm64.deb
+Size: 2204
 MD5: 8f7b05679fec15a2932c405f406b4cd4
 SHA1: c7074dbcc6e15f6fff92c2568629382678d1cbe7
 SHA256: 15b8cd0cfd703e60c6e72bbcc272e13d5e86b000a0f0ae53ac3e188fe740ea2e
 SHA512: e8a20707f2ca8ce52e9f98c20b5863322b492adb03fd3210a704aa03abdf409ff40ca814bd97492d1204a2bb43d0a4cb931d5769e7f141ee37a6bdb66b9a41da
 
-com.nan.jbir_0.1.0_iphoneos-arm64.deb - 1644 bytes
+Package: com.nan.jbir
+Name: Jailbreak Icon Refresh
+Version: 0.1.0
+Section: Addons
+Architecture: iphoneos-arm64
+Author: zhaonan
+Conflicts: kr.xsf1re.vnodebypass
+Maintainer: zhaonan
+Depends: com.nan.miic
+Description: 让 Dopamine 越狱后越狱 app 图标更快出现，或是解决某些设备越狱后必须使用 Dopamine 手动刷新越狱应用才能在桌面看到越狱 app 的问题
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.jbir/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Filename: ./debs/com.nan.jbir_0.1.0_iphoneos-arm64.deb
+Size: 1644
 MD5: dea7bb12223cd741337c5d314117bc82
 SHA1: 1b0a5c9f9413e13cc13ef1b1e57a478cfce53647
 SHA256: c7cea5841fa93428b4e174cacd11c0c01818e3210298e8ec04a70012a2c11ccb
