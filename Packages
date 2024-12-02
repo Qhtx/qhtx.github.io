@@ -110,7 +110,21 @@ SHA1: fe9ef05fbd713187d184c09720a0bf58c8e1312e
 SHA256: 6dba3ab16ed0d5ac658d84f28f106bea88fd418dd4efdee435f01de9d3dca14b
 SHA512: 7aa5d7d9825b62f37c03ae4ec421da377bbbe2c0758fb29498d59fa2c3dd3724cc4ea91bc7f20cd3cd984bd4a38be2a0f0569e1b3b7f6f04170d67b8519b2ba0
 
-applist_1.5.16_iphoneos-arm64.deb - 193116 bytes
+Package: applist
+Name: AppList
+Architecture: iphoneos-arm64
+Description: Allow extensions to read the list of installed apps
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depends: mobilesubstrate, firmware (>= 15.0), com.rpetrich.rocketbootstrap, xyz.cypwn.xinam1ne
+Section: System
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+dev: rpetrich
+Version: 1.5.16
+Installed-Size: 780
+Filename: ./debs/applist_1.5.16_iphoneos-arm64.deb
+Size: 193116
 MD5: 41a94a495b3db027c4ac7bdce44be646
 SHA1: cc887378154e6494f4f9c5a3ad450c375cf34134
 SHA256: 800787a871d4b9bdfc4aa79653e74219d798580fc43c5705eac410b7cda3fbca
@@ -140,7 +154,18 @@ SHA1: 79c9c4197f616a2b885ed496af43a437390d21a0
 SHA256: 6c329bfdb459abe3e7cb2f6dc7ccd6d5fb6607838864cf97193d70e96eed130c
 SHA512: 9d7cd5af2217a1f892a4039eb08318330147a2a358c781217523c933465045637f23706414c4007e471728b9f077840e4387394f225b76d4ed11962a2bebccb9
 
-com.spark.libsparkapplist_1.1.0~rootless_iphoneos-arm64.deb - 24834 bytes
+Package: com.spark.libsparkapplist
+Name: libSparkAppList
+Architecture: iphoneos-arm64
+Description: AppList alternative
+Maintainer: Spark
+Author: Spark
+Section: System
+Tag: role::developer
+Version: 1.1.0~rootless
+Installed-Size: 408
+Filename: ./debs/com.spark.libsparkapplist_1.1.0~rootless_iphoneos-arm64.deb
+Size: 24834
 MD5: 0b8283166fd138011c971c9e466002c4
 SHA1: 986f8a4c07c63d9685b7fc61644dda220566438c
 SHA256: 3c99db2ec79f728826536bd55d2902c03c46ac995909c02b80c2fd5e9e8e812e
@@ -304,7 +329,21 @@ SHA1: ecd7ae867017395255234be0753e86007a243547
 SHA256: ac5c8b5ce148a7312913116c78f675149aa27909dc4cee4cd9dfe637563cceff
 SHA512: c24970a6d5b90bb83d591dbd2bb08d191efb25150bb3db321042ea720b7e33ea8d45075ddd5bb6fbbdd8f609aa8cc89bbf7122ae344c98fd6bb6d21eecd51265
 
-com.spark.snowboard_1.5.37-Beta4-rootless_iphoneos-arm64.deb - 1128570 bytes
+Package: com.spark.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: Spark
+Author: Spark & Dennis D. Bednarz
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.5.37-Beta4-rootless
+Installed-Size: 3268
+Filename: ./debs/com.spark.snowboard_1.5.37-Beta4-rootless_iphoneos-arm64.deb
+Size: 1128570 
 MD5: a7239a85eee273dc2f297878702a97b8
 SHA1: 1b3e80eb10ea03f6ed54f23262789ef37aa02656
 SHA256: 21c4686ced56eede121bc91efcaae27dc2c553857b565351361cd1ae772929d0
