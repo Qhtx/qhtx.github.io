@@ -103,7 +103,19 @@ SHA1: 02568f5c6de443a2321f8e3f1f3db990e2252f5e
 SHA256: a5f5b1999adacd469effc9f41c20167a7f014a107b0cb3386099c2f5ebb42492
 SHA512: 0ed7b79fa37411a6061e91b65a907923de4716298126a07385c8d00281b393db0118ab59b9770d0339de520a01fed2a8f463fc64874aa546bb783c13d31924bb
 
-com.level3tjg.twitchadblock_0.1.4_iphoneos-arm64.deb - 18486 bytes
+Package: com.level3tjg.twitchadblock
+Name: TwitchAdBlock
+Description: Block Twitch video ads
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.twitchadblock
+Maintainer: level3tjg
+Author: level3tjg
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 0.1.4
+Installed-Size: 140
+Filename: ./debs/com.level3tjg.twitchadblock_0.1.4_iphoneos-arm64.deb
+Size: 18486
 MD5: 61a9b717a3eabad584e10030f6858861
 SHA1: ed94cc8ae276ab9312cb6b24557647cd9ac2bd2c
 SHA256: 9e1c54f0694733f5445d8335b9c140ef8016bb10fdf9bc3e874da103e32fea0a
@@ -352,7 +364,20 @@ SHA1: d7783f337ed583c0a4603592f1e8b7cef51b31e9
 SHA256: 4749d93c697b70ad9a87c1489e6c8509570d5d428be58b7abb5ca65b05988e77
 SHA512: 78749700ab2157b3d5735dd92e1a1625b0dc320e41ce60bfa2d68f0383d033938b3b89449da0e3261599956e41f153e85059d0aabb41aeef6720169af5684b95
 
-com.lizynz.folderx.rootless_2.0_iphoneos-arm64.deb - 83870 bytes
+Package: com.lizynz.folderx.rootless
+Name: FolderX
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
+Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, ca.ndoizo.bolders, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, com.nightwind.dockapplibrary, com.tomaszpoliszuk.dockcontroller
+Description: Allows you to configure folders
+SileoDepiction: https://lizynz.github.io/depictions/com.lizynz.folderx/FolderX.json
+Maintainer: Lizynz <lizynz@ya.ru>
+Author: Lizynz <lizynz@ya.ru>
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 2.0
+Installed-Size: 752
+Filename: ./debs/com.lizynz.folderx.rootless_2.0_iphoneos-arm64.deb
+Size: 83870
 MD5: 105f64c129fbc234576aac9ef9fe49a6
 SHA1: 649bf89b9dae70c27aeea470ce405b9f14b5d4c6
 SHA256: 8829ede582290d47f32025cde66e138a5eb5109273027c23ad65866308b8e599
@@ -382,7 +407,19 @@ SHA1: b987e22e1859825dbe9411492edbb302de0c4e58
 SHA256: 6a608886173c6ac0e3a184a0fc463aedf238eeed1c890b3ca0e42b7ded29f1a7
 SHA512: 36acfdccff1dccfed5b5c23d17f1c6a3819ee76447d8bceb533bda4ba50f65b15421db35b4bd1fb730268ed8501af98582f1303b7b41befb8566d1d17966a6a2
 
-com.level3tjg.betterccbrightness_1.0.2_iphoneos-arm64.deb - 43514 bytes
+Package: com.level3tjg.betterccbrightness
+Name: BetterCCBrightness
+Description: Add more controls to the expanded brightness CC module
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.betterccbrightness
+Maintainer: level3tjg
+Author: level3tjg
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Installed-Size: 304
+Filename: ./debs/com.level3tjg.betterccbrightness_1.0.2_iphoneos-arm64.deb
+Size: 43514
 MD5: 9fc36ffe7051f451c79b55a54be0a375
 SHA1: 90aacf957dbc6f54e5b9cc91b843ad588d729dda
 SHA256: d251ba330d9619da61e52985f9abd9ebf73d1107a1a081c3be4949eb2157584e
@@ -546,7 +583,18 @@ SHA1: 1b3e80eb10ea03f6ed54f23262789ef37aa02656
 SHA256: 21c4686ced56eede121bc91efcaae27dc2c553857b565351361cd1ae772929d0
 SHA512: 5e49fe7b35fde5b469e70ca27e8ccd383278548c685ab3c86814a28f87c8df245038a96ab3617e6bd8aa35a0ad0f524912657b7b133aef6689adb0433f11b660
 
-com.34306.replaced_1.0_iphoneos-arm64.deb - 3094 bytes
+Package: com.34306.replaced
+Name: replaced
+Author: 34306
+Description: Remove the notification that the P
+Depends: mobilesubstrate, firmware (>= 15.0)
+Maintainer: Little 34306
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 152
+Filename: ./debs/com.34306.replaced_1.0_iphoneos-arm64.deb
+Size: 3094
 MD5: 9f36730b58f43f060d082b03b6f3ce32
 SHA1: 1d841504fbd18d9578b2ec260f47229b329f04a7
 SHA256: b05ba1d2a6ff672e9553462dfaa7da4c7fdad761cf6f516be5ab33adc007d4a7
