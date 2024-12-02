@@ -47,31 +47,24 @@ SHA1: edaaf4766eeafcbc2186eecdc99a519b8eca2ed5
 SHA256: 5d354834ad5d44fcd2c1e3bdb4d082c25df6f8ba48f837745c2be1aec3f8f981
 SHA512: 111d9b7b0889cf8ffe7e005500181cadb9875f6c98ccf3392e2d767c3c562cb72c74582d4c7de1eb1940b4b8a51ba12f45f31f3d613f0159bc6b7076873ea61f
 
-Package: com.netskao.appdata
-Name: AppData
-Description: View & Manage Applications Data from your Home Screen
-Section: Netskao-Tweaks
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Author: Fouad Raheb
-Maintainer: Nets
-Architecture: iphoneos-arm64
-Version: 1.4.4
-Installed-Size: 13548
-SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
-com.netskao.appdata_1.4.4_iphoneos-arm64.deb
-Size: 5050184
-MD5: 0a30fdaba319fb8b77f626b2552ebf0d
-SHA1: 1f00f44e2ad3518325ed5ca430ac4502bd26d9d7
-SHA256: fc0f1648a8d3ceaac7ecbd1ae129ec1a5bec4a2421f946cd13b263c1c492d4b1
-SHA512: 07394a7d232d046d4a859fc36e382089d318f6b2f5a82b4ff58000a44ec9ffc33d2183ae9a5a15f6aede1ee43da5e08daf265cb68f1d1de30cc60df48d95db9d
-
 com.nathan.internalstoragesettings_1.0_iphoneos-arm64.deb - 3860 bytes
 MD5: a8d5cabab357fd08bec861648ec9dbeb
 SHA1: ec724279da07746d3a788254ae281db6e41c9ec3
 SHA256: e592d1cfc5670fe90f86221722ed62ff60a5a24bd7e29b4c532062d1b5aac66c
 SHA512: 9ca02b0e973dc34e471e0e14948e2c7580389e8ffcb715a98fe0235be1e1c2c46e8d61c79d06f1e99fc88157e8cba2fc7e38397c58d3d456d72062bf93cf27d6
 
-xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64.deb - 272484 bytes
+Package: xyz.xninja.systeminfo
+Name: System Info
+Depends: mobilesubstrate, oldabi
+Version: 2.7.2-2
+Architecture: iphoneos-arm64
+Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
+Depiction: https://arx8x.github.io/depictions/systeminfo.html
+Maintainer: ARX8x
+Author: ARX8x
+Section: Tweaks
+Filename: ./debs/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64.deb
+Size: 272484
 MD5: b95eab5cb98ee59903074e07556eeeef
 SHA1: cd12112a3197a800fc1e1fe45779cba2ec47e921
 SHA256: 4259c4f9ba2bb891b854fb0fbb6ad309ef2ddb8b9016c3c7d6b9490d5202f9e7
@@ -2515,22 +2508,6 @@ MD5: e0f89c551894b8dedda2f6480132b74e
 SHA1: 448d1fa303aa1bbb7bb90b773e606ed4cf6dab2e
 SHA256: 3060a9048101a42cd9c343594fd0167473a3de155a3ea73839c3c5ad1076b551
 SHA512: 80741d8476a15323dc4f6faf81e13bfa15b253ff3b86a90bc5b0eb4b10ae9c9b5f9473ec6ebca9a3ac7470501d6e0d5cbb1585dee965a8d78b566be7e86dc8a4
-
-Package: xyz.xninja.systeminfo
-Architecture: iphoneos-arm64
-Version: 2.7.2-2
-Section: Tweaks
-Maintainer: ARX8x
-Depends: mobilesubstrate, oldabi
-Filename: ./debs/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64.deb
-Size: 272176
-MD5sum: 7063110dd0857c255e02daa2326cc1d0
-SHA1: 45afd638237ae14414169cc081cd8c480636f13d
-SHA256: 72db02b97269e77780f2ac09b26154a3a05130de8b87c8d29d6bcd9ff08a126c
-SHA512: f5beb1a047fb3f805cadbc48252349cb30f329bec2e8040cd5595dd92459afa0af557ed7a8b972d9f3ee5cd1db154c31bfc490005b5b8080530eadf7b8f494a7
-Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
-Name: System Info
-Author: ARX8x
 
 Package: com.exile90.icleanerpro
 Name: iCleaner Pro
