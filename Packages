@@ -36,7 +36,22 @@ SHA1: 7df3a1ef7f9970eab50d8edad5dcae3987d5db8b
 SHA256: d78dc4dcb32a1013c8453859c7afcf9b81ecd246ce27ae1d0a78d04c2dfd1bfa
 SHA512: 96d85df25d4a66c05d83163c8685ca84508b50855c40a0cffa6d71c09f887ac8bfa11af145e5b7a76033d9c96f7cdd9e1a669cf97ddd18648a564f0645a08264
 
-com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64.deb - 333134 bytes
+Package: com.creaturecoding.libcspreferences
+Name: libCSPreferences
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Description: A Preference Library that doesn't suck!
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: System
+Homepage: https://creaturecoding.com/
+Depiction: https://creaturecoding.com/?page=depiction&id=libcspreferences
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcspreferences
+Tag: compatible_min::iOS9
+Architecture: iphoneos-arm64
+Version: 1.5.8
+Installed-Size: 2332
+Filename: ./debs/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64.deb
+Size: 333134
 MD5: bbb549941f13b83b158f0809e953214a
 SHA1: cefacbbd2ad0e7701c0708e919131c401cd50d8a
 SHA256: 1d86c58915f7d3b5943c1bc8b9866c384ab029e843dc3bf3af1b7bad9ee6791d
@@ -327,7 +342,26 @@ SHA1: 4a50fc8cc87b0fe0eea1b2670238e34d2119b6a3
 SHA256: 6bf70eadfff5eef94a92a99dda0a2fdf3b0e7d4e604b851e5c42afa954f0af03
 SHA512: 366ba90dd14e6450ea25d7f5fa05327d08c0ddcedcaf882ed4b707c2eafcf8416bf696794e7fd57b2cef671a8e4d72de81590c5b370a0c7573021a8dd48d1a9a
 
-com.creaturecoding.shuffle_1.6.2_iphoneos-arm64.deb - 253928 bytes
+Package: com.creaturecoding.shuffle
+Name: Shuffle
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Replaces: com.cpdigitaldarkroom.placeholder
+Conflicts: com.cpdigitaldarkroom.placeholder
+Description: Organize your settings
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: Tweaks
+Homepage: https://creaturecoding.com/
+Depiction: https://creaturecoding.com/?page=depiction&id=shuffle
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
+Tag: purpose::extension, compatible_min::ios10
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+Architecture: iphoneos-arm64
+Version: 1.6.2
+Installed-Size: 1484
+Filename: ./debs/com.creaturecoding.shuffle_1.6.2_iphoneos-arm64.deb
+Size: 253928
 MD5: f33bb228db1e0ab18083e59793928d80
 SHA1: 02d21ff03c51fa75df6282501597222526953f04
 SHA256: 281f4bacf22ccdf3afa7059d57231fa5b4794c50803a2b23d11c29d6bb018e5c
@@ -490,7 +524,19 @@ SHA1: a903b8356ebf69ceb1df8c0b70629c27fba7c1b8
 SHA256: fc84a4e3f985998449beb6bfc84b79b13356efb94a3482aa1cbd50ff5e8b928a
 SHA512: 20ab63d38306683e19032702d31412ae89ae9aaa23fce358ff438d50d3a0a155e3eea962f0deb21dc33b1a365e6ea651a48bdf5bff5e883fe7a77ed39daf6fcf
 
-jp.dcsyhi.kbappdock_1.5_iphoneos-arm64.deb - 814362 bytes
+Package: jp.dcsyhi.kbappdock
+Name: KBApp
+Depends: mobilesubstrate
+Description: You can arrange apps on the dock of keyboard ⌨️.
+Maintainer: Dcsyhi
+Author: Dcsyhi
+Section: Tweaks
+icon:https://dcsyhi1998.github.io/icons/kbappdock/icon@2x.png
+Architecture: iphoneos-arm64
+Version: 1.5
+Installed-Size: 1364
+Filename: ./debs/jp.dcsyhi.kbappdock_1.5_iphoneos-arm64.deb
+Size: 814362
 MD5: 143eebeb012807c1206528f5c12156dc
 SHA1: c85bb326be05ecab63285f1ab79ba5c3d4f9c8c1
 SHA256: 878c3bb588252b5efe20ab83bebb45dd2e0caee1622c334b86692e762b56a017
