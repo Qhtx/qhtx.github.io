@@ -1,3 +1,39 @@
+Package: com.nan.miic
+Name: Move Icon Image Cache
+Version: 0.1.0
+Section: System
+Author: zhaonan
+Maintainer: zhaonan
+Architecture: iphoneos-arm64e
+Depends: coreutils
+Description: 将系统图标图片缓存文件夹指向 /tmp 达到每次重启时清空缓存的目的，可能可以解决异常缓存造成的不好影响？
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.miic/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Filename: ./debs/com.nan.miic_0.1.0_iphoneos-arm64e.deb
+Size: 1136
+MD5: e24d60a30b99ca89b1c2ca22bb0621c3
+SHA1: bd6fb64476e90d242b9827355877c0ad953c3d2c
+SHA256: f270f5f9b128fe16c9baada94fdca4160d14b3bdae9c9fce7dd24ddda25b5c67
+SHA512: 9df611a47bf034c870700c02b25a2c051ffbcc3c934d03dc8f74c18574067676024dd15b8e05bcda80fafcbda63ad37f77f9ba28321fda297324217d4d2ddf84
+
+Package: com.nan.disablethermalmonitord
+Name: Disable Thermalmonitord
+Section: System
+Author: zhaonan
+Maintainer: zhaonan
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Depends: plutil
+Description: 关闭 thermalmonitord，可能防温控，低电量降频应该失效
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablethermalmonitord/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Filename: ./debs/com.nan.disablethermalmonitord_0.1.0_iphoneos-arm64e.deb
+Size: 1204
+MD5: e088b722881044353915cbdee3243d21
+SHA1: 370870289c42e8dff977dee9731b1ba3c11390e4
+SHA256: b092a44b6be5823fd68caa26b2fd99f2401a05c65a91c4cc4e90db01f68d9d14
+SHA512: 257bf2b7e39df7ae50c1fb5610a371bed0f6e115a7ba2f9069e5e90ded199374b1136f4526b3f821e489ca56c3887fc72d3ebb3025d3ad59095e49eb4510cd7e
+
 Package: com.nan.raru
 Name: Respring after reboot userspace
 Section: Addons
