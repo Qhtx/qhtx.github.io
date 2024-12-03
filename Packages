@@ -1,3 +1,73 @@
+Package: com.nan.raru
+Name: Respring after reboot userspace
+Section: Addons
+Author: zhaonan
+Maintainer: zhaonan
+Architecture: iphoneos-arm64e
+Version: 0.1.4
+Depends: shell-cmds
+Description: 在重启用户空间后注销一次，尝试缓解 iPhone 12 在重启用户空间之后的暗屏
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.raru/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Filename: ./debs/com.nan.raru_0.1.4_iphoneos-arm64e.deb
+Size: 1812
+MD5: 647909a947f7a27b2692f94a9cf41bc6
+SHA1: c029bc794f43081e64df1bf1b2381ae7205993df
+SHA256: 2cb1a90a32ed13deaa126a51b95e264a903d8ae4c8e630ef31a3ff14e7e7d858
+SHA512: 34ab52c01e7aada697480b33a6c357bde5d6ab8b17b5ac685dbf776af81b42a51a04e1a872b452dc9f4cba8105e86bf02fb8feea9b244b878b8b53a15b30b7b9
+
+Package: com.nan.jbir
+Name: Jailbreak Icon Refresh
+Version: 0.1.1
+Section: Addons
+Architecture: iphoneos-arm64e
+Author: zhaonan
+Maintainer: zhaonan
+Depends: com.nan.miic
+Description: 让 Dopamine 越狱后越狱 app 图标更快出现，或是解决某些设备越狱后必须使用 Dopamine 手动刷新越狱应用才能在桌面看到越狱 app 的问题
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.jbir/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Filename: ./debs/com.nan.jbir_0.1.1_iphoneos-arm64e.deb
+Size: 1584
+MD5: bb4dc25f71b58c7755fe8cced7b1c210
+SHA1: 8d7de12ea702428556d63b5af1827a8379403e90
+SHA256: f06a6303acb76618a3de4db4b584f7c1bd1b716243ba7206f5e699f753752cd9
+SHA512: 49a8ef561cea2c986f5aa9aecff136b1fee7232b73bd2832c30fe145a78e0b120a98e6a93b35d323140ca563bd4fd66a317679f02cc8e2e52658146e87969872
+
+Package: com.nan.realitytmp
+Name: Reality tmp
+Section: Addons
+Author: zhaonan
+Maintainer: zhaonan
+Architecture: iphoneos-arm64e
+Version: 0.2.3
+Description: 将 jb tmp 放在 /tmp 以防止越来越多的缓存垃圾
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.realitytmp/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Filename: ./debs/com.nan.realitytmp_0.2.3_iphoneos-arm64e.deb
+Size: 2240
+MD5: b6419582835a32d8592e979746219066
+SHA1: b191ea483460fb37c7d5b160a6a5ace66228ac17
+SHA256: f5e2f1e87c2b8bf4931c90359a7962616ba28fc4b8f9d6775f1ca7105891eb9f
+SHA512: 1818b13312ad030fc8711c097c5b3cc21cde2078cb1feaed3266da04f554ba6354c4c048691c76fea2d4da476576b56dbd5ebee7cd62a96b2e4d01458606f475
+
+Package: com.nan.pointless
+Name: Pointless
+Section: Addons
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Author: zhaonan
+Maintainer: zhaonan
+Description: 毫无意义的守护进程，但是能解决我手机闲置时过度发热和闲置时接入电源重启的问题
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.pointless/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Filename: ./debs/com.nan.pointless_0.1.0_iphoneos-arm64e.deb
+Size: 1564
+MD5: 8d4e1709ec25c90afa3102c13ebda9f3
+SHA1: 60bc2d104e3ad59c9a8506cad12bdd1c25738a38
+SHA256: 58a6062989eff92a2572d513992becc7ce755919c259b40dbf4ae326feca4c56
+SHA512: 873b2433b10e70edb3eb0998d4fa963fd1a3011d356dac2d326b65c7378ff1f16eb8e4353b1af710a302b41ebb967d5b5d2e0747828e92638a37acd20d2fb299
+
 Package: xyz.cypwn.xinam1ne
 Maintainer: CyPwn
 Depiction: https://repo.cypwn.xyz/depiction/2816
