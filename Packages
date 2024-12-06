@@ -1,3 +1,168 @@
+Package: com.spark.snowboard.ui
+Name: SnowBoard UI Extension
+Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
+Description: UI Extension for SnowBoard
+Maintainer: Spark
+Author: Spark
+Section: SnowBoard Extensions
+Architecture: iphoneos-arm64e
+Version: 1.3.0~Beta2-rootless
+Installed-Size: 476
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.spark.snowboard.ui_1.3.0~Beta2-rootless_iphoneos-arm64e.deb
+Size: 92302
+MD5: 1c82eecf83df55ad22eef793cc0c6aa9
+SHA1: 9cd641261f2d6b966275cdbdbe5a93c03f633cff
+SHA256: 15e8b0be5d6010aba28736af5b9d5506d3a10771f61fc1520925fc609e8204e9
+SHA512: 7bd818a20b797795f4b9e4d7e42da7c6c6f54980036739414aa75e5571675a987561dad1e3ad9e91de7185f46e37a06edb5bd0aae2b02374b4434ac7bc0686d1
+
+Package: com.spark.snowboard.fonts
+Name: SnowBoard Fonts Extension
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Description: Fonts for SnowBoard
+Provides: com.ipr.bytafont, com.bytafont.bytafont3
+Replaces: com.ipr.bytafont, com.bytafont.bytafont3
+Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
+Maintainer: Spark
+Author: Spark
+Section: SnowBoard Extensions
+Architecture: iphoneos-arm64e
+Version: 1.1.0~Beta4-rootless
+Installed-Size: 392
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.spark.snowboard.fonts_1.1.0~Beta4-rootless_iphoneos-arm64e.deb
+Size: 27436 
+MD5: c85899e0713c1f687e3038e0d458d101
+SHA1: 9dcf14cccfc563be1565a7209c49f8ba6ea42a22
+SHA256: 07005e70123a6bad5977fed4676c6cdab88bf0424eba1076e149f9842319b371
+SHA512: 9750b7cb0487765137e0d0fabf58b96a42b25603983b88f21c10ff2549ef633bbdd40adb19dd772ab0e7d5086b8acd6435f8e1cbf1e263e3a8068eb487d19dc4
+
+Package: com.spark.snowboard.settingsicons
+Name: SnowBoard Settings Icons Extension
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Description: Settings Icons for SnowBoard
+Maintainer: Spark
+Author: Spark
+Section: SnowBoard Extensions
+Architecture: iphoneos-arm64e
+Version: 1.0.26~Beta3-rootless
+Installed-Size: 340
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.spark.snowboard.settingsicons_1.0.26~Beta3-rootless_iphoneos-arm64e.deb
+Size: 23952
+MD5: 8beb3e8f25752523a80d381b5be08f07
+SHA1: 2e2938b94585a2b36daa4288fa14654112576891
+SHA256: 25abe358eee77dd8e95e2da3625b3b7b97c0d1d51cb60e5e6f6abc8dee5b4ba9
+SHA512: 66fc74f8f4400b28ba97006483632d3c728803cb485ed383edee31b46a8889401f87391206a608c812ed20624afb3f57299ca2311db6fd1b79f6e7244d0def4a
+
+Package: com.spark.snowboard.statusbar
+Name: SnowBoard StatusBar Extension
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Description: StatusBar for SnowBoard
+Maintainer: Spark
+Author: Spark
+Section: SnowBoard Extensions
+Architecture: iphoneos-arm64e
+Version: 1.1.0-Beta4-rootless
+Installed-Size: 364
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.spark.snowboard.statusbar_1.1.0-Beta4-rootless_iphoneos-arm64e.deb
+Size: 36358
+MD5: 0f48059871feea208de3e8f875f40365
+SHA1: 6639588d26d6c61f4d3adeade78437b76b6dce6f
+SHA256: 7bd345815ccabbe80603fc4eddf255d22a4d629307e91805a379affb68719361
+SHA512: f42596158015ec9ec4d8abb41614569d8ca97a7668837c37b0d16cb324225e83556dbacd2fbf7540f2451837474df607d3081d5d9221d7b7792e4389866fa688
+
+Package: com.spark.snowboard.effects
+Name: SnowBoard Icon Effects Extension
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Description: Icon Effects for SnowBoard
+Maintainer: Spark
+Author: Spark
+Section: SnowBoard Extensions
+Architecture: iphoneos-arm64e
+Version: 1.2.2-Beta2-rootless
+Installed-Size: 412
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.spark.snowboard.effects_1.2.2-Beta2-rootless_iphoneos-arm64e.deb
+Size: 45706
+MD5: 9eb97a22ebbdf4be00559e334ebf6823
+SHA1: 74afec8c50a9a5e9fdfabe3c1a1be7f30c8a1b42
+SHA256: c2b6dc561a00f314c0e687c03dfaa1f0e5e946d9e95bcdbce9ae207ef2ab42d4
+SHA512: ae8182c1637659241b7c2d7c3a1e65d2cef453a6b7349492a1b4cfae07829a2fda4462843c27798951a9aeff75a77c4ca07c8326e49ddfc4c1ca449f1e0cca71
+
+Package: com.spark.snowboard.masks
+Name: SnowBoard Icon Masks Extension
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Description: Icon masks for SnowBoard
+Maintainer: Spark
+Author: Spark
+Section: SnowBoard Extensions
+Architecture: iphoneos-arm64e
+Version: 1.2.2-Beta2-rootless
+Installed-Size: 340
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.spark.snowboard.masks_1.2.2-Beta2-rootless_iphoneos-arm64e.deb
+Size: 25548
+MD5: de6af75ffb0caca8c1ef288b09edb496
+SHA1: 60ea628985ffef8bf4f41b892d812e2e7fc531e6
+SHA256: 9442d8813f0fcbd4bfc662ec66a8ae60ee9f1f78e75a4e48ac7ec765e7773008
+SHA512: 1a28748bd9f0f6a06ebd7f62d4463169599e9f0d9f160ef28c2702b72bba47c814d19e9abcf81bb48cd597e70869a625747ea2d114100476e68a054c362a925a
+
+Package: com.spark.snowboard.labels
+Name: SnowBoard Labels Extension
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Description: Labels for SnowBoard
+Maintainer: Spark
+Author: Spark
+Section: SnowBoard Extensions
+Architecture: iphoneos-arm64e
+Version: 1.1.1~Beta4-rootless
+Installed-Size: 432
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.spark.snowboard.labels_1.1.1~Beta4-rootless_iphoneos-arm64e.deb
+Size: 33860
+MD5: ee097799cf06fcd46fbe64454bd06242
+SHA1: d2f17fb96b41e1b2a09fdd406377a552cf4c9360
+SHA256: c0c478eb18c66cb8e67beb52096d61e021cbb2960f983a924590f32895b1aec2
+SHA512: 64c6aff9edffb2db5b9d9e10a905365217765c1b582437b3d03a857f94181ef1f0f810c44029f80b9a292aa1fb7181c5e9ff12937a7541f11cd95546bbf17f1c
+
+Package: com.spark.snowboard.presetextension
+Name: SnowBoard Preset Extension
+Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
+Description: SnowBoard Presets Extension
+Maintainer: Spark
+Author: Spark
+Section: SnowBoard Extensions
+Architecture: iphoneos-arm64e
+Version: 1.1.0~Beta4-rootless
+Installed-Size: 488
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.spark.snowboard.presetextension_1.1.0~Beta4-rootless_iphoneos-arm64e.deb
+Size: 57550
+MD5: dc154f510ee18b70d7062af390226963
+SHA1: c3a1526469e0cee4a2c3459b6ad6ca77bc98df27
+SHA256: 05af8e3579b052ba448d66ed5a8ca157c94a8a4fbd49d2fd181a41086db6696d
+SHA512: 60d9c39012fcbf59e2a9d2b1e73e806cf117a5ec78a53f603681c573155de6da03adfd3d2af6de4f70df151a8929f4df6c3549d07043ccfe24b102d4c7dcbb84
+
+Package: com.spark.snowboard.dock
+Name: SnowBoard Dock Extension
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Description: Dock for SnowBoard
+Maintainer: Spark
+Author: Spark
+Section: SnowBoard Extensions
+Architecture: iphoneos-arm64e
+Version: 1.1.3~Beta4-rootless
+Installed-Size: 440
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.spark.snowboard.dock_1.1.3~Beta4-rootless_iphoneos-arm64e.deb
+Size: 44352
+MD5: a378c330454bd20efe73a7a15582afa8
+SHA1: d37c2ea6e2fc3988150e8cd0d775119bd1d0efee
+SHA256: f684e0fd0497c0fbaaf678c981c1ec395ddb55eaa61736505a35276c462e3986
+SHA512: 0b5cf95c99cc7dc8eef57fdabadbb440a4991e8abeb42c8a201f15c8c21f66337ff104ceb8ce21ebef4511ee467a7a76f2809a330ecc569e962e3620b4c2cba4
+
 Package: com.miro.uyou
 Name: uYou
 Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
