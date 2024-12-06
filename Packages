@@ -1,3 +1,25 @@
+Package: com.miro.uyou
+Name: uYou
+Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
+Description: Enhance Your YouTube Experience
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios13
+Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
+Architecture: iphoneos-arm64e
+Version: 3.0.3
+Installed-Size: 31212
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.miro.uyou_3.0.3_iphoneos-arm64e.deb
+Size: 10815468
+MD5: dfa97f827de39a3f6ea1547fff5dc702
+SHA1: ae66f84d2c60a7022048dddb6952b6046052499b
+SHA256: 2e4461fa2ba737271e2621383efb901ac6c419baa5749dfebf4c127cd2c2b606
+SHA512: 00189f5fb6b742b51ba341b7b5ed421eaf065d40bdd174aa3c3cf917db03cce12e33dd65d9e2e953ed1797b36fb6b8fabd917792a32333eb26985d83cf0c7cef
+
 Package: dev.traurige.libkitten
 Name: libKitten
 Depends: firmware (>= 12.0)
