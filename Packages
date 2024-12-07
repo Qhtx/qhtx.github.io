@@ -1,3 +1,22 @@
+Package: com.foxfort.krashkop
+Name: KrashKop
+Description: Lightweight crash reporter
+Maintainer: FoxfortMobile
+Author: FoxfortMobile
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Icon: file:///Applications/KrashKopApp.app/AppIcon60x60@2x.png
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Installed-Size: 428
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.foxfort.krashkop_1.0.2_iphoneos-arm64e.deb
+Size: 192536
+MD5: 51a1cfbe1d1b996f34f52c08c1b401ff
+SHA1: cef9f3c345fe95fd84b2e20e02d0f98e3504f982
+SHA256: 50966946306e4338c8d3ace3bf0e72ceb4c6aab6f5f5e5faba28b17f53ce58a0
+SHA512: 8b634003197ca8a20420a7e68e7502e7c86e6cedc3b463bb9197eea7aac67b05e1218a4e4d8ed51a6b490215367b79c2709c44e938116a72fe16cbaaa4e9c098
+
 Package: com.ps.recordpause
 Name: RecordPause
 Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
