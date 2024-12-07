@@ -1,3 +1,24 @@
+Package: weeb.lillie.youtubedislikesreturn
+Version: 1.12.14
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: PoomSmart and kirb <ytdislikesreturn@gmail.com>
+Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
+Installed-Size: 230
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Name: Return YouTube Dislike
+Description: Bring Back Dislikes On iOS YouTube
+Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
+Depiction: https://chariz.com/get/return-youtube-dislike
+Tag: compatible_min::ios11.0
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/weeb.lillie.youtubedislikesreturn_1.12.14_iphoneos-arm64e.deb
+Size: 25256
+MD5: 38aa0438fa17292e759df1bc02df4323
+SHA1: e630e5f3660e0da78af0fedab8cec11b9b8e5f38
+SHA256: 8c763bc4647bca756a245486fdd8007ca173ff24ba54bbf8bc9b2acca4daf713
+SHA512: 2f80fc73e826b19aa7459e0184399907fa7042c7ba1b99071b4dfea61a284d46cd76b2aa87991c78839fc8a125cca19be76e18e4abba69d19cb9af53d414a288
+
 Package: com.spark.snowboard.ui
 Name: SnowBoard UI Extension
 Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
