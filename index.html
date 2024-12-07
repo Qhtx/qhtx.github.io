@@ -10,7 +10,7 @@
       margin: 0;
       padding: 0;
       font-family: 'Arial', sans-serif;
-      background: linear-gradient(135deg, #001f3f, #0074D9, #2ECC40, #001f3f); /* Blue to green gradient */
+      background: linear-gradient(135deg, #0074D9, #1A1A1A, #0074D9);
       background-size: 400% 400%;
       animation: gradient-animation 15s ease infinite; 
       display: flex;
@@ -28,7 +28,7 @@
 
     #profile-box {
       text-align: center;
-      background: rgba(0, 0, 0, 0.8); /* Darker background */
+      background: rgba(255, 255, 255, 0.1);
       padding: 40px 20px;
       border-radius: 20px;
       box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
@@ -47,7 +47,7 @@
       border-radius: 50%;
       margin-bottom: 15px;
       box-shadow: 0 4px 8px rgba(255, 255, 255, 0.3);
-      border: 3px solid #0074D9; /* Blue border */
+      border: 3px solid #00BFFF;
     }
 
     #profile-box h2 {
@@ -75,7 +75,7 @@
       margin: 10px auto;
       padding: 14px;
       color: white;
-      background: rgba(0, 0, 0, 0.4); /* Darker button background */
+      background: rgba(255, 255, 255, 0.2);
       border: none;
       border-radius: 10px;
       text-decoration: none;
@@ -88,8 +88,8 @@
     }
 
     .button-container a:hover {
-      background: rgba(0, 0, 0, 0.6);
-      color: #2ECC40; /* Green hover color */
+      background: rgba(255, 255, 255, 0.4);
+      color: #00BFFF;
       transform: scale(1.05);
     }
 
@@ -97,68 +97,19 @@
       margin-right: 8px;
       font-size: 1.3rem;
     }
-
-    .hidden-options {
-      display: none;
-      flex-direction: column;
-      margin-top: 15px;
-    }
-
-    .hidden-options a {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin: 10px auto;
-      padding: 14px;
-      color: white;
-      background: rgba(0, 0, 0, 0.4); /* Darker button background */
-      border: none;
-      border-radius: 10px;
-      text-decoration: none;
-      font-size: 1.1rem;
-      font-weight: bold;
-      letter-spacing: 1px;
-      transition: background 0.3s ease, transform 0.3s ease, color 0.3s ease;
-      width: 85%;
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
-    }
-
-    .hidden-options a:hover {
-      background: rgba(0, 0, 0, 0.6);
-      color: #2ECC40; /* Green hover color */
-      transform: scale(1.05);
-    }
-
-    .hidden-options a i {
-      margin-right: 8px;
-      font-size: 1.3rem;
-    }
   </style>
 </head>
 <body>
   <div id="profile-box">
-    <img src="https://i.imgur.com/ud1apEZ.jpeg" alt="Profile Picture">
+    <img src="https://i.imgur.com/AkzFCwJ.jpeg" alt="Profile Picture">
     <h2>Ahmed AlGhrbi</h2>
     <p>سبحان الله وبحمده</p>
     <div class="button-container">
       <a href="sileo://source/https://a7m.dev" target="_blank"><i class="fab fa-github"></i>Repo</a>
       <a href="https://x.com/ipapplus" target="_blank"><i class="fab fa-twitter"></i>Twitter</a>
       <a href="https://t.me/Crack_Sa1" target="_blank"><i class="fab fa-telegram"></i>Telegram</a>
-      <a href="#" id="show-options"><i class="fas fa-plus"></i> More</a>
-    </div>
-    <div class="hidden-options" id="hidden-options">
-      <a href="https://x.com/ipapplus/status/1806667569702596669?" target="_blank"><i class="fas fa-link"></i>حذف دوبامين في ثواني</a>
-      <a href="https://x.com/ipapplus/status/1858151457628786982?" target="_blank"><i class="fas fa-link"></i>اخفاء الراجحي دوبامين</a>
-      <a href="https://x.com/ipapplus/status/1847516665682043356?" target="_blank"><i class="fas fa-link"></i>حل أغلب البنوك</a>
+      <a href="https://live.kwikmotion.com/sbrksaquranradiolive/ksaquranradio/chunks.m3u8" target="_blank"><i class="fas fa-microphone"></i>إذاعة القرآن</a>
     </div>
   </div>
-
-  <script>
-    document.getElementById('show-options').addEventListener('click', function(e) {
-      e.preventDefault();
-      const options = document.getElementById('hidden-options');
-      options.style.display = options.style.display === 'flex' ? 'none' : 'flex';
-    });
-  </script>
 </body>
 </html>
