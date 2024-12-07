@@ -1,3 +1,25 @@
+Package: me.alfhaily.rocket
+Name: Rocket for Instagram
+Description: Save posts and view stories anonymously and do much more
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate
+Priority: optional
+Author: Rocket App
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+Maintainer: Rocket App <support@getrocketapp.io>
+Architecture: iphoneos-arm64e
+Version: 3.8.30
+Installed-Size: 6588
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/me.alfhaily.rocket_3.8.30_iphoneos-arm64e.deb
+Size: 1412084
+MD5: c6aa47b90d3f3d863b54c377f5afea39
+SHA1: e99da084467f8c32a44fbb23d1a14395878ad218
+SHA256: ef217656e7b7802451755acb09f0d41effeb24698251fc054814cae4367d1ab9
+SHA512: d40c2012050954716c64a64c32ae456773130142fb9ac075cfeaec88efa6f9b764790acf834eb0aaa04b92c2a2874b3cf227501e978e4c327635101248dfe2b3
+
 Package: com.foxfort.krashkop
 Name: KrashKop
 Description: Lightweight crash reporter
