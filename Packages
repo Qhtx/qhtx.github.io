@@ -10,8 +10,7 @@ Name: WAUnlimitedSend
 SileoDepiction: http://bandarhl.xrepo.co/sileo.php?pid=20
 Author: @BandarHL
 Sponsor: xRepo.co <http://xRepo.co>
-Filename: ./debs/
-com.bandarhl.waunlimitedsend_1.1-8_iphoneos-arm64e.deb
+Filename: ./debs/com.bandarhl.waunlimitedsend_1.1-8_iphoneos-arm64e.deb
 Size: 459170
 MD5: d7c5810834c0b497a10b1d6e21515602
 SHA1: 5ab032f5f04b19625f34e705d1f7e69dc2e9cfd2
@@ -30,8 +29,7 @@ Name: WAUnlimitedSend
 SileoDepiction: http://bandarhl.xrepo.co/sileo.php?pid=20
 Author: @BandarHL
 Sponsor: xRepo.co <http://xRepo.co>
-Filename: ./debs/
-com.bandarhl.waunlimitedsend_1.1-8_iphoneos-arm64.deb
+Filename: ./debs/com.bandarhl.waunlimitedsend_1.1-8_iphoneos-arm64.deb
 Size: 329308
 MD5: 2edc92a6df3d9816713db088c5bf4f9f
 SHA1: cf92606ff5f73f63d3259296fb9c4c99feb0bbfa
