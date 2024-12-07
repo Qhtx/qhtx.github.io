@@ -1,3 +1,87 @@
+Package: com.ps.recordpause
+Name: RecordPause
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Provides: org.thebigboss.recordpause, com.spicat.recordpause
+Replaces: org.thebigboss.recordpause, com.spicat.recordpause
+Description: Pause/resume video recording in iOS Camera app.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 2.0.3
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.recordpause_2.0.3_iphoneos-arm64e.deb
+Size: 9824
+MD5: 298afc65b8ad689be8af34423d2a8271
+SHA1: 7674bb51495feee4d6ef7cd09aa9216ddc4e6a6a
+SHA256: 3f627ac1ce5c6190dd24a7bd5b2963ac72691983ce6afba4cf2a777229552a28
+SHA512: 6283a2aebbd82335deaae3794f302e137180f21b7340bbdcd1c25f470e92fe797f91c47b2c15048695dbb88e421bee8b2f5bd4442b296c2c26119be2a8dbfd5b
+
+Package: com.ps.youpip
+Name: YouPiP
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Description: Enable native PiP in iOS YouTube app.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Replaces: com.spicat.youpip
+Provides: com.spicat.youpip
+Conflicts: com.spicat.youpip
+Depiction: https://poomsmart.github.io/repo/depictions/youpip.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youpip.json
+Architecture: iphoneos-arm64e
+Version: 1.8.19
+Installed-Size: 192
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.youpip_1.8.19_iphoneos-arm64e.deb
+Size: 26228
+MD5: 14e1ced8b15ac8d0fefd6fb5fc2d18c5
+SHA1: 9eeebec5555970c73fc0f73eb88d1059cb301296
+SHA256: 1468abd3b8f43ac5505d48d6e3c07969e1e68872a4706db28ed1ac1c0442a1e3
+SHA512: 7ab1800a21ace95fef38044d7de96a80ceb1604c730f865944e0edd2b9189dfc17fa9075485642bf770e72ede525e923cf4a1ec28052488e84bd64894b02e72e
+
+Package: com.ps.youquality
+Name: YouQuality
+Description: View/change video quality in iOS YouTube app faster.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytvideooverlay (>= 1.2.5)
+Depiction: https://poomsmart.github.io/repo/depictions/youquality.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youquality.json
+Architecture: iphoneos-arm64e
+Version: 1.2.2
+Installed-Size: 100
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.youquality_1.2.2_iphoneos-arm64e.deb
+Size: 6964
+MD5: 044b24befb4fd029fdf064979d36f63a
+SHA1: d3e9baf52268b4696bb5360bdf35f39c3b51ae7c
+SHA256: 280d8412cf63d86780a6cf4cfaaf1def94a1a522cf012123336c00facbf23376
+SHA512: d79aa2a94ef7dc97fae2848e2148a0d775a8b517b89aa8b33a90cfbfd9813ff2a469a29648a5699e3bf4a1bf8783a46265d8a5088a2e94aecaa97815c54cdaa3
+
+Package: com.ps.ytvideooverlay
+Name: YTVideoOverlay
+Description: A helper tweak to add buttons on YouTube video overlay.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Depiction: https://poomsmart.github.io/repo/depictions/ytvideooverlay.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytvideooverlay.json
+Architecture: iphoneos-arm64e
+Version: 1.2.5
+Installed-Size: 124
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.ytvideooverlay_1.2.5_iphoneos-arm64e.deb
+Size: 11548
+MD5: 9d42ea27b02f24f2efd154e4ee82e34f
+SHA1: e3267b4ca10247c782dc016d2b5d882ce99754ef
+SHA256: cdd0261186a321cd7c8a81a636e00623c6cf02d57b0805c9d9a21c829508c9a6
+SHA512: 9d8882dc0d08b42b985b44b52c120bcbee7eb9c6dd3f57286b6080fa890e1d196d135cdc2c038ed2739e142f0648060504ff668c3baf4553bb950d1387970a35
+
 Package: weeb.lillie.youtubedislikesreturn
 Version: 1.12.14
 Architecture: iphoneos-arm64e
