@@ -1,5 +1,6 @@
 Package: com.rpetrich.powercuff
 Section: Tweaks
+Conflicts: xyz.cypwn.disablethermalmonitord, com.nan.disablethermalmonitord
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Architecture: iphoneos-arm64
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.opa334.altlist, xyz.cypwn.xinam1ne
@@ -22,6 +23,7 @@ SHA512: b926ec9272a24f1fb5a94876015c32003625375c40b0d4df7f99f18eee7b8a722fb08c49
 
 Package: com.rpetrich.powercuff
 Section: Tweaks
+Conflicts: xyz.cypwn.disablethermalmonitord, com.nan.disablethermalmonitord
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Architecture: iphoneos-arm64e
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.opa334.altlist, xyz.cypwn.xinam1ne
