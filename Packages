@@ -1,3 +1,48 @@
+Package: com.rpetrich.powercuff
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm64
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.opa334.altlist, xyz.cypwn.xinam1ne
+Description: Select from additional low power device states
+Name: Powercuff
+Homepage: http://rpetri.ch/cydia/powercuff/
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Tag: purpose::extension
+Version: 0.1~mario.18
+Installed-Size: 272
+Filename: ./debs/com.rpetrich.powercuff_0.1~mario.18_iphoneos-arm64.deb
+Size: 23588
+MD5: 89f069615797c3cfcf8bf8c553553f57
+SHA1: 3c4465c978043d9a4e680b7a5331b5680e20558d
+SHA256: 1ce5f1b0c77daa3d0064588cfb6eec8d963bdff72b608a33d3738e5a1131ced9
+SHA512: b926ec9272a24f1fb5a94876015c32003625375c40b0d4df7f99f18eee7b8a722fb08c49262f41ebed9a595f296bc493abe6f98b259f6d1fc997ff74bbf1d259
+
+Package: com.rpetrich.powercuff
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.opa334.altlist, xyz.cypwn.xinam1ne
+Description: Select from additional low power device states
+Name: Powercuff
+Homepage: http://rpetri.ch/cydia/powercuff/
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Tag: purpose::extension
+Version: 0.1~mario.18
+Installed-Size: 272
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.rpetrich.powercuff_0.1~mario.18_iphoneos-arm64e.deb
+Size: 24896
+MD5: fc5438bbf59b5682a12403b12dc9b1ad
+SHA1: 84ec236d5abd3452263745e71cab6385ea7dacf5
+SHA256: 6eea146d7e1a51e3f221768f50c98bd8b79248703467d2a32695b252eb7324a7
+SHA512: fb20d9287559820dac09c0cc532f36e366936441bdebcdde85efa009d56d00705354f6b04d4748d4651060180fc2a44d044af1d64c543d666efd6d70735055d8
+
 Package: com.bandarhl.waunlimitedsend
 Priority: optional
 Description: send Unlimited Video in WhatsApp
