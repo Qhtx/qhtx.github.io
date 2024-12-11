@@ -1,3 +1,27 @@
+Package: com.rpetrich.powercuff.test
+Section: Tweaks
+Conflicts: com.rpetrich.powercuff
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.opa334.altlist, xyz.cypwn.xinam1ne
+Description: Select from additional low power device states
+Name: •test• Powercuff
+Homepage: http://rpetri.ch/cydia/powercuff/
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Tag: purpose::extension
+Version: 0.1~mario.18
+Installed-Size: 272
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.rpetrich.powercuff.test_0.1~mario.18_iphoneos-arm64e.deb
+Size: 23116
+MD5: 8149ecd096a9fecf238cc91e9a6f571d
+SHA1: ebca32e3967569a33442de5be2f125e63e138bac
+SHA256: 89cf050efe8d84d93180ffe53cbd7f06389e3dc5232da9742505e8b66f1506bc
+SHA512: dafb101284a22e4944e5facb460eee361ed8fe96e4e28d738fa713a0632cb108cc4413654cd26326d3607770e8bac93ac458a2bb4ef88ff388eb46cc8dc76862
+
 Package: com.rpetrich.powercuff
 Section: Tweaks
 Conflicts: xyz.cypwn.disablethermalmonitord, com.nan.disablethermalmonitord
