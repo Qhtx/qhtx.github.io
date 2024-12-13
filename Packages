@@ -1,3 +1,52 @@
+Package: com.cydiaabdullah.cacloud
+Name: CACloud
+Depends: mobilesubstrate
+Description:  حذف الأعلانات لتطبيق انمي كلاود وتسريع عمل الحلقة اظهار زر المشاهدة والتحميل
+Maintainer: CydiaAbdullah
+Author: CydiaAbdullah
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 2.1
+Installed-Size: 1116
+Filename: ./debs/com.cydiaabdullah.cacloud_2.1_iphoneos-arm64e.deb - 141878 bytes
+MD5: b4540f912e0a88e475097d0d2c8d43b3
+SHA1: ff094bb1a9a0f6f9f044099cf1ab94bbf3ea35a6
+SHA256: 8fdac5328027c8c0fa47dd71dca0b0f986b549de5a05dfe3bba1877e58614902
+SHA512: c0a181cfa1c389782c3ba629ed3f352ec3a6e25ffd39b151f7f2a7dabac66261e074edbf864c78e532557483bb409c8832e42febf4b47da096f16a638a3c793e
+
+Package: com.cydiaabdullah.cacloud
+Name: CACloud
+Depends: mobilesubstrate
+Description:  حذف الأعلانات لتطبيق انمي كلاود وتسريع عمل الحلقة اظهار زر المشاهدة والتحميل
+Maintainer: CydiaAbdullah
+Author: CydiaAbdullah
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 2.1
+Installed-Size: 1116
+Filename: ./debs/com.cydiaabdullah.cacloud_2.1_iphoneos-arm.deb
+Size: 99708
+MD5: 596d36ec752c2053e3729a80dc5de6aa
+SHA1: cf0d06401c76c68d520b8b343f334d1744f723d0
+SHA256: 6ea5dcdfc54563e461b8f04cbbe1c47b0458c9c4a47f9a5953c5e03e6fd36323
+SHA512: c37dec1cf251665820252503bcb126d7df80c31b1657e6371440bea55f638372bf10f28abfb31e0bbebf3fb1448a6abf237ef9779b24102635f1d1b79d443ff1
+
+Package: com.cydiaabdullah.cacloud
+Name: CACloud
+Depends: mobilesubstrate
+Description:  حذف الأعلانات لتطبيق انمي كلاود وتسريع عمل الحلقة اظهار زر المشاهدة والتحميل
+Maintainer: CydiaAbdullah
+Author: CydiaAbdullah
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 2.1
+Installed-Size: 1116
+Filename: ./debs/com.cydiaabdullah.cacloud_2.1_iphoneos-arm64.deb - 100608 bytes
+MD5: 64f971e74eb6cbfabbdfc712a6140eb5
+SHA1: a36394fb80337b9a531f2eda41da86cd958abd69
+SHA256: e288eba7b6d296ade1782807f0be0583cf91e5d521fdc8991c697452d935e74f
+SHA512: 005dc9b52f9f85f9fccdec8854ada696df44ebbc4f3aeba0d439f9cabc87c84ae13922f5de40622721a9b76d27ea6743d317ecce83291bc55c6b32b9a8e862c3
+
 Package: com.f0u4d.watusitools
 Name: WatusiTools
 Version: 2.4.48
