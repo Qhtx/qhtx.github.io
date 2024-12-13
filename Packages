@@ -8,7 +8,8 @@ Section: Tweaks
 Architecture: iphoneos-arm64e
 Version: 2.1
 Installed-Size: 1116
-Filename: ./debs/com.cydiaabdullah.cacloud_2.1_iphoneos-arm64e.deb - 141878 bytes
+Filename: ./debs/com.cydiaabdullah.cacloud_2.1_iphoneos-arm64e.deb
+Size: 141878
 MD5: b4540f912e0a88e475097d0d2c8d43b3
 SHA1: ff094bb1a9a0f6f9f044099cf1ab94bbf3ea35a6
 SHA256: 8fdac5328027c8c0fa47dd71dca0b0f986b549de5a05dfe3bba1877e58614902
@@ -41,7 +42,8 @@ Section: Tweaks
 Architecture: iphoneos-arm64
 Version: 2.1
 Installed-Size: 1116
-Filename: ./debs/com.cydiaabdullah.cacloud_2.1_iphoneos-arm64.deb - 100608 bytes
+Filename: ./debs/com.cydiaabdullah.cacloud_2.1_iphoneos-arm64.deb
+Size: 100608
 MD5: 64f971e74eb6cbfabbdfc712a6140eb5
 SHA1: a36394fb80337b9a531f2eda41da86cd958abd69
 SHA256: e288eba7b6d296ade1782807f0be0583cf91e5d521fdc8991c697452d935e74f
