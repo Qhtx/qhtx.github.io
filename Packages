@@ -873,13 +873,12 @@ Replaces: emt.paisseon.xinamine
 Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
 Section: Utilities
 Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
-Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/xyz.cypwn.xinam1ne_2.6-8_iphoneos-arm64e.deb
-Size: 10920
-MD5: 3da789987bf612047304e9ed7e11b5b4
-SHA1: 15b81e0310c65b2cdf3cd2758173aa505253fd0d
-SHA256: 381e61d056db8e6f80ba05db4698c49be120a60f4680a617f6f8203d199d41f3
-SHA512: 71f2abb0d16cb0d754e72ae26cef4755716ae1c239c258236afd2902de3e97e5d39396567fc7bafcb6e3414eb143def4cbe760b6ac421c4c580954a02df5d986
+Size: 10752
+MD5: ad004657f89cc9b029720b514e30450e
+SHA1: df33e207cf6877bd379846a09da26f9c40192f79
+SHA256: 6ae60319f3a916c03d1781e14a7f252145b3e04fd301d3f4df3da0c29e539d66
+SHA512: 6c144fef176bd012d1b5b8aa47dd1b6c1df12a3d87561de1b09c0f117e86e55750dea59da11b307554936724d29160951e89be2f1ebd9cb4831fb9ca4ec2d734
 
 Package: com.squidforce.copyvault
 Name: CopyVault
