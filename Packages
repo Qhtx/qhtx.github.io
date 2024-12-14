@@ -1,3 +1,50 @@
+Package: me.ikghd.inkplus
+Name: iNKillerPlus
+Description: a whole new Instagram Experience!
+Maintainer: iKarwan <ikghd3@gmail.com>
+Author: iKarwan <ikghd3@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: me.ikghd.instakiller
+Tag: purpose::extension, compatible_min::ios14.0, compatible_max::ios18.8
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
+Architecture: iphoneos-arm64e
+Version: 2.4.32
+Installed-Size: 944
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/me.ikghd.inkplus_2.4.32_iphoneos-arm64e.deb
+Size: 257692
+MD5: 25624b782ef57ffb4ca9760b2325b487
+SHA1: af29668102dc9fb51b11b9b039db0890ae9a094a
+SHA256: 150c29bc3dd7b63a2607026e9e6d46f677a0ad1c4fedcec08753ac2952b6d5f8
+SHA512: c7edea76d5454431a926f83b28b0678fca022185f0f90ce74e2547d5ed547aafe83304c97780717a6f022d7521c181bb1d7ea1975189046bbd1f69c9efd83d73
+
+Package: me.ikghd.ytkplus
+Name: YTKillerPlus
+Description: a whole new YouTube Experience!
+Maintainer: iKarwan <ikghd3@gmail.com>
+Author: iKarwan <ikghd3@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: me.ikghd.youtubekiller
+Tag: purpose::extension, compatible_min::ios14.0, compatible_max::ios18.8
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
+Architecture: iphoneos-arm64e
+Version: 3.2.46
+Installed-Size: 25660
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/
+me.ikghd.ytkplus_3.2.46_iphoneos-arm64e.deb
+Size: 9065232
+MD5: e0c6be8986514b65f35886cc2f93868e
+SHA1: bf16832ec4aae2fd6bc1ad4598438bb837a8cf65
+SHA256: 458372f30ee518f4cc921d19035c7b94bae3e70422195c79f6c119bd74c5dc29
+SHA512: 128325e5eca5ea02d83a1747908a56cb669a9c837e4723836277b3edd359f98b03dd302ec407d2b9805d3ff4d549e5e5ed0ff22f9c7453f190e4750fdfb50e6b
+
 Package: com.sinac.mini-fcm
 Name: Mini FCM
 Description: تطبيق جميل تقدر تتحكم ف موقعك وتحرر اكواد بسهوله ف نفس الوقت تقدر تجرب موقعك تحكم ملفات htmlو jsو c و lua
