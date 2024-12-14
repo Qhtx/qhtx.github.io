@@ -37,8 +37,7 @@ Architecture: iphoneos-arm64e
 Version: 3.2.46
 Installed-Size: 25660
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/
-me.ikghd.ytkplus_3.2.46_iphoneos-arm64e.deb
+Filename: ./debs/me.ikghd.ytkplus_3.2.46_iphoneos-arm64e.deb
 Size: 9065232
 MD5: e0c6be8986514b65f35886cc2f93868e
 SHA1: bf16832ec4aae2fd6bc1ad4598438bb837a8cf65
