@@ -1,3 +1,48 @@
+Package: com.rpetrich.powercuff
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm64
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Description: Select from additional low power device states
+Name: Powercuff
+Homepage: http://rpetri.ch/cydia/powercuff/
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Tag: purpose::extension
+Version: 1.0.1
+Installed-Size: 156
+Filename: ./debs/com.rpetrich.powercuff_1.0.1_iphoneos-arm64.deb
+Size: 14008
+MD5: 75a8bccf6e8e85cbfd061cf9d00b90d8
+SHA1: 569b9895c15060c80291531d8c76a16f47c11059
+SHA256: 2a13a1359e815204da2dd35a78cbd268e956311f1922fe82b1397686f7850b5f
+SHA512: 3b162663d273214a60c5588d20e4827c57b2be4a0596bba0ac80e5d9dc076098225c98fb3be38d36dd69874b87afa44c1f4d7ea728620ed4c660df8cee471c03
+
+Package: com.rpetrich.powercuff
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Description: Select from additional low power device states
+Name: Powercuff
+Homepage: http://rpetri.ch/cydia/powercuff/
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Tag: purpose::extension
+Version: 1.0.1
+Installed-Size: 156
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.rpetrich.powercuff_1.0.1_iphoneos-arm64e.deb
+Size: 17084
+MD5: edafdb992e118985eee9c4cffff4527c
+SHA1: d645af1f07b06a6fe79cc55bc7651275fccacd44
+SHA256: 9a233052f8156c9d7a5deba2d3741532eb0b4502ab9a1c6eb015a6081edf71f8
+SHA512: 0f5216c85bf84c2f39bf2cc85828da92b298906c998337c3b3cd94006b7acb563c4948f2ec25c15679aab96704044ae0d4b0535a813c3c4be82b5eda076bfd23
+
 Package: com.0xkuj.filzadirprobe
 Name: FilzaDirProbe
 Description: Filza Extension To Calculate Folders Inside Your Filesystem
