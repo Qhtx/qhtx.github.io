@@ -1,3 +1,55 @@
+Package: com.managedelete.sniper
+Name: ManageDelete
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Description: A tweak to Manage Delete
+Maintainer: Sniper @DNS_Sys
+Author: Sniper @DNS_Sys
+Section: Tweaks
+Version: 1.0
+Installed-Size: 256
+Filename: ./debs/com.managedelete.sniper_1.0_iphoneos-arm64.deb
+Size: 32448
+MD5: 4a741d71e50ab3b1b3d1becedbd1e632
+SHA1: d259f1d57aa5cfef52054d619487823aae6bc097
+SHA256: 835be3e00590ae34ce545798e22a807e15fc06726dabfe8a8270361ef38f5b55
+SHA512: e799a7835de3faa5489c615425db127275d155f639d98f0bd6ffafd107bee7f229a9063b5f674e4a3ae0ea264b5afb02a218dce78c44245e80e10432330acc19
+
+Package: com.managedelete.sniper
+Name: ManageDelete
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Description: A tweak to Manage Delete
+Maintainer: Sniper @DNS_Sys
+Author: Sniper @DNS_Sys
+Section: Tweaks
+Version: 1.0
+Installed-Size: 256
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.managedelete.sniper_1.0_iphoneos-arm64e.deb
+Size: 32508
+MD5: e81bd6460245fcb08d93e324f0e54692
+SHA1: 50fe2264e3ba1fcd05d697f511e9e1bde20a9970
+SHA256: 75db183f4ae0060e3cbd65f551c018c9fdc8ff440e8b08b65b724f3fb7c39495
+SHA512: 9a516e4c6d404d5d868b2f7d27f3655a76e2a8bb1180ae5052298565d226c7e4f45662832c7690b8ba026e1e8c52c1c84be3fabab1d7219baab31b7d7c03c46f
+
+Package: com.managedelete.sniper
+Name: ManageDelete
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: A tweak to Manage Delete
+Maintainer: Sniper @DNS_Sys
+Author: Sniper @DNS_Sys
+Section: Tweaks
+Version: 1.0
+Installed-Size: 256
+Filename: ./debs/com.managedelete.sniper_1.0_iphoneos-arm.deb
+Size: 32028
+MD5: 9e54755b785b60d1183fc994a0eadc4f
+SHA1: 38fab67088af1c7af067982f8974f1473288600c
+SHA256: a605dd2a52eda8d917b91f48b3fd4e26068d0c14c01c1e39f2d77ef8739fae41
+SHA512: 1f59c4c1309ea0229c7a9f8b07935009099fb8671532bd14043d14ea348bfbc9c4c57ea248a5e06fd161fd06884660b934f9708254955187238a7fa26f7c43c3
+
 Author: Fouad Raheb <support@fouadraheb.com>
 Architecture: iphoneos-arm64e
 Description: Library for Watusi, Regram and other tweaks
