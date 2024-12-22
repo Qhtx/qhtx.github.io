@@ -1,3 +1,54 @@
+Depends: mobilesubstrate
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Package: ai.akemi.appsyncunified
+Name: AppSync Unified
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: Tweaks
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Architecture: iphoneos-arm64e
+Version: 113.0
+Installed-Size: 508
+Filename: ./debs/ai.akemi.appsyncunified_113.0_iphoneos-arm64e.deb
+Size: 27406
+MD5: 5ea0abdfb749136d1997774cb0080bfb
+SHA1: 18b02085fc9a10538d55a48d4ebb963ad5e90b9b
+SHA256: 4f076f72b79f8dd154b16902d912baa0cd897e09b6633afe5cd6d9aaeb67e0c8
+SHA512: ebe02fd0be25e68e9ae25e649bcb4e1d396276dd68c108db6ecc590624ae8561b4ff54bfc334f084d9eb9fcb4a3e760f076e0ddb7980f31ff3726646f9846bc8
+
+Depends: mobilesubstrate
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Package: ai.akemi.appsyncunified
+Name: AppSync Unified
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: Tweaks
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Architecture: iphoneos-arm64
+Version: 113.0
+Installed-Size: 508
+Filename: ./debs/ai.akemi.appsyncunified_113.0_iphoneos-arm64.deb
+Size: 24064
+MD5: 9687e77e9fb000c46a5d9f431379e78e
+SHA1: 188daa941df212cfa50921fa37938176d938d059
+SHA256: 87721a3c6d5d2d1033ac73c304b4366ffadf42c4ee80348584eb4db469e31b6c
+SHA512: e856aa8d10bf1e653bca25ba9a882f53d5c042f62f06d3fc3df4feac7495090f016b40573ebd3bd4216b08cc018c138458b02de9ad2fd244f79af507cf16e687
+
+Depends: mobilesubstrate
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Package: ai.akemi.appsyncunified
+Name: AppSync Unified
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: Tweaks
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Architecture: iphoneos-arm
+Version: 113.0
+Installed-Size: 508
+Filename: ./debs/ai.akemi.appsyncunified_113.0_iphoneos-arm.deb
+Size: 24248
+MD5: 646c8719d36ac3e3f04af2e6c0e9abc1
+SHA1: 162de0f65a57a4fdabb6c67902b7eea48bc4afde
+SHA256: 59da728677034270af3e572e4d1c9a24d7a82a18cae18291af9ebbdb73ce4082
+SHA512: 4eaa26e91894a3a562640fab807e73fe9971f609622095e2b908c304b0c111e1ed4837897ba59ce69a9cdd47e89b6b06222e88f1e024c250ba5f734038dffe89
+
 Package: com.rpetrich.powercuff
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
