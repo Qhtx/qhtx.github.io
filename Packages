@@ -1,3 +1,21 @@
+Package: com.bypassjb.sniper
+Name: Sniperbypassjb
+Architecture: iphoneos-arm64e
+Description: Sniper bypassjb Work in some apps not all applications
+Maintainer: Sniper @DNS_Sys
+Author: Sniper @DNS_Sys
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Version: 6.2
+Installed-Size: 660
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.bypassjb.sniper_6.2_iphoneos-arm64e.deb
+Size: 69700
+MD5: eccdaa6b14d7451b27d4f2c7e8de54ba
+SHA1: 86d1e37a972a37a16bf6f5265c0c49563a6622c4
+SHA256: 816b547bed7f48b9819a77203cd15e637a415a4643695cf28b14710f4498d8d5
+SHA512: bbd5dafe0f677ccf06408f25ea5c35db3bcd89d9e3ca53e157071d11fcc45b997ede6cb440264453747de32061cc3f9573bda498687b110db6db414211b1724f
+
 Package: com.managedelete.sniper
 Name: ManageDelete
 Depends: mobilesubstrate, preferenceloader
