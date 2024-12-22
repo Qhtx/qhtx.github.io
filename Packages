@@ -1,3 +1,43 @@
+Package: com.0xkuj.filzadirprobe
+Name: FilzaDirProbe
+Description: Filza Extension To Calculate Folders Inside Your Filesystem
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.6.1
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.0xkuj.filzadirprobe_1.6.1_iphoneos-arm64e.deb
+Size: 49986
+MD5: ae6e856271a854796644cdac141b0866
+SHA1: 157c5a0ecbc5e9f86f892f653ac5daf7b4526436
+SHA256: 8f7d01818e8cae53576122ae855382d9d18afdd087adcbaa0b55e32897c503aa
+SHA512: 6f3d8d220e2f614928f3ad10a53aa52825face049d7f7e8aa7620feab556bf3ba46116f408b685e7d8e5cc3b798177354fd1be0a4bd1db1f177f8e7865932384
+
+Author: MrDeNsor <alianwer9988@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: ShortCutx
+Package: com.den.shortcutx
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Section: Tweaks
+Installed-Size: 180
+Version: 0.0.1-1
+Architecture: iphoneos-arm64e
+Description: Long press on your App Icon To Bring ShortCutx !
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shortcutxDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shortcutxDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: mrdensor
+Tag: purpose::extension
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.den.shortcutx_0.0.1-1_iphoneos-arm64e.deb
+Size: 14404
+MD5: 1585861720e4716c6f3237f14799b045
+SHA1: f98de859ed7fdac89634ce23935841642d665354
+SHA256: 121696a4434e58c427f6109770e1af97b4672fdb40c70cab16ae4d7c858739e7
+SHA512: 4f6034a0a8d040e79320bc8ee8ab1014a7268a86870bd891cf4bcf0269a77d171fdf9c6f5c3b58d926192865b2187912d67ea1a073ef80d0bb1993cd531cf31c
+
 Package: weeb.lillie.youtubedislikesreturn
 Version: 1.13.1
 Architecture: iphoneos-arm64e
