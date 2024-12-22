@@ -1,3 +1,112 @@
+Package: weeb.lillie.youtubedislikesreturn
+Version: 1.13.1
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: PoomSmart and kirb <ytdislikesreturn@gmail.com>
+Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Name: Return YouTube Dislike
+Description: Bring Back Dislikes On iOS YouTube
+Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
+Depiction: https://chariz.com/get/return-youtube-dislike
+Tag: compatible_min::ios11.0
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/weeb.lillie.youtubedislikesreturn_1.13.1_iphoneos-arm64e.deb
+Size: 27336
+MD5: f38a2fe8d9a1bc9609d79e7736954c7c
+SHA1: e7caca4cf1b643d04b638b7069af67eb7ed75871
+SHA256: 162421965fbb66a6eb5de5c409090a9427a133eef34c2a5e3667d83e020ef4a4
+SHA512: 9ee0076a4fbbb0c35f307297b3d4bd0b28667a384e3eb11a89bdc011fecdede2b110c858c19f02514fe07df4d64de4beae2dd9583ff9471943cc698f2dc209d6
+
+Name: AddProfileInstallButton
+Package: com.dhinakg.addprofileinstallbutton
+Maintainer: DhinakG
+Depends: mobilesubstrate, firmware (>= 12.0)
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Homepage: https://dhinakg.github.io/repo
+Description: Add an "Install Profile" button to the "Profile Downloaded" popup.
+Version: 1.0.2
+Installed-Size: 120
+Filename: ./debs/com.dhinakg.addprofileinstallbutton_1.0.2_iphoneos-arm64e.deb
+Size: 9176
+MD5: 2b42d57d8fae97b5a4e78a904fe8b9d8
+SHA1: ddaf39740236c9af4ec543714ee7c29a8880a118
+SHA256: 607d122cdebe798a04736342f7b980e4986a2509015599327d018c6f18906dfd
+SHA512: 359fd47ad20713038ad089f7c996ab1962472a845e1ccc91db3f6c49cf9ad291576ed40e1d732f025b90bc6b402cf79c00fd3e104b74ebfdf9443095fa4d15d1
+
+Name: AddProfileInstallButton
+Package: com.dhinakg.addprofileinstallbutton
+Maintainer: DhinakG
+Depends: mobilesubstrate, firmware (>= 12.0)
+Architecture: iphoneos-arm64
+Section: Tweaks
+Homepage: https://dhinakg.github.io/repo
+Description: Add an "Install Profile" button to the "Profile Downloaded" popup.
+Version: 1.0.2
+Installed-Size: 120
+Filename: ./debs/com.dhinakg.addprofileinstallbutton_1.0.2_iphoneos-arm64.deb
+Size: 7840
+MD5: 8db48a47e331f914cf56fa3545d05983
+SHA1: 8d84c01fa3b3e28ada10c8d61a52fb2db4e0f9b4
+SHA256: 0c5ff33d5c5e0a02d25bde51f4d5648e9dc3e317dc6ff35d680a4834b61f49bf
+SHA512: 8fa17b9bff664a5388521c9812f8207d12baa22be687dd8c9edcc0272a8658d89499dc78017e87a9c4ff0d1d7676a6e15b8d75292886ad33b55acd2daa00bc6d
+
+Package: me.ahmedbafkir.dleasy
+Name: DLEasy
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Description: Download/Share images & videos from social apps easily! 
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Author: AhmedBafkir <prooxy0@gmail.com>
+Section: Tweaks
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=0&q=75
+Architecture: iphoneos-arm64e
+Version: 2.14.6
+Installed-Size: 15544
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/me.ahmedbafkir.dleasy_2.14.6_iphoneos-arm64e.deb
+Size: 5458724
+MD5: 6881c98f70ffae96488b918e7b4d485c
+SHA1: 380ebcb5e17bcb857bd125f4b356c13a6d24812a
+SHA256: 50054aa64fa933513129b05130a65c93e8f5caf58ba4f835e125b78f0afd1d1f
+SHA512: ce94966f8e4235e5a65a06f8664348d31b3c704120b94d57e189dd6f800860f402cfa051166f723c96d70ca7ea5fc04ac9e84597a04f8083a647d331a293fb28
+
+Package: com.squidforce.copyvault
+Name: CopyVault
+Description: Your Copy Vault, Your Pasteboard
+Maintainer: SquidForce
+Author: SquidForce
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 1.7.5
+Installed-Size: 5416
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.squidforce.copyvault_1.7.5_iphoneos-arm64e.deb
+Size: 1662760
+MD5: 5e161f9fe64c277fa32d251fce0cc20b
+SHA1: 2add533354c4ae1c2e8794bc5b7267df549227be
+SHA256: f0a0ca5a126ad5fdd40dfb4f7fd573ce02aed0b6073430875d548e276781d88f
+SHA512: d393eba4f04f9e09b6bf447b151f42c187ea5bfc0ecde1ae1e784b702d5859ed7d9eebf916a51c0137a70878e053b61075afdf3961f4fd2cb285ce536003afec
+
+Name: AddProfileInstallButton
+Package: com.dhinakg.addprofileinstallbutton
+Maintainer: DhinakG
+Depends: mobilesubstrate, firmware (>= 12.0)
+Architecture: iphoneos-arm
+Section: Tweaks
+Homepage: https://dhinakg.github.io/repo
+Description: Add an "Install Profile" button to the "Profile Downloaded" popup.
+Version: 1.0.2
+Installed-Size: 120
+Filename: ./debs/com.dhinakg.addprofileinstallbutton_1.0.2_iphoneos-arm.deb
+Size: 7538
+MD5: 5cea42f70a500621a8ee1e534b51f512
+SHA1: 022b8879c1ab66c64edf06de704c6a7060001c4a
+SHA256: 90c2b0a71a220ae363831357be77b8f9a2c8c2d7095a5a33e8f4517176615fa2
+SHA512: eb5b5a58f5895e5a4ab934e5d3e671c3bd038f80ed51398f1227a692d95357dd627a681903422e663cdef006b32dfa8d3edf568ceab180cee7e8c39902e5902e
+
 Package: com.bypassjb.sniper
 Name: Sniperbypassjb
 Architecture: iphoneos-arm64e
