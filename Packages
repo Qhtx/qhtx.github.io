@@ -1,3 +1,21 @@
+Package: com.squidforce.copyvault
+Name: CopyVault
+Description: Your Copy Vault, Your Pasteboard
+Maintainer: SquidForce
+Author: SquidForce
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 1.7.8
+Installed-Size: 5496
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.squidforce.copyvault_1.7.8_iphoneos-arm64e.deb
+Size: 1692284
+MD5: 627a2d387d3a15e135f406312600bc09
+SHA1: 9ca130a60b699ab4a3eda7007e873802bc7a7e27
+SHA256: 2080affa9bfa91ee4d1404d66ca253d38b692fca24a9212702acf3547bf4a3e5
+SHA512: 119b96f1cf90e638b0d5f46ff729e7c3103c4c1c89b9b3611b3ff129d58755e9f78b17f30e225da2c609e494b5794cb1f2618a4721116270ac08d225d819eab6
+
 Depends: mobilesubstrate
 Maintainer: Karen/あけみ <karen@akemi.ai>
 Package: ai.akemi.appsyncunified
