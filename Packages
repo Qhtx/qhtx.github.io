@@ -1,3 +1,23 @@
+Package: com.roothide.managers
+Name: RootHide Manager
+Depends: firmware (>= 15.0)
+Description: Configuare RootHide's Features
+Maintainer: roothide
+Author: roothide
+Section: System
+Icon: 
+Depiction: https://github.com/roothide/RootHideManagerApp
+Support: https://github.com/roothide/RootHideManagerApp
+Architecture: iphoneos-arm64
+Version: 1.1
+Installed-Size: 896
+Filename: ./debs/com.roothide.managers_1.1_iphoneos-arm64.deb
+Size: 733160
+MD5: 9b76f5428a21cf51eb8de3c16736bb53
+SHA1: 31be11cdcdb78e9ef105bfb51affb85c18b46072
+SHA256: ce22c95550f0052a09219296a0c1cdd5e7bf572d353934eb889199b36fca05ef
+SHA512: 86c2c2481deee0d8855181b36f4861724c0a4d42d782034593992beb4c724faa15f91726f6b320a138c674584a07f28a299243b807fafd250806b1dca47169b7
+
 Package: com.squidforce.copyvault
 Name: CopyVault
 Description: Your Copy Vault, Your Pasteboard
