@@ -1,3 +1,46 @@
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesDp
+Author: jailbreak365 <jailbreak365@mail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: CCModules
+Package: com.jailbreak365.safeccmodules
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Section: Addons (ControlCenter)
+Installed-Size: 5131
+Version: 1.5-1
+Architecture: iphoneos-arm64e
+Description: More control center modules for iOS 11/12/13
+dev: jailbreak365
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.jailbreak365.safeccmodules_1.5-1_iphoneos-arm64e.deb
+Size: 1127572
+MD5: 15aa22b1085a0b075c08a9b7c7d7515c
+SHA1: 44c549cad16c449f39d55aec4a7a8302264fa5c5
+SHA256: b0918eecefd300b1242681fb243a6570fde55853a4f09bb817a5c06d2a878631
+SHA512: 97c584e57f27f9cd9574dda5aa116102596f2bde4f974a2986aeeb790a73083c6928b9ff3a2becd827a7c1585723564f180d681fcd6fce2d466f9938fe145b50
+
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesDp
+Author: jailbreak365 <jailbreak365@mail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: CCModules
+Package: com.jailbreak365.safeccmodules
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Section: Addons (ControlCenter)
+Installed-Size: 5131
+Version: 1.5-1
+Architecture: iphoneos-arm64
+Description: More control center modules for iOS 11/12/13
+dev: jailbreak365
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Filename: ./debs/com.jailbreak365.safeccmodules_1.5-1_iphoneos-arm64.deb
+Size: 1129272
+MD5: e1fbec6cdc897845a9c3237aca1732c2
+SHA1: bfe4c4ad2d0977453cc6fc7066afc5381401c7f8
+SHA256: 2f3050bba0b687c11ce4ff74ee9a7890a2f59d9bc741cd8ec78eba6c82cda4fa
+SHA512: 4e24b96dd3a2134692898005c55dcd71db1106fb93285f0d7c0440740f9a62682d705d681c5edbc0c238e7e5efdede16c8f39c930a0c8c96dca889bcebacc252
+
 Package: com.roothide.managers
 Name: RootHide Manager
 Depends: firmware (>= 15.0)
