@@ -1,3 +1,39 @@
+Package: fr.rootfs.rode
+Name: Rode
+Description: Scramble the passcode view on your lockscreen!
+Maintainer: rootfs
+Author: rootfs
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 216
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/fr.rootfs.rode_1.0_iphoneos-arm64e.deb
+Size: 5980
+MD5: be7b44dc9f64a6bdfb4a9629d0fd7f28
+SHA1: 13713182f089b74781a8e4d719ef62e055b0aa87
+SHA256: 1eee621a612381bdf8af0bb4f6e28ace4aee2bf8d770ac28d4aed2a179b7fe95
+SHA512: b2d51ca6a2457d5b72e7f180b5918def9404f5bf2e39282fa17691057cf10ac5bbcab4bc514be9cadfda7fc45d7ca55481816da3cc4a6f4144c83be814c31344
+
+Package: com.squidforce.copyvault
+Name: CopyVault
+Description: Your Copy Vault, Your Pasteboard
+Maintainer: SquidForce
+Author: SquidForce
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 1.8.0
+Installed-Size: 5480
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.squidforce.copyvault_1.8.0_iphoneos-arm64e.deb
+Size: 1694480
+MD5: 25f5c27c2bd28613d630eacc3827465a
+SHA1: 0d3d6c9c7479ce07b74303113c55110c644bf479
+SHA256: dce932da939a52ecfb781a55a3079a49f834fc63325967c89a9bba449349f2c6
+SHA512: 44a6500a4a0dc14cabe1acc18137a81b006ce003f0d63fedeb0b78e0094d3b3898e3d8e86e3c1da1eeb3b3b57803fcc622861e225412461bccf04021c2dc9e51
+
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesDp
 Author: jailbreak365 <jailbreak365@mail.com>
