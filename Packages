@@ -1,3 +1,86 @@
+Package: com.ps.youquality
+Name: YouQuality
+Description: View/change video quality in iOS YouTube app faster.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytvideooverlay (>= 2.0.0)
+Depiction: https://poomsmart.github.io/repo/depictions/youquality.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youquality.json
+Architecture: iphoneos-arm64e
+Version: 1.3.1
+Installed-Size: 104
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.youquality_1.3.1_iphoneos-arm64e.deb
+Size: 6704
+MD5: 112af4eda0a0df29a3bea2403a1f41b4
+SHA1: 95b001468c644187b9ca7c26ae8d72593c4d7ead
+SHA256: 62cbd072f02fca10311e5ceee7fb707ab9c7f4b57d50a5f54bdc7e552d1bbf1e
+SHA512: 91801ef85091eb325e3d75ddd29f2b0fddc11af91749f4c272c9ea194c14645e5d5881d730bae170035c12c6da8b9920dca9cf4da1aca069c753948a8b8f7386
+
+Package: com.ps.youpip
+Name: YouPiP
+Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Description: Enable native PiP in iOS YouTube app.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Replaces: com.spicat.youpip
+Provides: com.spicat.youpip
+Conflicts: com.spicat.youpip
+Depiction: https://poomsmart.github.io/repo/depictions/youpip.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youpip.json
+Architecture: iphoneos-arm64e
+Version: 1.10.1
+Installed-Size: 196
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.youpip_1.10.1_iphoneos-arm64e.deb
+Size: 24816
+MD5: f5191c55a660b4ed720fcf86a6a28aed
+SHA1: bf3d1ebbeb83af06c752520826089623f0d04a04
+SHA256: c79cf2096f1fc549f8fa247581173956e6485240a7d2406d4a2eba46dbe24021
+SHA512: fd3fb42c6bce254d259372909b38ca38db0a5a00e2fa3a2113acf8f81180c81fa6e61a248f5100bf517e7507004917e00dc45ac197ba1f41f403d5441633a7fe
+
+Package: com.ps.ytuhd
+Name: YTUHD
+Description: Unlock 1440p and 2160p resolutions in iOS YouTube app.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Depiction: https://poomsmart.github.io/repo/depictions/ytuhd.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytuhd.json
+Architecture: iphoneos-arm64e
+Version: 1.5.6
+Installed-Size: 144
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.ytuhd_1.5.6_iphoneos-arm64e.deb
+Size: 13784
+MD5: bec1c49015d09401a5559a6a485508c4
+SHA1: 6ff3bffb14f671c5217d6570fe485c85c244f1c7
+SHA256: 935a60c4c5f4e802306d81972b03016b3c185a54ad27ced27ef06deebb1f35ef
+SHA512: 04dfeeb329c009c10156162679dd5dc100e53cded6512524bdb07401873e37e52458df6bba679b739295b0c25ae3683c425d1d9e746c6b50a378446dd42a2337
+
+Package: com.ps.ytvideooverlay
+Name: YTVideoOverlay
+Description: A helper tweak to add buttons on YouTube video overlay.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Depiction: https://poomsmart.github.io/repo/depictions/ytvideooverlay.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytvideooverlay.json
+Architecture: iphoneos-arm64e
+Version: 2.0.0
+Installed-Size: 128
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.ytvideooverlay_2.0.0_iphoneos-arm64e.deb
+Size: 12916
+MD5: ca24aed2d55e4e8ef2ac893acef84e07
+SHA1: 212aeefa07bb989c751bcbff6454a1b914c28abb
+SHA256: 9a475a8a65d3dd0d8a6d747de09dad14c9b8dbea394ff2776484b8610ad85e93
+SHA512: b877bddb0626210788aab29b7fe27c252e646b183f4af38d839f3611be19e31210caeb4a657a56c64a3c0a22833abafcf38042e23f5d9f08f04bdd5ff3359c09
+
 Package: fr.rootfs.rode
 Name: Rode
 Description: Scramble the passcode view on your lockscreen!
