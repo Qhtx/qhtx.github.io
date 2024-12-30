@@ -1,3 +1,44 @@
+Package: xyz.skitty.ersatz
+Name: Ersatz
+Depends: mobilesubstrate, preferenceloader
+Description: Replace any text, system-wide!
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.ersatz.png
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.ersatz/
+SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.ersatz/sileo.json
+Maintainer: Skitty
+Author: Skitty
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Installed-Size: 504
+Filename: ./debs/xyz.skitty.ersatz_1.0.1_iphoneos-arm64.deb
+Size: 49052
+MD5: c7944721ae5894b81c57a42583a1580a
+SHA1: a7a37f9d316e86625e1a0d6f9a95bf49e80576e7
+SHA256: 48c1c84b0e3504c29d7a396d17291a16c89090af3476563c1f26a1171acf2db2
+SHA512: c283dbe21fa473e3436d409a771ab249b4572ed1abbd91b8a17eff37f26cfb79433921881f28291c250a114778c2b851de4b66cd4dd713f7caab808cc8dfbb09
+
+Package: xyz.skitty.ersatz
+Name: Ersatz
+Depends: mobilesubstrate, preferenceloader
+Description: Replace any text, system-wide!
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.ersatz.png
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.ersatz/
+SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.ersatz/sileo.json
+Maintainer: Skitty
+Author: Skitty
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Installed-Size: 504
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/xyz.skitty.ersatz_1.0.1_iphoneos-arm64e.deb
+Size: 47904
+MD5: 43599a338ca09914f85b4349b9f49757
+SHA1: 02fbb6086ea762f3fdf271c74c73f4b1a61e93be
+SHA256: a8b2a56d71c5328e79f27b314e5117d707a4fdc7e62074dab616859d97af3987
+SHA512: 95b128073796f1460660677864edcdaeac2ada7aaf4dd8241ca221753b8e64518165b4665789dd56ff16bfb1f364830218fac26a2eab8cffd4b92672fc15f6af
+
 Package: com.ps.youquality
 Name: YouQuality
 Description: View/change video quality in iOS YouTube app faster.
