@@ -1,37 +1,3 @@
-Package: com.f0u4d.watusitools
-Name: WatusiTools
-Version: 2.4.47.1k
-Description: Library for Watusi, Regram and other tweaks
-Depends: firmware (>= 12.0)
-Section: Development
-Architecture: iphoneos-arm64
-Author: Fouad Raheb <support@fouadraheb.com>
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-Filename: ./debs/com.f0u4d.watusitools_2.4.47.1k_iphoneos-arm64.deb
-Size: 4956200
-MD5: 93a720f825595f884747f68b5eaf7940
-SHA1: c3c0e6acb951595d4061ce5100e0d0f9842ec3ef
-SHA256: a76f6626259d83e5ac40aa1f7b03af3d209d932e0b0bf0d5b0430e51e5fa431d
-SHA512: 55b803adce72ffaf0bb0582d8f4c3040165c7dda6382968551ceeee07d576e944bbd0666b9c0669e4a80f21b4d64f68b7bfc5c6d7042ba755ba4df949df3bb87
-
-Package: com.f0u4d.watusitools
-Name: WatusiTools
-Version: 2.4.47.1k
-Description: Library for Watusi, Regram and other tweaks
-Depends: firmware (>= 12.0)
-Section: Development
-Architecture: iphoneos-arm
-Author: Fouad Raheb <support@fouadraheb.com>
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-Filename: ./debs/com.f0u4d.watusitools_2.4.47.1k_iphoneos-arm.deb
-Size: 4955192
-MD5: 75e0382c4b0e71c341e32d50913dca44
-SHA1: f4e1cc88e88761955d687beb12eea0ccaabbf45c
-SHA256: df541a908a7ebceeb89d04d750779f9a734c94c2a4417f1ede403c330fd90cb8
-SHA512: 24c10b5a3d5cd22e86c749be454b1f84c0cea8c3bb8bdd73f23d0d7933cfdb41c51b1c02be72b17edf36e8bae2ef742f752c52b8f6c1a3b41db5b126243383c4
-
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
