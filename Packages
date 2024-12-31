@@ -1,3 +1,43 @@
+Package: com.fouadraheb.regram
+Name: Regram for Instagram
+Description: The all-in-one tweak for Instagram
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.46)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+Architecture: iphoneos-arm
+Version: 1.0~b18
+Installed-Size: 6284
+Filename: ./debs/com.fouadraheb.regram_1.0~b18_iphoneos-arm.deb
+Size: 1353984
+MD5: b0afe9514097023f5d53d1eaa872e37c
+SHA1: f0bffc8002f131a1400c9a49ea29b0ec55f585b8
+SHA256: c1e1d9bd271e097c9c764b969c5b3afdd5c4d414e82a99c48a16f28e8b65699c
+SHA512: 2fa8f281d866ed8bbf9582759ac760109ef4591e3e03dafa535eb0aea01ff15a76a9bad80cc6440d3048f839d2f13f1172f9e9b9521dd05dd33335911de5e2be
+
+Package: com.fouadraheb.regram
+Name: Regram for Instagram
+Description: The all-in-one tweak for Instagram
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.46)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+Architecture: iphoneos-arm64
+Version: 1.0~b18
+Installed-Size: 6284
+Filename: ./debs/com.fouadraheb.regram_1.0~b18_iphoneos-arm64.deb
+Size: 1355908
+MD5: f61c44afeb2c0ecc0ec5f2caff4031ff
+SHA1: 9087f5504631a63651f0471d0c63bb563e32a853
+SHA256: 7fc88902ce74c99915522a24871b077acdefdee44e768bc8f3dae0b87a105dce
+SHA512: 4a92904f66a19cc84433b199eaa6b5252bfdac1d40198d64bbe9d2c7ac98321c164db75016c1f74fa9e786551a544d161891f0766ce4a31b0915c3ba5c29f7d1
+
 Package: xyz.skitty.ersatz
 Name: Ersatz
 Depends: mobilesubstrate, preferenceloader
