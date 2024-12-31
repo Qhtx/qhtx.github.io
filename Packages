@@ -1,3 +1,39 @@
+Package: com.fouadraheb.watusi3
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Description: The all-in-one tweak for WhatsApp Messenger
+Section: Tweaks
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.47)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+Architecture: iphoneos-arm
+Version: 1.2.50
+Installed-Size: 6492
+Filename: ./debs/com.fouadraheb.watusi3_1.2.50_iphoneos-arm.deb
+Size: 1927044
+MD5: bb988ff53169badd352007f9dfa41247
+SHA1: 29467bcd0f8074ce824eb58dadc92ef3c87c5043
+SHA256: b951722c170db6a574af1eaba366eb04a47836790ebc88ccfeb3edb9ceb5b32f
+SHA512: 6408253292a647a04221bff21959552f76b7821f2465b2b6d766f87955407f1b27f03b6951ff184e69878b98cbb3b039c958b1a72d50298a6dac9c0c333107e7
+
+Package: com.f0u4d.watusitools
+Name: WatusiTools
+Version: 2.4.47
+Description: Library for Watusi, Regram and other tweaks
+Depends: firmware (>= 12.0)
+Section: Development
+Architecture: iphoneos-arm
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Filename: ./debs/com.f0u4d.watusitools_2.4.47_iphoneos-arm.deb
+Size: 4874020
+MD5: 6717e2706a82df3ab5522184f5ca76c7
+SHA1: b4d2333b24176621797f13a0c41ebd46241014d6
+SHA256: 5924750a5a719db96ba2d50b2df59560eef26cca864f1d1ba7b1ed0d3dd296b2
+SHA512: 6f8f1c9a67209d188c05240621a66aa38bd94b5afdb9a1d86002f512eef8ac6903f654eeefbe58134370038a63a0bea2731580651df52cc5aadc6861a51fcf8a
+
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
 Description: The all-in-one tweak for Instagram
