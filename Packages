@@ -1,3 +1,20 @@
+Package: theos.dev
+Name: theos
+Description: jbroot/var/mobile/theos > you can download sdk from here >> https://github.com/xybp888/iOS-SDKs/releases/tag/iOS-SDKs
+Maintainer: devn
+Author: devn
+Section: theos
+Depends: mobilesubstrate, theos-dependencies
+Architecture: iphoneos-arm64e
+Version: 2025.1.2
+Icon: https://i.imgur.com/phBqnah.jpeg
+Filename: ./debs/theos.dev_2025.1.2_iphoneos-arm64e.deb
+Size: 15053112
+MD5: 29bd2f50476f8e296950a97a75495bb1
+SHA1: a76df73be8d0a84e477c14a926526bbf0226dfec
+SHA256: 39ee1dde8408b77a6f5d6b06af9318ee3ea075a2405309aacc0d713d1f90abd7
+SHA512: 56a49e561a7e1221bef845d755b22dee070ca6e6895065165617d4dc5ebd967c7558ddf7830dd6020ab5304c06c2c26871313a04355eabe5a4353791540bc2d6
+
 Package: ru.rj.ftt
 Name: Flex To Theos
 Depends: mobilesubstrate, com.randy420.tools (>=2.3.7)
