@@ -1,3 +1,20 @@
+Package: theos.dev
+Name: theos
+Description: var/mobile/theos > you can download sdk from here >> https://github.com/xybp888/iOS-SDKs/releases/tag/iOS-SDKs
+Maintainer: devn
+Author: devn
+Section: theos
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 2025.1.1
+Icon: https://i.imgur.com/phBqnah.jpeg
+Filename: ./debs/theos.dev_2025.1.1_iphoneos-arm64.deb
+Size: 15074856
+MD5: 5615d26c530a8103e8bd460250caafe6
+SHA1: e150077cefec1b72a8c1e189b19f633914cb3247
+SHA256: 274e67e97603b908028bd226cb30ea903354833bde787f95827e2e30915fa872
+SHA512: bc9779bae52fe75a794cf7b87f59d81be1d03a91dbcd69350b4c39a1b2b3f4c066431a2aff8199a7c54134937aec16c580269d7d55570dc04a4130d92b7e70c3
+
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
