@@ -1,5 +1,22 @@
 Package: theos.dev
 Name: theos
+Description: var/jb/var/mobile/theos > you can download sdk from here >> https://github.com/xybp888/iOS-SDKs/releases/tag/iOS-SDKs
+Maintainer: devn
+Author: devn
+Section: theos
+Depends: mobilesubstrate, theos-dependencies
+Architecture: iphoneos-arm64
+Version: 2025.1.2
+Icon: https://i.imgur.com/phBqnah.jpeg
+Filename: ./debs/theos.dev_2025.1.2_iphoneos-arm64.deb
+Size: 15068992
+MD5: 35b17baa2e50beffb16d35a50beb531f
+SHA1: 57bd7280aa54cf83a506c99ca08b4c7e36c83da8
+SHA256: e4e147b7d86d0236c132d71100ec0330c22b98a70f884a6de90c6ec5409159bc
+SHA512: 648e481de0f3a1335ce571f943bc9af433c257ae938f6961acd61b7efad38de45320ded294ed9aae809a23d94e0b3a03f507d5b5772e1b960647101aba495712
+
+Package: theos.dev
+Name: theos
 Description: var/mobile/theos > you can download sdk from here >> https://github.com/xybp888/iOS-SDKs/releases/tag/iOS-SDKs
 Maintainer: devn
 Author: devn
