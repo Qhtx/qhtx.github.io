@@ -1,3 +1,46 @@
+Package: ru.rj.ftt
+Name: Flex To Theos
+Depends: mobilesubstrate, com.randy420.tools (>=2.3.7)
+Description: First made by iPadkid358 - then updated by myself. Change Flex 3 patches into Theos projects using simple terminal commands. 
+  
+ - Use 'ftt -?' For a full list of options.
+Depiction: https://Randy-420.GitHub.io/depic/ftt.html
+Homepage: https://theemeraldisle.family
+Maintainer: Randy420 <randy.skinner@hotmail.com>
+Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
+Section: Utilities
+Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
+Architecture: iphoneos-arm64
+Version: 1.4
+Installed-Size: 1300
+Filename: ./debs/ru.rj.ftt_1.4_iphoneos-arm64.deb
+Size: 354912
+MD5: 533437e089cdd9336c8b8252487455b1
+SHA1: 68dfa80216e072b6f62b8a00997c5c19d3d83a56
+SHA256: 282d4e834ccbf7580577da9dbfb6ef5f45ed9ba94bb6b2595af61a3ab91703b3
+SHA512: 5ce5375b78cf790113e126b796752641070dda88038d1b4e9165594f2aa7e05d2bd2876211e4a15c51bdfacf0664e7d92fa3d66ce907c69bf4eba4930a32fbde
+
+Package: com.randy420.tools
+Name: 420 Tools
+Description: 420Tools holds the preferences for all my tweaks as well as shared files for my tweaks.
+Depiction: https://Randy-420.GitHub.io/depic/420Tools.html
+Depends: firmware (<= 15.0) | cy+cpu.arm64v8 | oldabi-xina | oldabi
+Homepage: https://theemeraldisle.family
+Maintainer: Randy420 <randy.skinner@hotmail.com>
+Author: Randy420 <randy.skinner@hotmail.com>
+Section: System
+Tag: role::hacker
+Replaces: com.randy420.encrypt
+Architecture: iphoneos-arm64
+Version: 2.3.9
+Installed-Size: 2392
+Filename: ./debs/com.randy420.tools_2.3.9_iphoneos-arm64.deb
+Size: 548408
+MD5: f19b7d05980987d9af12fe040579165d
+SHA1: e9fb5417950d46264044947f37b9a8faadd0abcc
+SHA256: 08187611c58cbd2ce93cf884e5842b065c8747a64806e8bd74470e7d2a613de9
+SHA512: dbb5cc13dd46e42949c74fe41fbd0e4112b426fe34528fc380062d55d66564b35dc9c5c2c3da37e2256c5519a67dbc1bb56cd6d9ca04186161e2bd507c6e2f54
+
 Package: theos.dev
 Name: theos
 Description: var/jb/var/mobile/theos > you can download sdk from here >> https://github.com/xybp888/iOS-SDKs/releases/tag/iOS-SDKs
