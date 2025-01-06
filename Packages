@@ -1510,63 +1510,6 @@ SHA1: 028b8ef5f6cbfdeabbfa20dc21bb05ead6661242
 SHA256: dd38f432e73965fda58ff0ec39f30a4e1e83c092fabc14b0684eab17aeee21b0
 SHA512: a21cd712b25cdc10c3e2b53555a6c7dde49c4683cd08211c01608ad4667c5f6a6f67b8f88fd47cd437b3e79fe71dbaad4ec91cfb761227572823d7fa85ed3fb4
 
-Package: com.foxfort.foxforttools
-Name: FoxFort Tools
-Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.4.8)
-Description: Helper tools for Foxfort tweaks
-Maintainer: FoxfortMobile
-Author: FoxfortMobile
-Section: Development
-Tag: role::developer
-Architecture: iphoneos-arm64e
-Version: 1.4.14
-Installed-Size: 2196
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.foxfort.foxforttools_1.4.14_iphoneos-arm64e.deb
-Size: 509072
-MD5: 88193fa972c5a2014a1e01376757030a
-SHA1: dddb1cf49ddcc3b30488aaabfb190c1e3283f945
-SHA256: ee554dbbf30940da55ccbfbb3082611092c50e5868a010cc538a0b588c5b32f5
-SHA512: f91013d305fc1854238311bc1d956882f2db613fca5f5b23c2867cdb4dc231b9e2457d8e1791c630ada4c68f5921d2a7c51735e11d6799e00afa596a8894ede0
-
-Package: com.foxfort.libfoxfortutils
-Name: libfoxfortutils
-Depends: firmware (>= 11.0), com.opa334.libsandy
-Description: library for Foxfort tweaks
-Maintainer: FoxfortMobile
-Author: FoxfortMobile
-Section: Development
-Tag: role::developer
-Architecture: iphoneos-arm64e
-Version: 1.4.8
-Installed-Size: 1288
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.foxfort.libfoxfortutils_1.4.8_iphoneos-arm64e.deb
-Size: 276440
-MD5: 04532849a564bd4300e715ce2ae8a0ea
-SHA1: 54e42fe65dc26fab4b2d97123c97cd0bc8ca528e
-SHA256: 3c11a319ac0bb8759db6770e2cdff205c13cdad6c22d7adbdc073d249dea48c3
-SHA512: 0c39a137ea12c44d8fa16d80747d6a7cd9fc672528628d3b49e33a20cbfe495478389d587fe3fe7483d07b53fa63b16383304a9a07ad44e21c27e136297d2636
-
-Package: com.foxfort.translomatic
-Name: Translomatic
-Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.4.14), com.opa334.altlist
-Description: Quickly translate any text
-Maintainer: FoxfortMobile
-Author: FoxfortMobile
-Section: Tweaks
-Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
-Architecture: iphoneos-arm64e
-Version: 2.18.27
-Installed-Size: 5128
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.foxfort.translomatic_2.18.27_iphoneos-arm64e.deb
-Size: 1184588
-MD5: 7feddd6818aac838abb179c2922406d7
-SHA1: 990caca0661c6a82cfddf423a0bfddcd8dc2b254
-SHA256: 8c5b194d32f0f62120085cf6a5c9e1c05ec8e44f382cf83449ec983cc75ef019
-SHA512: 45fe02c54b234aaac37e5cb9a3a8b3d757e47f92038b564970ca4fa57a4fbd1e31322a66c8f2ac2032faa35c39019c0f462bf32315e795c8010f5dbacbd36174
-
 Package: com.nan.miic
 Name: Move Icon Image Cache
 Version: 0.1.0
