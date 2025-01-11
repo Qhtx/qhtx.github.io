@@ -1,3 +1,22 @@
+Package: com.0xkuj.safarix
+Name: SafariX
+Description: Safari Essential Features
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Architecture: iphoneos-arm64e
+Version: 1.9.3
+Installed-Size: 824
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.0xkuj.safarix_1.9.3_iphoneos-arm64e.deb
+Size: 294792
+MD5: 762a86f74a3ce91b76aaf488dedb267f
+SHA1: b259f8b7e23c08e1dfb63d46fd07b97050be8490
+SHA256: 724b58f0bcd82c7782888c94327f22ba6810a6a4645fb07fc7f7d907e31965d6
+SHA512: cdf0d1e3464be2babc324f74ff96285b1075173026877c89156a353852f2720459e3fec1acf21c8d09baf22bd9f5ebb9ba14a39e0c1bafb6a404ee83a3bcc72b
+
+
 Package: theos.dev
 Name: theos
 Description: jbroot/var/mobile/theos > you can download sdk from here >> https://github.com/xybp888/iOS-SDKs/releases/tag/iOS-SDKs
