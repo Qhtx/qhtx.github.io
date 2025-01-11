@@ -1,3 +1,43 @@
+Package: com.fouadraheb.watusi3
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Description: The all-in-one tweak for WhatsApp Messenger
+Section: Tweaks
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.0)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+Architecture: iphoneos-arm64e
+Version: 1.2.52
+Installed-Size: 6440
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.fouadraheb.watusi3_1.2.52_iphoneos-arm64e.deb
+Size: 1917588
+MD5: ce23fed6f7baab1a222c5ca91b8c412a
+SHA1: f9c74dba9554cede5d63dde936240dac6a824204
+SHA256: ea250862887a79d7ec265a7b58cf8edc7e15bc6a2b6be9e3279591c9417bb7bb
+SHA512: 8d0afe898073cd4f73487b17fab384763cfe56e1b27806165a17a29e18bf09ecccf06f5aa792820d882d7dabb87a87a09d705414a1d309d7a3bf2f433d37be9d
+
+
+Package: com.f0u4d.watusitools
+Name: WatusiTools
+Version: 2.5.1
+Description: Library for Watusi, Regram and other tweaks
+Depends: firmware (>= 12.0)
+Section: Development
+Architecture: iphoneos-arm64e
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.f0u4d.watusitools_2.5.1_iphoneos-arm64e.deb
+Size: 5004648
+MD5: 77b641ad200e947ad2f056db09d46bf5
+SHA1: 7e769a25cb08dd701d797cb4bcc51bc9a2950998
+SHA256: 6dc4b71ea678ca79e6045705d3896de970b8b70e8ef6df3e22f9f633f724f734
+SHA512: d27e5d8d9d6454c2e1f8c8b985fb94eda5753872244b8d38c57e41523ff35a29486eb0cfae51410baba9319c81b200c1705954c064d4187cc070da0ff9a59fe5
+
+
 Package: com.0xkuj.safarix
 Name: SafariX
 Description: Safari Essential Features
