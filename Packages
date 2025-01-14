@@ -1,9 +1,4 @@
 Package: com.app.test
-Name: test
-Author: test
-Depends: mobilesubstrate
-Maintainer: test
-Section: test
 Architecture: iphoneos-arm64e
 Version: 1.0
 Filename: ./debs/com.app.test_1.0_iphoneos-arm64e.deb
