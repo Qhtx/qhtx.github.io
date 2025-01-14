@@ -1,9 +1,16 @@
 Package: com.app.test
+Name: test
+Author: test
+Description: test
+Depends: mobilesubstrate
+Maintainer: test
+Section: test
+Architecture: iphoneos-arm64e
+Version: 1.0
 Filename: ./debs/com.app.test_1.0_iphoneos-arm64e.deb
 Size: 4188
 MD5: a1d551d721a589d68cd8d1bf82c36fea
 SHA1: 4e83ac03fb90c4036b9237010aad9cbeb506ac41
-SHA256: dc8f48be094786e8b85d6f1c6fe2c857a6837f28f513c0d0ab857b0dcb6591a0
 
 
 Package: com.f0u4d.watusitools
