@@ -1,7 +1,6 @@
 Package: com.app.test
 Name: test
 Author: test
-Description: test
 Depends: mobilesubstrate
 Maintainer: test
 Section: test
