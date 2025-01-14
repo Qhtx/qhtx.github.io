@@ -1,3 +1,58 @@
+Package: com.f0u4d.watusitools
+Name: WatusiTools
+Version: 2.4.47
+Description: Library for Watusi, Regram and other tweaks
+Depends: firmware (>= 12.0)
+Section: Development
+Architecture: iphoneos-arm
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Filename: ./debs/com.f0u4d.watusitools_2.4.47_iphoneos-arm.deb
+Size: 4956268
+MD5: 8ee04edb289d4b64f7fff3792693aae5
+SHA1: 4295ddde67fddbe073aa016cf0f6339d0adf81d3
+SHA256: 7614b31b378897fee1792fe089ed64134f2c31111e7fcbcd5f51540b120b9c39
+SHA512: 67a3bd5a83402a6fb5918dc74d3f813b8d2487025c49e1bec43632add9397ae3bef48797095787331d977f7685cffc2ebe35624f6132b78fd0e0302761494ab6
+
+
+Package: com.f0u4d.watusitools
+Name: WatusiTools
+Version: 2.4.47
+Description: Library for Watusi, Regram and other tweaks
+Depends: firmware (>= 12.0)
+Section: Development
+Architecture: iphoneos-arm64
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Filename: ./debs/com.f0u4d.watusitools_2.4.47_iphoneos-arm64.deb
+Size: 4978760
+MD5: d3718a731f6dba3c30cbcd614852a7e8
+SHA1: 403cb96e275cd19cc8f1ccbcd6e2cdb44696642b
+SHA256: 9b924b41e7e618f3d3d115e7ba25871776b05721f3cea3db7e2aa8b65f260c45
+SHA512: b65f55ebe4d365063b195dba7569ca104e3c72bdfe190d8490054b8645987625bb91c99809e8e9ce48c52f7982f02f3dcd7908fe50ade611ace4d8f95022944d
+
+
+Package: com.f0u4d.watusitools
+Name: WatusiTools
+Version: 2.4.47
+Description: Library for Watusi, Regram and other tweaks
+Depends: firmware (>= 12.0)
+Section: Development
+Architecture: iphoneos-arm64e
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.f0u4d.watusitools_2.4.47_iphoneos-arm64e.deb
+Size: 4921472
+MD5: 5f7665dbded1000211f38e7d604b3f7a
+SHA1: 8fefb2024072d36c72c9333b6ca0bb8116f1da56
+SHA256: fce9e55cfbc52b3ca0b6d66eb5b88bbe19a493f27ef252fe1973774c18e48d94
+SHA512: ace1a2ba85821dfd9aec65191f17246275fb0d0b884ff03b10a7976386de45a7192ddeacd5e69505b87e1bbe35a3b669191ed26ef796ed08b578a01478705428
+
+
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
