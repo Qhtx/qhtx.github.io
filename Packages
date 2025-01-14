@@ -1,6 +1,4 @@
 Package: com.app.test
-Architecture: iphoneos-arm64e
-Version: 1.0
 Filename: ./debs/com.app.test_1.0_iphoneos-arm64e.deb
 Size: 4188
 MD5: a1d551d721a589d68cd8d1bf82c36fea
