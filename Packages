@@ -1,16 +1,21 @@
-Package: com.app.test
-Name: test
-Author: test
-Description: test
-Depends: mobilesubstrate
-Maintainer: test
-Section: test
+Package: com.ps.githubweblegacycompat
+Name: GitHubWebLegacyCompat
+Description: Make GitHub website more accessible on iOS <17.0
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), firmware (<< 17.0)
+Depiction: https://poomsmart.github.io/repo/depictions/githubweblegacycompat.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/githubweblegacycompat.json
 Architecture: iphoneos-arm64e
-Version: 1.0
-Filename: ./debs/com.app.test_1.0_iphoneos-arm64e.deb
-Size: 4188
-MD5: a1d551d721a589d68cd8d1bf82c36fea
-SHA1: 4e83ac03fb90c4036b9237010aad9cbeb506ac41
+Version: 1.0.1
+Installed-Size: 360
+Filename: ./debs/com.ps.githubweblegacycompat_1.0.1_iphoneos-arm64e.deb
+Size: 17692
+MD5: ea9b17d2f40ffce899a145344e773f5b
+SHA1: 3f63fb4252bb2287cb521bd653fded6237081d0a
+SHA256: b4eeedad25cf4a8c11cded38752f01342777c7272c127ce8b3440ff4426a2ee3
+SHA512: f957e61df5302c0cf67ebd39b3b5dd84a19775b834c24a8901f87b469b8bdf39352b930294084ade87d6b6474d1dd1bca22c4d4bd80a71576de5355c341c2820
 
 
 Package: com.f0u4d.watusitools
