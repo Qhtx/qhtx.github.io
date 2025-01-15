@@ -1,3 +1,25 @@
+Package: app.catscript.lite
+Name: CatScript Lite
+Depends: mobilesubstrate
+Conflicts: app.catscript.pro
+Description: An automation framework designed for the iOS platform
+Maintainer: 0x530c<0x530c@gmail.com>
+Author: 0x530c<0x530c@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.2.0
+Installed-Size: 7752
+Depiction: https://havoc.app/depiction/catscriptlite
+SileoDepiction: https://havoc.app/package/catscriptlite/depiction.json
+Icon: https://media.havoc.app/677fac4c35de4da90b28e7b4?w=1200&q=75
+Filename: ./debs/app.catscript.lite_1.2.0_iphoneos-arm64e.deb
+Size: 15433036
+MD5: 44d9b3cfe55d095c9232da7cc39c73d4
+SHA1: 1d8753a2f7afe4242a075a5581c91b72d4c40123
+SHA256: 9d7512898af2d355dcfacc247f690cac2c9d2433d54ac74e2df2871e8f90d906
+SHA512: 0f37e46fd7bd0df69f8d2eb321435ed82de477b1cd31912b4125e4936c1ca3419e6ceb60e378eb8938331af03264fce25d3063ffd9081bd2c106113f9d8410b0
+
+
 Package: com.ps.recordpause
 Name: RecordPause
 Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
