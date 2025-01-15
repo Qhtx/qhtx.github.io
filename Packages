@@ -1,3 +1,90 @@
+Package: com.ps.youpip
+Name: YouPiP
+Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Description: Enable native PiP in iOS YouTube app.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Replaces: com.spicat.youpip
+Provides: com.spicat.youpip
+Conflicts: com.spicat.youpip
+Depiction: https://poomsmart.github.io/repo/depictions/youpip.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youpip.json
+Architecture: iphoneos-arm64e
+Version: 1.12.1
+Installed-Size: 212
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.youpip_1.12.1_iphoneos-arm64e.deb
+Size: 26412
+MD5: 74f51e5ab415a1f9a5d3e5113bdc4c9f
+SHA1: e33890cb0fb8fef1aaa734d457017c5f8bb7def8
+SHA256: 7d6bdba67a3bfcfb3e8b6d0d4da316cfa318388b589f80e2b6cb7a3358e7682b
+SHA512: 7e58dd3308fa832d8ce157f52632b69cb80fea7ea1e9611a0aca173015366e761466479613fdff2bcce3b01729f4d8ace06e98a15816b02086b16ed77dd633f0
+
+
+Package: com.ps.youquality
+Name: YouQuality
+Description: View/change video quality in iOS YouTube app faster.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytvideooverlay (>= 2.1.0)
+Depiction: https://poomsmart.github.io/repo/depictions/youquality.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youquality.json
+Architecture: iphoneos-arm64e
+Version: 1.3.4
+Installed-Size: 124
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.youquality_1.3.4_iphoneos-arm64e.deb
+Size: 6740
+MD5: 3a52890ac7de92ceff7a5d69dd58577f
+SHA1: 93b627c1c72a56ea39d9083d08eb1a9751d4ecdf
+SHA256: 03cdf8ae95d12e521b40baf398e57bd62801a90cd1150d839ebd55cf244e7372
+SHA512: 9b6418fe230277f38caefd6d670ebc1feb8774b8d8a6def68a90bdac91719c6c3e216b7278310db09e2c0e06dd778c380026e0c922136f73bb430f16889115f6
+
+
+Package: com.ps.ytuhd
+Name: YTUHD
+Description: Unlock 1440p and 2160p resolutions in iOS YouTube app.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Depiction: https://poomsmart.github.io/repo/depictions/ytuhd.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytuhd.json
+Architecture: iphoneos-arm64e
+Version: 1.5.8
+Installed-Size: 160
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.ytuhd_1.5.8_iphoneos-arm64e.deb
+Size: 14616
+MD5: 43475875305bfdf359f7c9e66cd1e7a8
+SHA1: 7ebefa5f572a2e49ecf863e3c654cf245a145197
+SHA256: dc8e516f0c46d85a5a2988a7ccbda5e35dabd35db5912a69183211a5f8e3dc09
+SHA512: a11227afbf756ac7ac798f6dfcc58f29c5cdba2b2ed49fa84e7b34305a5467569e6dae654f45b5d672bc9866d321bbb8c75b4fac69bd9c25658eed5b53171f86
+
+
+Package: com.ps.ytvideooverlay
+Name: YTVideoOverlay
+Description: A helper tweak to add buttons on YouTube video overlay.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Depiction: https://poomsmart.github.io/repo/depictions/ytvideooverlay.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytvideooverlay.json
+Architecture: iphoneos-arm64e
+Version: 2.1.0
+Installed-Size: 128
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.ytvideooverlay_2.1.0_iphoneos-arm64e.deb
+Size: 14012
+MD5: 5474d2804d5ead174bff4bfa976effb5
+SHA1: 390cc2e598efdc4aba4d3869dabb149b11c908a3
+SHA256: 5ae022dc8418ec76fbb054d40c472d926e9902514e6a466ade87a5bc586e00ed
+SHA512: a78b5f2db060dca83edac89a7f0c57431ff4024f4d344818d89871448c8aa7ddfae557f00168263c45db42a990693741e0c6addb31c1ee1bd7f9104090282a70
+
+
 Package: com.ps.githubweblegacycompat
 Name: GitHubWebLegacyCompat
 Description: Make GitHub website more accessible on iOS <17.0
