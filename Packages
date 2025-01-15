@@ -1,3 +1,44 @@
+Package: com.ps.recordpause
+Name: RecordPause
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Provides: org.thebigboss.recordpause, com.spicat.recordpause
+Replaces: org.thebigboss.recordpause, com.spicat.recordpause
+Description: Pause/resume video recording in iOS Camera app.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 2.0.4
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.recordpause_2.0.4_iphoneos-arm64e.deb
+Size: 9820
+MD5: b07394b3718408f68185e79bb23deea0
+SHA1: f1e80e67dddbdae7e56ecc19787c324a6a42cd6e
+SHA256: bde2480a79147764bb101ee91514ee29bc982a3ac7a66fcc7d98e59d244f0086
+SHA512: 61039d7a18bd19b25d946b5b7075ba494ec18c02f29dcda3e473148931345bd2a74267b4ec1b28e48f700e40526e87f86d48d5b95206b724f502a7dc4b137362
+
+
+Package: com.ps.highgraphics
+Name: HighGraphics
+Depends: mobilesubstrate, firmware (>= 7.0)
+Description: Best UIKit graphics for older devices.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.1.1
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.ps.highgraphics_1.1.1_iphoneos-arm64e.deb
+Size: 3988
+MD5: 275b3a4082ed4aa1ca2400da656f6152
+SHA1: d89d669f2b993c0d01a4ad01475bcc607678716d
+SHA256: 975ba018d9c4520331fad793561f5a4c7d854259e2b5e4cef3d0c8f134c544a0
+SHA512: 9c76203098172f03041126a9cef73c3c14285b6e32ea3064c6663af33fff8e89c72de77b7a40af77122057a660c3465890b4a3e3f99735dfbfb043ba809e3b17
+
+
 Package: com.ps.youpip
 Name: YouPiP
 Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
