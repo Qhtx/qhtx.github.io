@@ -14,11 +14,11 @@ Depiction: https://havoc.app/depiction/catscriptlite
 SileoDepiction: https://havoc.app/package/catscriptlite/depiction.json
 Icon: https://media.havoc.app/677fac4c35de4da90b28e7b4?w=1200&q=75
 Filename: ./debs/app.catscript.lite_1.2.1_iphoneos-arm64e.deb
-Size: 15349180
-MD5: 20ca7e36a13613b8c248d97abe53d1ce
-SHA1: 005134e486a999ce44305b6c72b9e56c35e125b7
-SHA256: 825d543455a31d5e0fe8e3485981060025061924069cf2bbadfec8398a39e20a
-SHA512: fdd0d352c7285284119cca4a318f258a64672f3056cb79e9e12a2b2db458f7e1f6d192f54d1f2131cc753316b1d351bc12cadcc1051ee3206c473089bfbbfdeb
+Size: 15311220
+MD5: 3a19cf52e1ba9d03e17f32daeba52a6d
+SHA1: b04f3141ee66957d73fe1bbed0c82f9c0750aa2d
+SHA256: 6ae36b749d9b438a4b82418ab3ef98ac01aa3c9a97e1137f32a7b4826fbe05df
+SHA512: ca1dd9b4cde5d18bec62600af76a6d912a5c270b9c31a4e112d7552c88e70674aa7950bff582ac701818bd05c9f04e23a2e008a0fe09143e30b85506104f20ab
 
 
 Package: one.keycap.freepip
