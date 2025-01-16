@@ -1,3 +1,25 @@
+Package: app.catscript.lite
+Name: CatScript Lite
+Depends: mobilesubstrate
+Conflicts: app.catscript.pro
+Description: An automation framework designed for the iOS platform
+Maintainer: 0x530c<0x530c@gmail.com>
+Author: 0x530c<0x530c@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.2.1
+Installed-Size: 7752
+Depiction: https://havoc.app/depiction/catscriptlite
+SileoDepiction: https://havoc.app/package/catscriptlite/depiction.json
+Icon: https://media.havoc.app/677fac4c35de4da90b28e7b4?w=1200&q=75
+Filename: ./debs/app.catscript.lite_1.2.1_iphoneos-arm64e.deb
+Size: 15433304
+MD5: 9e1381a12868256dfb50ba9543788d35
+SHA1: 30e1869c136c1ac6d7a2557bed1e7c0935fbdc4e
+SHA256: 5cf2699bd92bdd4fa664e575e3616ed07b6442268680620d78695cec91255a3e
+SHA512: 3e2778e99a2e5b39a9996ef9f7551f52918b3b3937d4f9b44f56e26e1e68408841d9939169fccc82421beee9410c5e0a7bdabb279d552dff4405fb8da510a0c5
+
+
 Package: one.keycap.freepip
 Name: FreePIP
 Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Picture on iOS unlimitedly.
