@@ -1,3 +1,23 @@
+Package: com.ryannair05.cylinderremade
+Name: Cylinder Remade
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@3x.png
+Description: Make your icons dance
+Maintainer: Ryan Nair
+Author: Ryan Nair
+Section: Tweaks
+Conflicts: com.ryannair05.cylinder
+Version: 0.0.3-roothide
+Installed-Size: 604
+Filename: ./debs/com.ryannair05.cylinderremade_0.0.3-beta_iphoneos-arm64e.deb
+Size: 123672
+MD5: 7681b223f24987dbd79f3beb96744968
+SHA1: 189f5c920ded8a88506fdfafd2f3fcd2fdf93590
+SHA256: 2794a2880331ee7cb83ed84da05b9c655d51b934cceeeae510fd1b25e2236dbc
+SHA512: 7d2c94ce6738cf413bca561d4d939dc13df328d281cd5f12ca135a5faf73c4de7e63104889f42ffee02ea3a7774b10c9caa4c78bb9285f4e68d696bb18d228a9
+
+
 Package: app.catscript.lite
 Name: CatScript Lite
 Depends: mobilesubstrate
@@ -1178,22 +1198,6 @@ SHA1: bf16832ec4aae2fd6bc1ad4598438bb837a8cf65
 SHA256: 458372f30ee518f4cc921d19035c7b94bae3e70422195c79f6c119bd74c5dc29
 SHA512: 128325e5eca5ea02d83a1747908a56cb669a9c837e4723836277b3edd359f98b03dd302ec407d2b9805d3ff4d549e5e5ed0ff22f9c7453f190e4750fdfb50e6b
 
-Package: com.sinac.mini-fcm
-Name: Mini FCM
-Description: تطبيق جميل تقدر تتحكم ف موقعك وتحرر اكواد بسهوله ف نفس الوقت تقدر تجرب موقعك تحكم ملفات htmlو jsو c و lua
-Maintainer: Mini FCM
-Author: Mini FCM
-Section: Applications
-Depends: mobilesubstrate
-Architecture: iphoneos-arm64e
-Version: 1.0
-Installed-Size: 428
-Filename ./debs/com.sinac.mini-fcm_1.0_iphoneos-arm64e.deb
-Size: 1049456
-MD5: 68952351c87ec27dd6102ea0b6ff8646
-SHA1: a7677e030de6ea4d308ed54b390e524915dc59c6
-SHA256: a0304f8fee343c6cb2b2ebe9b297499dd8a80e9babd850fd0c7b1243e72e22da
-SHA512: 49fa1bfc952ccfc39a6cb9e1f58dcbbfae9f0d3d2b1767bfd3f036767be7c52c013399875c002e16d22d5df328cee48aa985fc49c94b435a8523030ebfd707b9
 
 Package: com.cydiaabdullah.cacloud
 Name: CACloud
