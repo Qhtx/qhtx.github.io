@@ -1,3 +1,45 @@
+Package: one.keycap.freepip
+Name: FreePIP
+Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Picture on iOS unlimitedly.
+Maintainer: SingleKeycap
+Author: Soh Satoh
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Installed-Size: 168
+SileoDepiction: https://repo.keycap.one/depictions/one.keycap.freepip.json
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/one.keycap.freepip_0.0.3_iphoneos-arm64e.deb
+Size: 8030
+MD5: 7d4939fd84380facc5d6c289088e23bd
+SHA1: f06dfc1ebf5c3b2f0f6f0e2f5a2d4e57856877a9
+SHA256: 6b0052b29d08abd77e67bbd4669dd4f292fcf20a76d2fb37e24da72f9031ecf9
+SHA512: 8c9916364e1724bf47e8f0cf5a7ed849b00d38e974b76fe22ce09fb7cdc5e8f91a9f5faa8fb31e4803c33b91820cbb97a306e6808c845cdde5312ca14a8221b1
+
+
+Package: com.dcproducts.iossecuritysuitebypass
+Name: iOSSecuritySuiteBypass
+Description: A bypass for the iOSSecuritySuite Swift library.
+Maintainer: Derek Calabro
+Author: Derek Calabro
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.iossecuritysuitebypass
+SileoDepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.iossecuritysuitebypass/depiction.json
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.iossecuritysuitebypass/icon.png
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Installed-Size: 136
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.dcproducts.iossecuritysuitebypass_1.0.0_iphoneos-arm64e.deb
+Size: 3816
+MD5: 9bd46c050fad661748891b70126e38f6
+SHA1: e6500fb362bfe6a30f3e72d1486b3fb1fefc912a
+SHA256: 40d4c0babc793b2b083f283beb3fbd4ae54ba4149917c23d32ec1ad7aa863b64
+SHA512: edd03be3b7ebcbbf9ffeef12d92f85d4b68eeb0cf622421ac13b093e8e7ed4c99647883cffcb3bf1c99906f7d00d30cc018849a93855aa08ac04c4600188cc7a
+
+
 Package: app.catscript.lite
 Name: CatScript Lite
 Depends: mobilesubstrate
