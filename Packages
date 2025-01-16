@@ -8,14 +8,14 @@ Maintainer: Ryan Nair
 Author: Ryan Nair
 Section: Tweaks
 Conflicts: com.ryannair05.cylinder
-Version: 0.0.3-roothide
+Version: 0.0.3-beta
 Installed-Size: 604
 Filename: ./debs/com.ryannair05.cylinderremade_0.0.3-beta_iphoneos-arm64e.deb
-Size: 123672
-MD5: 7681b223f24987dbd79f3beb96744968
-SHA1: 189f5c920ded8a88506fdfafd2f3fcd2fdf93590
-SHA256: 2794a2880331ee7cb83ed84da05b9c655d51b934cceeeae510fd1b25e2236dbc
-SHA512: 7d2c94ce6738cf413bca561d4d939dc13df328d281cd5f12ca135a5faf73c4de7e63104889f42ffee02ea3a7774b10c9caa4c78bb9285f4e68d696bb18d228a9
+Size: 102872
+MD5: 18da1266e2df75c2667dc65e921f10f3
+SHA1: fdeb774df6a4a17b6af9efb0138f7dacc6fc7aa9
+SHA256: d73d7847a5f6d10286d3caff9b57d7cc19e8d330767661facc6e74c6c36e5069
+SHA512: e4724e8f6a4971bf791fee939946dc4bcf20cdc46404eddc96ce3fec3ed4214e0650bd69906c04d882e8bed206ca4732536655660477933afd0d62cabd33baae
 
 
 Package: app.catscript.lite
