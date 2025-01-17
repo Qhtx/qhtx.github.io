@@ -1,3 +1,46 @@
+Package: me.luki.arres
+Name: Arres
+Description: Disables tapping on notifs banners for 0.8s
+Maintainer: Luki
+Author: Luki
+Section: Tweaks
+Depends: mobilesubstrate
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.arres
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.arres/depiction.json
+Architecture: iphoneos-arm64e
+Version: 0.9.0
+Installed-Size: 344
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/me.luki.arres_0.9.0_iphoneos-arm64e.deb
+Size: 10832
+MD5: 3cf64b3ade5e0193d8b9b21148f8c750
+SHA1: 14ebb4bedf99ccc70dc942b82c73631b53251cea
+SHA256: b8c98cfefc724d12a5e9995de92a07dda5635c902967eb816863610e2b76d24a
+SHA512: 46dafa969c925dbeb4d2a30384b5d31ac5fe7e519fa69998c6e86acd5fd5f193d2dae3083427ad7537f12dd0bf8a453dd919bddc14ea61c195d71f9f50df356c
+
+
+Package: me.luki.iwanttranslucent
+Name: IWantTranslucent
+Description: An awesome MobileSubstrate tweak indeed
+Maintainer: Luki
+Author: Luki
+Section: Tweaks
+Depends: mobilesubstrate
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Tweaks/SpringBoard/IWantTranslucent/IWantTranslucent.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.iwanttranslucent
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslucent/depiction.json
+Architecture: iphoneos-arm64e
+Version: 0.9.4
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/me.luki.iwanttranslucent_0.9.4_iphoneos-arm64e.deb
+Size: 7474
+MD5: d41133ed43c7f8e64dc1f90331e372c3
+SHA1: f8f7eaf2fcc1caa8842af594fb164550ed3ae84e
+SHA256: 8809a86e28bedc30c0362e9140df5a2c3c3644b1ae2776696f7a13e0d0d53bec
+SHA512: 63e5e1d1c077243165a8e9185e0f2502a3617c130a9ea161146e8e020d7e1bbd2e5c27d0f4c0a3638cb0fb2cfae265e6f3aa741edf1aa3187d621c8cbfaaeacd
+
+
 Package: com.yourepo.ibreak.hideseparator
 Section: Tweaks
 Maintainer: iBreak <ibreak2019@qq.com>
