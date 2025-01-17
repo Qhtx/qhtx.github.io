@@ -1,3 +1,29 @@
+Author: @CrazyMind90 <CvCrazyMind@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: AppEditor
+Package: com.crazymind90.appeditor
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), ldid
+Section: Tweaks
+Installed-Size: 58953
+Version: 3.8.10.7
+Architecture: iphoneos-arm64e
+Description: Gain Full Access and Control Over Your Applications
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appeditorDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appeditorDp
+Sileodepiction: https://crazy90.com/repo/1.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: crazymind90
+Tag: purpose::extension
+Icon: file:///var/jb/Applications/AppEditorApp.app/AppIcon60x60@2x.png
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.crazymind90.appeditor_3.8.10.7_iphoneos-arm64e.deb
+Size: 20003932
+MD5: 01fd8eabf7df6a7caf9b291ca5a39bbd
+SHA1: c08a50d220408e30e886384fcef5d1d0de75a94b
+SHA256: e8307577b73990cae81a8d22943dd5903c2ecadcfca334c03fea5c7380cf5b68
+SHA512: 170a1b6fd8f1772b7cffc58d189c13d9799cae2f08059ba9b0515138314d871912049c06b549836188658390fff7d4cc5f49fc09ae8c7a582733073babfaf29c
+
+
 Package: me.luki.arres
 Name: Arres
 Description: Disables tapping on notifs banners for 0.8s
