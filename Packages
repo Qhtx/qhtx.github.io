@@ -1,3 +1,23 @@
+Package: com.sparklechan.swifty
+Name: FridaCodeManager
+Version: 1.6
+Architecture: iphoneos-arm64e
+Description: Full fledged Xcode-like IDE for iOS
+Depends: swift, clang, ldid
+Icon: https://raw.githubusercontent.com/fridakitten/FridaCodeManager/main/Blueprint/FridaCodeManager.app/AppIcon.png
+Conflicts: com.sparklechan.sparkkit
+Maintainer: FCCT
+Author: FCCT
+Section: Utilities
+Tag: role::hacker
+Filename: ./debs/com.sparklechan.swifty_1.6_iphoneos-arm64e.deb
+Size: 3165472
+MD5: f05bbde30d37d6cf48dcc1c237b6ea5a
+SHA1: c7ddec059557379044fb9f9472cc81075abcebc6
+SHA256: bf3c9e3a9281b599963753d4da855fcaf5faacc276839646c4a7c34945c077ba
+SHA512: c4421107a6f6ed879680b5bb79e13b5c0ee360ce270143f97dac0d31f0e9071284a949d75be3bc18d9cc62a287c44b040723a15e669e8da180f4698046487c74
+
+
 Author: @CrazyMind90 <CvCrazyMind@gmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: AppEditor
