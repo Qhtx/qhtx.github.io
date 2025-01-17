@@ -1,3 +1,38 @@
+Package: com.yourepo.ibreak.hideseparator
+Section: Tweaks
+Maintainer: iBreak <ibreak2019@qq.com>
+Architecture: iphoneos-arm64e
+Version: 1.9.2
+Depends: mobilesubstrate
+Description: Hide separators system-wide  (including third-party Apps)
+Name: Hide Separator
+Author: iBreak <ibreak2019@qq.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.yourepo.ibreak.hideseparator_1.9.2_iphoneos-arm64e.deb
+Size: 10478
+MD5: 264586c2cef1fbda2a78a0a32bf2ef73
+SHA1: e69d182591ddcab6c89a57ef6ef5ecb8f4d6f3a8
+SHA256: 0ebc88c065ba6fffc92706cf34d434fa6d51577beda5b016c4e0d653f7d10757
+SHA512: 65967d595d9d127de64c1c0cee1db0c086855efdc0300955a0ee07b7c796a34ae80c1c680362ee31360785b48bfa624f25ba2e7a1ca8b1b0dcdc9606afb49424
+
+
+Package: com.yourepo.ibreak.hideseparator
+Section: Tweaks
+Maintainer: iBreak <ibreak2019@qq.com>
+Architecture: iphoneos-arm64
+Version: 1.9.2
+Depends: mobilesubstrate
+Description: Hide separators system-wide  (including third-party Apps)
+Name: Hide Separator
+Author: iBreak <ibreak2019@qq.com>
+Filename: ./debs/com.yourepo.ibreak.hideseparator_1.9.2_iphoneos-arm64.deb
+Size: 8040
+MD5: 76efab855ff86f38ee2cf803a8c6c1b5
+SHA1: 01f8986e23efdf5a43a191dbd76461a5af3a44be
+SHA256: 9ee33d6e8fa030aa2c006bc15ef96ba4af013dad384e7c7d0a50fcf1b4dc3725
+SHA512: 04cdb22e7643530a95c44b46fcf7cbb3f2fad8c8898a10288c094a7133a15fc81527f5f56f45ed6cb2a83c9d43e7a92959bec6b2b7e6cb333f7a2f9bc5b41994
+
+
 Package: com.ryannair05.cylinderremade
 Name: Cylinder Remade
 Architecture: iphoneos-arm64e
