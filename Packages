@@ -1,3 +1,22 @@
+Package: com.squidforce.copyvault
+Name: CopyVault
+Description: Your Copy Vault, Your Pasteboard
+Maintainer: SquidForce
+Author: SquidForce
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 1.8.1
+Installed-Size: 5444
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.squidforce.copyvault_1.8.1_iphoneos-arm64e.deb
+Size: 1683464
+MD5: bc10995ea095820632f8d551dfb3e5c0
+SHA1: a081cf3d7297e1ca5252f99edb1ec4802b1d3379
+SHA256: 33aa5ff5e2f11abd167735dfa67a972e2625ca9d5489748bd9f7e9647922520e
+SHA512: 27c9cabdd51d8eb84232b03634a462f9c46a4bb2b7f622ad8f4e47fbabd88270e6d0b80512d5f973b3a6b392ffe585711c9d9db2d3f9f35b53c8a97b4e29337e
+
+
 Package: com.sparklechan.swifty
 Name: FridaCodeManager
 Version: 1.6
