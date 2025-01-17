@@ -1,3 +1,51 @@
+Package: me.ikghd.ytkplus
+Name: YTKillerPlus
+Description: a whole new YouTube Experience!
+Maintainer: iKarwan <ikghd3@gmail.com>
+Author: iKarwan <ikghd3@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: me.ikghd.youtubekiller
+Tag: purpose::extension, compatible_min::ios14.0, compatible_max::ios18.8
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
+Architecture: iphoneos-arm64e
+Version: 3.2.52
+Installed-Size: 25688
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/me.ikghd.ytkplus_3.2.52_iphoneos-arm64e.deb
+Size: 9077024
+MD5: 302e9ed8981a4a2f83ca6cf34d9ddcc8
+SHA1: 064cbd87da738d6eab0e1bd94caa3e4aa4379a7a
+SHA256: 33c9d3d94d44ceb30ce08af8802bf604966516b568d2c173b3d42be1e17afeb6
+SHA512: a1b1ec1365eddf88836465cff3616b49280da5d2476849cb4700fff0cb9fc401c744f9c0d79cf2a23dd6e150c799e5a0370584e6ed726b48a48e5cf607e8e0eb
+
+
+Package: me.ikghd.inkplus
+Name: iNKillerPlus
+Description: a whole new Instagram Experience!
+Maintainer: iKarwan <ikghd3@gmail.com>
+Author: iKarwan <ikghd3@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: me.ikghd.instakiller
+Tag: purpose::extension, compatible_min::ios14.0, compatible_max::ios18.8
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
+Architecture: iphoneos-arm64e
+Version: 2.4.40
+Installed-Size: 996
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/me.ikghd.inkplus_2.4.40_iphoneos-arm64e.deb
+Size: 268264
+MD5: 55f0e38234b4cb10b7546f987e51ae89
+SHA1: 80e5436dae8a9307d2857a6762e2da8d0661f77e
+SHA256: ce1ad1265d558d6bd1d9e4c95c65a50fabed726c153bf9a7d772b84d694ab39b
+SHA512: 144693f4e5ab7d98afb44629ef07f6c3c140ffa5d7d39a8dda0b978f5a100334832783ea1de92dd381dce1a9c9a871da4c544ebd662a1ce426ea4644f8e67701
+
+
 Package: com.squidforce.copyvault
 Name: CopyVault
 Description: Your Copy Vault, Your Pasteboard
