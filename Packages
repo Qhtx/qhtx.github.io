@@ -639,7 +639,7 @@ Name: WatusiTools
 Version: 2.4.47
 Description: Library for Watusi, Regram and other tweaks
 Depends: firmware (>= 12.0)
-Section: Development
+Section: Fouad Raheb old
 Architecture: iphoneos-arm
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -657,7 +657,7 @@ Name: WatusiTools
 Version: 2.4.47
 Description: Library for Watusi, Regram and other tweaks
 Depends: firmware (>= 12.0)
-Section: Development
+Section: Fouad Raheb old
 Architecture: iphoneos-arm64
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -675,7 +675,7 @@ Name: WatusiTools
 Version: 2.4.47
 Description: Library for Watusi, Regram and other tweaks
 Depends: firmware (>= 12.0)
-Section: Development
+Section: Fouad Raheb old
 Architecture: iphoneos-arm64e
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -846,7 +846,7 @@ Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Description: The all-in-one tweak for WhatsApp Messenger
-Section: Tweaks
+Section: Fouad Raheb old
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.47)
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -865,7 +865,7 @@ SHA512: 6408253292a647a04221bff21959552f76b7821f2465b2b6d766f87955407f1b27f03b69
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
 Description: The all-in-one tweak for Instagram
-Section: Tweaks
+Section: Fouad Raheb old
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.46)
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -885,7 +885,7 @@ SHA512: 6975f1287c163ba6e527f462159c64db41a8b9951884fad56f375db90429769c8aa24371
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
 Description: The all-in-one tweak for Instagram
-Section: Tweaks
+Section: Fouad Raheb old
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.46)
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -1462,7 +1462,7 @@ Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Description: The all-in-one tweak for WhatsApp Messenger
-Section: Tweaks
+Section: Fouad Raheb old
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.37), com.muirey03.libmryipc
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -1482,7 +1482,7 @@ Name: WatusiTools
 Version: 2.4.38
 Description: Library for Watusi, Regram and other tweaks
 Depends: firmware (>= 14.0)
-Section: Development
+Section: Fouad Raheb old
 Architecture: iphoneos-arm
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -1498,7 +1498,7 @@ Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Description: The all-in-one tweak for WhatsApp Messenger
-Section: Tweaks
+Section: Fouad Raheb old
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -1518,7 +1518,7 @@ Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Description: The all-in-one tweak for WhatsApp Messenger
-Section: Tweaks
+Section: Fouad Raheb old
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -2008,7 +2008,7 @@ Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Description: The all-in-one tweak for WhatsApp Messenger
-Section: Tweaks
+Section: Fouad Raheb old
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.47)
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -2028,7 +2028,7 @@ Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Description: The all-in-one tweak for WhatsApp Messenger
-Section: Tweaks
+Section: Fouad Raheb old
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.47)
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
