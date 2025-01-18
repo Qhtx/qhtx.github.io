@@ -3,11 +3,10 @@ Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Description: The all-in-one tweak for WhatsApp Messenger
 Section: Tweaks
-Icon: https://i.imgur.com/0WYytkh.jpeg
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.3)
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+Icon: https://i.imgur.com/0WYytkh.jpeg
 Architecture: iphoneos-arm64
 Version: 1.2.53
 Installed-Size: 6440
@@ -43,11 +42,10 @@ Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Description: The all-in-one tweak for WhatsApp Messenger
 Section: Tweaks
-Icon: https://i.imgur.com/0WYytkh.jpeg
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.3)
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+Icon: https://i.imgur.com/0WYytkh.jpeg
 Architecture: iphoneos-arm64e
 Version: 1.2.53
 Installed-Size: 6440
