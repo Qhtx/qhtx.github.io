@@ -28,7 +28,7 @@ Section: Tweaks
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.3)
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
-Icon: https://i.imgur.com/0WYytkh.jpeg
+Icon: https://i.imgur.com/wdr3k2Z.jpeg
 Architecture: iphoneos-arm64
 Version: 1.2.53
 Installed-Size: 6440
@@ -67,7 +67,7 @@ Section: Tweaks
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.3)
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
-Icon: https://i.imgur.com/0WYytkh.jpeg
+Icon: https://i.imgur.com/wdr3k2Z.jpeg
 Architecture: iphoneos-arm64e
 Version: 1.2.53
 Installed-Size: 6440
