@@ -1,3 +1,21 @@
+Package: com.0xkuj.safarix
+Name: SafariX
+Description: Safari Essential Features
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Architecture: iphoneos-arm64e
+Version: 1.9.5
+Installed-Size: 824
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.0xkuj.safarix_1.9.5_iphoneos-arm64e.deb
+Size: 294800
+MD5sum: d54d9f7b605d60cc156b78b7cc1f1871
+SHA1: 48aad809df1a4f417c1cf0b3f73e14ff5f050051
+SHA256: ac437f9caec46726f92fdef83a7231112feb8623d6f81c1396c18079dac8c263
+
+
 Package: com.fouadraheb.contactsync
 Name: ContactSync
 Description: Sync WhatsApp Profile Pictures to your Contacts
