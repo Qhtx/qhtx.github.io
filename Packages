@@ -1,3 +1,20 @@
+Package: com.0xkuj.filzadirprobe
+Name: FilzaDirProbe
+Description: Filza Extension To Calculate Folders Inside Your Filesystem
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.6.2
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.0xkuj.filzadirprobe_1.6.2_iphoneos-arm64e.deb
+Size: 35136
+MD5sum: 9d017f7a1a4296e3eab773db29e92d8e
+SHA1: 5a8aca69ea352cb3a354f8ee3a8f8f2883cd718b
+SHA256: 0e42ded6310062ddacca0763ab3c69316ceb869a3d208c94401fbcd38cbe6596
+
+
 Package: com.0xkuj.safarix
 Name: SafariX
 Description: Safari Essential Features
