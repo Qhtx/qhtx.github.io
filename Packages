@@ -4,6 +4,7 @@ Description: Filza Extension To Calculate Folders Inside Your Filesystem
 Maintainer: 0xkuj
 Author: 0xkuj
 Section: Tweaks
+Icon: https://i.imgur.com/L4Cc8dL.jpeg
 Architecture: iphoneos-arm64e
 Version: 1.6.2
 Installed-Size: 240
@@ -21,6 +22,7 @@ Description: Safari Essential Features
 Maintainer: 0xkuj
 Author: 0xkuj
 Section: Tweaks
+Icon: https://i.imgur.com/xhSZQ5p.jpeg
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Architecture: iphoneos-arm64e
 Version: 1.9.5
