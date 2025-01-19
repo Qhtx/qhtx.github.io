@@ -1,3 +1,20 @@
+Package: com.tools4cydia.packages4
+Name: packages4
+Description: اظهار تفاصيل ديب وانشاء ملفات packages و bz2 وgz بسهوله !
+Maintainer: tools4cydia
+Author: tools4cydia
+Section: Tools4cydia
+Icon: https://i.imgur.com/qQFLyDP.jpeg
+Architecture: iphoneos-arm64e
+Version: 3.3.2-1+roothide
+Installed-Size: 732
+Filename: ./debs/com.tools4cydia.packages4_3.3.2-1+roothide_iphoneos-arm64e.deb
+Size: 69500
+MD5sum: e0cae9e8a22fe15a208f9fcf31a10a7f
+SHA1: fbe4ac8b5cce7599810ae2005c74760f731dad46
+SHA256: 340d0d4214594ed99e9533e74eafbb73ca67359b09355aef4badb29478f2ff44
+
+
 Package: com.0xkuj.filzadirprobe
 Name: FilzaDirProbe
 Description: Filza Extension To Calculate Folders Inside Your Filesystem
