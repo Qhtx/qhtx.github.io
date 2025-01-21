@@ -1,3 +1,23 @@
+Package: app.catscript.lite
+Name: CatScript Lite
+Depends: mobilesubstrate
+Conflicts: app.catscript.pro
+Description: An automation framework designed for the iOS platform
+Maintainer: 0x530c<0x530c@gmail.com>
+Author: 0x530c<0x530c@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.4.0
+Installed-Size: 7772
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/app.catscript.lite_1.4.0_iphoneos-arm64e.deb
+Size: 15320372
+MD5sum: 944a02dbd3564b8a146791f4d53ef4cb
+SHA1: 113c34e8ba53b70eca4c75536d76637fc53af8af
+SHA256: 6fd20ed91f30763fe4c03fa9cf447dac986063ccba27423983b83b250b8a99ff
+
+
+
 Package: com.tools4cydia.packages4
 Name: packages4
 Description: اظهار تفاصيل ديب وانشاء ملفات packages و bz2 وgz بسهوله !
