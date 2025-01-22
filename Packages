@@ -1,3 +1,24 @@
+Package: com.fouadraheb.regram
+Name: Regram for Instagram
+Description: The all-in-one tweak for Instagram
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: https://i.imgur.com/XYZ1gmb.jpeg
+Architecture: iphoneos-arm64e
+Version: 1.0~b21
+Installed-Size: 10756
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.fouadraheb.regram_1.0~b21_iphoneos-arm64e.deb
+Size: 2972564
+MD5sum: f9e6c32ad90cf91d595c1ac22ec3cf6f
+SHA1: 15b3695f6849765d6817d19b60c0ec128ed93c90
+SHA256: b70a221a06bcd6832eb92715563cd3129f91926c920af452fb7703fb15f7e1b2
+
+
 Package: app.catscript.lite
 Name: CatScript Lite
 Depends: mobilesubstrate
