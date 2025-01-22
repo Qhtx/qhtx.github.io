@@ -1,27 +1,3 @@
-Author: h_h_x_t <hhxt520@gmail.com>
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Name: Copy-text-rootless
-Package: cn.llld.copy1
-Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
-Section: Tweaks
-Installed-Size: 177
-Version: 1.2
-Architecture: iphoneos-arm64e
-Description: Individual text can be copied by long-pressing in the (settings and appstore and message and cocoatop,sileo,saily,QQ)
-	currently in the testing phase, and more support will be added in future updates.
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=copytextrootlessDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=copytextrootlessDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: hhxt
-Tag: purpose::extension
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/cn.llld.copy1_1.2_iphoneos-arm64e.deb
-Size: 8244
-MD5sum: d851e932ab0aac472454e7e406fbe463
-SHA1: b03846fe76ef5ab71b73c098b0c13708dc896ac5
-SHA256: c3b9a884318430f1ae57d0ddc8161965b7f75850a747a68b0a25a87adb203652
-
-
 Package: ru.domo.cocoatop64
 Name: CocoaTop
 Depends: 
