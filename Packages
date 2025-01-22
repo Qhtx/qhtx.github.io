@@ -1,3 +1,22 @@
+Package: ru.domo.cocoatop64
+Name: CocoaTop
+Depends: 
+Conflicts: ru.domo.cocoatop, xyz.cypwn.cocoatop64
+Icon: https://i.imgur.com/TTIm0yH.jpeg
+Architecture: iphoneos-arm64e
+Description: Process Viewer for iOS GUI, updated for iOS 15 , 16 by SXX.
+Maintainer: SXX, Domo
+Author: Domo, SXX
+Section: Utilities
+Version: 2.2.4
+Installed-Size: 892
+Filename: ./debs/ru.domo.cocoatop64_2.2.4_iphoneos-arm64e.deb
+Size: 202300
+MD5sum: a64fcfd24b3b92c50ccbb9101685a4db
+SHA1: a0691a7ec3244349779fd40a4ccf6b28f90c3152
+SHA256: 86e5d247475523fc2d6098b8ba5c3215432b721fb46766dff85688b234b4aede
+
+
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
 Description: The all-in-one tweak for Instagram
