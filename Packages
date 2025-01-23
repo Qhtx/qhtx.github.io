@@ -20,7 +20,7 @@ SHA256: 86e5d247475523fc2d6098b8ba5c3215432b721fb46766dff85688b234b4aede
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
 Description: The all-in-one tweak for Instagram
-Section: Tweaks
+Section: Fouad Raheb Tweaks
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -6841,27 +6841,6 @@ SHA1: 8a63ed80d7a66791e5c8f2b2676e25dba17dad6f
 SHA256: b7f64e014f3e8a7c7a3d68a6c9a6375c03551a3a2af45b91555c7c989eca6d55
 SHA512: 9c69254433cccd04c6093ba5eb20033df3276c1d055223e420b3b406d913cff3923a71e3f7fe51bf0cde14af9a38bad313aedd11dbbcf3c9f4e25a56df2558b0
 
-Package: weeb.lillie.youtubedislikesreturn
-Version: 1.12.7
-Architecture: iphoneos-arm64e
-Section: Tweaks
-Maintainer: PoomSmart and kirb <ytdislikesreturn@gmail.com>
-Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
-Installed-Size: 219
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Name: Return YouTube Dislike
-Description: Bring Back Dislikes On iOS YouTube
-Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
-Depiction: https://chariz.com/get/return-youtube-dislike
-Tag: compatible_min::ios11.0
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/weeb.lillie.youtubedislikesreturn_1.12.7_iphoneos-arm64e.deb
-Size: 24612
-MD5: e7aff62d083bcf2592a9e3ec7164b0d1
-SHA1: 6d6899bd705ad1ba7de95a0bf41ed1db159557d5
-SHA256: 64e62456ac9c77509fcf191760edbd8b8ce2fdd3b11d7527088701c25c720bb1
-SHA512: fa8fac5eb4b76c8a1fd4b4176a692175b5dbd5b8aeae16d9f9ecccc7cfebd121c3db79a55911038ee747fe1f232a8ecc308b38e82d5015b88a8fe8826e878191
-
 Author: ichitaso
 Maintainer: Havoc
 Name: IconOrder
@@ -6916,6 +6895,7 @@ Description: Syncs icon badge values when notifications are dismissed from the n
 Maintainer: newwares
 Author: newwares
 Section: Tweaks
+Icon: https://i.imgur.com/4u7AUpX.jpeg
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), ws.hbang.common, preferenceloader, com.opa334.altlist
 Architecture: iphoneos-arm64e
 Version: 1.2.2
@@ -6934,6 +6914,7 @@ Description: An awesome MobileSubstrate tweak!
 Maintainer: Ethan Whited
 Author: Ethan Whited
 Section: Tweaks
+Icon: https://i.imgur.com/IvpVXHO.jpeg
 Depends: 
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -6953,7 +6934,7 @@ Description: Simply plugin loader for iOS system menu.
 Maintainer: r_plus
 Author: r_plus
 Section: Tweaks
-Icon: file:///Library/PreferenceBundles/MenuSupportSettings.bundle/MenuSupport@3x.png
+Icon: https://i.imgur.com/9BChlao.jpeg
 Architecture: iphoneos-arm64e
 Version: 1.3.0
 Installed-Size: 504
@@ -6989,6 +6970,7 @@ Description: Remove the annoying paste confirmation added on iOS 16
 Maintainer: 0xkuj
 Author: 0xkuj
 Section: Tweaks
+Icon: https://i.imgur.com/7vVZdjW.jpeg
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64e
 Version: 1.0.0
@@ -7043,6 +7025,7 @@ Version: 1.0.4
 Description: Adds a button to switch account in App Store account page on iOS 11+.
 Author: 0xkuj <0xkujz@gmail.com>
 Section: Tweaks
+Icon: https://i.imgur.com/G6dqZSZ.jpeg
 Depends: firmware (>= 11)
 Maintainer: 0xkuj <0xkujz@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -7060,6 +7043,7 @@ Version: 1.0.0
 Description: Bring Back Old Twitter Label Name!
 Author: CydiaGeek <lucaluca86@aol.com>
 Section: Tweaks
+Icon: https://i.imgur.com/ZicVC4P.jpeg
 Depends: mobilesubstrate
 Maintainer: CydiaGeek <lucaluca86@aol.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -7086,7 +7070,7 @@ Section: Tweaks
 Tag: purpose::uikit
 Installed-Size: 9121
 dev: satashi2009
-Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
+Icon: https://i.imgur.com/GkcsRrI.jpeg
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.tigisoftware.appdatamanager_1.8.2-5_iphoneos-arm64e.deb
 Size: 2476352
