@@ -1,3 +1,24 @@
+Package: com.crazymind90.appeditor
+Name: AppEditor
+Depends: mobilesubstrate, ldid
+Description: An awesome MobileSubstrate tweak!
+Maintainer: @CrazyMind90
+Author: @CrazyMind90
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 3.8.8
+Installed-Size: 57664
+Icon: https://repo.crazy90.com/imgs/Logo.png
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appeditorDp
+SileoDepiction: https://crazy90.com/repo/1.json
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.crazymind90.appeditor_3.8.8_iphoneos-arm64e.deb
+Size: 19602188
+MD5sum: 940969dd9d2a748d5a607d38ff161ee2
+SHA1: 5a9829d507adfa0ddc56c7c36f03c1d6f4ea6a49
+SHA256: 3b0cc5952722a6f6f98347629de0e3c0dca605ca7717fc2b5a71957d0e37e33d
+
+
 Package: com.ps.youpip
 Name: YouPiP
 Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
@@ -570,7 +591,7 @@ Sileodepiction: https://crazy90.com/repo/1.json
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: crazymind90
 Tag: purpose::extension
-Icon: file:///var/jb/Applications/AppEditorApp.app/AppIcon60x60@2x.png
+Icon: https://repo.crazy90.com/imgs/Logo.png
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.crazymind90.appeditor_3.8.10.7_iphoneos-arm64e.deb
 Size: 20003932
