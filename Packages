@@ -1,39 +1,22 @@
 
 
-Package: ai.akemi.appsyncunified
-Name: AppSync Unified 222
-Version: 112.0
+Package: jp.dcsyhi.zetsu
+Name: Zetsu
+Version: 1.6.2
 Architecture: iphoneos-arm64e
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.1)
-Filename: ./debs/ai.akemi.appsyncunified_112.0_iphoneos-arm64e.deb
-Size: 33924
-MD5sum: 334e4ab247f242dd5ef0409f224f5ad3
-SHA1: dcea78b9f34c32d9a15741307402a6a6942ea495
-SHA256: b928da3369cb9d379ebf7f5f39a4fb2c880474b1f8f7d2eeff67da3008a9439e
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
+Filename: ./debs/jp.dcsyhi.zetsu_1.6.2_iphoneos-arm64e.deb
+Size: 20979540
+MD5sum: 62543028d9ad7119c3f0ed236c89864c
+SHA1: 34ef7725c86a51fa2010910b99904dc286a85b54
+SHA256: e72cb0e41033f6109424d5bf7ae7ed26428903d30e593d1764084f929d4799dc
 Section: Tweaks
-Description: Enables the ability to install unsigned/fakesigned iOS applications.
-Author: Karen/あけみ <karen@akemi.ai>
-Depiction: 
-SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/AppSync.json
-Icon: https://i.imgur.com/KMCa11k.jpeg
-Installed-size: 34
-
-
-
-
-Package: com.0xkuj.safarix
-Name: SafariX
-Version: 1.3.0
-Architecture: iphoneos-arm64
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/safarix_1.3.0_arm64.deb
-Size: 272316
-MD5sum: 7c0a4a3f27e7ce5858c63dd64796faa8
-SHA1: bb70cf4ffbedba9cd55dd903a3c1a8f5ef7f1b70
-SHA256: 65b005b3c6d0d2d68ed86ae473c2993e0afe12b43b2c7730e8b7061aa975d1d1
-Section: Tweaks
-Description: Safari Essential Features
-Author: 0xkuj
+Description: Multitasking on iOS15 - iOS16.
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Depiction: https://chariz.com/get/zetsu
+SileoDepiction: 
+Icon: https://img.chariz.cloud/icon/zetsu/icon@3x.png
+Installed-size: 20488
 
 
 Package: com.crazymind90.appeditor
