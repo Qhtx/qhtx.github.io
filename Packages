@@ -1,3 +1,37 @@
+Package: com.f0u4d.stalky
+Name: Stalky
+Version: 4.1.36
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.4)
+Filename: ./debs/com.f0u4d.stalky_4.1.36_iphoneos-arm64e.deb
+Size: 1577532
+MD5sum: 82b9c40d9c6f207bbee911c2ca7f19d1
+SHA1: 991ecd47ea62150e813c7b3f3e40c9ecde6e3f70
+SHA256: e60e96cb4ee75741beb201b352c18ea2620b1088d430904b98c1ea480cd38ed3
+Section: Fouad Raheb Tweaks
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Icon: https://i.imgur.com/dCflnyf.jpeg
+Installed-size: 1541
+
+
+Package: com.f0u4d.watusitools
+Name: WatusiTools
+Version: 2.5.4
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 12.0)
+Filename: ./debs/com.f0u4d.watusitools_2.5.4_iphoneos-arm64e.deb
+Size: 4605968
+MD5sum: dfde41e06bc599c5c6d36e65ee23f94a
+SHA1: f835915a758f7e70420707447e5e66f1bb992b7e
+SHA256: 6464383b037be9968dd3937d7b16953c3a5853229187887f155e31a9663428e3
+Section: Fouad Raheb Tweaks
+Description: Library for Watusi, Regram and other tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Icon: https://i.imgur.com/0WYytkh.jpeg
+Installed-size: 4499
 
 
 Package: jp.dcsyhi.zetsu
