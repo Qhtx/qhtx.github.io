@@ -1,3 +1,45 @@
+
+
+Package: com.den.igformat
+Name: IGFormat
+Version: 1.70-1
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.den.igformat_1.70-1_iphoneos-arm64e.deb
+Size: 153012
+MD5sum: 3ffdbdc311895edebeebe0a27ea03ae5
+SHA1: deb6e8f8b29fdb2b2dca141ec86ac5e56c86a6c5
+SHA256: 265baf7de18fe3f0342c6d7b7ed1973dfe31a46592c3f608df09f1ec16d5cb46
+Section: Tweaks
+Description: Powerful Instagram Tweak
+Author: MrDeNsor
+Depiction: 
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+Installed-size: 1079
+
+
+
+
+Package: com.den.igformat
+Name: IGFormat
+Version: 1.70-1
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.den.igformat_1.70-1_iphoneos-arm64.deb
+Size: 157772
+MD5sum: 477979e53f61c13675d7dae0079b54b5
+SHA1: 27ba7da4a179d12fab6ead2b07854bde9ac540b1
+SHA256: d8b0e01603626ba1a9c879291fea23d645f62686162b641e0eb1f4c81f618b56
+Section: Tweaks
+Description: Powerful Instagram Tweak
+Author: MrDeNsor
+Depiction: 
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+Installed-size: 1112
+
+
 Package: com.f0u4d.stalky
 Name: Stalky
 Version: 4.1.36
