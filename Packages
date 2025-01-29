@@ -1,5 +1,68 @@
 
 
+Package: com.fouadraheb.watusi3
+Name: Watusi 3 for WhatsApp
+Version: 1.2.54
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.3)
+Filename: ./debs/com.fouadraheb.watusi3_1.2.54_iphoneos-arm64e.deb
+Size: 1905560
+MD5sum: eda4e16da426f913bae7e56bf5b459bf
+SHA1: 125312547cf09692575a97568021d4b1e0701f99
+SHA256: 9d40d0341424850fc97aa320aa7c0a1942e5ff6df8069459db1e21547024ee80
+Section: Fouad Raheb Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+SileoDepiction: 
+Icon: https://i.imgur.com/0WYytkh.jpeg
+Installed-size: 1861
+
+
+
+
+Package: com.fouadraheb.watusi3
+Name: Watusi 3 for WhatsApp
+Version: 1.2.54
+Architecture: iphoneos-arm64
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.3)
+Filename: ./debs/com.fouadraheb.watusi3_1.2.54_iphoneos-arm64.deb
+Size: 1921380
+MD5sum: ece38c98e6046150761fbe865da43f24
+SHA1: f702b03988d156f754b8c66c2f8a99e0f68fa13c
+SHA256: 5cb8d663b732f5e4e010bae297e787a639d771180c130b44ad22f91a962f6ee6
+Section: Fouad Raheb Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+SileoDepiction: 
+Icon: https://i.imgur.com/0WYytkh.jpeg
+Installed-size: 1877
+
+
+
+
+Package: com.0xkuj.safarix
+Name: SafariX
+Version: 1.9.6
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.0xkuj.safarix_1.9.6_iphoneos-arm64e.deb
+Size: 352436
+MD5sum: 4e4ca92c2f734ad8445bb86150a8ec84
+SHA1: 32003658e193b97b3d7ed57fb1e325ad60727d99
+SHA256: 3e9ace4ad0e1f506289c09063b3994cfd4df4156ca44e1609ab8a756301b59ec
+Section: Tweaks
+Description: Safari Essential Features
+Author: 0xkuj
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 345
+
+
+
+
 Package: com.yasxi.telegramunseenmessage
 Name: Telegram || Unseen Message
 Version: 4.2.0
