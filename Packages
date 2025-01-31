@@ -1,5 +1,23 @@
 
 
+Package: com.yourepo.ibreak.nobigtitles
+Name: No Bigtitles
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.ibreak.nobigtitles_1.0.1_iphoneos-arm64e.deb
+Size: 4444
+MD5sum: d5d5e63d69a84a4123f17af6d0cf7834
+SHA1: 03eee1df62d7b7768b1e3c817524f4b8d84de9c4
+SHA256: 9cbf8488c5a4c2d03ff66df550b5ffef12c364c869f1b1954f7d392cf6879f7d
+Section: Tweaks
+Description: no bigtitles
+Author: iBreak <ibreak2019@qq.com>
+
+
+
+
+
 Package: com.yourepo.ibreak.hideseparator
 Name: Hide Separator
 Version: 1.9.3
