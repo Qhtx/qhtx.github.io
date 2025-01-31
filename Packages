@@ -1,3 +1,42 @@
+Package: com.niceios.nicehelper-roothide
+Description: nice插件依赖组件.
+Version: 6.6-3
+Section: Addons
+Icon: https://i.imgur.com/Et0mSTF.jpeg
+Maintainer: niceios
+Architecture: iphoneos-arm64e
+Installed-Size: 2648
+Name: NiceHelper【Roothide】
+Author: niceios
+Sponsor: niceios
+Filename: ./debs/com.niceios.nicehelper-roothide_6.6-3_iphoneos-arm64e.deb
+Size: 733762
+MD5: 7e6f77cad027aacb21ce47475331a13f
+SHA1: c5d1da5aec05b2def9a1b29b7393f9f5f6b75be0
+SHA256: b54a778c35bd67ff42f9ab66013a6cf94b5f9f1c82b78e2ca532e4266dfb98cc
+SHA512: 13db6596b50640fdc51be9ee87938a500c42071224225aec51e68ea12fa56f2e4cc920625b7d14fbf2ce839f282be8ed2c2f3345e51d67dc7fd96c1dc5a3c43d
+
+
+
+Package: com.niceios.nicebarx16-roothide
+Description: 状态栏插件.
+Version: 1.0.1.2-4
+Section: Tweaks
+Icon: https://i.imgur.com/Et0mSTF.jpeg
+Maintainer: niceios
+Depends: mobilesubstrate,com.niceios.nicehelper-roothide(>=6.3),preferenceloader
+Architecture: iphoneos-arm64e
+Installed-Size: 14792
+Name: NiceBarX(iOS16)【Roothide】
+Author: niceios
+Sponsor: niceios
+Filename: ./debs/com.niceios.nicebarx16-roothide_1.0.1.2-4_iphoneos-arm64e.deb
+Size: 4227690
+MD5: 6d4dac3906aac84f6a3aef4c5fdac858
+SHA1: 7fca7744009677ff20aaa6057024350f862bc04f
+SHA256: 394ea646aa8c86e8630b3e691fc49bb0b9341dc8b84d6f8ab78f632c6837d7de
+SHA512: 0e0d5c1f85817671eff98b481f26bb496734360c2edd3fbdaf1f60ef3f394166015031cad7d952eb954e15bd5b03dff70ed477a2343ad58d7933df509db8836c
+
 
 
 Package: com.yourepo.ibreak.nobigtitles
