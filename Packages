@@ -10,7 +10,7 @@ Size: 1905168
 MD5sum: 5f8b3bad08669d22bd7553f5c28be098
 SHA1: 71f3bcf0cef36aea7d82c6179fcb9155559c1380
 SHA256: 91ca7cc8f5dd2a8a1fc197e4f84007b17be37af5a5f88a72bce676a65e5f7c82
-Section: Tweaks
+Section: Fouad Raheb Tweaks
 Description: The all-in-one tweak for WhatsApp Messenger
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
@@ -31,7 +31,7 @@ Size: 4586720
 MD5sum: 76ed6ca1149fd2bcce306217eb76419e
 SHA1: b4e04c9bfa795b33b32991802d401b4d1794d09d
 SHA256: 65313f57aad0a15bce1c50fa6086e876f78b0542729924041f23f2bafb1e3c2a
-Section: Development
+Section: Fouad Raheb Tweaks
 Description: Library for Watusi, Regram and other tweaks
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
@@ -52,7 +52,7 @@ Size: 4613932
 MD5sum: 0377fee8362f6dfa7f2efcf58edf7e73
 SHA1: 4721f665575cf1c4cd7964eb3d76c8afdd2cb796
 SHA256: 772dcecdad06951c4c530c75a423f3ad476b1fa2909e4d83d996d4951a2465ae
-Section: Development
+Section: Fouad Raheb Tweaks
 Description: Library for Watusi, Regram and other tweaks
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
@@ -73,7 +73,7 @@ Size: 1921592
 MD5sum: 8a6a9a41e72f9f27032386380834e6a9
 SHA1: 24dce9189850eba8f7c7eb67b5ea92e7f77f03ba
 SHA256: 4d04ee75bac3fcbce1175abb3246bb862600a362d39fd5c57751c1d0f5bf6c96
-Section: Tweaks
+Section: Fouad Raheb Tweaks
 Description: The all-in-one tweak for WhatsApp Messenger
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
@@ -94,7 +94,7 @@ Size: 1578040
 MD5sum: b9f42555e6cf820e44d9348d0677b3b1
 SHA1: 70b885fd9edf0a1fea52836184d12cdbb07267fd
 SHA256: 029b0d62296019f6c1a88d90880eee9617daea03f144d93de926a5d263fa1790
-Section: Tweaks
+Section: Fouad Raheb Tweaks
 Description: Track & download your contacts latest profile & statuses updates on WhatsApp
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
