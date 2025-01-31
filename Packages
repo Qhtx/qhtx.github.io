@@ -1,3 +1,62 @@
+
+
+Package: com.tools4cydia.copylinkdeb
+Name: CopyLinkDeb
+Version: 3.0.4-1+rootless
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Filename: ./debs/com.tools4cydia.copylinkdeb_3.0.4-1+rootless_iphoneos-arm64e.deb
+Size: 476356
+MD5sum: 634c91787e897733fec86459f9a15fad
+SHA1: 163e2fee8b1c73274473342a9b11690996631e78
+SHA256: da60ca0411c4ec97be2a6350e17cb4d8bbab18c72befacaa83beed5ebce056d7
+Section: Utilities
+Description: تحميل ونسخ روابط ديب من سورسات Download deb files from sources!
+Author: Tools4cydia
+Installed-size: 466
+
+
+
+
+Package: com.tools4cydia.copylinkdeb
+Name: CopyLinkDeb
+Version: 3.0.4-1+rootless
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Filename: ./debs/com.tools4cydia.copylinkdeb_3.0.4-1+rootless_iphoneos-arm64.deb
+Size: 476268
+MD5sum: 9bb68130bfb1d3cdc5d55d058a28efba
+SHA1: 70dbef3113ac9f755e94af8e45ec17e330a1b060
+SHA256: 6fb12f382c2bbdf52ec79e72f9eb7b26fba132b49d130a13c1a6f40ab2558638
+Section: Utilities
+Description: تحميل ونسخ روابط ديب من سورسات Download deb files from sources!
+Author: Tools4cydia
+Installed-size: 466
+
+
+
+
+Package: com.nan.pointless
+Name: Pointless
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Filename: ./debs/com.nan.pointless_0.1.0_iphoneos-arm64e.deb
+Size: 1560
+MD5sum: d858f01bf76397c7f70fc70f943a2444
+SHA1: ae98bc6fad26af6ba912bacb52962537621b00ff
+SHA256: b65c4c9da9d11f19eed245ce96f07a4e836af4381031d7958401b5ad8d359858
+Section: Addons
+Description: 毫无意义的守护进程，但是能解决我手机闲置时过度发热和闲置时接入电源重启的问题
+Author: zhaonan
+Depiction: 
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.pointless/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Installed-size: 2
+
+
+
+
 Package: com.nan.disablesblockaftercrash
 Name: Disable SB Lock After Crash
 Version: 0.1.0
