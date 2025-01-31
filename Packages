@@ -1,5 +1,87 @@
 
 
+Package: weeb.lillie.youtubedislikesreturn
+Name: Return YouTube Dislike
+Version: 1.13.3
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/weeb.lillie.youtubedislikesreturn_1.13.3_iphoneos-arm64e.deb
+Size: 34516
+MD5sum: 42174845111584db76e14294a09c745e
+SHA1: db2fb1726f06d1d86d6ce7eca25bac7ca5526fa8
+SHA256: ee4cc08d2b6f5a54b146a58c24072d34a529d5e16110227a46adcaf66efd11f6
+Section: Tweaks
+Description: Bring Back Dislikes On iOS YouTube
+Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
+Depiction: https://chariz.com/get/return-youtube-dislike
+Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
+Installed-size: 34
+
+
+
+
+Package: com.0xkuj.safarix
+Name: SafariX
+Version: 1.9.7
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.0xkuj.safarix_1.9.7_iphoneos-arm64e.deb
+Size: 337920
+MD5sum: ca02bc2f5f24109995f45fc732fedb9c
+SHA1: 573261dcbcb284c8b19b72f24ead8720bb9d41d1
+SHA256: 5ad870a49dda2c1d0b0f8dcb1233298e86853d416cf887f7552287c5b590883c
+Section: Tweaks
+Description: Safari Essential Features
+Author: 0xkuj
+Icon: https://i.imgur.com/xhSZQ5p.jpeg
+
+
+
+Package: com.ali.aimpro
+Name: AIM Pro
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 2.0), com.spark.libsparkcolourpicker
+Filename: ./debs/com.ali.aimpro_1.1.1_iphoneos-arm64e.deb
+Size: 5405664
+MD5sum: d8ce756013df7d0dd88ae77fcfc0c887
+SHA1: ab20f44443650ca174ad0d768b8282258986c0ec
+SHA256: 039cfde2e392615e68d58a29ca4e62986c436148c8b10230f186ca4d3a17a892
+Section: Tweaks
+Description: iOS 16 Style Time & Date Lockscreen
+Author: alimaulana
+
+
+Package: com.spark.libsparkapplist
+Name: libSparkAppList
+Version: 1.1.0~rootless
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Filename: ./debs/com.spark.libsparkapplist_1.1.0~rootless_iphoneos-arm64e.deb
+Size: 33398
+MD5sum: d0a5591baedff8c2130b6baa130fc54b
+SHA1: 4a70ae8fad332edb8a5187147d3c065e5ceb8714
+SHA256: a1e9feb4ad8c2d6c4dfcf0edd275b5b44cf42ba338e61d25c3109839dd079b26
+Section: System
+Description: AppList alternative
+Author: Spark
+
+
+Package: com.spark.libsparkcolourpicker
+Name: libsparkcolourpicker
+Version: 1.0.3-rootless
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Filename: ./debs/com.spark.libsparkcolourpicker_1.0.3-rootless_iphoneos-arm64e.deb
+Size: 97414
+MD5sum: 2c435e7a50e3bbb9c771f19f50e406d4
+SHA1: 875fc42cdfe72689f7543d26d13a312b0f106623
+SHA256: 260a224e379f93917da9761718c8b2a2a6f8fa9b9b0a613cd0eda2cdf93c7837
+Section: System
+Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
+Author: Spark
+
+
 Package: com.f0u4d.watusitools
 Name: WatusiTools
 Version: 2.5.4
@@ -16,8 +98,6 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Icon: https://i.imgur.com/0WYytkh.jpeg
 Installed-size: 4525
-
-
 
 
 Package: com.fouadraheb.watusi3
@@ -38,8 +118,6 @@ Icon: https://i.imgur.com/0WYytkh.jpeg
 Installed-size: 1861
 
 
-
-
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Version: 1.2.54
@@ -58,8 +136,6 @@ Icon: https://i.imgur.com/0WYytkh.jpeg
 Installed-size: 1877
 
 
-
-
 Package: com.0xkuj.safarix
 Name: SafariX
 Version: 1.9.6
@@ -75,7 +151,6 @@ Description: Safari Essential Features
 Author: 0xkuj
 Icon: https://i.imgur.com/xhSZQ5p.jpeg
 Installed-size: 345
-
 
 
 
