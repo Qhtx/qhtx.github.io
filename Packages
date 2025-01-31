@@ -1,5 +1,47 @@
 
 
+Package: com.nan.pointless
+Name: Pointless
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Filename: ./debs/com.nan.pointless_0.1.0_iphoneos-arm64e.deb
+Size: 1560
+MD5sum: d858f01bf76397c7f70fc70f943a2444
+SHA1: ae98bc6fad26af6ba912bacb52962537621b00ff
+SHA256: b65c4c9da9d11f19eed245ce96f07a4e836af4381031d7958401b5ad8d359858
+Section: Addons
+Description: 毫无意义的守护进程，但是能解决我手机闲置时过度发热和闲置时接入电源重启的问题
+Author: zhaonan
+Depiction: 
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.pointless/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Installed-size: 2
+
+
+
+
+Package: com.nan.disablesblockaftercrash
+Name: Disable SB Lock After Crash
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Depends: plutil | com.bingner.plutil
+Filename: ./debs/com.nan.disablesblockaftercrash_0.1.0_iphoneos-arm64e.deb
+Size: 1220
+MD5sum: d2f7d67aa6053c2494a09ddc22834673
+SHA1: 35072e30ad900b466ef4a91ebc71e41b7e0830c7
+SHA256: 30cc87cba4cbd73ffa1bd395856de750d108d63a30fee15359e820a3481a3904
+Section: System
+Description: 禁用 SpringBoard 崩溃后自动锁定的策略
+Author: zhaonan
+Depiction: 
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablesblockaftercrash/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Installed-size: 2
+
+
+
+
 Package: com.nan.rebirth
 Name: Rebirth
 Version: 0.1.4
@@ -150,6 +192,27 @@ Author: MTAC
 SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.prefs.localizer.json
 Icon: https://mtac.app/repo/assets/com.mtac.prefs.localizer/icon-rounded.png
 Installed-size: 12
+
+
+
+
+Package: com.nan.rebirth
+Name: Rebirth
+Version: 0.1.4
+Architecture: iphoneos-arm64e
+Depends: coreutils, lsof
+Filename: ./debs/com.nan.rebirth_0.1.4_iphoneos-arm64e.deb
+Size: 3896
+MD5sum: 3c0b1aa10f41beafc7e48b857fd6fb2d
+SHA1: 3b56e77ad8507183d3e9a3f8887184daec3123af
+SHA256: 70cb4fbad5002a156458ddfd13daeb9abd302c5d7fbaedbaea72266285600d0e
+Section: Terminal_Support
+Description: 生成为转生准备的 deb，只需清除越狱后分享给 Sileo，将会依赖安装此包时本地已安装的插件（需要自己先添加源），创建的文件位于 /var/mobile/Documents/
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.rebirth/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Installed-size: 4
+
 
 
 
