@@ -1,7 +1,7 @@
 
 
 Package: com.spark.snowboardapplication
-Name: SnowBoard
+Name: SnowBoard Application
 Version: 1.1.0~Beta4-rootless
 Architecture: iphoneos-arm64e
 Depends: com.spark.snowboard
