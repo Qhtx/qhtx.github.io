@@ -1,7 +1,28 @@
 
 
+Package: com.nan.rebirth
+Name: Rebirth
+Version: 0.1.4
+Architecture: iphoneos-arm64e
+Depends: coreutils, lsof
+Filename: ./debs/com.nan.rebirth_0.1.4_iphoneos-arm64e.deb
+Size: 2048
+MD5sum: 2209eb84a0a3965f0309ebedcf894a26
+SHA1: 28bce8bc731a571ccc0162041c9996b2a0a69cee
+SHA256: 8690233ab6f53777404f34a9467326210542e182e44c25f9cb13304c9e7b0dad
+Section: Terminal_Support
+Description: 生成为转生准备的 deb，只需清除越狱后分享给 Sileo，将会依赖安装此包时本地已安装的插件（需要自己先添加源），创建的文件位于 /var/mobile/Documents/
+Author: zhaonan
+Depiction: 
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.rebirth/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Installed-size: 2
+
+
+
+
 Package: com.spark.snowboardapplication
-Name: SnowBoard Application
+Name: SnowBoard
 Version: 1.1.0~Beta4-rootless
 Architecture: iphoneos-arm64e
 Depends: com.spark.snowboard
@@ -129,27 +150,6 @@ Author: MTAC
 SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.prefs.localizer.json
 Icon: https://mtac.app/repo/assets/com.mtac.prefs.localizer/icon-rounded.png
 Installed-size: 12
-
-
-
-
-Package: com.nan.rebirth
-Name: Rebirth
-Version: 0.1.4
-Architecture: iphoneos-arm64e
-Depends: coreutils, lsof
-Filename: ./debs/com.nan.rebirth_0.1.4_iphoneos-arm64e.deb
-Size: 3896
-MD5sum: 3c0b1aa10f41beafc7e48b857fd6fb2d
-SHA1: 3b56e77ad8507183d3e9a3f8887184daec3123af
-SHA256: 70cb4fbad5002a156458ddfd13daeb9abd302c5d7fbaedbaea72266285600d0e
-Section: Terminal_Support
-Description: 生成为转生准备的 deb，只需清除越狱后分享给 Sileo，将会依赖安装此包时本地已安装的插件（需要自己先添加源），创建的文件位于 /var/mobile/Documents/
-Author: zhaonan
-SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.rebirth/js.json
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
-Installed-size: 4
-
 
 
 
