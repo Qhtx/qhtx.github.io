@@ -1,5 +1,23 @@
 
 
+Package: com.spark.snowboardapplication
+Name: SnowBoard
+Version: 1.1.0~Beta4-rootless
+Architecture: iphoneos-arm64e
+Depends: com.spark.snowboard
+Filename: ./debs/com.spark.snowboardapplication_1.1.0~Beta4-rootless_iphoneos-arm64e.deb
+Size: 629530
+MD5sum: 5444b1442dd60dbeab8060ec3b1570dc
+SHA1: 307b34829aad1dafae350def928cfb96bbcd1212
+SHA256: 791461f51311dc7487f89517f4e06c3fc3e040c2984c3af3efc9cf65a1c35216
+Section: Utilities
+Description: An awesome application!
+Author: Spark
+Installed-size: 615
+
+
+
+
 Package: netskao.appdata-rootless
 Name: AppData-Rootless
 Version: 1.4.1
