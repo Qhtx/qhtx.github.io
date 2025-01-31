@@ -1,5 +1,159 @@
 
 
+Package: netskao.appdata-rootless
+Name: AppData-Rootless
+Version: 1.4.1
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/netskao.appdata-rootless_1.4.1_iphoneos-arm64e.deb
+Size: 5069720
+MD5sum: fa6e81699de40407cb2c5e5e68cc76af
+SHA1: 5ddd27d7a8198d8bc16b6d492f1844ae9e88d901
+SHA256: 369c6d6a120ce92b198e0b326d2df6897a90653a755ea91ecaad4b6ef709ead9
+Section: Tweaks
+Description: View & Manage Applications Data from your Home Screen & downgrade
+Author: Nets
+Installed-size: 4951
+
+
+
+
+Package: jp.dcsyhi.kbappdock
+Name: KBApp
+Version: 1.5
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Filename: ./debs/jp.dcsyhi.kbappdock_1.5_iphoneos-arm64e.deb
+Size: 842602
+MD5sum: d116d1fbcf69a5378393de458d8c4ed4
+SHA1: 4b7e86655a294b1050139df1996ba7bc75321672
+SHA256: fe07113e1ab90375545bf50682d49fcd535ef5f3cfe4d13fe4814681c280e335
+Section: Tweaks
+Description: You can arrange apps on the dock of keyboard ⌨️.
+Author: Dcsyhi
+Installed-size: 823
+
+
+
+
+Package: org.thebigboss.libcolorpicker
+Name: libcolorpicker (Unofficial)
+Version: 1.6.9.1
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 6.0)
+Filename: ./debs/org.thebigboss.libcolorpicker_1.6.9.1_iphoneos-arm64e.deb
+Size: 96984
+MD5sum: eb3f6ef90cbfdaf29d07f461890945fc
+SHA1: c5874de4cea493b82706c0806f682b6fe275b84d
+SHA256: 6418dc225cbf3e1d39c888c9823575f32f16fe3462d739ee3d0f0755d1dde0ac
+Section: System
+Description: An awesome library of some sort!!
+Author: Bailey Seymour
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=org.thebigboss.libcolorpicker
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/org.thebigboss.libcolorpicker.json
+Icon: https://p2kdev.github.io/repo/api/packageinfo/org.thebigboss.libcolorpicker/icon.png
+Installed-size: 95
+
+
+
+
+Package: com.muirey03.libmryipc
+Name: libMRYIPC-Rootless
+Version: 2.0.1
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Filename: ./debs/com.muirey03.libmryipc_2.0.1_iphoneos-arm64e.deb
+Size: 20028
+MD5sum: 0fd59c8aed6fe88117933e4144d0e5c8
+SHA1: 5f2d94965c1b8e7e2ffb8cad9393f49c45189d3b
+SHA256: 23aced621fb4f0d27f3acda4fa983ec620644bb55ddf0e3524c846cc4eb9d727
+Section: System
+Description: Support package for my tweak Novus that's available on Havoc repo, recompiled for rootless. Will get removed when the originial author updates it for rootless.
+Author: nicho1asdev
+Installed-size: 20
+
+
+
+
+Package: com.brend0n.notransitcardversionlimit
+Name: NoTransitCardVersionLimit
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Filename: ./debs/com.brend0n.notransitcardversionlimit_0.0.2_iphoneos-arm64e.deb
+Size: 10388
+MD5sum: 0c5cce9daa0e5f9b1dc750d02d7831c8
+SHA1: e9317a7bd0b3f9305d7cd07919a93f32acc210c9
+SHA256: 4b23676810554308bf3eac418406dd955c315b2c20a0b7d68bea1b6fe743635c
+Section: Tweaks
+Description: Spoof OS version in Wallet App!
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.notransitcardversionlimit
+SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.notransitcardversionlimit/depiction.json
+Installed-size: 11
+
+
+
+
+Package: com.mtac.prefs.localizer
+Name: PreferenceLocalizer
+Version: 1.2
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.mtac.prefs.localizer_1.2_iphoneos-arm64e.deb
+Size: 11426
+MD5sum: 1eb506155590140315246182413efcea
+SHA1: b8af14ce6631e1938caa339d04818a8bf9b1bc03
+SHA256: 1d726016e3891e235e5ac129971e6ab7e721cc34087751e328a26c050b0b2163
+Section: Tweaks
+Description: Quickly change language of Settings app
+Author: MTAC
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.prefs.localizer.json
+Icon: https://mtac.app/repo/assets/com.mtac.prefs.localizer/icon-rounded.png
+Installed-size: 12
+
+
+
+
+Package: com.nan.rebirth
+Name: Rebirth
+Version: 0.1.4
+Architecture: iphoneos-arm64e
+Depends: coreutils, lsof
+Filename: ./debs/com.nan.rebirth_0.1.4_iphoneos-arm64e.deb
+Size: 3896
+MD5sum: 3c0b1aa10f41beafc7e48b857fd6fb2d
+SHA1: 3b56e77ad8507183d3e9a3f8887184daec3123af
+SHA256: 70cb4fbad5002a156458ddfd13daeb9abd302c5d7fbaedbaea72266285600d0e
+Section: Terminal_Support
+Description: 生成为转生准备的 deb，只需清除越狱后分享给 Sileo，将会依赖安装此包时本地已安装的插件（需要自己先添加源），创建的文件位于 /var/mobile/Documents/
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.rebirth/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Installed-size: 4
+
+
+
+
+Package: com.lizynz.telegaicons.rootless
+Name: Telega Icons
+Version: 1.3
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.lizynz.telegaicons.rootless_1.3_iphoneos-arm64e.deb
+Size: 24788
+MD5sum: 051097e1ef14e0485922314dc931f36c
+SHA1: d27fbbec4b2ffa399b6ae0b9958170a3268f815d
+SHA256: 80197ee4836214279af5eebdefc69a13e73a3b307dbe1837d5c65d0f588ba8b0
+Section: Tweaks
+Description: Change the telegram icon
+Author: Lizynz <lizynz@ya.ru>
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.telegaicons
+SileoDepiction: https://lizynz.github.io/depictions/com.lizynz.telegaicons/TelegaIcons.json
+
+
+
+
 Package: weeb.lillie.youtubedislikesreturn
 Name: Return YouTube Dislike
 Version: 1.13.3
