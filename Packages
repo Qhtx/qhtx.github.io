@@ -1,5 +1,23 @@
 
 
+Package: com.yourepo.ibreak.hideseparator
+Name: Hide Separator
+Version: 1.9.3
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate
+Filename: ./debs/com.yourepo.ibreak.hideseparator_1.9.3_iphoneos-arm64e.deb
+Size: 9130
+MD5sum: 36d9823775059b4925bba957b0cf4f18
+SHA1: dc8d3c708251c739a95b474d1fd64277c7a6eaf5
+SHA256: 2d571e93ac462643717ab54c21fdf6db29bb50a90e02c30cfec9711204318abe
+Section: Tweaks
+Description: Hide separators system-wide  (including third-party Apps)
+Author: iBreak <ibreak2019@qq.com>
+Installed-size: 9
+
+
+
+
 Package: com.tools4cydia.copylinkdeb
 Name: CopyLinkDeb
 Version: 3.0.4-1+rootless
