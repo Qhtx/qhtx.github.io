@@ -1,5 +1,26 @@
 
 
+Package: com.dvntm.esignalert
+Name: ESignAlert
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.esignalert_0.0.1_iphoneos-arm64e.deb
+Size: 3532
+MD5sum: 31b5037d355e1d0e0e6d410e920295d2
+SHA1: 1a87926dc44bb24fb59ef8b98bfeea1407c389a1
+SHA256: dd333f158a36581436f76ca8cfd31340f3198aedad792e6a54986ee91091149e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: dvntm
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 4
+
+
+
+
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Version: 1.2.55
