@@ -1,5 +1,173 @@
 
 
+Package: com.xyaman.tako
+Name: Tako ( iOS 15-16 )
+Version: 3.5.2.1
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16),com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.xyaman.tako_3.5.2.1_iphoneos-arm64e.deb
+Size: 127680
+MD5sum: 58aafe1a560261c06f99c38ed4fee9ed
+SHA1: dca0b0056b8b8505c46b85194b40aca1c19e141b
+SHA256: 9a349b3635e59ac1f787f068e4d12c99acf3685dae1e22b635ae7e18932f27eb
+Section: Tweaks
+Description: Notification priority hub tweak.
+Author: b4db1r3
+Depiction: 
+SileoDepiction: 
+Icon: https://repo.xyaman.xyz/depictions/tako/assets/icon.png
+Installed-size: 125
+
+
+
+
+Package: com.icraze.tempdrop
+Name: TempDrop
+Version: 1.1
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.icraze.tempdrop_1.1_iphoneos-arm64e.deb
+Size: 29666
+MD5sum: 8675ef979029af143dec0839d74c4e6a
+SHA1: 113530c42e732443aab99b8e2e291c0110cbf154
+SHA256: c046b3ebb2559da731f85e84220111e1899bf9dc183be92f2548c07d3d28616c
+Section: Tweaks
+Description: Automatically switch away from "everyone" AirDrop visibility after a set amount of time
+Author: iCraze
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 29
+
+
+
+
+Package: com.noisyflake.velvet2
+Name: Velvet 2
+Version: 2.1.2-3
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.noisyflake.velvet2_2.1.2-3_iphoneos-arm64e.deb
+Size: 125600
+MD5sum: 918241b40fe815e1b4df6ca610d69ca8
+SHA1: 91ed9189bbd7e776d386aac3f85d6afd54fb7c90
+SHA256: 9ec133baff9f06a338c09c8166b6561497d7c5c1bde2ec085eafbd46c78aa987
+Section: Tweaks
+Description: A fully customizable notification experience
+Author: NoisyFlake <support@noisyflake.com>
+Depiction: https://chariz.com/get/velvet-2
+SileoDepiction: 
+Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
+Installed-size: 123
+
+
+
+
+Package: com.gilshahar7.volumepercent
+Name: VolumePercent
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.gilshahar7.volumepercent_1.0.2_iphoneos-arm64e.deb
+Size: 36752
+MD5sum: aaa80603eb1678b6e2adff2e0feb22fb
+SHA1: e1ffae2222385086532cde628dfbd9b7c4354daf
+SHA256: 981e1761d72534c4a30cb7236d48d634fcbd0a7f4a6a1307c02f501cc10fd396
+Section: Tweaks
+Description: Displays the volume percentage on the stock volume HUD.
+Author: gilshahar7
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 36
+
+
+
+
+Package: com.nahtedetihw.volvibes
+Name: VolVibes
+Version: 3.2
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker
+Filename: ./debs/com.nahtedetihw.volvibes_3.2_iphoneos-arm64e.deb
+Size: 619530
+MD5sum: a2354a1c0be02cc62de9a9f17b9399db
+SHA1: 37e1cbed23991aee87e8dba035a7631757706fea
+SHA256: 3ab21045dd92e7fd5827f6e0fc837477feeaccf7e781aef6df72157b2a77fc25
+Section: Tweaks
+Description: Change the Volume Button vibrations, color the Volume HUD, and add volume percent!
+Author: Ethan Whited
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 606
+
+
+
+
+Package: twitter.nowesr1.waignorecalls
+Name: WAIgnoreCalls
+Version: 1.1
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/twitter.nowesr1.waignorecalls_1.1_iphoneos-arm64e.deb
+Size: 47010
+MD5sum: 2d91e16956a8fd1099d55ae82a9fc74a
+SHA1: d186b3e20c3a4f5b08b1f0e30f224793fc52277f
+SHA256: 9be8ab013d6ba725a5eab862535aa574a32d2f7364d35b66b05a5115c005f7d7
+Section: Tweaks
+Description: Ignore unwanted calls! for WhatsApp
+Author: BigBoss <bigboss@thebigboss.org>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=waignorecallsDp
+SileoDepiction: https://raw.githubusercontent.com/nowesr1/WhatsApp-Call-Blocker/main/Sileo/depiction.json
+Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Call-Blocker/refs/heads/main/Sileo/icon.png
+Installed-size: 46
+
+
+
+
+Package: twitter.nowesr1.location-spoofer
+Name: WALocationSpoofer
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/twitter.nowesr1.location-spoofer_0.0.2_iphoneos-arm64e.deb
+Size: 110066
+MD5sum: e1328fe14af9597cbc7c5f8ff7a59fa8
+SHA1: 3b47d16a4e2e8912801dadd114cfbbca94f72895
+SHA256: d2ec9633521e74e1f04104741f4e72915140160ed9750f8d777f8c9f1d0b824f
+Section: Tweaks
+Description: Spoof Location for WhatsApp
+Author: BigBoss <bigboss@thebigboss.org>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=walocationspooferDp
+SileoDepiction: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/main/Sileo/depiction.json
+Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/refs/heads/main/Sileo/icon.png
+Installed-size: 108
+
+
+
+
+Package: org.thebigboss.whatsapprevael
+Name: Whatsapp Revael
+Version: 10.23
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/org.thebigboss.whatsapprevael_10.23_iphoneos-arm64e.deb
+Size: 2106820
+MD5sum: 7931b7c01f6e1fc0fe9dd17830e444fe
+SHA1: 8480829f844e538876fdd9a03bbd62c578c7dcc5
+SHA256: 27bb459bce6db5b62beae08eca97e41f90d9ddc74400a7c0addcea041710434c
+Section: Tweaks
+Description: Many features of the WhatsApp application
+Author: BigBoss <bigboss@thebigboss.org>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatsapprevaelDp
+SileoDepiction: 
+Icon: file:///Library/Application%20Support/WARevael.bundle/icon@2x.png
+Installed-size: 2058
+
+
+
+
 Package: com.dvntm.esignalert
 Name: ESignAlert
 Version: 0.0.1
