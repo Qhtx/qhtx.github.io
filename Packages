@@ -84,26 +84,6 @@ Installed-size: 36
 
 
 
-Package: com.nahtedetihw.volvibes
-Name: VolVibes
-Version: 3.2
-Architecture: iphoneos-arm64e
-Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker
-Filename: ./debs/com.nahtedetihw.volvibes_3.2_iphoneos-arm64e.deb
-Size: 619530
-MD5sum: a2354a1c0be02cc62de9a9f17b9399db
-SHA1: 37e1cbed23991aee87e8dba035a7631757706fea
-SHA256: 3ab21045dd92e7fd5827f6e0fc837477feeaccf7e781aef6df72157b2a77fc25
-Section: Tweaks
-Description: Change the Volume Button vibrations, color the Volume HUD, and add volume percent!
-Author: Ethan Whited
-Depiction: 
-SileoDepiction: 
-Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 606
-
-
-
 
 Package: twitter.nowesr1.waignorecalls
 Name: WAIgnoreCalls
