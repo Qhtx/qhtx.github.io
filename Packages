@@ -1,5 +1,26 @@
 
 
+Package: xyz.cypwn.xinam1ne
+Name: Xinam1ne AIO
+Version: 2.6-8
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debs/xyz.cypwn.xinam1ne_2.6-8_iphoneos-arm64e.deb
+Size: 79508
+MD5sum: 78a33de0e0db651e18a8413dfd92f3ed
+SHA1: 18b18ea5d401567bfd278b4d8da0b1a1f13ae564
+SHA256: 8f890631cbc4f7a18b14f6fd78a116e6e13019f37da30f532f2a6396badbb2d2
+Section: Utilities
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
+Author: CyPwn
+Depiction: https://repo.cypwn.xyz/depiction/2816
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2816
+Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
+Installed-size: 78
+
+
+
+
 Package: com.xyaman.tako
 Name: Tako ( iOS 15-16 )
 Version: 3.5.2.1
@@ -3354,26 +3375,6 @@ SHA1: 60bc2d104e3ad59c9a8506cad12bdd1c25738a38
 SHA256: 58a6062989eff92a2572d513992becc7ce755919c259b40dbf4ae326feca4c56
 SHA512: 873b2433b10e70edb3eb0998d4fa963fd1a3011d356dac2d326b65c7378ff1f16eb8e4353b1af710a302b41ebb967d5b5d2e0747828e92638a37acd20d2fb299
 
-Package: xyz.cypwn.xinam1ne
-Maintainer: CyPwn
-Depiction: https://repo.cypwn.xyz/depiction/2816
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2816
-Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
-Name: Xinam1ne AIO
-Version: 2.6-8
-Architecture: iphoneos-arm64e
-Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Provides: emt.paisseon.xinamine (= 99)
-Replaces: emt.paisseon.xinamine
-Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
-Section: Utilities
-Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
-Filename: ./debs/xyz.cypwn.xinam1ne_2.6-8_iphoneos-arm64e.deb
-Size: 10752
-MD5: ad004657f89cc9b029720b514e30450e
-SHA1: df33e207cf6877bd379846a09da26f9c40192f79
-SHA256: 6ae60319f3a916c03d1781e14a7f252145b3e04fd301d3f4df3da0c29e539d66
-SHA512: 6c144fef176bd012d1b5b8aa47dd1b6c1df12a3d87561de1b09c0f117e86e55750dea59da11b307554936724d29160951e89be2f1ebd9cb4831fb9ca4ec2d734
 
 Package: com.squidforce.copyvault
 Name: CopyVault
