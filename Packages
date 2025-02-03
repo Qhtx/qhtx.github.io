@@ -1,5 +1,3 @@
-
-
 Package: xyz.cypwn.xinam1ne
 Name: Xinam1ne AIO
 Version: 2.6-8
@@ -17,9 +15,6 @@ Depiction: https://repo.cypwn.xyz/depiction/2816
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2816
 Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
 Installed-size: 78
-
-
-
 
 Package: com.xyaman.tako
 Name: Tako ( iOS 15-16 )
@@ -39,9 +34,6 @@ SileoDepiction:
 Icon: https://repo.xyaman.xyz/depictions/tako/assets/icon.png
 Installed-size: 125
 
-
-
-
 Package: com.icraze.tempdrop
 Name: TempDrop
 Version: 1.1
@@ -59,9 +51,6 @@ Depiction:
 SileoDepiction: 
 Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
 Installed-size: 29
-
-
-
 
 Package: com.noisyflake.velvet2
 Name: Velvet 2
@@ -81,9 +70,6 @@ SileoDepiction:
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 Installed-size: 123
 
-
-
-
 Package: com.gilshahar7.volumepercent
 Name: VolumePercent
 Version: 1.0.2
@@ -101,10 +87,6 @@ Depiction:
 SileoDepiction: 
 Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
 Installed-size: 36
-
-
-
-
 
 Package: twitter.nowesr1.waignorecalls
 Name: WAIgnoreCalls
@@ -124,9 +106,6 @@ SileoDepiction: https://raw.githubusercontent.com/nowesr1/WhatsApp-Call-Blocker/
 Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Call-Blocker/refs/heads/main/Sileo/icon.png
 Installed-size: 46
 
-
-
-
 Package: twitter.nowesr1.location-spoofer
 Name: WALocationSpoofer
 Version: 0.0.2
@@ -144,9 +123,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=walocation
 SileoDepiction: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/main/Sileo/depiction.json
 Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/refs/heads/main/Sileo/icon.png
 Installed-size: 108
-
-
-
 
 Package: org.thebigboss.whatsapprevael
 Name: Whatsapp Revael
@@ -166,9 +142,6 @@ SileoDepiction:
 Icon: file:///Library/Application%20Support/WARevael.bundle/icon@2x.png
 Installed-size: 2058
 
-
-
-
 Package: com.dvntm.esignalert
 Name: ESignAlert
 Version: 0.0.1
@@ -186,9 +159,6 @@ Depiction:
 SileoDepiction: 
 Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
 Installed-size: 4
-
-
-
 
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
@@ -208,9 +178,6 @@ SileoDepiction:
 Icon: https://i.imgur.com/wdr3k2Z.jpeg
 Installed-size: 1861
 
-
-
-
 Package: com.f0u4d.watusitools
 Name: WatusiTools
 Version: 2.5.5
@@ -228,9 +195,6 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 SileoDepiction: 
 Icon: https://i.imgur.com/0WYytkh.jpeg
 Installed-size: 4480
-
-
-
 
 Package: com.f0u4d.watusitools
 Name: WatusiTools
@@ -250,9 +214,6 @@ SileoDepiction:
 Icon: https://i.imgur.com/0WYytkh.jpeg
 Installed-size: 4506
 
-
-
-
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Version: 1.2.55
@@ -270,9 +231,6 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 SileoDepiction: 
 Icon: https://i.imgur.com/wdr3k2Z.jpeg
 Installed-size: 1877
-
-
-
 
 Package: com.f0u4d.stalky
 Name: Stalky
@@ -292,7 +250,6 @@ SileoDepiction:
 Icon: https://i.imgur.com/dCflnyf.jpeg
 Installed-size: 1542
 
-
 Package: com.niceios.nicehelper-roothide
 Description: nice插件依赖组件.
 Version: 6.6-3
@@ -310,8 +267,6 @@ MD5: 7e6f77cad027aacb21ce47475331a13f
 SHA1: c5d1da5aec05b2def9a1b29b7393f9f5f6b75be0
 SHA256: b54a778c35bd67ff42f9ab66013a6cf94b5f9f1c82b78e2ca532e4266dfb98cc
 SHA512: 13db6596b50640fdc51be9ee87938a500c42071224225aec51e68ea12fa56f2e4cc920625b7d14fbf2ce839f282be8ed2c2f3345e51d67dc7fd96c1dc5a3c43d
-
-
 
 Package: com.niceios.nicebarx16-roothide
 Description: 状态栏插件.
@@ -332,8 +287,6 @@ SHA1: 7fca7744009677ff20aaa6057024350f862bc04f
 SHA256: 394ea646aa8c86e8630b3e691fc49bb0b9341dc8b84d6f8ab78f632c6837d7de
 SHA512: 0e0d5c1f85817671eff98b481f26bb496734360c2edd3fbdaf1f60ef3f394166015031cad7d952eb954e15bd5b03dff70ed477a2343ad58d7933df509db8836c
 
-
-
 Package: com.yourepo.ibreak.nobigtitles
 Name: No Bigtitles
 Version: 1.0.1
@@ -347,10 +300,6 @@ SHA256: 9cbf8488c5a4c2d03ff66df550b5ffef12c364c869f1b1954f7d392cf6879f7d
 Section: Tweaks
 Description: no bigtitles
 Author: iBreak <ibreak2019@qq.com>
-
-
-
-
 
 Package: com.yourepo.ibreak.hideseparator
 Name: Hide Separator
@@ -367,9 +316,6 @@ Description: Hide separators system-wide  (including third-party Apps)
 Author: iBreak <ibreak2019@qq.com>
 Installed-size: 9
 
-
-
-
 Package: com.tools4cydia.copylinkdeb
 Name: CopyLinkDeb
 Version: 3.0.4-1+rootless
@@ -385,9 +331,6 @@ Description: تحميل ونسخ روابط ديب من سورسات Download de
 Author: Tools4cydia
 Installed-size: 466
 
-
-
-
 Package: com.tools4cydia.copylinkdeb
 Name: CopyLinkDeb
 Version: 3.0.4-1+rootless
@@ -402,9 +345,6 @@ Section: Utilities
 Description: تحميل ونسخ روابط ديب من سورسات Download deb files from sources!
 Author: Tools4cydia
 Installed-size: 466
-
-
-
 
 Package: com.nan.pointless
 Name: Pointless
@@ -424,9 +364,6 @@ SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.pointless/j
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Installed-size: 2
 
-
-
-
 Package: com.nan.disablesblockaftercrash
 Name: Disable SB Lock After Crash
 Version: 0.1.0
@@ -444,9 +381,6 @@ Depiction:
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablesblockaftercrash/js.json
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Installed-size: 2
-
-
-
 
 Package: com.nan.rebirth
 Name: Rebirth
@@ -466,9 +400,6 @@ SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.rebirth/js.
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Installed-size: 2
 
-
-
-
 Package: com.spark.snowboardapplication
 Name: SnowBoard
 Version: 1.1.0~Beta4-rootless
@@ -483,9 +414,6 @@ Section: Utilities
 Description: An awesome application!
 Author: Spark
 Installed-size: 615
-
-
-
 
 Package: netskao.appdata-rootless
 Name: AppData-Rootless
@@ -502,9 +430,6 @@ Description: View & Manage Applications Data from your Home Screen & downgrade
 Author: Nets
 Installed-size: 4951
 
-
-
-
 Package: jp.dcsyhi.kbappdock
 Name: KBApp
 Version: 1.5
@@ -519,9 +444,6 @@ Section: Tweaks
 Description: You can arrange apps on the dock of keyboard ⌨️.
 Author: Dcsyhi
 Installed-size: 823
-
-
-
 
 Package: org.thebigboss.libcolorpicker
 Name: libcolorpicker (Unofficial)
@@ -541,9 +463,6 @@ SileoDepiction: https://p2kdev.github.io/repo/depictions/native/org.thebigboss.l
 Icon: https://p2kdev.github.io/repo/api/packageinfo/org.thebigboss.libcolorpicker/icon.png
 Installed-size: 95
 
-
-
-
 Package: com.muirey03.libmryipc
 Name: libMRYIPC-Rootless
 Version: 2.0.1
@@ -558,9 +477,6 @@ Section: System
 Description: Support package for my tweak Novus that's available on Havoc repo, recompiled for rootless. Will get removed when the originial author updates it for rootless.
 Author: nicho1asdev
 Installed-size: 20
-
-
-
 
 Package: com.brend0n.notransitcardversionlimit
 Name: NoTransitCardVersionLimit
@@ -579,9 +495,6 @@ Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.notransi
 SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.notransitcardversionlimit/depiction.json
 Installed-size: 11
 
-
-
-
 Package: com.mtac.prefs.localizer
 Name: PreferenceLocalizer
 Version: 1.2
@@ -599,29 +512,6 @@ SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.prefs.localizer.
 Icon: https://mtac.app/repo/assets/com.mtac.prefs.localizer/icon-rounded.png
 Installed-size: 12
 
-
-
-
-Package: com.nan.rebirth
-Name: Rebirth
-Version: 0.1.4
-Architecture: iphoneos-arm64e
-Depends: coreutils, lsof
-Filename: ./debs/com.nan.rebirth_0.1.4_iphoneos-arm64e.deb
-Size: 3896
-MD5sum: 3c0b1aa10f41beafc7e48b857fd6fb2d
-SHA1: 3b56e77ad8507183d3e9a3f8887184daec3123af
-SHA256: 70cb4fbad5002a156458ddfd13daeb9abd302c5d7fbaedbaea72266285600d0e
-Section: Terminal_Support
-Description: 生成为转生准备的 deb，只需清除越狱后分享给 Sileo，将会依赖安装此包时本地已安装的插件（需要自己先添加源），创建的文件位于 /var/mobile/Documents/
-Author: zhaonan
-SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.rebirth/js.json
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
-Installed-size: 4
-
-
-
-
 Package: com.lizynz.telegaicons.rootless
 Name: Telega Icons
 Version: 1.3
@@ -637,9 +527,6 @@ Description: Change the telegram icon
 Author: Lizynz <lizynz@ya.ru>
 Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.telegaicons
 SileoDepiction: https://lizynz.github.io/depictions/com.lizynz.telegaicons/TelegaIcons.json
-
-
-
 
 Package: weeb.lillie.youtubedislikesreturn
 Name: Return YouTube Dislike
@@ -658,9 +545,6 @@ Depiction: https://chariz.com/get/return-youtube-dislike
 Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
 Installed-size: 34
 
-
-
-
 Package: com.0xkuj.safarix
 Name: SafariX
 Version: 1.9.7
@@ -676,8 +560,6 @@ Description: Safari Essential Features
 Author: 0xkuj
 Icon: https://i.imgur.com/xhSZQ5p.jpeg
 
-
-
 Package: com.ali.aimpro
 Name: AIM Pro
 Version: 1.1.1
@@ -691,7 +573,6 @@ SHA256: 039cfde2e392615e68d58a29ca4e62986c436148c8b10230f186ca4d3a17a892
 Section: Tweaks
 Description: iOS 16 Style Time & Date Lockscreen
 Author: alimaulana
-
 
 Package: com.spark.libsparkapplist
 Name: libSparkAppList
@@ -707,7 +588,6 @@ Section: System
 Description: AppList alternative
 Author: Spark
 
-
 Package: com.spark.libsparkcolourpicker
 Name: libsparkcolourpicker
 Version: 1.0.3-rootless
@@ -721,7 +601,6 @@ SHA256: 260a224e379f93917da9761718c8b2a2a6f8fa9b9b0a613cd0eda2cdf93c7837
 Section: System
 Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
 Author: Spark
-
 
 Package: com.f0u4d.watusitools
 Name: WatusiTools
@@ -740,7 +619,6 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Icon: https://i.imgur.com/0WYytkh.jpeg
 Installed-size: 4525
 
-
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Version: 1.2.54
@@ -757,7 +635,6 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Icon: https://i.imgur.com/wdr3k2Z.jpeg
 Installed-size: 1861
-
 
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
@@ -776,7 +653,6 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Icon: https://i.imgur.com/wdr3k2Z.jpeg
 Installed-size: 1877
 
-
 Package: com.0xkuj.safarix
 Name: SafariX
 Version: 1.9.6
@@ -793,8 +669,6 @@ Author: 0xkuj
 Icon: https://i.imgur.com/xhSZQ5p.jpeg
 Installed-size: 345
 
-
-
 Package: com.yasxi.telegramunseenmessage
 Name: Telegram || Unseen Message
 Version: 4.2.0
@@ -808,7 +682,6 @@ SHA256: 03ad62602a8fd510837a4b585d685ebd6d71eff212ac72b4df36588340b366f1
 Section: Tweaks
 Description: new
 Author: yasxi <(null)>
-
 
 Package: apt.llld.Flex3beta
 Name: Flex3-roothide
@@ -825,8 +698,6 @@ Description: A powerful app to remove ads and enhance system patches.
 Author: John Coates
 Icon: https://i.imgur.com/9DFuXs9.jpeg
 Installed-size: 6160
-
-
 
 Package: com.den.igformat
 Name: IGFormat
@@ -846,8 +717,6 @@ SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
 Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 Installed-size: 1079
 
-
-
 Package: com.den.igformat
 Name: IGFormat
 Version: 1.70-1
@@ -866,7 +735,6 @@ SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
 Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 Installed-size: 1112
 
-
 Package: com.f0u4d.stalky
 Name: Stalky
 Version: 4.1.36
@@ -883,7 +751,6 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
 Icon: https://i.imgur.com/dCflnyf.jpeg
 Installed-size: 1541
-
 
 Package: com.f0u4d.watusitools
 Name: WatusiTools
@@ -902,7 +769,6 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Icon: https://i.imgur.com/0WYytkh.jpeg
 Installed-size: 4499
 
-
 Package: jp.dcsyhi.zetsu
 Name: Zetsu
 Version: 1.6.2
@@ -920,7 +786,6 @@ Depiction: https://chariz.com/get/zetsu
 SileoDepiction: 
 Icon: https://img.chariz.cloud/icon/zetsu/icon@3x.png
 Installed-size: 20488
-
 
 Package: com.crazymind90.appeditor
 Name: AppEditor
@@ -941,7 +806,6 @@ Size: 19602188
 MD5sum: 940969dd9d2a748d5a607d38ff161ee2
 SHA1: 5a9829d507adfa0ddc56c7c36f03c1d6f4ea6a49
 SHA256: 3b0cc5952722a6f6f98347629de0e3c0dca605ca7717fc2b5a71957d0e37e33d
-
 
 Package: com.ps.youpip
 Name: YouPiP
@@ -965,7 +829,6 @@ MD5sum: 78c02a52d189ded8c4feb7bbf44037dc
 SHA1: 37e882b11f0f804b5fa8ff604b481171a31284c4
 SHA256: 2a4af9759b6d9d2abccae86b1796e6490b6edd9716c862bf518cacb071fe62df
 
-
 Package: com.ps.youquality
 Name: YouQuality
 Description: View/change video quality in iOS YouTube app faster.
@@ -984,7 +847,6 @@ Size: 6780
 MD5sum: 5248d2d6f43d33e929a56e64d7e6db7e
 SHA1: 0b6282234c8b1877e0f3dcb89b5700772e69149d
 SHA256: 51bb4091cd56d6f43b7020f93e2d81397ee3d78af8bff668fe510afa5b74c7bd
-
 
 Package: com.ps.ytuhd
 Name: YTUHD
@@ -1005,7 +867,6 @@ MD5sum: c2e75530abfae5d1057943f44728bcd7
 SHA1: 5252307a53caab4c41b6fd23064238fcf0df286f
 SHA256: 32d2576919502d4770a8556ddbff9bd7868550df6cb50978b9c920f6e7f9bc16
 
-
 Package: com.ps.ytvideooverlay
 Name: YTVideoOverlay
 Description: A helper tweak to add buttons on YouTube video overlay.
@@ -1024,7 +885,6 @@ Size: 13900
 MD5sum: ee28dae71f7bfcc1549479e2031db454
 SHA1: edfc09880a8a1867c4b5d6339b0e0ba60fd66e69
 SHA256: cf68797d4bc227bfd58bd004997f7dabe6ee1917358f2d695e6197da92b11210
-
 
 Package: zp.cocoatop64.unject
 Name: CocoaTop64.zp
@@ -1048,7 +908,6 @@ MD5sum: bdaace9be16410ad292e9e8688eeeeaf
 SHA1: 5b03978bcacf5f44746e8606648ea10cf5384565
 SHA256: 09a843a2a82bfd55b810713dfd4b9f37b3a1b9b78f5712fc39aeb123170fb21f
 
-
 Package: com.lclrc.hammerit
 Name: Hammer It
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
@@ -1066,7 +925,6 @@ Size: 2767600
 MD5sum: 8baef280519cac7f7b92ff2605db9711
 SHA1: 685b54b10a3f271d65211821b7752b19b0f7aacb
 SHA256: 125391989960c89396720df5762ecba5a260caaf608f0ebfe88c3a63e735e701
-
 
 Package: com.den.igformat
 Name: IGFormat
@@ -1088,7 +946,6 @@ MD5sum: dc2ca396cfd6adea7e9bc381bb5e307e
 SHA1: 5938668896e2746c6e1436c722dcdd3d0e26a74a
 SHA256: cd1a8145f7fa2c3933ccdcc5981367adcb511fbd3a7563c1e1122d162e19560f
 
-
 Package: com.squidforce.copyvault
 Name: CopyVault
 Description: Your Copy Vault, Your Pasteboard
@@ -1107,7 +964,6 @@ MD5sum: 92c2cb2816c2bb8226a5110c1e58fff2
 SHA1: 91b4a47bb786665503fba88a3aa2237b05a899a1
 SHA256: 4674b53875478a88cffdf924bfecaa348e6080fcc358c9533796d65287f8240d
 
-
 Package: ru.domo.cocoatop64
 Name: CocoaTop
 Depends: 
@@ -1125,7 +981,6 @@ Size: 202300
 MD5sum: a64fcfd24b3b92c50ccbb9101685a4db
 SHA1: a0691a7ec3244349779fd40a4ccf6b28f90c3152
 SHA256: 86e5d247475523fc2d6098b8ba5c3215432b721fb46766dff85688b234b4aede
-
 
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
@@ -1147,7 +1002,6 @@ MD5sum: f9e6c32ad90cf91d595c1ac22ec3cf6f
 SHA1: 15b3695f6849765d6817d19b60c0ec128ed93c90
 SHA256: b70a221a06bcd6832eb92715563cd3129f91926c920af452fb7703fb15f7e1b2
 
-
 Package: app.catscript.lite
 Name: CatScript Lite
 Depends: mobilesubstrate
@@ -1166,8 +1020,6 @@ MD5sum: 944a02dbd3564b8a146791f4d53ef4cb
 SHA1: 113c34e8ba53b70eca4c75536d76637fc53af8af
 SHA256: 6fd20ed91f30763fe4c03fa9cf447dac986063ccba27423983b83b250b8a99ff
 
-
-
 Package: com.tools4cydia.packages4
 Name: packages4
 Description: اظهار تفاصيل ديب وانشاء ملفات packages و bz2 وgz بسهوله !
@@ -1183,7 +1035,6 @@ Size: 69500
 MD5sum: e0cae9e8a22fe15a208f9fcf31a10a7f
 SHA1: fbe4ac8b5cce7599810ae2005c74760f731dad46
 SHA256: 340d0d4214594ed99e9533e74eafbb73ca67359b09355aef4badb29478f2ff44
-
 
 Package: com.0xkuj.filzadirprobe
 Name: FilzaDirProbe
@@ -1202,7 +1053,6 @@ MD5sum: 9d017f7a1a4296e3eab773db29e92d8e
 SHA1: 5a8aca69ea352cb3a354f8ee3a8f8f2883cd718b
 SHA256: 0e42ded6310062ddacca0763ab3c69316ceb869a3d208c94401fbcd38cbe6596
 
-
 Package: com.0xkuj.safarix
 Name: SafariX
 Description: Safari Essential Features
@@ -1220,7 +1070,6 @@ Size: 294800
 MD5sum: d54d9f7b605d60cc156b78b7cc1f1871
 SHA1: 48aad809df1a4f417c1cf0b3f73e14ff5f050051
 SHA256: ac437f9caec46726f92fdef83a7231112feb8623d6f81c1396c18079dac8c263
-
 
 Package: com.fouadraheb.contactsync
 Name: ContactSync
@@ -1242,7 +1091,6 @@ MD5: 7675f63b95e9e2508bfa16e752c94fcb
 SHA1: bcd96213fd98e7037c5c66f11d739d971abe182f
 SHA256: 356eb3e5f3997c5e1f7789fbff487f18ebdad70d5268d698c838a6d262a421df
 SHA512: a08e80819672ac406043d47c568b769e9acb9adf4e5bd68427a806f98a252581a1398c6b95605bff678da6118b5cae57c7a76f1f0192d92d8aa534f40958c334
-
 
 Package: com.fouadraheb.appdata
 Name: AppData
@@ -1266,7 +1114,6 @@ SHA1: 7bf183dcaedcb23c98fc13725729734f6d279622
 SHA256: 00b18b83962bda32a58a11398667d12e569b85721201c7891c812e2101778b90
 SHA512: 3693f8c1bf299c13330f2954d20a31ee13d0bbc706530dbc65c67e348c2ad9f90a0458ac47d25b0558bdbcb654ece67b66db77b1c34dda9dc081ae0129382a63
 
-
 Package: com.f0u4d.stalky
 Name: Stalky
 Description: Track & download your contacts latest profile & statuses updates on WhatsApp
@@ -1288,7 +1135,6 @@ SHA1: 8bf0bee5ca8043a103225a2e0e3fd889f113ba06
 SHA256: 5faf4b353054671135b6a5a4a6aeaa237526d97d5a8b9f173bf89d0f2dfa70c6
 SHA512: 4f09ca8f6d49afdc067e698732d79162591f49f5ac9294a8bdbdb7ac514591dd79822fe3e1274a564756640941c2eb84ad2c299ac7d37b9d513e0af60616c531
 
-
 Package: com.f0u4d.onlinenotify
 Name: OnlineNotify
 Description: Track your friends on WhatsApp Messenger!
@@ -1308,7 +1154,6 @@ MD5: af823aa1c534ef5478e4945223edf51e
 SHA1: 9515e9d3897f5acff5e7dd60b894dee9e5f85ae3
 SHA256: b59d02a6237884e3b4d6e7236620b91738ea3057777478d0e34fd3b8a0fa3594
 SHA512: 1b92cc9a7869dc507a323ba35c8bfbf7196ca548519a335f1037b7597c374707b402144458d02e51b5fd3a85a90b0f5cc1b74be5ba674a14d39b3be46f6b188f
-
 
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
@@ -1331,7 +1176,6 @@ SHA1: 3a9ed518ee9d3868a18fd0a67f86cd09d8015700
 SHA256: 2c31f950c21546dd811d1ceded2c80281c75b76738eff6d32626367f5ec40eca
 SHA512: 14589cd1a30ac2fdbe15bb74ec861261c37c8a847d4b008c0eab37314da2df7c2ba0e177d48905f037fada06e6f044919502beba095049876bb2c5c5ee90dc66
 
-
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
@@ -1351,7 +1195,6 @@ SHA1: 37d8f4704cd3404477d31172bb354a1c069072b0
 SHA256: 3ff96bcce555bcdc0848d8d2cecb84faffc192d7194fa75dee37b07a79e08a97
 SHA512: d7c14a8a172c5d4efc774877f8954eceae292cf416a8fabebccd1a3ffd191989659150f5ce21ea961ae2974a76eea3826e66bdbb2a11b5f3fd315c799060ca19
 
-
 Package: com.f0u4d.watusitools
 Name: WatusiTools
 Version: 2.5.3
@@ -1369,7 +1212,6 @@ MD5: f20682f360dd24451093e5fc1b8c2f5f
 SHA1: 391695c4c4aef0aec85107758403e8ca33660adf
 SHA256: 04a1a0ae683b0713dd83a8972ae37aada8f66426aa5f63ff62c9f63c2fe0eb3b
 SHA512: 57218df3ae450cc13917ad8b0c188f36f54bbd771938847389c691844de214fd53c34c1c8108aeb530b7dcd7bae5dd6321918d97c06023fed46a95e130c72e3c
-
 
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
@@ -1391,7 +1233,6 @@ SHA1: 70b871344d4ba91fd72b3fb508fc6c03e2614b29
 SHA256: 900f682b4e6b737d52397b0924fce38dd68ee5dc544207b949be2393b34f804b
 SHA512: 555f6b846e8aa8f92108e2bc1e49dd147548ce3a23f696a1a4aaa02e444bfa0887b198be1c57b070f23e99b2e45b66ef530ee26916835934b168141a25e08add
 
-
 Package: com.f0u4d.watusitools
 Name: WatusiTools
 Version: 2.5.3
@@ -1410,7 +1251,6 @@ MD5: 0ff08927864b7670af0b924d603c7d19
 SHA1: 6d9f37163274fb75ab61638b34eece8eb28b7217
 SHA256: aaa796ee397be5186393c1d0d93534578b8c3b8a9fa93efad8bfbb8bdfc29d0f
 SHA512: 5566123552d0d9cc69db11f4eb130938ab1ebd7b1785f6b3fb53f2e32139a95d3807095f752ba98fc54ae1d0c5cb357118062fd1b2d6bafd098d09986062a79b
-
 
 Package: me.ikghd.ytkplus
 Name: YTKillerPlus
@@ -1435,7 +1275,6 @@ SHA1: 064cbd87da738d6eab0e1bd94caa3e4aa4379a7a
 SHA256: 33c9d3d94d44ceb30ce08af8802bf604966516b568d2c173b3d42be1e17afeb6
 SHA512: a1b1ec1365eddf88836465cff3616b49280da5d2476849cb4700fff0cb9fc401c744f9c0d79cf2a23dd6e150c799e5a0370584e6ed726b48a48e5cf607e8e0eb
 
-
 Package: me.ikghd.inkplus
 Name: iNKillerPlus
 Description: a whole new Instagram Experience!
@@ -1459,7 +1298,6 @@ SHA1: 80e5436dae8a9307d2857a6762e2da8d0661f77e
 SHA256: ce1ad1265d558d6bd1d9e4c95c65a50fabed726c153bf9a7d772b84d694ab39b
 SHA512: 144693f4e5ab7d98afb44629ef07f6c3c140ffa5d7d39a8dda0b978f5a100334832783ea1de92dd381dce1a9c9a871da4c544ebd662a1ce426ea4644f8e67701
 
-
 Package: com.squidforce.copyvault
 Name: CopyVault
 Description: Your Copy Vault, Your Pasteboard
@@ -1477,7 +1315,6 @@ MD5: bc10995ea095820632f8d551dfb3e5c0
 SHA1: a081cf3d7297e1ca5252f99edb1ec4802b1d3379
 SHA256: 33aa5ff5e2f11abd167735dfa67a972e2625ca9d5489748bd9f7e9647922520e
 SHA512: 27c9cabdd51d8eb84232b03634a462f9c46a4bb2b7f622ad8f4e47fbabd88270e6d0b80512d5f973b3a6b392ffe585711c9d9db2d3f9f35b53c8a97b4e29337e
-
 
 Package: com.sparklechan.swifty
 Name: FridaCodeManager
@@ -1497,7 +1334,6 @@ MD5: f05bbde30d37d6cf48dcc1c237b6ea5a
 SHA1: c7ddec059557379044fb9f9472cc81075abcebc6
 SHA256: bf3c9e3a9281b599963753d4da855fcaf5faacc276839646c4a7c34945c077ba
 SHA512: c4421107a6f6ed879680b5bb79e13b5c0ee360ce270143f97dac0d31f0e9071284a949d75be3bc18d9cc62a287c44b040723a15e669e8da180f4698046487c74
-
 
 Author: @CrazyMind90 <CvCrazyMind@gmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -1524,7 +1360,6 @@ SHA1: c08a50d220408e30e886384fcef5d1d0de75a94b
 SHA256: e8307577b73990cae81a8d22943dd5903c2ecadcfca334c03fea5c7380cf5b68
 SHA512: 170a1b6fd8f1772b7cffc58d189c13d9799cae2f08059ba9b0515138314d871912049c06b549836188658390fff7d4cc5f49fc09ae8c7a582733073babfaf29c
 
-
 Package: me.luki.arres
 Name: Arres
 Description: Disables tapping on notifs banners for 0.8s
@@ -1544,7 +1379,6 @@ MD5: 3cf64b3ade5e0193d8b9b21148f8c750
 SHA1: 14ebb4bedf99ccc70dc942b82c73631b53251cea
 SHA256: b8c98cfefc724d12a5e9995de92a07dda5635c902967eb816863610e2b76d24a
 SHA512: 46dafa969c925dbeb4d2a30384b5d31ac5fe7e519fa69998c6e86acd5fd5f193d2dae3083427ad7537f12dd0bf8a453dd919bddc14ea61c195d71f9f50df356c
-
 
 Package: me.luki.iwanttranslucent
 Name: IWantTranslucent
@@ -1567,7 +1401,6 @@ SHA1: f8f7eaf2fcc1caa8842af594fb164550ed3ae84e
 SHA256: 8809a86e28bedc30c0362e9140df5a2c3c3644b1ae2776696f7a13e0d0d53bec
 SHA512: 63e5e1d1c077243165a8e9185e0f2502a3617c130a9ea161146e8e020d7e1bbd2e5c27d0f4c0a3638cb0fb2cfae265e6f3aa741edf1aa3187d621c8cbfaaeacd
 
-
 Package: com.yourepo.ibreak.hideseparator
 Section: Tweaks
 Maintainer: iBreak <ibreak2019@qq.com>
@@ -1585,7 +1418,6 @@ SHA1: e69d182591ddcab6c89a57ef6ef5ecb8f4d6f3a8
 SHA256: 0ebc88c065ba6fffc92706cf34d434fa6d51577beda5b016c4e0d653f7d10757
 SHA512: 65967d595d9d127de64c1c0cee1db0c086855efdc0300955a0ee07b7c796a34ae80c1c680362ee31360785b48bfa624f25ba2e7a1ca8b1b0dcdc9606afb49424
 
-
 Package: com.yourepo.ibreak.hideseparator
 Section: Tweaks
 Maintainer: iBreak <ibreak2019@qq.com>
@@ -1601,7 +1433,6 @@ MD5: 76efab855ff86f38ee2cf803a8c6c1b5
 SHA1: 01f8986e23efdf5a43a191dbd76461a5af3a44be
 SHA256: 9ee33d6e8fa030aa2c006bc15ef96ba4af013dad384e7c7d0a50fcf1b4dc3725
 SHA512: 04cdb22e7643530a95c44b46fcf7cbb3f2fad8c8898a10288c094a7133a15fc81527f5f56f45ed6cb2a83c9d43e7a92959bec6b2b7e6cb333f7a2f9bc5b41994
-
 
 Package: com.ryannair05.cylinderremade
 Name: Cylinder Remade
@@ -1621,7 +1452,6 @@ MD5: 18da1266e2df75c2667dc65e921f10f3
 SHA1: fdeb774df6a4a17b6af9efb0138f7dacc6fc7aa9
 SHA256: d73d7847a5f6d10286d3caff9b57d7cc19e8d330767661facc6e74c6c36e5069
 SHA512: e4724e8f6a4971bf791fee939946dc4bcf20cdc46404eddc96ce3fec3ed4214e0650bd69906c04d882e8bed206ca4732536655660477933afd0d62cabd33baae
-
 
 Package: app.catscript.lite
 Name: CatScript Lite
@@ -1645,7 +1475,6 @@ SHA1: b04f3141ee66957d73fe1bbed0c82f9c0750aa2d
 SHA256: 6ae36b749d9b438a4b82418ab3ef98ac01aa3c9a97e1137f32a7b4826fbe05df
 SHA512: ca1dd9b4cde5d18bec62600af76a6d912a5c270b9c31a4e112d7552c88e70674aa7950bff582ac701818bd05c9f04e23a2e008a0fe09143e30b85506104f20ab
 
-
 Package: one.keycap.freepip
 Name: FreePIP
 Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Picture on iOS unlimitedly.
@@ -1664,7 +1493,6 @@ MD5: 7d4939fd84380facc5d6c289088e23bd
 SHA1: f06dfc1ebf5c3b2f0f6f0e2f5a2d4e57856877a9
 SHA256: 6b0052b29d08abd77e67bbd4669dd4f292fcf20a76d2fb37e24da72f9031ecf9
 SHA512: 8c9916364e1724bf47e8f0cf5a7ed849b00d38e974b76fe22ce09fb7cdc5e8f91a9f5faa8fb31e4803c33b91820cbb97a306e6808c845cdde5312ca14a8221b1
-
 
 Package: com.dcproducts.iossecuritysuitebypass
 Name: iOSSecuritySuiteBypass
@@ -1687,7 +1515,6 @@ SHA1: e6500fb362bfe6a30f3e72d1486b3fb1fefc912a
 SHA256: 40d4c0babc793b2b083f283beb3fbd4ae54ba4149917c23d32ec1ad7aa863b64
 SHA512: edd03be3b7ebcbbf9ffeef12d92f85d4b68eeb0cf622421ac13b093e8e7ed4c99647883cffcb3bf1c99906f7d00d30cc018849a93855aa08ac04c4600188cc7a
 
-
 Package: app.catscript.lite
 Name: CatScript Lite
 Depends: mobilesubstrate
@@ -1708,7 +1535,6 @@ MD5: 44d9b3cfe55d095c9232da7cc39c73d4
 SHA1: 1d8753a2f7afe4242a075a5581c91b72d4c40123
 SHA256: 9d7512898af2d355dcfacc247f690cac2c9d2433d54ac74e2df2871e8f90d906
 SHA512: 0f37e46fd7bd0df69f8d2eb321435ed82de477b1cd31912b4125e4936c1ca3419e6ceb60e378eb8938331af03264fce25d3063ffd9081bd2c106113f9d8410b0
-
 
 Package: com.ps.recordpause
 Name: RecordPause
@@ -1731,7 +1557,6 @@ SHA1: f1e80e67dddbdae7e56ecc19787c324a6a42cd6e
 SHA256: bde2480a79147764bb101ee91514ee29bc982a3ac7a66fcc7d98e59d244f0086
 SHA512: 61039d7a18bd19b25d946b5b7075ba494ec18c02f29dcda3e473148931345bd2a74267b4ec1b28e48f700e40526e87f86d48d5b95206b724f502a7dc4b137362
 
-
 Package: com.ps.highgraphics
 Name: HighGraphics
 Depends: mobilesubstrate, firmware (>= 7.0)
@@ -1749,7 +1574,6 @@ MD5: 275b3a4082ed4aa1ca2400da656f6152
 SHA1: d89d669f2b993c0d01a4ad01475bcc607678716d
 SHA256: 975ba018d9c4520331fad793561f5a4c7d854259e2b5e4cef3d0c8f134c544a0
 SHA512: 9c76203098172f03041126a9cef73c3c14285b6e32ea3064c6663af33fff8e89c72de77b7a40af77122057a660c3465890b4a3e3f99735dfbfb043ba809e3b17
-
 
 Package: com.ps.youpip
 Name: YouPiP
@@ -1774,7 +1598,6 @@ SHA1: e33890cb0fb8fef1aaa734d457017c5f8bb7def8
 SHA256: 7d6bdba67a3bfcfb3e8b6d0d4da316cfa318388b589f80e2b6cb7a3358e7682b
 SHA512: 7e58dd3308fa832d8ce157f52632b69cb80fea7ea1e9611a0aca173015366e761466479613fdff2bcce3b01729f4d8ace06e98a15816b02086b16ed77dd633f0
 
-
 Package: com.ps.youquality
 Name: YouQuality
 Description: View/change video quality in iOS YouTube app faster.
@@ -1794,7 +1617,6 @@ MD5: 3a52890ac7de92ceff7a5d69dd58577f
 SHA1: 93b627c1c72a56ea39d9083d08eb1a9751d4ecdf
 SHA256: 03cdf8ae95d12e521b40baf398e57bd62801a90cd1150d839ebd55cf244e7372
 SHA512: 9b6418fe230277f38caefd6d670ebc1feb8774b8d8a6def68a90bdac91719c6c3e216b7278310db09e2c0e06dd778c380026e0c922136f73bb430f16889115f6
-
 
 Package: com.ps.ytuhd
 Name: YTUHD
@@ -1816,7 +1638,6 @@ SHA1: 7ebefa5f572a2e49ecf863e3c654cf245a145197
 SHA256: dc8e516f0c46d85a5a2988a7ccbda5e35dabd35db5912a69183211a5f8e3dc09
 SHA512: a11227afbf756ac7ac798f6dfcc58f29c5cdba2b2ed49fa84e7b34305a5467569e6dae654f45b5d672bc9866d321bbb8c75b4fac69bd9c25658eed5b53171f86
 
-
 Package: com.ps.ytvideooverlay
 Name: YTVideoOverlay
 Description: A helper tweak to add buttons on YouTube video overlay.
@@ -1837,7 +1658,6 @@ SHA1: 390cc2e598efdc4aba4d3869dabb149b11c908a3
 SHA256: 5ae022dc8418ec76fbb054d40c472d926e9902514e6a466ade87a5bc586e00ed
 SHA512: a78b5f2db060dca83edac89a7f0c57431ff4024f4d344818d89871448c8aa7ddfae557f00168263c45db42a990693741e0c6addb31c1ee1bd7f9104090282a70
 
-
 Package: com.ps.githubweblegacycompat
 Name: GitHubWebLegacyCompat
 Description: Make GitHub website more accessible on iOS <17.0
@@ -1857,7 +1677,6 @@ SHA1: 3f63fb4252bb2287cb521bd653fded6237081d0a
 SHA256: b4eeedad25cf4a8c11cded38752f01342777c7272c127ce8b3440ff4426a2ee3
 SHA512: f957e61df5302c0cf67ebd39b3b5dd84a19775b834c24a8901f87b469b8bdf39352b930294084ade87d6b6474d1dd1bca22c4d4bd80a71576de5355c341c2820
 
-
 Package: com.f0u4d.watusitools
 Name: WatusiTools
 Version: 2.4.47
@@ -1874,7 +1693,6 @@ MD5: 8ee04edb289d4b64f7fff3792693aae5
 SHA1: 4295ddde67fddbe073aa016cf0f6339d0adf81d3
 SHA256: 7614b31b378897fee1792fe089ed64134f2c31111e7fcbcd5f51540b120b9c39
 SHA512: 67a3bd5a83402a6fb5918dc74d3f813b8d2487025c49e1bec43632add9397ae3bef48797095787331d977f7685cffc2ebe35624f6132b78fd0e0302761494ab6
-
 
 Package: com.f0u4d.watusitools
 Name: WatusiTools
@@ -1893,7 +1711,6 @@ SHA1: 403cb96e275cd19cc8f1ccbcd6e2cdb44696642b
 SHA256: 9b924b41e7e618f3d3d115e7ba25871776b05721f3cea3db7e2aa8b65f260c45
 SHA512: b65f55ebe4d365063b195dba7569ca104e3c72bdfe190d8490054b8645987625bb91c99809e8e9ce48c52f7982f02f3dcd7908fe50ade611ace4d8f95022944d
 
-
 Package: com.f0u4d.watusitools
 Name: WatusiTools
 Version: 2.4.47
@@ -1911,7 +1728,6 @@ MD5: 5f7665dbded1000211f38e7d604b3f7a
 SHA1: 8fefb2024072d36c72c9333b6ca0bb8116f1da56
 SHA256: fce9e55cfbc52b3ca0b6d66eb5b88bbe19a493f27ef252fe1973774c18e48d94
 SHA512: ace1a2ba85821dfd9aec65191f17246275fb0d0b884ff03b10a7976386de45a7192ddeacd5e69505b87e1bbe35a3b669191ed26ef796ed08b578a01478705428
-
 
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
@@ -1933,7 +1749,6 @@ SHA1: f9c74dba9554cede5d63dde936240dac6a824204
 SHA256: ea250862887a79d7ec265a7b58cf8edc7e15bc6a2b6be9e3279591c9417bb7bb
 SHA512: 8d0afe898073cd4f73487b17fab384763cfe56e1b27806165a17a29e18bf09ecccf06f5aa792820d882d7dabb87a87a09d705414a1d309d7a3bf2f433d37be9d
 
-
 Package: com.f0u4d.watusitools
 Name: WatusiTools
 Version: 2.5.1
@@ -1952,7 +1767,6 @@ SHA1: 7e769a25cb08dd701d797cb4bcc51bc9a2950998
 SHA256: 6dc4b71ea678ca79e6045705d3896de970b8b70e8ef6df3e22f9f633f724f734
 SHA512: d27e5d8d9d6454c2e1f8c8b985fb94eda5753872244b8d38c57e41523ff35a29486eb0cfae51410baba9319c81b200c1705954c064d4187cc070da0ff9a59fe5
 
-
 Package: com.0xkuj.safarix
 Name: SafariX
 Description: Safari Essential Features
@@ -1970,7 +1784,6 @@ MD5: 762a86f74a3ce91b76aaf488dedb267f
 SHA1: b259f8b7e23c08e1dfb63d46fd07b97050be8490
 SHA256: 724b58f0bcd82c7782888c94327f22ba6810a6a4645fb07fc7f7d907e31965d6
 SHA512: cdf0d1e3464be2babc324f74ff96285b1075173026877c89156a353852f2720459e3fec1acf21c8d09baf22bd9f5ebb9ba14a39e0c1bafb6a404ee83a3bcc72b
-
 
 Package: theos.dev
 Name: theos
@@ -2084,7 +1897,6 @@ MD5: bb988ff53169badd352007f9dfa41247
 SHA1: 29467bcd0f8074ce824eb58dadc92ef3c87c5043
 SHA256: b951722c170db6a574af1eaba366eb04a47836790ebc88ccfeb3edb9ceb5b32f
 SHA512: 6408253292a647a04221bff21959552f76b7821f2465b2b6d766f87955407f1b27f03b6951ff184e69878b98cbb3b039c958b1a72d50298a6dac9c0c333107e7
-
 
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
@@ -2803,7 +2615,6 @@ SHA1: bf16832ec4aae2fd6bc1ad4598438bb837a8cf65
 SHA256: 458372f30ee518f4cc921d19035c7b94bae3e70422195c79f6c119bd74c5dc29
 SHA512: 128325e5eca5ea02d83a1747908a56cb669a9c837e4723836277b3edd359f98b03dd302ec407d2b9805d3ff4d549e5e5ed0ff22f9c7453f190e4750fdfb50e6b
 
-
 Package: com.cydiaabdullah.cacloud
 Name: CACloud
 Depends: mobilesubstrate
@@ -3247,7 +3058,6 @@ SHA1: 499cddeea78b690bbcce17fec479e8b2b76b94d1
 SHA256: 6b963371680620623ff2118035b9e05da1998c745204a87c487e3b32ed3496de
 SHA512: 04a0b5afb5eab452861b76d3d69c9eceaf6cd424b776de2c6333e4a277653d173a96135002503007b1ae0755f18362a4e1829d4a9143504eed079839ee9b80bd
 
-
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
@@ -3267,7 +3077,6 @@ MD5: b1134ac1e2c34fccafd07d5875fc733a
 SHA1: 163cb21870be0db6be06a7e5af7160798d52be93
 SHA256: 8e7aefedffcb7008b9c43c7bc12dad6374edb67a1dc756b639e7db3b84cd6191
 SHA512: 93f1b18192d3ce44aeb1a9c14a0f68efca0ca8117b3652fd1bb7131f4d3878999e5f3d76360c1a7ed1b98b3a73e8236311cc33bc9506c01c7432299b144a84f0
-
 
 Package: com.nan.miic
 Name: Move Icon Image Cache
@@ -3357,24 +3166,6 @@ MD5: b6419582835a32d8592e979746219066
 SHA1: b191ea483460fb37c7d5b160a6a5ace66228ac17
 SHA256: f5e2f1e87c2b8bf4931c90359a7962616ba28fc4b8f9d6775f1ca7105891eb9f
 SHA512: 1818b13312ad030fc8711c097c5b3cc21cde2078cb1feaed3266da04f554ba6354c4c048691c76fea2d4da476576b56dbd5ebee7cd62a96b2e4d01458606f475
-
-Package: com.nan.pointless
-Name: Pointless
-Section: Addons
-Version: 0.1.0
-Architecture: iphoneos-arm64e
-Author: zhaonan
-Maintainer: zhaonan
-Description: 毫无意义的守护进程，但是能解决我手机闲置时过度发热和闲置时接入电源重启的问题
-SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.pointless/js.json
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
-Filename: ./debs/com.nan.pointless_0.1.0_iphoneos-arm64e.deb
-Size: 1564
-MD5: 8d4e1709ec25c90afa3102c13ebda9f3
-SHA1: 60bc2d104e3ad59c9a8506cad12bdd1c25738a38
-SHA256: 58a6062989eff92a2572d513992becc7ce755919c259b40dbf4ae326feca4c56
-SHA512: 873b2433b10e70edb3eb0998d4fa963fd1a3011d356dac2d326b65c7378ff1f16eb8e4353b1af710a302b41ebb967d5b5d2e0747828e92638a37acd20d2fb299
-
 
 Package: com.squidforce.copyvault
 Name: CopyVault
@@ -6740,27 +6531,6 @@ SHA1: 50ebf0f0952c785bea42e6c74a76dca891ab1deb
 SHA256: 049c00cb5316e8248634a01fc7e0b7314169eacafc7fd323360ce157a485eab8
 SHA512: 4c6860450905973e8d6ed8fc98b29aeb252312bcf1c5d2031d6d51c5537cda1c1c94d79f1ab02a550d990e5bc34e2dec589a684b9cb97113c5998edf19ccb918
 
-Package: xyz.skitty.ersatz
-Name: Ersatz
-Depends: mobilesubstrate, preferenceloader
-Description: Replace any text, system-wide!
-Icon: https://skitty.xyz/repo/icons/xyz.skitty.ersatz.png
-Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.ersatz/
-SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.ersatz/sileo.json
-Maintainer: Skitty
-Author: Skitty
-Section: Tweaks
-Architecture: iphoneos-arm64e
-Version: 1.0.1
-Installed-Size: 504
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/xyz.skitty.ersatz_1.0.1_iphoneos-arm64e.deb
-Size: 47952
-MD5: d661b4b49716c4d951af3fb79b64335c
-SHA1: b20ad5829f7a3c412a9f896372313a1636c8b6ce
-SHA256: b8065294b91aac2e6dc8282a07e25503a3854e5300f24017a741015b0eb0ad9e
-SHA512: 1d45bf80ee465aab62228fa556a13f62afba54ee1769139b826127662ac35c220e47e1e6b832147dd4aa217462aa9e088eef9f7e0021078643783ed14c02187f
-
 Package: com.raulsaeed.bhtiktok++
 Name: BHTikTok++
 Description: An awesome tweak for TikTok!
@@ -8168,3 +7938,4 @@ MD5: f07d458037f18ff3326b03adf183be3a
 SHA1: b62f286c9b171f9eefc0f50652b437c9746c98f4
 SHA256: a51fa38e5b09458242926a417b8a8f640987c6b4e0beab1ae4d183a662e5e0b2
 SHA512: e60681f673e971e819de7c5ef6f3c9064daa805b0c6856489745972bc75da06ecffa3230e074298bbe256311cb1c4ab63636251ed1065ebc6f19a0ecddc418ea
+
