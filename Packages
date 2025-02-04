@@ -58,7 +58,7 @@ SHA256: c046b3ebb2559da731f85e84220111e1899bf9dc183be92f2548c07d3d28616c
 Section: Tweaks
 Description: Automatically switch away from "everyone" AirDrop visibility after a set amount of time
 Author: iCraze
-Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.noisyflake.velvet2
 Name: Velvet 2
@@ -88,7 +88,7 @@ SHA256: 981e1761d72534c4a30cb7236d48d634fcbd0a7f4a6a1307c02f501cc10fd396
 Section: Tweaks
 Description: Displays the volume percentage on the stock volume HUD.
 Author: gilshahar7
-Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: twitter.nowesr1.waignorecalls
 Name: WAIgnoreCalls
@@ -148,7 +148,7 @@ SHA256: dd333f158a36581436f76ca8cfd31340f3198aedad792e6a54986ee91091149e
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: dvntm
-Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
@@ -271,6 +271,7 @@ SHA256: 9cbf8488c5a4c2d03ff66df550b5ffef12c364c869f1b1954f7d392cf6879f7d
 Section: Tweaks
 Description: no bigtitles
 Author: iBreak <ibreak2019@qq.com>
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.yourepo.ibreak.hideseparator
 Name: Hide Separator
@@ -285,6 +286,7 @@ SHA256: 2d571e93ac462643717ab54c21fdf6db29bb50a90e02c30cfec9711204318abe
 Section: Tweaks
 Description: Hide separators system-wide  (including third-party Apps)
 Author: iBreak <ibreak2019@qq.com>
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.tools4cydia.copylinkdeb
 Name: CopyLinkDeb
@@ -299,6 +301,7 @@ SHA256: da60ca0411c4ec97be2a6350e17cb4d8bbab18c72befacaa83beed5ebce056d7
 Section: Tweaks
 Description: تحميل ونسخ روابط ديب من سورسات Download deb files from sources!
 Author: Tools4cydia
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.tools4cydia.copylinkdeb
 Name: CopyLinkDeb
@@ -313,6 +316,7 @@ SHA256: 6fb12f382c2bbdf52ec79e72f9eb7b26fba132b49d130a13c1a6f40ab2558638
 Section: Tweaks
 Description: تحميل ونسخ روابط ديب من سورسات Download deb files from sources!
 Author: Tools4cydia
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.nan.pointless
 Name: Pointless
@@ -372,6 +376,7 @@ SHA256: 791461f51311dc7487f89517f4e06c3fc3e040c2984c3af3efc9cf65a1c35216
 Section: Tweaks
 Description: An awesome application!
 Author: Spark
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: netskao.appdata-rootless
 Name: AppData-Rootless
@@ -386,6 +391,7 @@ SHA256: 369c6d6a120ce92b198e0b326d2df6897a90653a755ea91ecaad4b6ef709ead9
 Section: Tweaks
 Description: View & Manage Applications Data from your Home Screen & downgrade
 Author: Nets
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: jp.dcsyhi.kbappdock
 Name: KBApp
@@ -400,6 +406,7 @@ SHA256: fe07113e1ab90375545bf50682d49fcd535ef5f3cfe4d13fe4814681c280e335
 Section: Tweaks
 Description: You can arrange apps on the dock of keyboard ⌨️.
 Author: Dcsyhi
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: org.thebigboss.libcolorpicker
 Name: libcolorpicker (Unofficial)
@@ -429,6 +436,7 @@ SHA256: 23aced621fb4f0d27f3acda4fa983ec620644bb55ddf0e3524c846cc4eb9d727
 Section: Tweaks
 Description: Support package for my tweak Novus that's available on Havoc repo, recompiled for rootless. Will get removed when the originial author updates it for rootless.
 Author: nicho1asdev
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.brend0n.notransitcardversionlimit
 Name: NoTransitCardVersionLimit
@@ -443,6 +451,7 @@ SHA256: 4b23676810554308bf3eac418406dd955c315b2c20a0b7d68bea1b6fe743635c
 Section: Tweaks
 Description: Spoof OS version in Wallet App!
 Author: Brend0n <brendonjkding@126.com>
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.mtac.prefs.localizer
 Name: PreferenceLocalizer
@@ -472,6 +481,7 @@ SHA256: 80197ee4836214279af5eebdefc69a13e73a3b307dbe1837d5c65d0f588ba8b0
 Section: Tweaks
 Description: Change the telegram icon
 Author: Lizynz <lizynz@ya.ru>
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: weeb.lillie.youtubedislikesreturn
 Name: Return YouTube Dislike
@@ -516,6 +526,7 @@ SHA256: 039cfde2e392615e68d58a29ca4e62986c436148c8b10230f186ca4d3a17a892
 Section: Tweaks
 Description: iOS 16 Style Time & Date Lockscreen
 Author: alimaulana
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.spark.libsparkapplist
 Name: libSparkAppList
@@ -530,6 +541,7 @@ SHA256: a1e9feb4ad8c2d6c4dfcf0edd275b5b44cf42ba338e61d25c3109839dd079b26
 Section: Tweaks
 Description: AppList alternative
 Author: Spark
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.spark.libsparkcolourpicker
 Name: libsparkcolourpicker
@@ -544,6 +556,7 @@ SHA256: 260a224e379f93917da9761718c8b2a2a6f8fa9b9b0a613cd0eda2cdf93c7837
 Section: Tweaks
 Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
 Author: Spark
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.f0u4d.watusitools
 Name: WatusiTools
@@ -618,6 +631,7 @@ SHA256: 03ad62602a8fd510837a4b585d685ebd6d71eff212ac72b4df36588340b366f1
 Section: Tweaks
 Description: new
 Author: yasxi <(null)>
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: apt.llld.Flex3beta
 Name: Flex3-roothide
@@ -744,6 +758,7 @@ Size: 26284
 MD5sum: 78c02a52d189ded8c4feb7bbf44037dc
 SHA1: 37e882b11f0f804b5fa8ff604b481171a31284c4
 SHA256: 2a4af9759b6d9d2abccae86b1796e6490b6edd9716c862bf518cacb071fe62df
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.youquality
 Name: YouQuality
@@ -760,6 +775,7 @@ Size: 6780
 MD5sum: 5248d2d6f43d33e929a56e64d7e6db7e
 SHA1: 0b6282234c8b1877e0f3dcb89b5700772e69149d
 SHA256: 51bb4091cd56d6f43b7020f93e2d81397ee3d78af8bff668fe510afa5b74c7bd
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.ytuhd
 Name: YTUHD
@@ -776,6 +792,7 @@ Size: 13220
 MD5sum: c2e75530abfae5d1057943f44728bcd7
 SHA1: 5252307a53caab4c41b6fd23064238fcf0df286f
 SHA256: 32d2576919502d4770a8556ddbff9bd7868550df6cb50978b9c920f6e7f9bc16
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.ytvideooverlay
 Name: YTVideoOverlay
@@ -792,6 +809,7 @@ Size: 13900
 MD5sum: ee28dae71f7bfcc1549479e2031db454
 SHA1: edfc09880a8a1867c4b5d6339b0e0ba60fd66e69
 SHA256: cf68797d4bc227bfd58bd004997f7dabe6ee1917358f2d695e6197da92b11210
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: zp.cocoatop64.unject
 Name: CocoaTop64.zp
@@ -812,6 +830,7 @@ Size: 172664
 MD5sum: bdaace9be16410ad292e9e8688eeeeaf
 SHA1: 5b03978bcacf5f44746e8606648ea10cf5384565
 SHA256: 09a843a2a82bfd55b810713dfd4b9f37b3a1b9b78f5712fc39aeb123170fb21f
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.lclrc.hammerit
 Name: Hammer It
@@ -915,6 +934,7 @@ Size: 15320372
 MD5sum: 944a02dbd3564b8a146791f4d53ef4cb
 SHA1: 113c34e8ba53b70eca4c75536d76637fc53af8af
 SHA256: 6fd20ed91f30763fe4c03fa9cf447dac986063ccba27423983b83b250b8a99ff
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.tools4cydia.packages4
 Name: packages4
@@ -1170,6 +1190,7 @@ Size: 1683464
 MD5: bc10995ea095820632f8d551dfb3e5c0
 SHA1: a081cf3d7297e1ca5252f99edb1ec4802b1d3379
 SHA256: 33aa5ff5e2f11abd167735dfa67a972e2625ca9d5489748bd9f7e9647922520e
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.sparklechan.swifty
 Name: FridaCodeManager
@@ -1224,6 +1245,7 @@ Size: 10832
 MD5: 3cf64b3ade5e0193d8b9b21148f8c750
 SHA1: 14ebb4bedf99ccc70dc942b82c73631b53251cea
 SHA256: b8c98cfefc724d12a5e9995de92a07dda5635c902967eb816863610e2b76d24a
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: me.luki.iwanttranslucent
 Name: IWantTranslucent
@@ -1257,6 +1279,7 @@ Size: 10478
 MD5: 264586c2cef1fbda2a78a0a32bf2ef73
 SHA1: e69d182591ddcab6c89a57ef6ef5ecb8f4d6f3a8
 SHA256: 0ebc88c065ba6fffc92706cf34d434fa6d51577beda5b016c4e0d653f7d10757
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.yourepo.ibreak.hideseparator
 Section: Tweaks
@@ -1272,6 +1295,7 @@ Size: 8040
 MD5: 76efab855ff86f38ee2cf803a8c6c1b5
 SHA1: 01f8986e23efdf5a43a191dbd76461a5af3a44be
 SHA256: 9ee33d6e8fa030aa2c006bc15ef96ba4af013dad384e7c7d0a50fcf1b4dc3725
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ryannair05.cylinderremade
 Name: Cylinder Remade
@@ -1323,6 +1347,7 @@ Size: 8030
 MD5: 7d4939fd84380facc5d6c289088e23bd
 SHA1: f06dfc1ebf5c3b2f0f6f0e2f5a2d4e57856877a9
 SHA256: 6b0052b29d08abd77e67bbd4669dd4f292fcf20a76d2fb37e24da72f9031ecf9
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.dcproducts.iossecuritysuitebypass
 Name: iOSSecuritySuiteBypass
@@ -1376,6 +1401,7 @@ Size: 9820
 MD5: b07394b3718408f68185e79bb23deea0
 SHA1: f1e80e67dddbdae7e56ecc19787c324a6a42cd6e
 SHA256: bde2480a79147764bb101ee91514ee29bc982a3ac7a66fcc7d98e59d244f0086
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.highgraphics
 Name: HighGraphics
@@ -1392,6 +1418,7 @@ Size: 3988
 MD5: 275b3a4082ed4aa1ca2400da656f6152
 SHA1: d89d669f2b993c0d01a4ad01475bcc607678716d
 SHA256: 975ba018d9c4520331fad793561f5a4c7d854259e2b5e4cef3d0c8f134c544a0
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.youpip
 Name: YouPiP
@@ -1411,6 +1438,7 @@ Size: 26412
 MD5: 74f51e5ab415a1f9a5d3e5113bdc4c9f
 SHA1: e33890cb0fb8fef1aaa734d457017c5f8bb7def8
 SHA256: 7d6bdba67a3bfcfb3e8b6d0d4da316cfa318388b589f80e2b6cb7a3358e7682b
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.youquality
 Name: YouQuality
@@ -1427,6 +1455,7 @@ Size: 6740
 MD5: 3a52890ac7de92ceff7a5d69dd58577f
 SHA1: 93b627c1c72a56ea39d9083d08eb1a9751d4ecdf
 SHA256: 03cdf8ae95d12e521b40baf398e57bd62801a90cd1150d839ebd55cf244e7372
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.ytuhd
 Name: YTUHD
@@ -1443,6 +1472,7 @@ Size: 14616
 MD5: 43475875305bfdf359f7c9e66cd1e7a8
 SHA1: 7ebefa5f572a2e49ecf863e3c654cf245a145197
 SHA256: dc8e516f0c46d85a5a2988a7ccbda5e35dabd35db5912a69183211a5f8e3dc09
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.ytvideooverlay
 Name: YTVideoOverlay
@@ -1459,6 +1489,7 @@ Size: 14012
 MD5: 5474d2804d5ead174bff4bfa976effb5
 SHA1: 390cc2e598efdc4aba4d3869dabb149b11c908a3
 SHA256: 5ae022dc8418ec76fbb054d40c472d926e9902514e6a466ade87a5bc586e00ed
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.githubweblegacycompat
 Name: GitHubWebLegacyCompat
@@ -1474,6 +1505,7 @@ Size: 17692
 MD5: ea9b17d2f40ffce899a145344e773f5b
 SHA1: 3f63fb4252bb2287cb521bd653fded6237081d0a
 SHA256: b4eeedad25cf4a8c11cded38752f01342777c7272c127ce8b3440ff4426a2ee3
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.f0u4d.watusitools
 Name: WatusiTools
@@ -1489,6 +1521,7 @@ Size: 4956268
 MD5: 8ee04edb289d4b64f7fff3792693aae5
 SHA1: 4295ddde67fddbe073aa016cf0f6339d0adf81d3
 SHA256: 7614b31b378897fee1792fe089ed64134f2c31111e7fcbcd5f51540b120b9c39
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.f0u4d.watusitools
 Name: WatusiTools
@@ -1504,6 +1537,7 @@ Size: 4978760
 MD5: d3718a731f6dba3c30cbcd614852a7e8
 SHA1: 403cb96e275cd19cc8f1ccbcd6e2cdb44696642b
 SHA256: 9b924b41e7e618f3d3d115e7ba25871776b05721f3cea3db7e2aa8b65f260c45
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.f0u4d.watusitools
 Name: WatusiTools
@@ -1520,6 +1554,7 @@ Size: 4921472
 MD5: 5f7665dbded1000211f38e7d604b3f7a
 SHA1: 8fefb2024072d36c72c9333b6ca0bb8116f1da56
 SHA256: fce9e55cfbc52b3ca0b6d66eb5b88bbe19a493f27ef252fe1973774c18e48d94
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
@@ -1553,6 +1588,7 @@ Size: 5004648
 MD5: 77b641ad200e947ad2f056db09d46bf5
 SHA1: 7e769a25cb08dd701d797cb4bcc51bc9a2950998
 SHA256: 6dc4b71ea678ca79e6045705d3896de970b8b70e8ef6df3e22f9f633f724f734
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.0xkuj.safarix
 Name: SafariX
@@ -1569,6 +1605,7 @@ Size: 294792
 MD5: 762a86f74a3ce91b76aaf488dedb267f
 SHA1: b259f8b7e23c08e1dfb63d46fd07b97050be8490
 SHA256: 724b58f0bcd82c7782888c94327f22ba6810a6a4645fb07fc7f7d907e31965d6
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: theos.dev
 Name: theos
@@ -1603,6 +1640,7 @@ Size: 354912
 MD5: 533437e089cdd9336c8b8252487455b1
 SHA1: 68dfa80216e072b6f62b8a00997c5c19d3d83a56
 SHA256: 282d4e834ccbf7580577da9dbfb6ef5f45ed9ba94bb6b2595af61a3ab91703b3
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.randy420.tools
 Name: 420 Tools
@@ -1620,6 +1658,7 @@ Size: 548408
 MD5: f19b7d05980987d9af12fe040579165d
 SHA1: e9fb5417950d46264044947f37b9a8faadd0abcc
 SHA256: 08187611c58cbd2ce93cf884e5842b065c8747a64806e8bd74470e7d2a613de9
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: theos.dev
 Name: theos
@@ -1749,6 +1788,7 @@ Size: 6704
 MD5: 112af4eda0a0df29a3bea2403a1f41b4
 SHA1: 95b001468c644187b9ca7c26ae8d72593c4d7ead
 SHA256: 62cbd072f02fca10311e5ceee7fb707ab9c7f4b57d50a5f54bdc7e552d1bbf1e
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.youpip
 Name: YouPiP
@@ -1768,6 +1808,7 @@ Size: 24816
 MD5: f5191c55a660b4ed720fcf86a6a28aed
 SHA1: bf3d1ebbeb83af06c752520826089623f0d04a04
 SHA256: c79cf2096f1fc549f8fa247581173956e6485240a7d2406d4a2eba46dbe24021
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.ytuhd
 Name: YTUHD
@@ -1784,6 +1825,7 @@ Size: 13784
 MD5: bec1c49015d09401a5559a6a485508c4
 SHA1: 6ff3bffb14f671c5217d6570fe485c85c244f1c7
 SHA256: 935a60c4c5f4e802306d81972b03016b3c185a54ad27ced27ef06deebb1f35ef
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.ytvideooverlay
 Name: YTVideoOverlay
@@ -1800,6 +1842,7 @@ Size: 12916
 MD5: ca24aed2d55e4e8ef2ac893acef84e07
 SHA1: 212aeefa07bb989c751bcbff6454a1b914c28abb
 SHA256: 9a475a8a65d3dd0d8a6d747de09dad14c9b8dbea394ff2776484b8610ad85e93
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: fr.rootfs.rode
 Name: Rode
@@ -1816,6 +1859,7 @@ Size: 5980
 MD5: be7b44dc9f64a6bdfb4a9629d0fd7f28
 SHA1: 13713182f089b74781a8e4d719ef62e055b0aa87
 SHA256: 1eee621a612381bdf8af0bb4f6e28ace4aee2bf8d770ac28d4aed2a179b7fe95
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.squidforce.copyvault
 Name: CopyVault
@@ -1832,6 +1876,7 @@ Size: 1694480
 MD5: 25f5c27c2bd28613d630eacc3827465a
 SHA1: 0d3d6c9c7479ce07b74303113c55110c644bf479
 SHA256: dce932da939a52ecfb781a55a3079a49f834fc63325967c89a9bba449349f2c6
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Author: jailbreak365 <jailbreak365@mail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -1850,6 +1895,7 @@ Size: 1127572
 MD5: 15aa22b1085a0b075c08a9b7c7d7515c
 SHA1: 44c549cad16c449f39d55aec4a7a8302264fa5c5
 SHA256: b0918eecefd300b1242681fb243a6570fde55853a4f09bb817a5c06d2a878631
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Author: jailbreak365 <jailbreak365@mail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -1867,6 +1913,7 @@ Size: 1129272
 MD5: e1fbec6cdc897845a9c3237aca1732c2
 SHA1: bfe4c4ad2d0977453cc6fc7066afc5381401c7f8
 SHA256: 2f3050bba0b687c11ce4ff74ee9a7890a2f59d9bc741cd8ec78eba6c82cda4fa
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.roothide.managers
 Name: RootHide Manager
@@ -1900,6 +1947,7 @@ Size: 1692284
 MD5: 627a2d387d3a15e135f406312600bc09
 SHA1: 9ca130a60b699ab4a3eda7007e873802bc7a7e27
 SHA256: 2080affa9bfa91ee4d1404d66ca253d38b692fca24a9212702acf3547bf4a3e5
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Depends: mobilesubstrate
 Maintainer: Karen/あけみ <karen@akemi.ai>
@@ -1915,6 +1963,7 @@ Size: 27406
 MD5: 5ea0abdfb749136d1997774cb0080bfb
 SHA1: 18b02085fc9a10538d55a48d4ebb963ad5e90b9b
 SHA256: 4f076f72b79f8dd154b16902d912baa0cd897e09b6633afe5cd6d9aaeb67e0c8
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Depends: mobilesubstrate
 Maintainer: Karen/あけみ <karen@akemi.ai>
@@ -1930,6 +1979,7 @@ Size: 24064
 MD5: 9687e77e9fb000c46a5d9f431379e78e
 SHA1: 188daa941df212cfa50921fa37938176d938d059
 SHA256: 87721a3c6d5d2d1033ac73c304b4366ffadf42c4ee80348584eb4db469e31b6c
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Depends: mobilesubstrate
 Maintainer: Karen/あけみ <karen@akemi.ai>
@@ -1945,6 +1995,7 @@ Size: 24248
 MD5: 646c8719d36ac3e3f04af2e6c0e9abc1
 SHA1: 162de0f65a57a4fdabb6c67902b7eea48bc4afde
 SHA256: 59da728677034270af3e572e4d1c9a24d7a82a18cae18291af9ebbdb73ce4082
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.rpetrich.powercuff
 Section: Tweaks
@@ -1963,6 +2014,7 @@ Size: 14008
 MD5: 75a8bccf6e8e85cbfd061cf9d00b90d8
 SHA1: 569b9895c15060c80291531d8c76a16f47c11059
 SHA256: 2a13a1359e815204da2dd35a78cbd268e956311f1922fe82b1397686f7850b5f
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.rpetrich.powercuff
 Section: Tweaks
@@ -1982,6 +2034,7 @@ Size: 17084
 MD5: edafdb992e118985eee9c4cffff4527c
 SHA1: d645af1f07b06a6fe79cc55bc7651275fccacd44
 SHA256: 9a233052f8156c9d7a5deba2d3741532eb0b4502ab9a1c6eb015a6081edf71f8
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.0xkuj.filzadirprobe
 Name: FilzaDirProbe
@@ -1997,6 +2050,7 @@ Size: 49986
 MD5: ae6e856271a854796644cdac141b0866
 SHA1: 157c5a0ecbc5e9f86f892f653ac5daf7b4526436
 SHA256: 8f7d01818e8cae53576122ae855382d9d18afdd087adcbaa0b55e32897c503aa
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Author: MrDeNsor <alianwer9988@gmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -2016,6 +2070,7 @@ Size: 14404
 MD5: 1585861720e4716c6f3237f14799b045
 SHA1: f98de859ed7fdac89634ce23935841642d665354
 SHA256: 121696a4434e58c427f6109770e1af97b4672fdb40c70cab16ae4d7c858739e7
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: weeb.lillie.youtubedislikesreturn
 Version: 1.13.1
@@ -2048,6 +2103,7 @@ Size: 9176
 MD5: 2b42d57d8fae97b5a4e78a904fe8b9d8
 SHA1: ddaf39740236c9af4ec543714ee7c29a8880a118
 SHA256: 607d122cdebe798a04736342f7b980e4986a2509015599327d018c6f18906dfd
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Name: AddProfileInstallButton
 Package: com.dhinakg.addprofileinstallbutton
@@ -2062,6 +2118,7 @@ Size: 7840
 MD5: 8db48a47e331f914cf56fa3545d05983
 SHA1: 8d84c01fa3b3e28ada10c8d61a52fb2db4e0f9b4
 SHA256: 0c5ff33d5c5e0a02d25bde51f4d5648e9dc3e317dc6ff35d680a4834b61f49bf
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: me.ahmedbafkir.dleasy
 Name: DLEasy
@@ -2095,6 +2152,7 @@ Size: 1662760
 MD5: 5e161f9fe64c277fa32d251fce0cc20b
 SHA1: 2add533354c4ae1c2e8794bc5b7267df549227be
 SHA256: f0a0ca5a126ad5fdd40dfb4f7fd573ce02aed0b6073430875d548e276781d88f
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Name: AddProfileInstallButton
 Package: com.dhinakg.addprofileinstallbutton
@@ -2109,6 +2167,7 @@ Size: 7538
 MD5: 5cea42f70a500621a8ee1e534b51f512
 SHA1: 022b8879c1ab66c64edf06de704c6a7060001c4a
 SHA256: 90c2b0a71a220ae363831357be77b8f9a2c8c2d7095a5a33e8f4517176615fa2
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.bypassjb.sniper
 Name: Sniperbypassjb
@@ -2125,6 +2184,7 @@ Size: 69700
 MD5: eccdaa6b14d7451b27d4f2c7e8de54ba
 SHA1: 86d1e37a972a37a16bf6f5265c0c49563a6622c4
 SHA256: 816b547bed7f48b9819a77203cd15e637a415a4643695cf28b14710f4498d8d5
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.managedelete.sniper
 Name: ManageDelete
@@ -2140,6 +2200,7 @@ Size: 32448
 MD5: 4a741d71e50ab3b1b3d1becedbd1e632
 SHA1: d259f1d57aa5cfef52054d619487823aae6bc097
 SHA256: 835be3e00590ae34ce545798e22a807e15fc06726dabfe8a8270361ef38f5b55
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.managedelete.sniper
 Name: ManageDelete
@@ -2156,6 +2217,7 @@ Size: 32508
 MD5: e81bd6460245fcb08d93e324f0e54692
 SHA1: 50fe2264e3ba1fcd05d697f511e9e1bde20a9970
 SHA256: 75db183f4ae0060e3cbd65f551c018c9fdc8ff440e8b08b65b724f3fb7c39495
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.managedelete.sniper
 Name: ManageDelete
@@ -2171,6 +2233,7 @@ Size: 32028
 MD5: 9e54755b785b60d1183fc994a0eadc4f
 SHA1: 38fab67088af1c7af067982f8974f1473288600c
 SHA256: a605dd2a52eda8d917b91f48b3fd4e26068d0c14c01c1e39f2d77ef8739fae41
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
@@ -2202,6 +2265,7 @@ Size: 4496744
 MD5: 6184ee43b550d078a7f4906d3044a4f5
 SHA1: 795d5645fa264af28df45446c9c9cb1720a0ff8a
 SHA256: ab80c55a30a5d5d4cbbd7488b74372eb1d927c3bc4fe9eb4de5ca500b55865da
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
@@ -2288,6 +2352,7 @@ Size: 141878
 MD5: b4540f912e0a88e475097d0d2c8d43b3
 SHA1: ff094bb1a9a0f6f9f044099cf1ab94bbf3ea35a6
 SHA256: 8fdac5328027c8c0fa47dd71dca0b0f986b549de5a05dfe3bba1877e58614902
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.cydiaabdullah.cacloud
 Name: CACloud
@@ -2303,6 +2368,7 @@ Size: 99708
 MD5: 596d36ec752c2053e3729a80dc5de6aa
 SHA1: cf0d06401c76c68d520b8b343f334d1744f723d0
 SHA256: 6ea5dcdfc54563e461b8f04cbbe1c47b0458c9c4a47f9a5953c5e03e6fd36323
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.cydiaabdullah.cacloud
 Name: CACloud
@@ -2318,6 +2384,7 @@ Size: 100608
 MD5: 64f971e74eb6cbfabbdfc712a6140eb5
 SHA1: a36394fb80337b9a531f2eda41da86cd958abd69
 SHA256: e288eba7b6d296ade1782807f0be0583cf91e5d521fdc8991c697452d935e74f
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: me.alfhaily.rocket
 Name: Rocket for Instagram
@@ -2372,6 +2439,7 @@ Size: 9824
 MD5: 298afc65b8ad689be8af34423d2a8271
 SHA1: 7674bb51495feee4d6ef7cd09aa9216ddc4e6a6a
 SHA256: 3f627ac1ce5c6190dd24a7bd5b2963ac72691983ce6afba4cf2a777229552a28
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.youpip
 Name: YouPiP
@@ -2391,6 +2459,7 @@ Size: 26228
 MD5: 14e1ced8b15ac8d0fefd6fb5fc2d18c5
 SHA1: 9eeebec5555970c73fc0f73eb88d1059cb301296
 SHA256: 1468abd3b8f43ac5505d48d6e3c07969e1e68872a4706db28ed1ac1c0442a1e3
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.youquality
 Name: YouQuality
@@ -2407,6 +2476,7 @@ Size: 6964
 MD5: 044b24befb4fd029fdf064979d36f63a
 SHA1: d3e9baf52268b4696bb5360bdf35f39c3b51ae7c
 SHA256: 280d8412cf63d86780a6cf4cfaaf1def94a1a522cf012123336c00facbf23376
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.ytvideooverlay
 Name: YTVideoOverlay
@@ -2423,6 +2493,7 @@ Size: 11548
 MD5: 9d42ea27b02f24f2efd154e4ee82e34f
 SHA1: e3267b4ca10247c782dc016d2b5d882ce99754ef
 SHA256: cdd0261186a321cd7c8a81a636e00623c6cf02d57b0805c9d9a21c829508c9a6
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: weeb.lillie.youtubedislikesreturn
 Version: 1.12.14
@@ -2457,6 +2528,7 @@ Size: 92302
 MD5: 1c82eecf83df55ad22eef793cc0c6aa9
 SHA1: 9cd641261f2d6b966275cdbdbe5a93c03f633cff
 SHA256: 15e8b0be5d6010aba28736af5b9d5506d3a10771f61fc1520925fc609e8204e9
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.spark.snowboard.fonts
 Name: SnowBoard Fonts Extension
@@ -2476,6 +2548,7 @@ Size: 27436
 MD5: c85899e0713c1f687e3038e0d458d101
 SHA1: 9dcf14cccfc563be1565a7209c49f8ba6ea42a22
 SHA256: 07005e70123a6bad5977fed4676c6cdab88bf0424eba1076e149f9842319b371
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.spark.snowboard.settingsicons
 Name: SnowBoard Settings Icons Extension
@@ -2492,6 +2565,7 @@ Size: 23952
 MD5: 8beb3e8f25752523a80d381b5be08f07
 SHA1: 2e2938b94585a2b36daa4288fa14654112576891
 SHA256: 25abe358eee77dd8e95e2da3625b3b7b97c0d1d51cb60e5e6f6abc8dee5b4ba9
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.spark.snowboard.statusbar
 Name: SnowBoard StatusBar Extension
@@ -2508,6 +2582,7 @@ Size: 36358
 MD5: 0f48059871feea208de3e8f875f40365
 SHA1: 6639588d26d6c61f4d3adeade78437b76b6dce6f
 SHA256: 7bd345815ccabbe80603fc4eddf255d22a4d629307e91805a379affb68719361
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.spark.snowboard.effects
 Name: SnowBoard Icon Effects Extension
@@ -2524,6 +2599,7 @@ Size: 45706
 MD5: 9eb97a22ebbdf4be00559e334ebf6823
 SHA1: 74afec8c50a9a5e9fdfabe3c1a1be7f30c8a1b42
 SHA256: c2b6dc561a00f314c0e687c03dfaa1f0e5e946d9e95bcdbce9ae207ef2ab42d4
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.spark.snowboard.masks
 Name: SnowBoard Icon Masks Extension
@@ -2540,6 +2616,7 @@ Size: 25548
 MD5: de6af75ffb0caca8c1ef288b09edb496
 SHA1: 60ea628985ffef8bf4f41b892d812e2e7fc531e6
 SHA256: 9442d8813f0fcbd4bfc662ec66a8ae60ee9f1f78e75a4e48ac7ec765e7773008
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.spark.snowboard.labels
 Name: SnowBoard Labels Extension
@@ -2556,6 +2633,7 @@ Size: 33860
 MD5: ee097799cf06fcd46fbe64454bd06242
 SHA1: d2f17fb96b41e1b2a09fdd406377a552cf4c9360
 SHA256: c0c478eb18c66cb8e67beb52096d61e021cbb2960f983a924590f32895b1aec2
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.spark.snowboard.presetextension
 Name: SnowBoard Preset Extension
@@ -2572,6 +2650,7 @@ Size: 57550
 MD5: dc154f510ee18b70d7062af390226963
 SHA1: c3a1526469e0cee4a2c3459b6ad6ca77bc98df27
 SHA256: 05af8e3579b052ba448d66ed5a8ca157c94a8a4fbd49d2fd181a41086db6696d
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.spark.snowboard.dock
 Name: SnowBoard Dock Extension
@@ -2588,6 +2667,7 @@ Size: 44352
 MD5: a378c330454bd20efe73a7a15582afa8
 SHA1: d37c2ea6e2fc3988150e8cd0d775119bd1d0efee
 SHA256: f684e0fd0497c0fbaaf678c981c1ec395ddb55eaa61736505a35276c462e3986
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.miro.uyou
 Name: uYou
@@ -2626,6 +2706,7 @@ Size: 10150
 MD5: 3191a7b2805de2cc3e39907756674e5e
 SHA1: 3f38db162d5ae29cdc89c7e2ff52c724e809fc7d
 SHA256: 15ef955f24e111b393828a9e062566fe145a0d2e5af870c11ea51ebedf3513c5
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: dev.traurige.liddell
 Name: Liddell
@@ -2643,6 +2724,7 @@ Size: 124296
 MD5: c5f0aeca3c7db60bcd81a5d5e06b539d
 SHA1: cc3a56dbefb5b85ca9d9cd1440838d76f4fcce2a
 SHA256: 42973688ef1944b2fad1428d494101dd7dc0539cb067c9973f594202861a121f
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
@@ -2771,6 +2853,7 @@ Size: 4692244
 MD5: 219444b2cb0529c3d84121e6c2e20c72
 SHA1: 15f003f076af819ec423e42e0ef6c014a645fe0f
 SHA256: cb037e61116037f4f5d135501d409501e95a0648154aca379815fdb2f969d809
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.nan.miic
 Name: Move Icon Image Cache
@@ -2900,6 +2983,7 @@ Size: 14760
 MD5: 1a905e9c25d7357c4d3c5f7a11172152
 SHA1: 7df3a1ef7f9970eab50d8edad5dcae3987d5db8b
 SHA256: d78dc4dcb32a1013c8453859c7afcf9b81ecd246ce27ae1d0a78d04c2dfd1bfa
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.creaturecoding.libcspreferences
 Name: libCSPreferences
@@ -2916,6 +3000,7 @@ Size: 333134
 MD5: bbb549941f13b83b158f0809e953214a
 SHA1: cefacbbd2ad0e7701c0708e919131c401cd50d8a
 SHA256: 1d86c58915f7d3b5943c1bc8b9866c384ab029e843dc3bf3af1b7bad9ee6791d
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.tigisoftware.filza64bit
 Name: Filza File Manager 64-bit
@@ -2932,6 +3017,7 @@ Size: 8700882
 MD5: 3ba64c6c17e4a92c3afc89a95a224532
 SHA1: edaaf4766eeafcbc2186eecdc99a519b8eca2ed5
 SHA256: 5d354834ad5d44fcd2c1e3bdb4d082c25df6f8ba48f837745c2be1aec3f8f981
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.nathan.internalstoragesettings
 Name: InternalStorageSettings
@@ -2946,6 +3032,7 @@ Size: 3860
 MD5: a8d5cabab357fd08bec861648ec9dbeb
 SHA1: ec724279da07746d3a788254ae281db6e41c9ec3
 SHA256: e592d1cfc5670fe90f86221722ed62ff60a5a24bd7e29b4c532062d1b5aac66c
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: xyz.xninja.systeminfo
 Name: System Info
@@ -2961,6 +3048,7 @@ Size: 272484
 MD5: b95eab5cb98ee59903074e07556eeeef
 SHA1: cd12112a3197a800fc1e1fe45779cba2ec47e921
 SHA256: 4259c4f9ba2bb891b854fb0fbb6ad309ef2ddb8b9016c3c7d6b9490d5202f9e7
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: cm90.crossoveripc
 Name: CrossOverIPC
@@ -2976,6 +3064,7 @@ Size: 15374
 MD5: f20b39388b84f1769f55ebd92956347e
 SHA1: 920583a16a7e1204d6f160f85f58ef0afe137019
 SHA256: 509b4132f6ae542887eb49376a7a5cdf43069331ac8e469655f90baa0ead2c9f
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: libskittycolor
 Name: libskittycolor
@@ -2991,6 +3080,7 @@ Size: 22418
 MD5: 35149956e98e904274a00a83c9cc6e31
 SHA1: 02568f5c6de443a2321f8e3f1f3db990e2252f5e
 SHA256: a5f5b1999adacd469effc9f41c20167a7f014a107b0cb3386099c2f5ebb42492
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.level3tjg.twitchadblock
 Name: TwitchAdBlock
@@ -3006,6 +3096,7 @@ Size: 18486
 MD5: 61a9b717a3eabad584e10030f6858861
 SHA1: ed94cc8ae276ab9312cb6b24557647cd9ac2bd2c
 SHA256: 9e1c54f0694733f5445d8335b9c140ef8016bb10fdf9bc3e874da103e32fea0a
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.lizynz.telegaicons.rootless
 Name: Telega Icons
@@ -3021,6 +3112,7 @@ Size: 19370
 MD5: 991a3a9bccdce6748e2041e93c1566b3
 SHA1: dce8c5a7037de5ad3dd8220a99a6354e4ac4e8c6
 SHA256: 1e1639ed3b4f21accdb4e26017c42df1d5b268eea821048a7561a7db43e65393
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: org.thebigboss.libcolorpicker
 Name: libcolorpicker (Unofficial)
@@ -3059,6 +3151,7 @@ Size: 139024
 MD5: dd8cc81bce506c0216f220a7b1defdfa
 SHA1: 7f25289d6e636fcd6de0740dfa0046ef8c81acf4
 SHA256: 757e1c437c1de0586aeb77ecf8dd73f801875d4d85446fb9069bd673f9cd6586
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.highgraphics
 Name: HighGraphics
@@ -3074,6 +3167,7 @@ Size: 4222
 MD5: 750a6ca53d714a8e456797071a6d580a
 SHA1: fe9ef05fbd713187d184c09720a0bf58c8e1312e
 SHA256: 6dba3ab16ed0d5ac658d84f28f106bea88fd418dd4efdee435f01de9d3dca14b
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.replaykitmax
 Name: ReplayKit Max
@@ -3089,6 +3183,7 @@ Size: 3332
 MD5: 3f9ad3a301f6d31b9969451ba85ea789
 SHA1: e785ab54560f53486bd7cad52a48b8b0c3727f2d
 SHA256: 775fc6ae2ead2e3321707c8833f69832dcd01fb5782eecd9351fbb7fe3105f2d
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: one.keycap.freepip
 Name: FreePIP
@@ -3104,6 +3199,7 @@ Size: 6044
 MD5: d0151611ab8507911e34e3da3e0b4ec9
 SHA1: ece61e11126bd7327bfeb258740766b029d414c7
 SHA256: 19ca6459459b567c34ce830af718ec41f9cf319c7ccc0f0d476da04ae49dbf60
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.shepgoba.settingswidgets
 Name: SettingsWidgets
@@ -3119,6 +3215,7 @@ Size: 73112
 MD5: 027515e2b64bde33c6ed50fda9f18e48
 SHA1: 619943a5e2039deeff8099b4e8d6589c25224ca4
 SHA256: f73caac05a4ea62031233e6dfae9b55d60537f5fba6519db8161ca866db2d5ae
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.julioverne.goodwifi
 Maintainer: Julio
@@ -3150,6 +3247,7 @@ Size: 24834
 MD5: 0b8283166fd138011c971c9e466002c4
 SHA1: 986f8a4c07c63d9685b7fc61644dda220566438c
 SHA256: 3c99db2ec79f728826536bd55d2902c03c46ac995909c02b80c2fd5e9e8e812e
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.dcproducts.iossecuritysuitebypass
 Name: iOSSecuritySuiteBypass
@@ -3181,6 +3279,7 @@ Size: 393772
 MD5: 29d21a27df4f055081ca875644a215f6
 SHA1: 4a50fc8cc87b0fe0eea1b2670238e34d2119b6a3
 SHA256: 6bf70eadfff5eef94a92a99dda0a2fdf3b0e7d4e604b851e5c42afa954f0af03
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.creaturecoding.shuffle
 Name: Shuffle
@@ -3216,6 +3315,7 @@ Size: 231584
 MD5: 88eb9a71266fb2744af5521d20208193
 SHA1: 43b5f81b8d0db56b1b4047cf5dde95c736276f85
 SHA256: e6c064973f5b196e35b5222c8f52ea3a6c13d027eceb5e6437c1838cd54aba40
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.latesttranslate
 Name: LatestTranslate
@@ -3231,6 +3331,7 @@ Size: 228888
 MD5: 881d5c9d58aafdb775bb3891afce48c2
 SHA1: 5ec88c17bec178eeb350d055e1a9506bcdb0e3d2
 SHA256: ec3e9b81ab8fe93089036a0cf8d7121893d80160296f718edd1221f32affcc25
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.mtac.prefs.localizer
 Name: PreferenceLocalizer
@@ -3279,6 +3380,7 @@ Size: 83870
 MD5: 105f64c129fbc234576aac9ef9fe49a6
 SHA1: 649bf89b9dae70c27aeea470ce405b9f14b5d4c6
 SHA256: 8829ede582290d47f32025cde66e138a5eb5109273027c23ad65866308b8e599
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: zp.stopautolaunchapps
 Description: Stop Auto Launch Apps
@@ -3294,6 +3396,7 @@ Size: 2992
 MD5: 7a53ee58deb44f21b62a4200a9b671d3
 SHA1: b987e22e1859825dbe9411492edbb302de0c4e58
 SHA256: 6a608886173c6ac0e3a184a0fc463aedf238eeed1c890b3ca0e42b7ded29f1a7
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.level3tjg.betterccbrightness
 Name: BetterCCBrightness
@@ -3309,6 +3412,7 @@ Size: 43514
 MD5: 9fc36ffe7051f451c79b55a54be0a375
 SHA1: 90aacf957dbc6f54e5b9cc91b843ad588d729dda
 SHA256: d251ba330d9619da61e52985f9abd9ebf73d1107a1a081c3be4949eb2157584e
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Author: ichitaso <willfeeltips+ps11@gmail.com>
 Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
@@ -3346,6 +3450,7 @@ Size: 814362
 MD5: 143eebeb012807c1206528f5c12156dc
 SHA1: c85bb326be05ecab63285f1ab79ba5c3d4f9c8c1
 SHA256: 878c3bb588252b5efe20ab83bebb45dd2e0caee1622c334b86692e762b56a017
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: me.nixuge.networkmanager
 Name: NetworkManagerReborn
@@ -3414,6 +3519,7 @@ Size: 15866
 MD5: 42ec30335286174767cdd893800eb12b
 SHA1: d1efd18082c8b0f804f86a6efe68a4fb0fa16c76
 SHA256: b88884857a216e093a6459d0fcdd413846ce9390a2a301f93482ce046ab334fa
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.wrp1002.nosettingsbadge
 Name: NoSettingsBadge
@@ -3429,6 +3535,7 @@ Size: 4386
 MD5: eb490f9575dac7396e9ab1a332cb7a30
 SHA1: f3d3baf3ed3a07ce5d1593e5c0a98eb1000ceb1e
 SHA256: beeb3283ed1bf25e445f6e855d9a52ce733a68cf296a58fb488ab9a0870fdb2f
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.brend0n.notransitcardversionlimit
 Name: NoTransitCardVersionLimit
@@ -3444,6 +3551,7 @@ Size: 7784
 MD5: c1edfcfe352a56e3e1073e7ab71d2778
 SHA1: c5f9f7ad347a16004136189ce0d9949b7e30e44a
 SHA256: ed4536680540419aaefdf5b06aca293fe448426e657260066cec1e82d8a82b03
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.rpgfarm.a-font
 Name: A-Font
@@ -3459,6 +3567,7 @@ Size: 494572
 MD5: 01b1c8b7b6552093d04de9f5be50ff65
 SHA1: c3f43c400bb689d9d1aca56fc72916d2320a89df
 SHA256: 90bd627e7bb1eed784f42e974d4faec3810953292bccf3c71103ff641e576d41
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: dev.traurige.eneko
 Name: Eneko
@@ -3475,6 +3584,7 @@ Size: 28456
 MD5: e25d1c124704d4a4080a21f04a95a93a
 SHA1: ecd7ae867017395255234be0753e86007a243547
 SHA256: ac5c8b5ce148a7312913116c78f675149aa27909dc4cee4cd9dfe637563cceff
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.spark.snowboard
 Name: SnowBoard
@@ -3493,6 +3603,7 @@ Size: 1128570
 MD5: a7239a85eee273dc2f297878702a97b8
 SHA1: 1b3e80eb10ea03f6ed54f23262789ef37aa02656
 SHA256: 21c4686ced56eede121bc91efcaae27dc2c553857b565351361cd1ae772929d0
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.34306.replaced
 Name: replaced
@@ -3508,6 +3619,7 @@ Size: 3094
 MD5: 9f36730b58f43f060d082b03b6f3ce32
 SHA1: 1d841504fbd18d9578b2ec260f47229b329f04a7
 SHA256: b05ba1d2a6ff672e9553462dfaa7da4c7fdad761cf6f516be5ab33adc007d4a7
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.letmeblock
 Name: LetMeBlock
@@ -3523,6 +3635,7 @@ Size: 6190
 MD5: eaebb6437016a6b043e31fa258e85803
 SHA1: a577ade337190ea7c7aaae42b801c0983be611d8
 SHA256: 72cd74890de21f2f94115ee347d7e7a6131e38f7811f0dcdffce6ae37b58c1a0
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.kdt.trollpad
 Name: TrollPad
@@ -3538,6 +3651,7 @@ Size: 28710
 MD5: efae35a2879d140279dfbf6c2cc7ea46
 SHA1: 8d7267da91e7bf4858d61d3a082ef916209d1379
 SHA256: 6525a6b0ace53b959b949315b51f0e9a6675daff82d71ce116cb49d2122af02f
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.batteryhealthenabler
 Name: Battery Health Enabler
@@ -3553,6 +3667,7 @@ Size: 5434
 MD5: 0ca1bad2a71148ce73af82df31d8c511
 SHA1: f2f7c9a9cfdba5a655151b16005e3ce6d7224948
 SHA256: e69996de5ca92e7808f28792ac64a6744bd7da607a7eb199f1128c08aeb229ad
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.nguyenasang.snmessenger
 Name: SNMessenger
@@ -3572,6 +3687,7 @@ Size: 672718
 MD5: 5694397be2b6a4bee40880f4a32c9639
 SHA1: 0732b305b7ab3934c2f1048eb89ec141b6f6bca0
 SHA256: d358c12932a425a950dcb9132349a6427e92394b55da5aac42fbea0cf1bb48ea
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.nguyenasang.snmessenger
 Name: SNMessenger
@@ -3590,6 +3706,7 @@ Size: 653700
 MD5: e925f59c89d4652d39c501ce8e3f7484
 SHA1: 62687bfac32e0630f5faadf8746aa522b6222242
 SHA256: 63f888503de71b432f3fa40bd0286762d970cd071ff0f03839d3a7e84932f6bc
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
@@ -3776,6 +3893,7 @@ Size: 4875272
 MD5: ca64d466fb1837177f2b9a27ba73fae8
 SHA1: 394ab21f1a261271801aa96c7141ebb6a7c56ce6
 SHA256: ad47a5c6737ba3c341e92eb211215322a3a1e96eee4e9298fbf199092f60d20a
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.f0u4d.watusitools
 Name: WatusiTools
@@ -3791,6 +3909,7 @@ Size: 4899432
 MD5: 214422482c733a270e6e8e997a8e83ca
 SHA1: 7cd515e3fee33d338707dc15185effa2d576465e
 SHA256: 20df4469a2518d27bc69a0e0f9d1d7264fae5e8af2c3dacdffabf0adc80c19be
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.netskao.dumpdecrypter
 Name: DumpDecrypter
@@ -3807,6 +3926,7 @@ Size: 393764
 MD5: a105bd1d036b779360564bac6125da7c
 SHA1: 6acf20e5e76156050f201d42fc6c1495391145ac
 SHA256: 1070282d6843a32a6acf8ba4321d053a7e6c4dbb206d4c1187d959e221ddeb9a
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.den.igformat
 Name: IGFormat
@@ -3841,6 +3961,7 @@ Size: 2552698
 MD5: bd09fd0dcdba98fba866b820dd523a43
 SHA1: 4725ac8913a4c88bb40ede9a5562f1a0521d0807
 SHA256: 9e18746879b9179778fc427a47300148f8617b57a84bf680b9c30e4a96d99bea
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.miro.libphonenumber
 Name: libPhoneNumber
@@ -3858,6 +3979,7 @@ Size: 174870
 MD5: 2ff90c65bd59e3ed63681acc2f67def8
 SHA1: 215ac74933bd5972c363252e1b38d8a8d4741634
 SHA256: 081682a77f4f82c7a865a6528b4ae2d9245090e886a0e02faaf9581ab809bfc2
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.miro.yellowpages2
 Name: YellowPages 2
@@ -3911,6 +4033,7 @@ Size: 139676
 MD5: cd61d8c83e947719c242f2a69c6ee1e4
 SHA1: de1b127dac42a30bbf87a5fd4870d991b81caea9
 SHA256: eb731095145b467834c602f258ae08c984bfbe08d75940bc58521d358e05d75d
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.miro.libmiroshared
 Name: libMiROShared
@@ -3927,6 +4050,7 @@ Size: 716660
 MD5: 1ec8f1e8c9e32dc89464b9c4cc935668
 SHA1: 540453b3846f66f30c1a338679d52b7816e6a587
 SHA256: 073fcd393c14e2c08a5841883e0495551b0dab246dad6fcd07b45b1616fa2770
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.yougroupsettings
 Name: YouGroupSettings
@@ -3943,6 +4067,7 @@ Size: 5160
 MD5: 270ffdd2fa8ead8ba67575ba0020dfa8
 SHA1: 7bf66d73b33ba07d64f0cc1967c47d56ee849fdc
 SHA256: 5aa6892c03d6e61b194a3129fa1b9c5d83e751cefb5c6c4d5c004119b8a00f49
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.youquality
 Name: YouQuality
@@ -3959,6 +4084,7 @@ Size: 7796
 MD5: 3654da6765517e36191f2358d43c34ba
 SHA1: 30c3c297517775bff292936a6f286333225114bd
 SHA256: 25fce58655fefcca4f0d1f1efb13849b3867982882fbac084b073d0a6675893b
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.ytdarker
 Name: YTDarker
@@ -3975,6 +4101,7 @@ Size: 3148
 MD5: b1640045f96ba14e01ecbb4b497238d0
 SHA1: 15efc1cf952c5c21b64d70c47f20d43c7feb5e16
 SHA256: 483ee692cb9969b6c092c412683edc43a340d240cc72076ce7f6259c7f6f257a
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.ytvideooverlay
 Name: YTVideoOverlay
@@ -3991,6 +4118,7 @@ Size: 11012
 MD5: e44c6f4a943afa44479304226d9c335d
 SHA1: a052fb64534eb9d626b1bfdc5777b3c32f1db2a4
 SHA256: f957d085bbdcc5a9a47e460b0c3c4338d97e76a7077837d2a713a72e52f763fd
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.den.igformat
 Name: IGFormat
@@ -4043,6 +4171,7 @@ Size: 81376
 MD5: 583568c6e3b2215fd5d69da939f112b9
 SHA1: 582f9f84d000bb2b93b846c8e87226e778a5c19e
 SHA256: b7dd9822f4e7cf6a255eab72877d00229c86d648b50892419b96ed61b9b19bea
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.miro.uyou
 Name: uYou
@@ -4079,6 +4208,7 @@ Size: 79708
 MD5: 37b659261a52babcef5f8dce51fbb4b0
 SHA1: 6c9498c83d6710f065b2eb1869b2cacf7ab76694
 SHA256: 89a08fa0c323cdc9097f7b54b7b9119b5646fcc7be58c4826b0d1c0523f45e7a
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: dev.objcmsgsend.iota.ar
 Name: iota ar
@@ -4095,6 +4225,7 @@ Size: 517200
 MD5: a7e57e01944b8911e0678af6e16f58d4
 SHA1: 3aaa523e862b0532b451f71b62ca615bdce820a1
 SHA256: d963f7bd8a5e8e372b72aa97c19fdf4fb8aa4db57afe82baa859a78f3ceecb66
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.f0u4d.watusitools
 Name: WatusiTools
@@ -4111,6 +4242,7 @@ Size: 13219208
 MD5: 31da57ecf1e97d25c3e09e81a758431f
 SHA1: 70e963a4c4bbc697916baf63bfc0185116934fcb
 SHA256: 33b17504a926ff4d5a3f032cb17d88327ef0a0449e3c77f20cd9b747b3c154dd
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.injectionfoundation
 Name: Injection Foundation
@@ -4127,6 +4259,7 @@ Size: 5682
 MD5: e5ee143909516f60b29881cb03cc2f37
 SHA1: 3fd65e509d653f2460ec5c8be196ffac151e3ec0
 SHA256: acf001e141de20b59d9d931c612e11982b6460705046192240d1d60b3a284d22
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.highgraphics
 Name: HighGraphics
@@ -4143,6 +4276,7 @@ Size: 5796
 MD5: ed1e2c8b88cf0674baf9240f24d07482
 SHA1: 4e769670c06f5e500f0e6a06345a236df4e72e7e
 SHA256: 5dd6edac09de0961faba5d67dfd2dddb412b578025a77fb8311efb9ff7719fb1
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.tools4cydia.copylinkdeb
 Name: CopyLinkDeb
@@ -4158,6 +4292,7 @@ Size: 475432
 MD5: 5556f6d76467ad4dfea2a93769b7db3c
 SHA1: d17982ab4995b2b8dc8f0a90801c7578b355bf1b
 SHA256: edf363d7365847f1381c7f0c062646db2d23a1cc44af8414880ec66dfe465d18
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.tools4cydia.copylinkdeb
 Name: CopyLinkDeb
@@ -4172,6 +4307,7 @@ Size: 478968
 MD5: d8b8693de602af3521b8bdf2ccb83892
 SHA1: fe670b220a914a1dee2c4f472437cceb072062f4
 SHA256: 6b4bd1fd61aac87ce3b4a0a99bc3aff9898c3632dfb668c4fbde00015ab511f8
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
@@ -4239,6 +4375,7 @@ Size: 1579812
 MD5: 28f615684edd1c700a37afc5a8e97fa0
 SHA1: b2a71c767df2061b43e2c90a208bff910d18f9c7
 SHA256: 6f05f2ced956188dcd8dffb5e2aca95a8fb998726054016bbf335b89d4b62db0
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.f0u4d.watusitools
 Name: WatusiTools
@@ -4254,6 +4391,7 @@ Size: 4898432
 MD5: 6ee5622f080820091a0df827166e965f
 SHA1: 1c9ae9202e36d842c573ed48ecfec6eb948c6364
 SHA256: a81909cbb606041df3f6df8f90eb7c3031f2c0ed6d2002c5b20c9a03e3ce1310
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.fouadraheb.contactsync
 Name: ContactSync
@@ -4322,6 +4460,7 @@ Size: 1613100
 MD5: 75fb0340adf130fd9538fc177f1bcb89
 SHA1: 9046ea6538861ab6eec0e15a84b51edbda508146
 SHA256: 44890588bdb1efe3467baf9c13fe85c11e06e4c79d314c80bca23c3ef57b7608
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.f0u4d.onlinenotify
 Name: OnlineNotify
@@ -4358,6 +4497,7 @@ Size: 356948
 MD5: 572bbef943ad6b0a46133eefa828443b
 SHA1: 2c6e1fbd9f1ff5f1c5412f446ab9b5ef86eb2921
 SHA256: 350015eac8451f616879c7fa3575096e5ff0173ac4f5ad3a13ff3c456074a096
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.randy420.tools
 Name: 420 Tools
@@ -4376,6 +4516,7 @@ Size: 556392
 MD5: dbfd374cb6bfb233d230dce581dc53d6
 SHA1: 37149e6162a7749b63d0827e5c575231b6f2a7ff
 SHA256: 295c5f02f3179c99e8c62e72e5612c9d1adc7139b37a5832c3f7867eb949454a
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.mtac.ampere
 Name: Ampere
@@ -4392,6 +4533,7 @@ Size: 129106
 MD5: c3e09eca9f96388b9f473a4ba23fc28f
 SHA1: 5442c173611b76dffd32d596cc4cebb5767b8de2
 SHA256: 105472d1d79c2440bc17c301ddc82decb63298daa3b08f0031291a2e9060dc7c
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.den.igformat
 Name: IGFormat
@@ -4428,6 +4570,7 @@ Size: 4608
 MD5: c79c7cd6841345b2c6ece2cc67598717
 SHA1: d883407290e0c3c63ebde2f99b5a84ebfa665245
 SHA256: ce9e96daf147ec264d58a459d13437053e7f1701c7d80c57c522afd1fc4a0cb1
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Name: BlockAppUpdate 屏蔽App Store更新
 Package: cn.zqbb.disupdateapp
@@ -4466,6 +4609,7 @@ Size: 905898
 MD5: ccd4e8fe23402fdb47c4662039d785a7
 SHA1: b601ef397392e94396a1118056eb7597cbcbbb7b
 SHA256: b7eabcb7373c01f7c2f11c335ab6ba58f097c2108a263aa347c593ac35ec8091
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.teslaman3092.popoutbuttons
 Version: 1.0.1
@@ -4516,6 +4660,7 @@ Size: 30404
 MD5: 0aa2b5ce8fc9e254a9b0429393e88769
 SHA1: 765b7a1df88cbeb81c07c12ce709424f74465ff4
 SHA256: 10339ba6b8fcbb93b72e5634dbd8575736eb21fc7c5c540413d55807f14f28ac
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.82flex.iconrestore
 Name: Icon Restore
@@ -4531,6 +4676,7 @@ Size: 30460
 MD5: fd6409554b1bdbb3f7cc707147b1356f
 SHA1: 943d2e18477aaa2947f44e5e3e240eb2b4ed7728
 SHA256: 1ffd1e0836e4d2e03c9abb931249ec3ec3a24df6308b06d7d126dc4d42281eb3
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.den.igformat
 Name: IGFormat
@@ -4585,6 +4731,7 @@ Size: 108656
 MD5: 3d35e57f0a7b598777d4d3cdffc91007
 SHA1: 26a30de968b718f85d3d089f36f2b806010330d0
 SHA256: 905bfecfea288a2fc4677aecec86f9ae91b666cab24a64db954c97ecf0b57c37
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
@@ -4634,6 +4781,7 @@ Size: 28104
 MD5: 7c26958204d8b42b42ecec3459e29c59
 SHA1: e828d7653e4183df3055e3e7980117546c6b914f
 SHA256: a11eeec21d62fe97ef3e05081dade015c22eb1bc2316715a4146ccd077a26cbc
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
@@ -4683,6 +4831,7 @@ Size: 55552
 MD5: 77d16697d862c4aeb364f876b419dd72
 SHA1: e41451093d261ccbe4fa1376c8a128420afa2450
 SHA256: fccd6c5f1b8161a41b84b8317eabacdbf5d0723ef9827f41c98e0593c3d66bf4
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: me.tomt000.copylog
 Name: CopyLog
@@ -4699,6 +4848,7 @@ Size: 1507160
 MD5: 13f52649781b70eb0dab1bff4858ca21
 SHA1: e0e16b036e7454f473a4cf49a62482a023dc08b8
 SHA256: ae8d7841dd0c46b7691745e1c91dc33e12d0382abe7b7d31e88a45858fc40d4f
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.0xkuj.copylogfix16
 Name: CopyLogFix16
@@ -4715,6 +4865,7 @@ Size: 6288
 MD5: e268eb6bb5c3f353c6b4295b198b245c
 SHA1: 39693c9f14b9ba5dbf702cc86c7f9541ffa72565
 SHA256: fc6ce93b97a7edf5ff737c292a3669a48707a460c25584bd41cb225a38fcabeb
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.sergy.immortalizer
 Name: Immortalizer
@@ -4731,6 +4882,7 @@ Size: 28024
 MD5: 1ae779f49a03a8f5e2e1f76c9cba4903
 SHA1: 37e33fce552e4398741a534392b38b049995a9f6
 SHA256: c79cdaca112d3edcfe4543b02abc444397286b16ac8acf270e3186e5a967f787
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: dev.objcmsgsend.theta
 Name: Theta
@@ -4745,6 +4897,7 @@ Size: 983892
 MD5: 5f5e835d3d98102d8a7488627ac86ec8
 SHA1: 8db7629e6edd085ed5ed4cc01d17922956342b75
 SHA256: 03e95949c07a9b336c717fa3b6192d0749de6106c29af63e4c6586ef2590f7c1
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: dev.objcmsgsend.theta
 Name: Theta
@@ -4759,6 +4912,7 @@ Size: 675648
 MD5: 8ec93889bd892e285d2ed5ae528e409a
 SHA1: 03b94e83da573fa76c2792d428cff7f6e78d0166
 SHA256: 4fd74dcc722f8aefc88cda6c2f2012cc9ec2acda61cfad8287b9658288ebd03f
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.0xkuj.3dappversionspoofer
 Version: 2.1.1
@@ -4775,6 +4929,7 @@ Size: 59192
 MD5: c4caf1f64b7c0e9be2ee0c929f4dfbba
 SHA1: fd1f7842a72db7101be9a9322dc62a1928c43919
 SHA256: 6e2ff5125ae7ee07a07ebe30a5865826302acc696efecdf547303c07a0a208ef
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.den.igformat
 Name: IGFormat
@@ -4791,6 +4946,7 @@ Size: 51048
 MD5: b9215450608833d1f9e4c7df4939a4e7
 SHA1: be6b6f8f311895c3ffceeb4f59e8ac5353e754fb
 SHA256: c431e05b14432e7bf0dea52473834c7e7758d37f823d4d1983f1e2f0755ba1ff
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: net.cadoth.nosbreload
 Name: NoSBReload
@@ -4807,6 +4963,7 @@ Size: 3672
 MD5: 308cc637238651c25a3aea43639936e3
 SHA1: e7b96d16ea8fcda4e0d3ed8243bb2b4e67feafd4
 SHA256: 31e3decd458ad01d2c3ba990171fc33898da9ca976de4add40d85b03e29441b6
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: me.ahmedbafkir.dleasy
 Name: DLEasy
@@ -4839,6 +4996,7 @@ Size: 35448
 MD5: 3301798f8e28df5b96ff308f5bf56dbd
 SHA1: c5c55d9d02e85e268cf8b337a94be4377539fa83
 SHA256: 24ab0a98509816247adafddd72f6652542bc721a9453058da25e19d2783a9d3d
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Author: CreatureSurvive <support@creaturecoding.com>
 Architecture: iphoneos-arm64e
@@ -4854,6 +5012,7 @@ Size: 144828
 MD5: 14448a0025e70c9bc6dd47a17333d58a
 SHA1: 2f8bee1e3f7395094c77c1ef5c580280c8395777
 SHA256: 3c8dc6916fc066c00d799388066c595fa93f122801510a248224c23bba6cd97f
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Author: Asterix <asterix_gaul@outlook.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -4890,6 +5049,7 @@ Size: 400136
 MD5: 3cdfa6d4e9325dc2cf67ab7d7218a127
 SHA1: 4988559b051e17cf9a933b89f97945f3e9ee25cf
 SHA256: 0d9463efe00affe00116d9a2a57546a3e6e67c0d4a334d3da19198a738f3cd54
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Author: CreatureSurvive <support@creaturecoding.com>
 Architecture: iphoneos-arm64
@@ -4904,6 +5064,7 @@ Size: 149100
 MD5: b6d3bdbefc7cca1ed469185ab6320207
 SHA1: 6065572afb0561ce4f3762257b1cbc0d772f8d65
 SHA256: f607ba673446d5c960f3783829837df2f31f51921e282710fa6ef4340858a0ae
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Author: Asterix <asterix_gaul@outlook.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -4939,6 +5100,7 @@ Size: 557156
 MD5: aa018cbedf63a4c9092d380bf1da911b
 SHA1: 22c98581b63136e5ffe05924eec41df64d9b5e89
 SHA256: b87988663797a53c280c5cba3f7fcaade39a8c1bcc5409f034e5ab0d3602a964
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.fissiondev.uranium
 Name: Uranium
@@ -4970,6 +5132,7 @@ Size: 31646
 MD5: c114b2b650d9e1762c767f491b204126
 SHA1: e79b59d3b1fa13ee4701aa15ba08fb9033119b94
 SHA256: 5dc860e698e04f663eb5c93ef2d8a88fec4714d54765bfcb04d19dc0895113cb
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: org.haxi0.derootifier
 Version: 1.3
@@ -5002,6 +5165,7 @@ Size: 224002
 MD5: f374bc38512482b207f5f6735930c105
 SHA1: 2e7bd5c9543558e77e63a5d8a719c5b164b2d68b
 SHA256: aece6c5792012c53f40937079800eadaaf9a528b22c84cbf648b203365f6c83e
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.raulsaeed.bhtiktok++
 Name: BHTikTok++
@@ -5017,6 +5181,7 @@ Size: 152664
 MD5: 645fde324adea3745de09b0a0d52345e
 SHA1: 34a8f65a0d3744e37cba094a73950f482acccabb
 SHA256: eea0ac85a12a79c1edc84ec88cf935053c0facc3e51e5da09e987e439fd8cfdd
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.squidforce.copyvault
 Name: CopyVault
@@ -5033,6 +5198,7 @@ Size: 2069744
 MD5: 3bd9c76db4ab372b5deebe466f9e2c46
 SHA1: b91803b689c58473bc65917a27cfd430e85e7bcc
 SHA256: 275bf9a100e454f7ef3ff013c877010f8d98f2bcf0a9a28d66a2c488b97e0421
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: weeb.lillie.youtubedislikesreturn
 Version: 1.12.10
@@ -5098,6 +5264,7 @@ Size: 4358
 MD5: 962b6adfb1596b392cabeb4fb6ad8aa6
 SHA1: 50cd3b662f1819c403828b5ab704f41f816e2572
 SHA256: 4cecc7b43efba39adea7b25775023bfd7bf87b8ca0fb22ee5e4571fb9ad90b2a
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
@@ -5129,6 +5296,7 @@ Size: 733264
 MD5: d37cfc57736e3c5cb921cf3f3fd56efc
 SHA1: da88d5deb8dbbed106f71201fc248f66f554a324
 SHA256: 6489a94256261924d21a3f3a56302d72d6ca62e2ff2695428ec4a37bf6e279e6
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: net.kayoko
 Maintainer: 82flex
@@ -5144,6 +5312,7 @@ Size: 124468
 MD5: 2e85ddc0199f1725c704609e152c8f8a
 SHA1: bdd18d2e8f4ac562e15832b8d866a9281ab937b0
 SHA256: 9b6a6369327dc3ab22c33eb29a30b22e36700f1a3af184da81722019a01f42d6
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Author: XsF1re, ichitaso, level3tjg
 Maintainer: alias20
@@ -5177,6 +5346,7 @@ Size: 5072808
 MD5: dc4ef27d60fdbac908773332832c3554
 SHA1: 2ec0bbbe6b576fc2bd90b484d3e52cd6fc4475d3
 SHA256: 100c013eeddb7c4362f929b8deb8396e84cc5f0d5bf4817208c477816e752425
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.nightwind.sileorespringfix
 Name: SileoRespringFix
@@ -5192,6 +5362,7 @@ Size: 4592
 MD5: 53e6cbedc970d890ff64eac09bdc2f77
 SHA1: 65217ddacaf263794a52b533b1561f78e0895089
 SHA256: 57078f1d287b7e863d258009bdbd5a3d5386c9f703413e40b671b669149eb0eb
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: net.cadoth.nosbreload
 Name: NoSBReload
@@ -5207,6 +5378,7 @@ Size: 3504
 MD5: 898f20ecbfad05c86f068a014f2841fa
 SHA1: bbd661952261389aa0f6ed975d0be9664e15cf36
 SHA256: 62ef6180ec9105e180ead5ad790b385df9beea56476d5e30d2dba9d2414c5182
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.jaxroth.supporttheunsupportedrevived
 Name: SupportTheUnsupported Revived
@@ -5238,6 +5410,7 @@ Size: 4498516
 MD5: e0f89c551894b8dedda2f6480132b74e
 SHA1: 448d1fa303aa1bbb7bb90b773e606ed4cf6dab2e
 SHA256: 3060a9048101a42cd9c343594fd0167473a3de155a3ea73839c3c5ad1076b551
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.exile90.icleanerpro
 Name: iCleaner Pro
@@ -5303,6 +5476,7 @@ SHA256: da2787f1f7ada234a5b6b5bf004ad038898b73b4b39f1350d6fe1009f571609e
 Description: Allow installing unsigned profiles with the ability to write global defaults.
 Name: TrustEvaluator
 Author: daniel
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.bandarhl.bhtiktok
 Architecture: iphoneos-arm64
@@ -5334,6 +5508,7 @@ SHA256: 9badad67a80976d8d95c8632ec06dabfb5c36596f557635775f99c9f14512841
 Description: Disable right-to-left languages across the system!
 Name: DisableRTL
 Author: @iMokhles
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64
@@ -5446,6 +5621,7 @@ Size: 26452
 MD5: 13d64f05ef71ad8b233945e8e4179241
 SHA1: 4917b80e140f6d3d158880c2702bd0d61fb40c78
 SHA256: 34dcbd1269a7222fe34bfeb6430a0396845cb1f2dc009a848c8bf54b7e46cac8
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.teslaman3092.popoutbuttons
 Version: 1.0.0
@@ -5502,6 +5678,7 @@ Size: 1022696
 MD5: c3041ca374f1dc157b273b764b2189b2
 SHA1: c12624d48926d3dc72cec613459e2b5c8fe1d06a
 SHA256: 3dbeb55f738be6598e11f3fa755c55c26ea3a39ffbf64bfc476dbc684aea8003
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.squidforce.copyvault
 Name: CopyVault
@@ -5518,6 +5695,7 @@ Size: 2068376
 MD5: 6381125c2b7bf6650de86fd6878db9a8
 SHA1: 5c74186edcece12e71ad3db96b5c53216ffabc9d
 SHA256: d3b99c450ed39ba202e47178a7fc8e701080d76980ed3cc8b75362bbcb5bde88
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Name: NoEditPages
 Package: com.cydiageek.noeditpages
@@ -5537,6 +5715,7 @@ Size: 3212
 MD5: 45d492f5e85c9a0f1b173c275a26463f
 SHA1: ba516bb58d1777c62c407d9436c05ea46e6a596f
 SHA256: 61c880b854c058bbe90a6d4b63e9df343067e42249b1a3a459fc35dc40048b3c
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: dev.traurige.eneko
 Name: Eneko
@@ -5554,6 +5733,7 @@ Size: 28328
 MD5: c8f2c2b4e813069b2e0056524c51307a
 SHA1: 07c44afd391301339c6f031d5506e00de75ae58f
 SHA256: f40a0d5503bc97db537cc84e5ec74609855bd2c3d2c008726330a8623a531836
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.mrgcgamer.libgcuniversal
 Name: LibGcUniversal
@@ -5572,6 +5752,7 @@ Size: 53276
 MD5: babb07f6813cf4f98e0dcf72b92d1afb
 SHA1: 6bffe79c4eca4b60a92a3ed77b29a3aa72aaf284
 SHA256: 04bc7f8549aee7a270af0896257710d3902cfa30d5f2ba47b1085a467bf25e4f
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.dvntm.cc18
 Name: CC18
@@ -5587,6 +5768,7 @@ Size: 4294
 MD5: 289ed9620f73f5112bf20d7b6e2cc46c
 SHA1: 731e017f13c7beda1c342cb583b0d63eae201a4c
 SHA256: 97e489aeebc25df1d6618bcb3c5dc8c4dae2b7fb97416d57ce0cb14d8f11f654
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
@@ -5620,6 +5802,7 @@ Size: 174724
 MD5: 02469facbbba984e20b4f5e3d1413e68
 SHA1: 20fb25c83596f74170c546696239a469ed380e39
 SHA256: c368ee20aaf1bb59c696670184f3fba23834fef93da6fd79d4552d46bcd10663
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.yourepo.cydiageek.wiredock
 Architecture: iphoneos-arm64e
@@ -5636,6 +5819,7 @@ Size: 19604
 MD5: a4281e6640e8eb6f7383740f4f90057f
 SHA1: 50ebf0f0952c785bea42e6c74a76dca891ab1deb
 SHA256: 049c00cb5316e8248634a01fc7e0b7314169eacafc7fd323360ce157a485eab8
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.raulsaeed.bhtiktok++
 Name: BHTikTok++
@@ -5652,6 +5836,7 @@ Size: 133784
 MD5: 1cd8079a1d817dceee4bc1599483ccd4
 SHA1: 4e1907f9bc89131077b85a4b01f40fc558ad0245
 SHA256: d19eba88d4ea5aed1db7da8a862741a40fdb8533aabd2d8ca4a54145348a5376
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.nathan.internalstoragesettings
 Name: InternalStorageSettings
@@ -5667,6 +5852,7 @@ Size: 4144
 MD5: 42edf71fc048a6bda5d48cd40e90a3be
 SHA1: f67fa46f7c7f50b821db1d41563b773b401ccfbd
 SHA256: b6b4967205815ac0da295938366f1b22b71bb19570bdfeb9db916fa393e19f3b
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: me.nixuge.networkmanager
 Name: NetworkManagerReborn
@@ -5700,6 +5886,7 @@ Size: 30588
 MD5: 5153c3fabe817d9576579de5a4b06bd6
 SHA1: fdc0f5de3360881e3e480f8fc595c0e86f347bef
 SHA256: 96b78c523d5a533a055fbf770a423efe0c5a137a2180cb88182de081a9e5a2d5
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: net.ajbbo.disableshareplay
 Name: disableSharePlay
@@ -5716,6 +5903,7 @@ Size: 2920
 MD5: aa224fdfaef93f8bd6bef009d3edd434
 SHA1: f9655d36f0850abf479cc85699fb190fb5eb6d12
 SHA256: 8664746dc5a2030178d84da22ad8939f05ebf743fdd0f70a483cabb60d1d7a71
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.wrp1002.nosettingsbadge
 Name: NoSettingsBadge
@@ -5732,6 +5920,7 @@ Size: 4360
 MD5: b17c15a518acc96d3ec7fe58bf66256e
 SHA1: 6846984c0a8ea4d6a42394a29914ac55ce646ce6
 SHA256: 594d120aa3da0af6dd6b78e20aa22492715b0ba4c0d630c85628a93708bd1cf7
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.34306.replaced
 Name: replaced
@@ -5747,6 +5936,7 @@ Size: 3152
 MD5: 25623d181915625b851446658cd510eb
 SHA1: 2b2d7a8f8b75c7fb11c24a26a544140a4962df41
 SHA256: 2d8a29c5cf5f6ff24f2e0ebce932eff5e270ecb13342be31d8205b81f437e913
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.bandarhl.bhtwitter
 Name: BHTwitter
@@ -5763,6 +5953,7 @@ Size: 1035288
 MD5: a15bdb359d0bb0410068d74ddfd987c3
 SHA1: 10d49bf51648a9f70fd82fe568d49e27cb58ddf8
 SHA256: de9380d7836a9786187fc463fd1c2207a7f0dc070e5bedf573e666cb42d66aba
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.foxfort.libfoxfortutils
 Name: libfoxfortutils
@@ -5781,6 +5972,7 @@ Size: 442900
 MD5: 1d05ab88af88bcd9272f18fb801d8d43
 SHA1: 55c94fa0071d778fa659312e1b9f72fc4a7a53af
 SHA256: 36c758dec10c10375524a09eb95f4f67b477e59e866c21c8877b3b4d431f7101
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.foxfort.foxforttools
 Name: FoxFort Tools
@@ -5799,6 +5991,7 @@ Size: 1593640
 MD5: fbab5964f60e45f8b45b3e2953c0995d
 SHA1: 638c1b1f238ebe8250b9d347e330b4cf1eb38fbc
 SHA256: 2f8a3e773dd9e8d87d145aa13bcbe451d042591e0d960a69959da471ec7e1aab
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.foxfort.translomatic
 Name: Translomatic
@@ -5850,6 +6043,7 @@ Size: 3656
 MD5: 5d587df9382de3f621d0b19e507ced5f
 SHA1: 3a504b4f5b97f01a6c74bf1994e4b374e927b3c8
 SHA256: 44ca6f6c93bcd080b2cee07fc38de92c3559f9b7215250fb81c50d4e9e397990
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.imokhles.disablertl
 Name: DisableRTL
@@ -5866,6 +6060,7 @@ Size: 4468
 MD5: 9c1abc6ef7f3b68e47ce53ac555540bf
 SHA1: e9861d3f8cb40b4286b44717911a6ea7b9de3434
 SHA256: fabb92e2d94ff9ca71a4803c47977b52b1e5de7a370be61175a1932c8055f18c
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.dvntm.safariii
 Name: Safariii
@@ -5881,6 +6076,7 @@ Size: 2800
 MD5: efd79bde9da976d9d4a4b29b3ef10c15
 SHA1: 4ddadaa4b69833af20fa4851eb911b3edcf54b09
 SHA256: 45bde2478ea8571a423cad851647c6f9d76f2251f3a665b104ffc45d67d91be8
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.jaxroth.supporttheunsupportedrevived
 Name: SupportTheUnsupported Revived
@@ -5897,6 +6093,7 @@ Size: 4840
 MD5: 3310ef7893e267300fe6d39b65214934
 SHA1: 25818704dba366db49a3d0559db252413b6776ec
 SHA256: c0252f9bec7ce4742cec0cb3041d053c90352cebe0e505ca5eb3f4d125a36cbe
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Name: libnotifications
 Package: com.cokepokes.libnotifications
@@ -5916,6 +6113,7 @@ Size: 16700
 MD5: 4a5cf884d8997daa47553b3ed8475c2b
 SHA1: 72ebf69361a9cc528884fe72ee65a5b698a45ec9
 SHA256: 16b196ff2edaef6140982661af68928b9c76a01c60816c651491391e58d784de
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.muirey03.cr4shed
 Name: Cr4shed
@@ -5931,6 +6129,7 @@ Size: 211468
 MD5: 0b56c44a59d088214ea586085298deb8
 SHA1: eab69cc49769b908147516498c06e3ab1160397c
 SHA256: 66de45c83893f92e3163dd5b2f0d65fa218d4f820e5191ef31548dd8c99d3818
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.nightwind.lockbuttonx
 Name: LockButtonX
@@ -5964,6 +6163,7 @@ Size: 4812
 MD5: 05bc7c8076ed9cbd292b730b7c0a68e2
 SHA1: 3ec0806043a80084e31ad52d805acb09d641ad99
 SHA256: cc328baba8310f254fa6dfb076a79040d52b922df6298c0719a05c2fd404afa9
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: daniel.trustevaluator
 Name: TrustEvaluator
@@ -5979,6 +6179,7 @@ Size: 2932
 MD5: 68a1a5c5dd84bdc632f5b024c8ebec3a
 SHA1: c405e56821cefb6bdfa9a47d73ee3ace692f0c20
 SHA256: f07f2caad3797a0c0304d59ab9cf21c91da010a9e670b162280d23582da7aea2
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 17.0)
 Maintainer: Karen/ããã¿ <karen@akemi.ai>
@@ -5997,6 +6198,7 @@ Size: 32236
 MD5: 8640ce716cf3148a0387f55d17c8eb53
 SHA1: 4e094fc37d5214b44d5a77346f21d9132e619d2e
 SHA256: 8b0f9192aa1288ce58ffbcba593c837db19655436b291f934fa8f710b641b2fa
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.creaturecoding.tweaksettings
 Name: TweakSettings
@@ -6033,6 +6235,7 @@ Size: 42516
 MD5: 243a909a1f796be8a13fcf8d08c250e8
 SHA1: ad4f84107121ced37bd1e26db307af00bf26f2cd
 SHA256: 6f11e545b7ad21ba699c7e9f49ace20a03ef3421cb9c2696e5bc7dbdc3e649c6
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.level3tjg.twitchadblock
 Name: TwitchAdBlock
@@ -6049,6 +6252,7 @@ Size: 18812
 MD5: 7def14c1291e8cc800dcc6ac47791267
 SHA1: 9452236c6fed8a648401d18203ee0df4e95d80f7
 SHA256: e25dfc0bc508878dd7127bbc8ec620493db0fc55f64ea2087ab17064b5221489
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: jp.dcsyhi.adkeyboard
 Name: ADKeyboard
@@ -6065,6 +6269,7 @@ Size: 287372
 MD5: 65b6b8fbf75c1b14de0ca9483e766e33
 SHA1: 3e294932359e22d064b80a5f4990fee1777b15e7
 SHA256: 29599f5ed4f587922a64eb4ef7e223e32d028552c4de59c2317535b35b8dd5fe
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.exile90.icleanerpro
 Name: iCleaner Pro
@@ -6121,6 +6326,7 @@ Size: 72152
 MD5: 45322521e924375d865128090ac8996a
 SHA1: 1fd0afbb1724bad8c03270ee15ce439165d927a3
 SHA256: 70ebbc574edc4e8da51f5c9e772d98512dfca8deb47c0bff492c1a499cb1af21
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: xyz.xninja.systeminfo
 Name: System Info
@@ -6137,6 +6343,7 @@ Size: 268276
 MD5: 83b313cb75e21ac6c2f9742eab035bf8
 SHA1: 13e713c724b5fabed2b6869dfb979f5e8cedde3e
 SHA256: f11574cd83325efa65b60e67d49c3ec19fa474a7e0865b309d47c8d0b3069b9d
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.kdt.trollpad
 Name: TrollPad
@@ -6153,6 +6360,7 @@ Size: 22668
 MD5: 7c359d388841a96db6d7670feb67e5be
 SHA1: d142b06b67940408de2f21b598ce08c8336aebcf
 SHA256: 92f41c9f93cbf3777afa1f8ce8142f2ad8092b39f180849ceaf21fc183bd3003
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.batteryhealthenabler
 Name: Battery Health Enabler
@@ -6169,6 +6377,7 @@ Size: 5452
 MD5: dd1560f8f0d666c40136ccc6241acf22
 SHA1: 6689c0e8db9bfce04b8d115032b49abc6e618b6f
 SHA256: f8ee60fa6ca43e2bfffc61f9d853b9350ce59250f0f031c0e5f51dbb993eaabe
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.f0u4d.stalky
 Name: Stalky
@@ -6186,6 +6395,7 @@ Size: 1580108
 MD5: 4a71a5eea8ebed93dd51209b2855dd76
 SHA1: a949331e1da483219653b90f5a97b11b65ef5ace
 SHA256: 4abad2559c2b47b15bac0d480b701b6d2223dd39f60ac94197456eb02f79b2c0
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.f0u4d.onlinenotify
 Name: OnlineNotify
@@ -6256,6 +6466,7 @@ Size: 335124
 MD5: 70d2e29573a7dd74e2f8f0d43482a7ca
 SHA1: 9faf3ae23942c9100a5b8de230b9f3c842c116cc
 SHA256: b03610572da2544c5587fa00b479838103867b5ff1a1176c15ca6989b6154573
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.letmeblock
 Name: LetMeBlock
@@ -6272,6 +6483,7 @@ Size: 8564
 MD5: 23aed44bfd37d086ff945d4ba2ecfe0e
 SHA1: daa1806dd96fa55e0a03a53e7f96ed5013b9588f
 SHA256: 928cea34bc434cb1cf7a385ebbdc489e934ac55b16fba8646eb06982c4521f42
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.replaykitmax
 Name: ReplayKit Max
@@ -6288,6 +6500,7 @@ Size: 3348
 MD5: e80d325d70fee4de8fb843db857cdf3e
 SHA1: 1c8803024ab9a4767507bf7031dda2decaa805e6
 SHA256: 3e51a17cd25f1e8308671d3c2a7e63f86f35ccfefcc852100f04e1f3839e3ab4
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.ps.latesttranslate
 Name: LatestTranslate
@@ -6304,6 +6517,7 @@ Size: 208736
 MD5: ec382e4e0508eb947de3afcb6264226b
 SHA1: 7987d1b70db8c0251c118461a656365963be9237
 SHA256: c5521c76df757ac5f976a6f70e6376916672717b35e800dc556e4d7e72651e30
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.socuul.scinsta
 Name: SCInsta
@@ -6320,6 +6534,7 @@ Size: 80436
 MD5: d60f17868c5e7b05ceaaa52c63b4e48e
 SHA1: a9a2d76620c1da3cc789cd8c7c15f0c5be25a028
 SHA256: da2020026f614c08c12a4d6903238c23a35c1ca96b61396946955ea0aa5f87ef
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.bandarhl.bhtiktok
 Name: BHTikTok Plus
@@ -6369,6 +6584,7 @@ Size: 4497396
 MD5: afd6a1734ff9a8bb7160258ea2595ec7
 SHA1: 378c9e2e5aac37a6de1544a4b7f404c187b66142
 SHA256: 160c60859aa749aa24049e8e83ac37b7f76b050e0171736836df544588d4248e
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.julioverne.goodwifi
 Maintainer: Julio
@@ -6419,6 +6635,7 @@ Size: 5049568
 MD5: afff04c2ed8c05da11edb5f391396eb7
 SHA1: 656547520400a4ed10cfb0d8543694c38d36fd9c
 SHA256: 58e8dea3a853abc42dad14f4bb4cc24451d8a1e41e1dc47ff03926cafb5414d7
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.fouadraheb.regram
 Name: Regram for Instagram
@@ -6469,6 +6686,7 @@ Size: 21856
 MD5: 7a7a83570392b7beedf606b274a37493
 SHA1: 71613f6cd1aed890bc43b875f4f3f0c9e324e99e
 SHA256: a044de142e13e4d3066317b2064c73549d1b136b2746b43e085d0c5d601dee7f
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.spark.snowboard
 Name: SnowBoard
@@ -6488,6 +6706,7 @@ Size: 1115484
 MD5: 9d29dd56391367e347b2a209627c0eaa
 SHA1: e80444f27cd53d3485f366d1034c5b7e989fd883
 SHA256: d383d15b4940b88eb5317fac095989ce5db2fdc2f96d07c968e15f3f79c4286f
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -6526,6 +6745,7 @@ Size: 20196
 MD5: 2a9e93aec781a7a50ec5e00a75c6e03a
 SHA1: 480bb1bc03346de7863dfebbda5a49f2b65af579
 SHA256: 889962874f46fe50ac87aa90bd12905e3ba72cbdc9b4db7bcebf95d1248805dd
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Name: LimitCharging
 Package: com.zqbb.limitcharging
@@ -6567,6 +6787,7 @@ Size: 4792
 MD5: 5a6b09f86d7ae48e2928a82cbc5ea320
 SHA1: 29fa63d11947a17c9b11cb7efc2a0cadadb0ba6f
 SHA256: c37027243c4bd4389ea237051ffd92e8203f182f662cb36983f513fbbe8d190f
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Name: PMP
 Package: pro.ikghd.pmp
@@ -6650,6 +6871,7 @@ Size: 8496
 MD5: 7392e0d240e0389ee359e4e89ebcfc25
 SHA1: d10304e92ada78e7c828c955fec64f4546045a1d
 SHA256: 1a6e7384cbbfddf6541beb5b40e1a71bcab482cefe4d83d15139533e8bf0c27b
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.nightwind.boldersreborn
 Version: 1.1.2
@@ -6736,6 +6958,7 @@ Size: 25040
 MD5: 0a2349dc0e597a8269af3615bcc3a98a
 SHA1: 4005ef707b7edd2c8176cf7dd98f6fb9bbe0f36c
 SHA256: fb6bc3f93e8a6191ad235d960610f3cc84e0914b34094aee235a149759e77102
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.0xkuj.nopastealerts16
 Name: NoPasteAlerts16
@@ -6769,6 +6992,7 @@ Size: 9096
 MD5: 188c3a27180ed74607094cd7ea1daf03
 SHA1: 5ba8f7670b2e959bbaddb1f7457f06dd9f008f12
 SHA256: 21dbbae64144e73b7ff4e5545384149801b83fc497bd4da43f535bf4b3c062e5
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.foxfort.skinnymenu
 Name: SkinnyMenu
@@ -6785,6 +7009,7 @@ Size: 255992
 MD5: 61a2fe6696ebd87fc39deb512f65ef35
 SHA1: d786ff0b015996aeab0d03d0681d53198eb1ec7b
 SHA256: e7711cf97ef406fb7801677678a03860ace6080201dbef8e7f231ad52ed0a225
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.yourepo.0xkuj.storeswitcher2rootless
 Architecture: iphoneos-arm64e
