@@ -1,3 +1,173 @@
+Package: com.alphastream.linearforsb
+Architecture: iphoneos-arm64e
+Version: 1.4.2-1
+Section: Themes
+Maintainer: Alpha_Stream <alphastream113@gmail.com>
+Depends: com.spark.snowboard, com.spark.snowboard.statusbar, firmware (>= 12.0)
+Filename: ./debs//com.alphastream.linearforsb_1.4.2-1_iphoneos-arm64e.deb
+Size: 222302
+MD5sum: 42509c450597a00759ec8cd719fff4a3
+SHA1: 789cd57b5c67ddd0775edb31815e00a5ed8cfa38
+SHA256: e5253bc062a3d721793f0eee722f2583e79df325b9df47d75493dcdb578255b0
+Description: Status bar icons but in a form of lines.
+Tag: compatible_min::ios12.0
+Author: Alpha_Stream <alphastream113@gmail.com>
+Name: Linear for Status Bar
+Icon: https://img.chariz.cloud/icon/linear/icon@3x.png
+
+Package: com.bousrih.violaWhite
+Architecture: iphoneos-arm64e
+Version: 1.8
+Section: Themes
+Maintainer: bossgfx <bousrih20@gmail.com>
+Filename: ./debs//com.bousrih.violawhite_1.8_iphoneos-arm64e.deb
+Size: 14989344
+MD5sum: 964b7534eb9019552bdce6616f4cd682
+SHA1: 0dc3de9e87e1d83c597b46fba3f578197d5fe557
+SHA256: 684cd98b4eb93b8a69539851317f56f9abae4d713721d21997b5089df3b075fc
+Description: The simple, modern & beautiful White version of Viola!
+Name: Viola White
+Author: bossgfx <bousrih20@gmail.com>
+Icon: https://i.imgur.com/VfQS6u5.jpeg
+
+Package: com.cachetes.col0rant
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Themes
+Maintainer: Cachetes <markosg26@gmail.com>
+Filename: ./debs//com.cachetes.col0rant_1.1_iphoneos-arm64e.deb
+Size: 7670298
+MD5sum: c45b22c5d96f715cd67ecafbff2a4ef6
+SHA1: ec2f327f886adc97b3b7fbb5effc5caa7055d1ba
+SHA256: 9d8eda340a54ffce8dd23b0c08c4e016a3c6b8b224eb3f2c98e3f270be044ad6
+Description: Colorful theme for iOS
+Name: Col0rant
+Author: Cachetes <markosg26@gmail.com>
+Icon: https://i.imgur.com/VfQS6u5.jpeg
+
+Package: com.cachetes.oxyg3n
+Architecture: iphoneos-arm64e
+Version: 2.4
+Section: Themes
+Maintainer: Cachetes <markosg26@gmail.com>
+Filename: ./debs//com.cachetes.oxyg3n_2.4_iphoneos-arm64e.deb
+Size: 6345242
+MD5sum: 0a9465dfccea1a1c2f3a017af4837252
+SHA1: ec1caea25293112eb114ea2fc71e6bdadb2011cc
+SHA256: 116f09286fc3040b81e8028cdb738744191fa49d3e3e528cc4b7ae5bd7c597eb
+Description: Colorful theme for iOS
+Name: Oxyg3n
+Author: Cachetes <markosg26@gmail.com>
+Icon: https://i.imgur.com/VfQS6u5.jpeg
+
+Package: com.cyrex.epiphany
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Themes
+Maintainer: Cyrex
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs//com.cyrex.epiphany_1.0.1_iphoneos-arm64e.deb
+Size: 1113998
+MD5sum: 5cb9f22d5ce5b7243b54dd625742d7ca
+SHA1: f31cc0c0151623878d473093e1e5e90b942e082f
+SHA256: b9d000b5a963643ec476664975ec5ea4bbb5ca85c36293fa073394f6832964a2
+Description: A theme with beautiful icons!
+Name: Epiphany
+Author: Cyrex
+Icon: https://i.imgur.com/VfQS6u5.jpeg
+
+Package: com.pordiosero
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Themes
+Maintainer: Cachetes <markosg26@gmail.com>
+Filename: ./debs//com.pordiosero_1.2_iphoneos-arm64e.deb
+Size: 2288058
+MD5sum: d3b29ea327bb93c826a01d23a1cf104e
+SHA1: 1cd88a8f830d421d69a4aa4c37473bc6aca66bc7
+SHA256: b0c06c5c8d330e2a86cfcd870f55540fbd6a82360197f8c5af918c6d591b7683
+Description: Colorful theme for iOS
+Name: Kraf
+Author: Pordiosero <markosg26@gmail.com>
+Icon: https://i.imgur.com/VfQS6u5.jpeg
+
+Package: com.rowandesign.morandi
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Section: Themes
+Maintainer: Rowandesign
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs//com.rowandesign.morandi_1.1.0_iphoneos-arm64e.deb
+Size: 5872184
+MD5sum: 895ce422226f20f5f95b7a267cb21067
+SHA1: 1c14f04efb69b3897caf13fb434847ca9246eb5c
+SHA256: 8dda7c2268a8550f556448e41e5c6ec07e266c485fce29dd298c0e28e08817f7
+Description: Morandi - Pay tribute to my favorite painter
+Name: Morandi
+Author: Rowandesign
+Icon: https://i.imgur.com/VfQS6u5.jpeg
+
+Package: com.stevsarm.taffy
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Themes
+Maintainer: Steve Sarmiento <steve22sarmiento@gmail.com>
+Filename: ./debs//com.stevsarm.taffy_1.0_iphoneos-arm64e.deb
+Size: 22777488
+MD5sum: 3e4351b4765aa99fc64f2d2e8ebed05f
+SHA1: 2b331afcd4a80cf2fa845326feb9dfcac96f1854
+SHA256: fff2384c290c6281d00558fef55876e7e50d84508c16d7a03c2a369d216a80b5
+Description: salmon sal the taffy pal
+Name: Taffy
+Author: Steve Sarmiento <steve22sarmiento@gmail.com>
+Icon: https://i.imgur.com/VfQS6u5.jpeg
+
+Package: com.thenatis.vivacity
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Themes
+Maintainer: Thenatis
+Filename: ./debs//com.thenatis.vivacity_2.0_iphoneos-arm64e.deb
+Size: 5191648
+MD5sum: 8b1b42898840acba368153951d91b0f0
+SHA1: bc1d67db1d162b115ee5331a80d16bd63625704e
+SHA256: b9d06e8b56c07061433a46318242981eb6597ec2669010effd5a6e802de914a2
+Description: A Vibrant Theme to Light up Your Device!
+Name: Vivacity
+Author: Thenatis
+Icon: https://i.imgur.com/VfQS6u5.jpeg
+
+Package: com.xandesign.FelicityPro
+Architecture: iphoneos-arm64e
+Version: 4.1
+Section: Themes
+Maintainer: XerusDesign <unixdesignios@gmail.com>
+Replaces: com.xandesign.FelicityPro (3.3)
+Filename: ./debs//com.xandesign.felicitypro_4.1_iphoneos-arm64e.deb
+Size: 23028976
+MD5sum: c240122a58dccc3879968776c97b4cb9
+SHA1: 8c3e1ede5e3deffabdc2f29ef5e94027d602ff4d
+SHA256: 293c2325411c081a6703d409e5ae9e7a80daf3ceac658d529b364260f3c4f9e0
+Description: a more colorful & detailed look for iOS
+Name: Felicity Pro
+Author: XerusDesign <unixdesignios@gmail.com>
+Icon: https://i.imgur.com/VfQS6u5.jpeg
+
+Package: lol.itsnebula.modernos
+Architecture: iphoneos-arm64e
+Version: 1.2-1
+Section: Themes
+Maintainer: Nebula
+Filename: ./debs//lol.itsnebula.modernos_1.2-1_iphoneos-arm64e.deb
+Size: 2755020
+MD5sum: d3a75b08ed3676ba56fa3af27cd820d2
+SHA1: 43571ff152180a171ebc0f62315a30db1e6528d3
+SHA256: fe0cf408d2f0a0bcd16a913df05cac888746685a705e71d12c9cb78f077cbbcf
+Description: Colorful, happy, modern.
+Name: modernOS
+Author: Nebula
+Icon: https://i.imgur.com/VfQS6u5.jpeg
+
 Package: xyz.cypwn.newtermswifttextfix
 Architecture: iphoneos-arm64e
 Version: 1.0.0
@@ -133,7 +303,7 @@ SHA256: 27bb459bce6db5b62beae08eca97e41f90d9ddc74400a7c0addcea041710434c
 Section: Tweaks
 Description: Many features of the WhatsApp application
 Author: BigBoss <bigboss@thebigboss.org>
-Icon: file:///Library/Application%20Support/WARevael.bundle/icon@2x.png
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: com.dvntm.esignalert
 Name: ESignAlert
@@ -1922,7 +2092,7 @@ Description: Configuare RootHide's Features
 Maintainer: roothide
 Author: roothide
 Section: Tweaks
-Icon: 
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 Support: https://github.com/roothide/RootHideManagerApp
 Architecture: iphoneos-arm64
 Version: 1.1
@@ -3990,7 +4160,7 @@ Maintainer: MiRO <tweaks_support@miro92.com>
 Author: MiRO <tweaks_support@miro92.com>
 Section: Tweaks
 Tag: purpose::extension, compatible_min::ios14
-Icon: file:////Library/PreferenceBundles/YellowPages2.bundle/Header.png
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 Architecture: iphoneos-arm64e
 Version: 1.0.1
 Pre-Depends: rootless-compat(>= 0.9)
