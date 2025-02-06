@@ -1,5 +1,3 @@
-
-
 Package: ai.akemi.appsyncunified
 Architecture: iphoneos-arm64
 Version: 112.0
@@ -6226,6 +6224,25 @@ MD5sum: f05bbde30d37d6cf48dcc1c237b6ea5a
 SHA1: c7ddec059557379044fb9f9472cc81075abcebc6
 SHA256: bf3c9e3a9281b599963753d4da855fcaf5faacc276839646c4a7c34945c077ba
 SHA512: c4421107a6f6ed879680b5bb79e13b5c0ee360ce270143f97dac0d31f0e9071284a949d75be3bc18d9cc62a287c44b040723a15e669e8da180f4698046487c74
+Description: Full fledged Xcode-like IDE for iOS
+Tag: role::hacker
+Name: FridaCodeManager
+Icon: https://raw.githubusercontent.com/fridakitten/FridaCodeManager/main/Blueprint/FridaCodeManager.app/AppIcon.png
+Author: FCCT
+
+Package: com.sparklechan.swifty
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Utilities
+Maintainer: FCCT
+Depends: swift, clang-14, ldid, git
+Conflicts: com.sparklechan.sparkkit
+Filename: ./debs//com.sparklechan.swifty_2.0_iphoneos-arm64e.deb
+Size: 4779344
+MD5sum: f898de9a8cb456ebceb1c6aa2affd1a1
+SHA1: 096f4b86d16ab91ad75dcdcff317f50b80870697
+SHA256: 79e58f9b9d514aefab5d1880ee2def05ef10c6ae301f7022d2b7e876816fcbe8
+SHA512: 6eca5d0188b0f8be005f616f49a263295e4730088b8cdc966eab496e218b483a52742fb1626171565c096d51ad20b88ba8f82d56b34b608505a1ba6d5c0fe653
 Description: Full fledged Xcode-like IDE for iOS
 Tag: role::hacker
 Name: FridaCodeManager
