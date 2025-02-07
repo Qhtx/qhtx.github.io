@@ -7255,6 +7255,25 @@ Name: MenuSupport
 Author: r_plus
 Icon: file:///Library/PreferenceBundles/MenuSupportSettings.bundle/MenuSupport@3x.png
 
+Package: jp.uzra.enabledsreturn
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: uz.ra
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs//jp.uzra.enabledsreturn_1.2_iphoneos-arm64e.deb
+Size: 5910
+MD5sum: ff21c7e474256dffba0ddfb2453c8cc5
+SHA1: 9b7c9d2b8ba358c7102613a3f2ff2845db84ff7b
+SHA256: 3023c903a03a0902021d4ff68a57a6b54b2068ba10190a987bd612abf231b5ef
+SHA512: f282d863033cf36822fdbd4076b298e25d3bd5b6fdd62b146cdcc8e59d6128d75ba3e7cbafbe1bd4c46210d2a44ef5039ce12b22ffa4c741c1d8550990fbd147
+Description: Enable return on DeepSeek iOS app
+Name: EnableDSReturn
+Author: uz.ra
+Icon: https://i.imgur.com/VfQS6u5.jpeg
+
 Package: kr.xsf1re.vnodebypass
 Architecture: iphoneos-arm64
 Version: 0.4.2
