@@ -15,7 +15,7 @@ Description: Enables the ability to install unsigned/fakesigned iOS applications
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/AppSync.json
 Name: AppSync Unified
-Icon: https://i.imgur.com/KMCa11k.jpeg
+Icon: https://i.imgur.com/VfQS6u5.jpeg
 
 Package: ai.akemi.appsyncunified
 Architecture: iphoneos-arm64e
