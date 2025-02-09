@@ -152,25 +152,6 @@ Description: An automation framework designed for the iOS platform
 Name: CatScript Lite
 Author: 0x530c<0x530c@gmail.com>
 
-Package: com.bandarhl.bhtiktok
-Architecture: iphoneos-arm64
-Version: 2.3
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 1480
-Depends: mobilesubstrate
-Filename: ./debs//bhtiktokplus_2.3_iphoneos-arm64.deb
-Size: 481172
-MD5sum: 73df7fc61cf3d70ea5cc809dd4dda5b8
-SHA1: 40866ca3b1e80515c35131e863cd5a9b2c36aaf1
-SHA256: a97a6cffff7060b49a48e4e04ba8c942276b0d71ed2c04f6f77fb6a598ae258f
-SHA512: 8a89b83623923eadd2a4e012838cbfa89f57c52ecc988e743f08c07537f7a8adc30575ea18e0e6b1d566f84ec2f3e9db059a13d64cef19eb106a748d0ab671f7
-Description: An awesome tweak fot TikTok!
-Name: BHTikTok Plus
-SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/test.json
-Icon: https://i.imgur.com/Pyp3fg8.jpeg
-Author: dvntm
-
 Package: cm90.crossoveripc
 Architecture: iphoneos-arm64
 Version: 1.1-1+debug
@@ -677,6 +658,25 @@ Icon: https://i.imgur.com/lg6zKtD.jpeg
 Author: Bandar Alruwaili
 
 Package: com.bandarhl.bhtiktok
+Architecture: iphoneos-arm64
+Version: 2.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1480
+Depends: mobilesubstrate
+Filename: ./debs//com.bandarhl.bhtiktok_2.3_iphoneos-arm64.deb
+Size: 481172
+MD5sum: 73df7fc61cf3d70ea5cc809dd4dda5b8
+SHA1: 40866ca3b1e80515c35131e863cd5a9b2c36aaf1
+SHA256: a97a6cffff7060b49a48e4e04ba8c942276b0d71ed2c04f6f77fb6a598ae258f
+SHA512: 8a89b83623923eadd2a4e012838cbfa89f57c52ecc988e743f08c07537f7a8adc30575ea18e0e6b1d566f84ec2f3e9db059a13d64cef19eb106a748d0ab671f7
+Description: An awesome tweak fot TikTok!
+Name: BHTikTok Plus
+SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/test.json
+Icon: https://i.imgur.com/Pyp3fg8.jpeg
+Author: dvntm
+
+Package: com.bandarhl.bhtiktok
 Architecture: iphoneos-arm64e
 Version: 2.3
 Section: Tweaks
@@ -1108,6 +1108,29 @@ SHA512: c0a181cfa1c389782c3ba629ed3f352ec3a6e25ffd39b151f7f2a7dabac66261e074edbf
 Description:  حذف الأعلانات لتطبيق انمي كلاود وتسريع عمل الحلقة اظهار زر المشاهدة والتحميل
 Name: CACloud
 Author: CydiaAbdullah
+
+Package: com.cydiageek.noeditpages
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 173
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs//com.cydiageek.noeditpages_1.0.1_iphoneos-arm64e.deb
+Size: 3212
+MD5sum: 45d492f5e85c9a0f1b173c275a26463f
+SHA1: ba516bb58d1777c62c407d9436c05ea46e6a596f
+SHA256: 61c880b854c058bbe90a6d4b63e9df343067e42249b1a3a459fc35dc40048b3c
+SHA512: b86059cbc3d10354900f98c3180f49b47b9a1265cb91dcf5095fd3a3ebbe6d29acaaa089cb29fc9668f1ff9c237470ff3315375ac6459dfd18074249cfcb7507
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noeditpagesDp
+Description: Disable Edit Pages iOS 14+ Feature!
+Tag: purpose::extension
+Name: NoEditPages
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noeditpagesDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
 
 Package: com.cydiageek.nomoredisabled
 Architecture: iphoneos-arm64e
@@ -2504,6 +2527,47 @@ MD5sum: fc3997803ffc49a7677ddc23fa988f38
 SHA1: a9e88a3bfb9112df16041bfcb9b7989308fd39ee
 SHA256: 971a99c7e8b284122353e41ee1e8faa1d9c4f32b8b363a5216358369b31eb071
 SHA512: f1954c564896b34609fbac50956dd8ed13abdc375d71f91342cdd2e756866266873e1ecda24343f93db191cab20d2b261fe3e660a6c9f5a68bc028d2a4002593
+Description: The all-in-one tweak for Instagram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+
+Package: com.fouadraheb.regram
+Architecture: iphoneos-arm64
+Version: 1.0~b15
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6252
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.39)
+Filename: ./debs//com.fouadraheb.regram_1.0~b15_iphoneos-arm64.deb
+Size: 1331968
+MD5sum: bcb7753a9156daeeca55ec369ae76299
+SHA1: 28b748dae7ee0137c664b4ddf5e4147aa01d720d
+SHA256: fa284571dbdd8b5aba746804815ab49aa158f88cbfe690fb614ef6d384181338
+SHA512: be80d04bd3d8d0d758c29fdf2ea7cbec517a1d3a427238962b84c022f338da37f9cef6992248b13882dbbe28737bc8fd7c241114efc9e3930e84015f6ad01a4d
+Description: The all-in-one tweak for Instagram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+
+Package: com.fouadraheb.regram
+Architecture: iphoneos-arm64e
+Version: 1.0~b15
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6252
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.39)
+Filename: ./debs//com.fouadraheb.regram_1.0~b15_iphoneos-arm64e.deb
+Size: 1343684
+MD5sum: b8b8972f9410e693f49a4572d7ec097a
+SHA1: 4dd0c820e4c748679e074c806440a23238911f65
+SHA256: eeac6b3329a8ab6e8f461f888e9b2af17e70fe812d2a473c5f8033f52f94f46a
+SHA512: bbaa3915015d831b06cf27c66076dd0666907e951c69a7f318f8355fbe2b2614c95a1785accf5fc71d5a2030016e8f4dd0754d4558cbd0c6070610b26f3f2956
 Description: The all-in-one tweak for Instagram
 Name: Regram for Instagram
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -7489,29 +7553,6 @@ Description: View & Manage Applications Data from your Home Screen & downgrade
 Author: Fouad Raheb
 Name: AppData-Rootless
 
-Package: com.cydiageek.noeditpages
-Architecture: iphoneos-arm64e
-Version: 1.0.1
-Priority: optional
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 173
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: ./debs//noeditpages_1.0.1.deb
-Size: 3212
-MD5sum: 45d492f5e85c9a0f1b173c275a26463f
-SHA1: ba516bb58d1777c62c407d9436c05ea46e6a596f
-SHA256: 61c880b854c058bbe90a6d4b63e9df343067e42249b1a3a459fc35dc40048b3c
-SHA512: b86059cbc3d10354900f98c3180f49b47b9a1265cb91dcf5095fd3a3ebbe6d29acaaa089cb29fc9668f1ff9c237470ff3315375ac6459dfd18074249cfcb7507
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noeditpagesDp
-Description: Disable Edit Pages iOS 14+ Feature!
-Tag: purpose::extension
-Name: NoEditPages
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noeditpagesDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: CydiaGeek <lucaluca86@aol.com>
-dev: lucaluca86
-
 Package: one.keycap.freepip
 Architecture: iphoneos-arm64
 Version: 0.0.3
@@ -7665,47 +7706,6 @@ Author: iKG_HD <ikg_hd@bk.ru>
 dev: ikghd
 Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.pmp.png
 
-Package: com.fouadraheb.regram
-Architecture: iphoneos-arm64
-Version: 1.0~b15
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6252
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.39)
-Filename: ./debs//regram_1.0~b15_arm64.deb
-Size: 1331968
-MD5sum: bcb7753a9156daeeca55ec369ae76299
-SHA1: 28b748dae7ee0137c664b4ddf5e4147aa01d720d
-SHA256: fa284571dbdd8b5aba746804815ab49aa158f88cbfe690fb614ef6d384181338
-SHA512: be80d04bd3d8d0d758c29fdf2ea7cbec517a1d3a427238962b84c022f338da37f9cef6992248b13882dbbe28737bc8fd7c241114efc9e3930e84015f6ad01a4d
-Description: The all-in-one tweak for Instagram
-Name: Regram for Instagram
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
-
-Package: com.fouadraheb.regram
-Architecture: iphoneos-arm64e
-Version: 1.0~b15
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6252
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.39)
-Filename: ./debs//regram_1.0~b15_arm64e.deb
-Size: 1343684
-MD5sum: b8b8972f9410e693f49a4572d7ec097a
-SHA1: 4dd0c820e4c748679e074c806440a23238911f65
-SHA256: eeac6b3329a8ab6e8f461f888e9b2af17e70fe812d2a473c5f8033f52f94f46a
-SHA512: bbaa3915015d831b06cf27c66076dd0666907e951c69a7f318f8355fbe2b2614c95a1785accf5fc71d5a2030016e8f4dd0754d4558cbd0c6070610b26f3f2956
-Description: The all-in-one tweak for Instagram
-Name: Regram for Instagram
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
-
 Package: ru.domo.cocoatop64
 Architecture: iphoneos-arm64e
 Version: 2.2.4
@@ -7816,6 +7816,57 @@ MD5sum: 4b45d616c8a01fd50853b889661147f5
 SHA1: 0b207165399c5297b46bc9a021efbba7d6abadec
 SHA256: 0717448f53a468fba253c595e335d3dffc3799bfd5498cdc7604c9b6e22d787c
 SHA512: 4f905d3c00ad321008585da27933cd042d29788895e413d5ffbe5a90bf90d7d0b46d4b8340f014bfd818f2786121f09ee88c1171bf3c40750986f2290ec91c12
+Description: is a collection of scripts for easily managing repositories through Filza It simplifies tasks like adding updating and organizing repos efficiently , Created by Ahmed AlGhrbi @ipapplus
+Name: AutoRepoManager
+Icon: https://i.imgur.com/ZKCJQvf.jpeg
+Author: ipapplus
+
+Package: sa.ipapplus.autorepomanager
+Architecture: iphoneos-arm
+Version: 1.1
+Section: scripts
+Maintainer: ipapplus
+Depends: apt-utils
+Filename: ./debs//sa.ipapplus.autorepomanager_1.1_iphoneos-arm.deb
+Size: 3240
+MD5sum: fa9aa9cccaca830943d6c2fed4225937
+SHA1: 0bd9fcc767a61ecdd34195766ec1e8aaf5c1bc70
+SHA256: 85a61c28df31d205ad1a5d04345134cad807654342c3b66c1daf05a98e3ce8c5
+SHA512: ca7c7d5783c3cf3f1d1293c37885b45fb2cd5508e03f329340746efb2eddfc0e415a36611a81320ee48e568952ba7baa439db34288578f5f5088b61b59a5d03a
+Description: is a collection of scripts for easily managing repositories through Filza It simplifies tasks like adding updating and organizing repos efficiently , Created by Ahmed AlGhrbi @ipapplus
+Name: AutoRepoManager
+Icon: https://i.imgur.com/ZKCJQvf.jpeg
+Author: ipapplus
+
+Package: sa.ipapplus.autorepomanager
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: scripts
+Maintainer: ipapplus
+Depends: apt-utils
+Filename: ./debs//sa.ipapplus.autorepomanager_1.1_iphoneos-arm64.deb
+Size: 3244
+MD5sum: caedeb7564dc26531d82832485ae626d
+SHA1: 1e66fb8ad1ffb28418fad75e191a743ce62c94f8
+SHA256: 0021b1920cf8a226eec46f5a4388404bb5a3950208f9d80849e7534e02f7616f
+SHA512: 5976031d13d43bf16d1148815abf1d30949cbae753d687f79b8717394b4dcb67d2d5b98d4bd298f82de897ef93317d469e2869e65dc19c862400c81e328bbc57
+Description: is a collection of scripts for easily managing repositories through Filza It simplifies tasks like adding updating and organizing repos efficiently , Created by Ahmed AlGhrbi @ipapplus
+Name: AutoRepoManager
+Icon: https://i.imgur.com/ZKCJQvf.jpeg
+Author: ipapplus
+
+Package: sa.ipapplus.autorepomanager
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: scripts
+Maintainer: ipapplus
+Depends: apt-utils
+Filename: ./debs//sa.ipapplus.autorepomanager_1.1_iphoneos-arm64e.deb
+Size: 3244
+MD5sum: e72898235c931d48a87f9ac80820d00b
+SHA1: 528e45e778ae216b4063027316955bb8c65d17b3
+SHA256: fd193a258ebbab33a0666cd33ca5bfce9d894aed1856822622a4c721ee15605d
+SHA512: 34a9c8d9770e37528eeb1f665dc79023e4c4a7806bb4a31387266a64342013db9420ab310d8b2628457ed9181aa98390a70c93386c7f5c5a45d4ddffc49b1b0d
 Description: is a collection of scripts for easily managing repositories through Filza It simplifies tasks like adding updating and organizing repos efficiently , Created by Ahmed AlGhrbi @ipapplus
 Name: AutoRepoManager
 Icon: https://i.imgur.com/ZKCJQvf.jpeg
@@ -8049,28 +8100,6 @@ Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
 Depiction: https://chariz.com/get/return-youtube-dislike
 
 Package: xyz.cypwn.xinam1ne
-Architecture: iphoneos-arm64e
-Version: 2.6-8
-Section: Utilities
-Maintainer: CyPwn
-Provides: emt.paisseon.xinamine (= 99)
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Replaces: emt.paisseon.xinamine
-Filename: ./debs//xinam1ne_2.6-8_iphoneos-arm64e.deb
-Size: 1877832
-MD5sum: 1d805e655708d0eceb15d271df0e0d52
-SHA1: c0ed6631ec9f54f1d2f662179a2e7e13f559fdcc
-SHA256: d91fb5ce307985cd063a22147678efa4ac9be1a319f9bdf8b7aa361d1d48108a
-SHA512: 99bf46ba68800237983cedf700386826c455f8259ef003559f4b6deb80a1572493a0add7ddec271766151f2b13343a83b64acd7d76ddb1b0246c1818c65ad871
-Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
-Depiction: https://repo.cypwn.xyz/depiction/2816
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2816
-Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
-Name: Xinam1ne App
-Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
-
-Package: xyz.cypwn.xinam1ne
 Architecture: iphoneos-arm64
 Version: 2.6-8
 Section: Utilities
@@ -8089,6 +8118,28 @@ Depiction: https://repo.cypwn.xyz/depiction/2816
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2816
 Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
 Name: Xinam1ne AIO
+Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
+
+Package: xyz.cypwn.xinam1ne
+Architecture: iphoneos-arm64e
+Version: 2.6-8
+Section: Utilities
+Maintainer: CyPwn
+Provides: emt.paisseon.xinamine (= 99)
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: emt.paisseon.xinamine
+Filename: ./debs//xyz.cypwn.xinam1ne_2.6-8_iphoneos-arm64e.deb
+Size: 1877832
+MD5sum: 1d805e655708d0eceb15d271df0e0d52
+SHA1: c0ed6631ec9f54f1d2f662179a2e7e13f559fdcc
+SHA256: d91fb5ce307985cd063a22147678efa4ac9be1a319f9bdf8b7aa361d1d48108a
+SHA512: 99bf46ba68800237983cedf700386826c455f8259ef003559f4b6deb80a1572493a0add7ddec271766151f2b13343a83b64acd7d76ddb1b0246c1818c65ad871
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
+Depiction: https://repo.cypwn.xyz/depiction/2816
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2816
+Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
+Name: Xinam1ne App
 Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
 
 Package: xyz.skitty.ersatz
