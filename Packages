@@ -92,49 +92,6 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 
 Package: app.catscript.lite
 Architecture: iphoneos-arm64e
-Version: 1.2.0
-Section: Tweaks
-Maintainer: 0x530c<0x530c@gmail.com>
-Installed-Size: 7752
-Depends: mobilesubstrate
-Conflicts: app.catscript.pro
-Filename: ./debs//app.catscript.lite_1.2.0_iphoneos-arm64e.deb
-Size: 15433036
-MD5sum: 44d9b3cfe55d095c9232da7cc39c73d4
-SHA1: 1d8753a2f7afe4242a075a5581c91b72d4c40123
-SHA256: 9d7512898af2d355dcfacc247f690cac2c9d2433d54ac74e2df2871e8f90d906
-SHA512: 0f37e46fd7bd0df69f8d2eb321435ed82de477b1cd31912b4125e4936c1ca3419e6ceb60e378eb8938331af03264fce25d3063ffd9081bd2c106113f9d8410b0
-Description: An automation framework designed for the iOS platform
-Name: CatScript Lite
-Author: 0x530c<0x530c@gmail.com>
-Depiction: https://havoc.app/depiction/catscriptlite
-SileoDepiction: https://havoc.app/package/catscriptlite/depiction.json
-Icon: https://media.havoc.app/677fac4c35de4da90b28e7b4?w=1200&q=75
-
-Package: app.catscript.lite
-Architecture: iphoneos-arm64e
-Version: 1.2.1
-Section: Tweaks
-Maintainer: 0x530c<0x530c@gmail.com>
-Installed-Size: 7752
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Conflicts: app.catscript.pro
-Filename: ./debs//app.catscript.lite_1.2.1_iphoneos-arm64e.deb
-Size: 15311220
-MD5sum: 3a19cf52e1ba9d03e17f32daeba52a6d
-SHA1: b04f3141ee66957d73fe1bbed0c82f9c0750aa2d
-SHA256: 6ae36b749d9b438a4b82418ab3ef98ac01aa3c9a97e1137f32a7b4826fbe05df
-SHA512: ca1dd9b4cde5d18bec62600af76a6d912a5c270b9c31a4e112d7552c88e70674aa7950bff582ac701818bd05c9f04e23a2e008a0fe09143e30b85506104f20ab
-Description: An automation framework designed for the iOS platform
-Name: CatScript Lite
-Author: 0x530c<0x530c@gmail.com>
-Depiction: https://havoc.app/depiction/catscriptlite
-SileoDepiction: https://havoc.app/package/catscriptlite/depiction.json
-Icon: https://media.havoc.app/677fac4c35de4da90b28e7b4?w=1200&q=75
-
-Package: app.catscript.lite
-Architecture: iphoneos-arm64e
 Version: 1.4.0
 Section: Tweaks
 Maintainer: 0x530c<0x530c@gmail.com>
@@ -246,6 +203,23 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: zqbb <w2599z@gmail.com>
 dev: zqbb
 Icon: file:///var/jb/Library/PreferenceBundles/duapre.bundle/icon@2x.png
+
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm64
+Version: 2.7
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 936
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs//codes.aurora.kayoko_2.7_iphoneos-arm64.deb
+Size: 126294
+MD5sum: ef8bf34a3bf7d1e3c1f69e4fd2fc303b
+SHA1: ae04ce0726840ce0db94c567c56a3a33060c6e88
+SHA256: f7febacc089d2432f47524e67f2dde276d18572d53f9bfafdc8242d10cc4c09f
+SHA512: fd584fc546b73c341fc0027fe88e5f58280ab41af89fb309d201b7a64ad7ccf4988880494dcae21e6ae7e2c621a53f949f31333dcab3569cadf0fa18abc30953
+Description: Clipboard manager for iOS.
+Name: Kayoko
+Author: Alexandra Aurora Göttlicher
 
 Package: com.0xkuj.3dappversionspoofer
 Architecture: iphoneos-arm64e
@@ -1637,6 +1611,24 @@ SHA512: e810e06125933145df6d53ddb6c73972ab1bd55defd821c192f4b433e7da1c10b590771d
 Description: An awesome MobileSubstrate tweak!
 Name: ESignAlert
 Author: dvntm
+
+Package: com.dvntm.oledkeyboard
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs//com.dvntm.oledkeyboard_0.0.3_iphoneos-arm64.deb
+Size: 4756
+MD5sum: fd51d52423dfc6971f349eb5432474fe
+SHA1: f688fed54b7ac984dfeff0824dd09680906cfcc1
+SHA256: 0189f2f02d232f4a9c444ec7482434643630987a1448e54bb384e9b99fda66ef
+SHA512: ed1f230a8b0a3eccbc465e75de77f0d381f7e530f5e80ae18a2ba0fc92dc4bc1682596c893bd99ec434a1109b792e3607eccd65894b9effbd62ac0e64f9e450d
+Description: OLED Dark Mode for iOS System Keyboard
+Name: OledKeyboard
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/icon.png
 
 Package: com.dvntm.ratebegone
 Architecture: iphoneos-arm64
@@ -3778,6 +3770,24 @@ Description: A tweak to Manage Delete
 Name: ManageDelete
 Author: Sniper @DNS_Sys
 
+Package: com.megadev.sentinel
+Architecture: iphoneos-arm64
+Version: 1.3.2
+Section: Tweaks
+Maintainer: MegaDev
+Installed-Size: 752
+Depends: mobilesubstrate,ws.hbang.common,preferenceloader,com.opa334.ccsupport
+Filename: ./debs//com.megadev.sentinel_1.3.2_iphoneos-arm64.deb
+Size: 77368
+MD5sum: 47e4d26753bfdbb167cc64afa8a7efb6
+SHA1: fab41c42401665c98e66cff3ebb90185d613c4a4
+SHA256: caa96df1b911944465d71a4b3a8b39f5fa484f069e8a96f45d4729624bfda35f
+SHA512: 96e25e6c2c3e5e0b9c26c6a420e249ad1b635ca3f25524c8998a51a21b92632d908998e1c7262fde3addc50c8e51b1fed04493043e54c10f695a46accd244404
+Description: Stop losing your jailbreak when your battery dies!
+Name: Sentinel
+Author: MegaDev
+Icon: https://media.havoc.app/620e286f62d8a0bb3788377a?w=1920&q=75
+
 Package: com.miro.libmiroshared
 Architecture: iphoneos-arm64
 Version: 1.0.1
@@ -4226,23 +4236,40 @@ Author: zhaonan
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablethermalmonitord/js.json
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 
-Package: com.nan.jbir
+Package: com.nan.disableupdates
 Architecture: iphoneos-arm64
-Version: 0.1.0
-Section: Addons
+Version: 0.1.1
+Section: System
 Maintainer: zhaonan
-Depends: com.nan.miic
-Conflicts: kr.xsf1re.vnodebypass
-Filename: ./debs//com.nan.jbir_0.1.0_iphoneos-arm64.deb
-Size: 1644
-MD5sum: dea7bb12223cd741337c5d314117bc82
-SHA1: 1b0a5c9f9413e13cc13ef1b1e57a478cfce53647
-SHA256: c7cea5841fa93428b4e174cacd11c0c01818e3210298e8ec04a70012a2c11ccb
-SHA512: 02f4bfd340441d712c29b1f5097c6c4ea60b2270a51bf97e00f19a6ae6d27481c6cc370ec6ea95d793d33a1e1bf9560016d94b5302d8211e68a46db57981f4aa
-Description: 让 Dopamine 越狱后越狱 app 图标更快出现，或是解决某些设备越狱后必须使用 Dopamine 手动刷新越狱应用才能在桌面看到越狱 app 的问题
-Name: Jailbreak Icon Refresh
+Pre-Depends: file-cmds
+Filename: ./debs//com.nan.disableupdates_0.1.1_iphoneos-arm64.deb
+Size: 1100
+MD5sum: 8f2a8abbc442b86c1a43a8d1fe47e9f6
+SHA1: 0a37ee5574eaf5059d052d00d0f043d17b41761d
+SHA256: 5f50ed23653b1bcf5ec4a2e4e0fc4feaa1da8cc0d0cdbd33d161f04b0ddf4673
+SHA512: 924c3514d51c64becde21fbdccfd2301cc97615ebb4c0da44d5cdba92d70e8cf583cda657ae5938688beaf750c26eeb215f6fab89615b0b8323ee0d1cb46d366
+Description: 通过锁定 /var/MobileSoftwareUpdate/MobileAsset/AssetsV2 来阻止系统更新
+Name: Disable Updates
 Author: zhaonan
-SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.jbir/js.json
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disableupdates/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+
+Package: com.nan.disableupdates
+Architecture: iphoneos-arm64e
+Version: 0.1.1
+Section: System
+Maintainer: zhaonan
+Pre-Depends: file-cmds
+Filename: ./debs//com.nan.disableupdates_0.1.1_iphoneos-arm64e.deb
+Size: 1104
+MD5sum: 63e258649049d0d05a37907b4853166b
+SHA1: c5e2f815a934548ae506344f8f61efa30c3c78b3
+SHA256: a76e6785dd4a66dc01d3ed046bb8dd620d61374a600ab0db787acc86c25cb824
+SHA512: 5babfc31b201e1a30bd6e7c659f8c73cf3d74f266a1fbaa40768d42b5b8f6b1b68fa29fd72125cb07c2468f1615069c4fb18a2ebd0dad540124d07975202d605
+Description: 通过锁定 /var/MobileSoftwareUpdate/MobileAsset/AssetsV2 来阻止系统更新
+Name: Disable Updates
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disableupdates/js.json
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 
 Package: com.nan.jbir
@@ -4257,6 +4284,24 @@ MD5sum: bb4dc25f71b58c7755fe8cced7b1c210
 SHA1: 8d7de12ea702428556d63b5af1827a8379403e90
 SHA256: f06a6303acb76618a3de4db4b584f7c1bd1b716243ba7206f5e699f753752cd9
 SHA512: 49a8ef561cea2c986f5aa9aecff136b1fee7232b73bd2832c30fe145a78e0b120a98e6a93b35d323140ca563bd4fd66a317679f02cc8e2e52658146e87969872
+Description: 让 Dopamine 越狱后越狱 app 图标更快出现，或是解决某些设备越狱后必须使用 Dopamine 手动刷新越狱应用才能在桌面看到越狱 app 的问题
+Name: Jailbreak Icon Refresh
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.jbir/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+
+Package: com.nan.jbir
+Architecture: iphoneos-arm64
+Version: 0.1.2
+Section: Addons
+Maintainer: zhaonan
+Depends: com.nan.miic
+Filename: ./debs//com.nan.jbir_0.1.2_iphoneos-arm64.deb
+Size: 1968
+MD5sum: b8980d061139e9b0285edcb0fc0b8ef4
+SHA1: 5105bef0c091004df64f2b767b58d25f8aeec791
+SHA256: 4c0bb493a406c8ef527c4f6279578a310f7078232f71429be8e48315ba68f857
+SHA512: ed05581b3024ebc8c1b273f0e8902425e5d74ae6876d5efc3e75d2db7e40d8cdf2c4760b42c0c80746825376e6fbd714dadf45857c0f8557cc1921c413d881b1
 Description: 让 Dopamine 越狱后越狱 app 图标更快出现，或是解决某些设备越狱后必须使用 Dopamine 手动刷新越狱应用才能在桌面看到越狱 app 的问题
 Name: Jailbreak Icon Refresh
 Author: zhaonan
@@ -5648,6 +5693,29 @@ Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 
+Package: com.rpetrich.powercuff
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 188
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debs//com.rpetrich.powercuff_1.1_iphoneos-arm64.deb
+Size: 14112
+MD5sum: 23395601d97d58b7b35a5f0a79972f84
+SHA1: c80748446b1c76eb0eb41d093c4c613a51fc7d47
+SHA256: 87082d5063de55dd4ae3788eed7161f1407c181fd46d6c41ae493fc0ae9771bd
+SHA512: ffb43c3fa8faefe5410faa77cca782814d507f8db65a274c837339863141baba37da7e1f5f1128344d1d7acc88849ff033803750aa898d278c1c033ba5b6f6cc
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states , Supports Dopam1ne2 on iOS15.0 ~ iOS16.5 .
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Icon: file:///var/jb/Library/PreferenceLoader/Preferences/Powercuff/Powercuff.png
+
 Package: com.rpgfarm.a-font
 Architecture: iphoneos-arm64
 Version: 1.10.1
@@ -6284,6 +6352,24 @@ SHA512: d59b9b93f833e270c5a311e7098f060ced1585f8286c47dad6782bbb7ee4331f36bf222c
 Description: salmon sal the taffy pal
 Name: Taffy
 Author: Steve Sarmiento <steve22sarmiento@gmail.com>
+
+Package: com.swing.appstorenoads
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs//com.swing.appstorenoads_0.0.1_iphoneos-arm64.deb
+Size: 4100
+MD5sum: a217038f15fdb04fef709c5ed347770f
+SHA1: 638eb2341cb685f9b39b6834be861f6141e6a74f
+SHA256: d66dde0cabf51286fc899e4b087e223a5612532a22b4f9a1245ca80d9347543a
+SHA512: 83d3373a2dce6e845f553bd58315a0d6697badb07ddbc2dcb9bc1a0e884f6ebdd8aede5d2731cc26b3caf4cc7153858b33ee6f817d42df7628d9c4b774f87bc3
+Description: Remove Ads From AppStore
+Name: AppStoreNoAds
+Author: SWING
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.appstorenoads/icon.png
 
 Package: com.teslaman3092.popoutbuttons
 Architecture: iphoneos-arm64e
@@ -7484,39 +7570,6 @@ Name: NoSBReload
 Depiction: https://repo.alexia.lol/depictions/net.cadoth.nosbreload
 SileoDepiction: https://repo.alexia.lol/sileo-depictions/net.cadoth.nosbreload
 Author: alexia <me@alexia.lol>
-
-Package: net.kayoko
-Architecture: iphoneos-arm64
-Version: 2.5
-Section: Tweaks
-Maintainer: 82flex
-Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs//net.kayoko_2.5_iphoneos-arm64.deb
-Size: 124468
-MD5sum: 2e85ddc0199f1725c704609e152c8f8a
-SHA1: bdd18d2e8f4ac562e15832b8d866a9281ab937b0
-SHA256: 9b6a6369327dc3ab22c33eb29a30b22e36700f1a3af184da81722019a01f42d6
-SHA512: 5b18cba26123cb27b66ffbc99dcddc5244673784b6e2db7ca25dd5be475fa9e2f245d3ba06ff80d1ad1a153253fc0245c118a007095dcb9aeab19c94449551b5
-Description: A clipboard tweak, similar to Copylog and Nicelog, but free! Very user-friendly! It allows copying images to other software! Compatible with Dopamine. 82flex has fixed support for iOS 16, please wait for updates to resolve any issues!
-Name: Kayoko
-Author: Traurige
-
-Package: net.kayoko
-Architecture: iphoneos-arm64e
-Version: 2.5
-Section: Tweaks
-Maintainer: 82flex
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs//net.kayoko_2.5_iphoneos-arm64e.deb
-Size: 174724
-MD5sum: 02469facbbba984e20b4f5e3d1413e68
-SHA1: 20fb25c83596f74170c546696239a469ed380e39
-SHA256: c368ee20aaf1bb59c696670184f3fba23834fef93da6fd79d4552d46bcd10663
-SHA512: 7f4bc5fc58a2382fc378c49a405ec9e0e09fca77e21c6a972028c3c0233f1f0262ea24f4f002adce1e4c387cb5c3a860a1930d5271ac4554c5b1852b3fb26710
-Description: A clipboard tweak, similar to Copylog and Nicelog, but free! Very user-friendly! It allows copying images to other software! Compatible with Dopamine. 82flex has fixed support for iOS 16, please wait for updates to resolve any issues!
-Name: Kayoko
-Author: Traurige
 
 Package: netskao.appdata-rootless
 Architecture: iphoneos-arm64
