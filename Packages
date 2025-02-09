@@ -7872,57 +7872,6 @@ Name: AutoRepoManager
 Icon: https://i.imgur.com/ZKCJQvf.jpeg
 Author: ipapplus
 
-Package: theos.dev
-Architecture: iphoneos-arm64
-Version: 2025.1.1
-Section: theos
-Maintainer: devn
-Depends: mobilesubstrate
-Filename: ./debs//theos.dev_2025.1.1_iphoneos-arm64.deb
-Size: 15074856
-MD5sum: 5615d26c530a8103e8bd460250caafe6
-SHA1: e150077cefec1b72a8c1e189b19f633914cb3247
-SHA256: 274e67e97603b908028bd226cb30ea903354833bde787f95827e2e30915fa872
-SHA512: bc9779bae52fe75a794cf7b87f59d81be1d03a91dbcd69350b4c39a1b2b3f4c066431a2aff8199a7c54134937aec16c580269d7d55570dc04a4130d92b7e70c3
-Description: var/mobile/theos > you can download sdk from here >> https://github.com/xybp888/iOS-SDKs/releases/tag/iOS-SDKs
-Name: theos
-Author: devn
-Icon: https://i.imgur.com/phBqnah.jpeg
-
-Package: theos.dev
-Architecture: iphoneos-arm64
-Version: 2025.1.2
-Section: theos
-Maintainer: devn
-Depends: mobilesubstrate, theos-dependencies
-Filename: ./debs//theos.dev_2025.1.2_iphoneos-arm64.deb
-Size: 15068372
-MD5sum: 33659797da4cbb2a7fcc0bf86eafcc13
-SHA1: 70bb1846b78b8b7b11f74096ac22f78cd03fdd8a
-SHA256: bad35de6ea927b9041d05667eae9fe9834e94f1fe19b10b8bbc140644709f93c
-SHA512: dd1d159a2bd8c6eeba96f19631f77fe8a55d6b9ad8c00cddbd83144d92123204fa6aa28b5b4df442adc9c443e258e2e53207597112a75afa6baf01c3326d8941
-Description: var/jb/var/mobile/theos > you can download sdk from here >> https://github.com/xybp888/iOS-SDKs/releases/tag/iOS-SDKs
-Name: theos
-Author: devn
-Icon: https://i.imgur.com/phBqnah.jpeg
-
-Package: theos.dev
-Architecture: iphoneos-arm64e
-Version: 2025.1.2
-Section: theos
-Maintainer: devn
-Depends: mobilesubstrate, theos-dependencies
-Filename: ./debs//theos.dev_2025.1.2_iphoneos-arm64e.deb
-Size: 15053112
-MD5sum: 29bd2f50476f8e296950a97a75495bb1
-SHA1: a76df73be8d0a84e477c14a926526bbf0226dfec
-SHA256: 39ee1dde8408b77a6f5d6b06af9318ee3ea075a2405309aacc0d713d1f90abd7
-SHA512: 56a49e561a7e1221bef845d755b22dee070ca6e6895065165617d4dc5ebd967c7558ddf7830dd6020ab5304c06c2c26871313a04355eabe5a4353791540bc2d6
-Description: jbroot/var/mobile/theos > you can download sdk from here >> https://github.com/xybp888/iOS-SDKs/releases/tag/iOS-SDKs
-Name: theos
-Author: devn
-Icon: https://i.imgur.com/phBqnah.jpeg
-
 Package: twitter.nowesr1.location-spoofer
 Architecture: iphoneos-arm64e
 Version: 0.0.2
@@ -8098,49 +8047,6 @@ Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
 Name: Return YouTube Dislike
 Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
 Depiction: https://chariz.com/get/return-youtube-dislike
-
-Package: xyz.cypwn.xinam1ne
-Architecture: iphoneos-arm64
-Version: 2.6-8
-Section: Utilities
-Maintainer: CyPwn
-Provides: emt.paisseon.xinamine (= 99)
-Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, libclang-cpp16, llvm-16, llvm-16-runtime, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Replaces: emt.paisseon.xinamine
-Filename: ./debs//xyz.cypwn.xinam1ne_2.6-8_iphoneos-arm64.deb
-Size: 4695800
-MD5sum: c96fe11e0c3ce48d2aa5e5187e1de994
-SHA1: bc375ec2689fa0c7177f72b6033f9261463acf8f
-SHA256: 225252e401e90d067a5e1006a87f83ae3c873ff8b8b02b392311524677ad8792
-SHA512: 85870b6c98d2378cb59eb4bca14710c6a5d293df4fb80daafa5dae4a0e911b90639a0289edd5fec32a4044055499afac8cbd2a396f588bb334aae4e392bd9da0
-Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
-Depiction: https://repo.cypwn.xyz/depiction/2816
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2816
-Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
-Name: Xinam1ne AIO
-Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
-
-Package: xyz.cypwn.xinam1ne
-Architecture: iphoneos-arm64e
-Version: 2.6-8
-Section: Utilities
-Maintainer: CyPwn
-Provides: emt.paisseon.xinamine (= 99)
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Replaces: emt.paisseon.xinamine
-Filename: ./debs//xyz.cypwn.xinam1ne_2.6-8_iphoneos-arm64e.deb
-Size: 1877832
-MD5sum: 1d805e655708d0eceb15d271df0e0d52
-SHA1: c0ed6631ec9f54f1d2f662179a2e7e13f559fdcc
-SHA256: d91fb5ce307985cd063a22147678efa4ac9be1a319f9bdf8b7aa361d1d48108a
-SHA512: 99bf46ba68800237983cedf700386826c455f8259ef003559f4b6deb80a1572493a0add7ddec271766151f2b13343a83b64acd7d76ddb1b0246c1818c65ad871
-Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
-Depiction: https://repo.cypwn.xyz/depiction/2816
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2816
-Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
-Name: Xinam1ne App
-Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
 
 Package: xyz.skitty.ersatz
 Architecture: iphoneos-arm64
