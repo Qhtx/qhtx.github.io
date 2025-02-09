@@ -221,6 +221,24 @@ Description: Clipboard manager for iOS.
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
 
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm64e
+Version: 2.7
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 936
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs//codes.aurora.kayoko_2.7_iphoneos-arm64e.deb
+Size: 176272
+MD5sum: 4c621c22dd0967104753b904f8723956
+SHA1: 38b9ea9a3343e046475c33def34ef28876867c3b
+SHA256: d0349bc7ace0f60c232f3d4846d468be49700f2c372775f43184d416dbc2e345
+SHA512: 11699bdc89390df3000810f56de95390c9ba0d3c558f543119d478226d823a247579f5465ebde940ba5e3bea74756da149f01537fa6025bf8ae7455122f3deb7
+Description: Clipboard manager for iOS.
+Name: Kayoko
+Author: Alexandra Aurora Göttlicher
+
 Package: com.0xkuj.3dappversionspoofer
 Architecture: iphoneos-arm64e
 Version: 2.1.1
@@ -1625,6 +1643,25 @@ MD5sum: fd51d52423dfc6971f349eb5432474fe
 SHA1: f688fed54b7ac984dfeff0824dd09680906cfcc1
 SHA256: 0189f2f02d232f4a9c444ec7482434643630987a1448e54bb384e9b99fda66ef
 SHA512: ed1f230a8b0a3eccbc465e75de77f0d381f7e530f5e80ae18a2ba0fc92dc4bc1682596c893bd99ec434a1109b792e3607eccd65894b9effbd62ac0e64f9e450d
+Description: OLED Dark Mode for iOS System Keyboard
+Name: OledKeyboard
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/icon.png
+
+Package: com.dvntm.oledkeyboard
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs//com.dvntm.oledkeyboard_0.0.3_iphoneos-arm64e.deb
+Size: 6354
+MD5sum: dc69b4c1384d9594a51a93f52bc96eba
+SHA1: aae6cd91265d32dc732d8546d84bc6c6694ca5bc
+SHA256: 33eeed36474a8dcab77896ed0f60a2808bc2f146604d7cf9b1069f7bcdfaeef5
+SHA512: 628227707785a856414d1a0e4bc8f1a41aeb738d3e52ae378b8cdf01eeeedabe70f61c10b297c8dcc3cb3677f7e0795542ca2d7ab7d8c37a85a295f0562be363
 Description: OLED Dark Mode for iOS System Keyboard
 Name: OledKeyboard
 Author: dvntm
@@ -3783,6 +3820,25 @@ MD5sum: 47e4d26753bfdbb167cc64afa8a7efb6
 SHA1: fab41c42401665c98e66cff3ebb90185d613c4a4
 SHA256: caa96df1b911944465d71a4b3a8b39f5fa484f069e8a96f45d4729624bfda35f
 SHA512: 96e25e6c2c3e5e0b9c26c6a420e249ad1b635ca3f25524c8998a51a21b92632d908998e1c7262fde3addc50c8e51b1fed04493043e54c10f695a46accd244404
+Description: Stop losing your jailbreak when your battery dies!
+Name: Sentinel
+Author: MegaDev
+Icon: https://media.havoc.app/620e286f62d8a0bb3788377a?w=1920&q=75
+
+Package: com.megadev.sentinel
+Architecture: iphoneos-arm64e
+Version: 1.3.2
+Section: Tweaks
+Maintainer: MegaDev
+Installed-Size: 752
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate,ws.hbang.common,preferenceloader,com.opa334.ccsupport
+Filename: ./debs//com.megadev.sentinel_1.3.2_iphoneos-arm64e.deb
+Size: 89274
+MD5sum: 162e50d83c2e68a2e457bf434d4eba14
+SHA1: 5c7e40a3150a393971ed29571b52ba19930b7359
+SHA256: 95e1a26b5d65b7c3407f67c182d65a39505db8ce490683e8960bfc26a861e166
+SHA512: 90ab1008937df1ca79eca830db1899b7c976a7b8bad2b30e49c19824fd8a39a92b1f6003cbd6f9d81444bb026c3b37099f3ad3697367819ea2d80e3ca636fe77
 Description: Stop losing your jailbreak when your battery dies!
 Name: Sentinel
 Author: MegaDev
