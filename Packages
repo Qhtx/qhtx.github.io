@@ -17,6 +17,7 @@ Description: Flex 3 beta92 for RootHides Bootstrap & Dopamine by DXcool223
 Name: Flex 3 Beta RootHide Bootstrap
 Recommended: com.rpetrich.rocketbootstrap
 Author: John Coates
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: ai.akemi.appsyncunified
 Architecture: iphoneos-arm
@@ -39,6 +40,7 @@ Description: Enables the ability to install unsigned/fakesigned iOS applications
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: ai.akemi.appsyncunified
 Architecture: iphoneos-arm64
@@ -61,6 +63,7 @@ Description: Enables the ability to install unsigned/fakesigned iOS applications
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: ai.akemi.appsyncunified
 Architecture: iphoneos-arm64e
@@ -84,6 +87,7 @@ Description: Enables the ability to install unsigned/fakesigned iOS applications
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: app.catscript.lite
 Architecture: iphoneos-arm64e
@@ -103,6 +107,7 @@ SHA512: d9035c960c069f8fb810bff06d84819699ebf38cd9fffad5bdf609506c7d7ce1ed9ddb86
 Description: An automation framework designed for the iOS platform
 Name: CatScript Lite
 Author: 0x530c<0x530c@gmail.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: cm90.crossoveripc
 Architecture: iphoneos-arm64
@@ -120,6 +125,7 @@ SHA512: a64b093ae429d36eb18932a2f29fe5020aefae50745486252de45ec8a3c3325ebd210d4a
 Description: A cross-process communication tool for sending and receiving messages on iOS 15 & 16 for rootless JBs
 Name: CrossOverIPC
 Author: @CrazyMind90
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: cn.zqbb.disupdateapp
 Architecture: iphoneos-arm64
@@ -175,6 +181,7 @@ SHA512: fd584fc546b73c341fc0027fe88e5f58280ab41af89fb309d201b7a64ad7ccf498888049
 Description: Clipboard manager for iOS.
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: codes.aurora.kayoko
 Architecture: iphoneos-arm64e
@@ -193,6 +200,7 @@ SHA512: 11699bdc89390df3000810f56de95390c9ba0d3c558f543119d478226d823a247579f546
 Description: Clipboard manager for iOS.
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.0xkuj.3dappversionspoofer
 Architecture: iphoneos-arm64e
@@ -211,6 +219,7 @@ SHA512: efc2d49f432013a6c4e61867fe46fcea2cc3b1ab8839e172965189046b77bc5a91622b8c
 Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs
 Author: 0xkuj
 Name: 3DAppVersionSpoofer
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.0xkuj.backgrounderaction15autostate
 Architecture: iphoneos-arm64e
@@ -229,6 +238,7 @@ SHA512: 8f6a96bed96f8e6d75715b09c79772f7f971c4ef19c3335f435842b66e08224bec4cf43c
 Description: Save Action state for BackgrounderAction15 CC Toggle
 Name: BackgrounderAction15AutoState
 Author: 0xkuj
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.0xkuj.blockwaupdates
 Architecture: iphoneos-arm64e
@@ -252,6 +262,7 @@ Name: Block WA Updates
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blockwaupdatesDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: 0xkuj
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.0xkuj.copylogfix16
 Architecture: iphoneos-arm64e
@@ -270,6 +281,7 @@ SHA512: dee6bd80d8a3549e3f7f2fb098fd59edbf4c24b29345f1723d31a660d18c5794de58649e
 Description: Fix copylog not working on iOS16
 Name: CopyLogFix16
 Author: 0xkuj
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.0xkuj.filzadirprobe
 Architecture: iphoneos-arm64e
@@ -287,6 +299,7 @@ SHA512: 714b15900b4fdea3b6f4759946de7f05a1a3137bdd87a1af75eadbe08676a82c6bc898ae
 Description: Filza Extension To Calculate Folders Inside Your Filesystem
 Name: FilzaDirProbe
 Author: 0xkuj
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.0xkuj.nopastealerts16
 Architecture: iphoneos-arm64e
@@ -305,6 +318,7 @@ SHA512: 463d4177dbc1364a529ef2961215615f5544bfa8bffcd805fd542f0d1c6aec24c4d4931a
 Description: Remove the annoying paste confirmation added on iOS 16
 Name: NoPasteAlerts16
 Author: 0xkuj
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.0xkuj.safarix
 Architecture: iphoneos-arm64e
@@ -323,6 +337,7 @@ SHA512: 86071f88a9f72fc0755ec3887a815d182b136f440c3f6ffe036daaf43952afb4393d2e8a
 Description: Safari Essential Features
 Name: SafariX
 Author: 0xkuj
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.34306.messed
 Architecture: iphoneos-arm64
@@ -339,6 +354,7 @@ SHA512: 089cd80139d7f745aa9da15ba0ccfb3e8c306070b190d584b4d9bd711e5ba3749ca7ca90
 Description: Messed, Messenger with No Ads and No seen.
 Name: Messed
 Author: 34306
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.34306.messed
 Architecture: iphoneos-arm64e
@@ -355,6 +371,7 @@ SHA512: 3ca261ebe7f2f9ae0bd6a74b797b8e8880039c10d710eb90de76d0d4cebd89a02cf3c4f7
 Description: Messed, Messenger with No Ads and No seen.
 Name: Messed
 Author: 34306
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.34306.replaced
 Architecture: iphoneos-arm64
@@ -372,6 +389,7 @@ SHA512: f767ae9ab6542f97a4c2f14998b27d816d406b7b2e1b11feec1a8ec6f38b968b43f06a18
 Description: Remove the notification that the P
 Name: replaced
 Author: 34306
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.34306.replaced
 Architecture: iphoneos-arm64e
@@ -389,6 +407,7 @@ SHA512: 61a96a39fe0aae6f1944bb509f30508acb51d8e94d071398a34ee2e18b22f9cffb52c578
 Description: Remove the notification that the P
 Name: replaced
 Author: 34306
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.82flex.iconrestore
 Architecture: iphoneos-arm64
@@ -406,6 +425,7 @@ SHA512: c2b77a35ca01811e7ad2aba3fb43bcf1c7060262a285e72bb2db24dd635da796ccc43198
 Description: Save and restore the layout of your icons.
 Name: Icon Restore
 Author: Lessica <82flex@gmail.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.82flex.iconrestore
 Architecture: iphoneos-arm64e
@@ -423,6 +443,7 @@ SHA512: 255ba0ec40ff1544ec4442c13ba02206dee55bce57a856247dd96e388969952b5b79543c
 Description: Save and restore the layout of your icons.
 Name: Icon Restore
 Author: Lessica <82flex@gmail.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.alphastream.linearforsb
 Architecture: iphoneos-arm64e
@@ -603,6 +624,7 @@ SHA512: c2531c3d91fc359d7ece10361bea228311c8997106dfce5b490d8b4cc19da9d263758af1
 Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.brend0n.notransitcardversionlimit
 Architecture: iphoneos-arm64
@@ -622,6 +644,7 @@ Name: NoTransitCardVersionLimit
 Author: Brend0n <brendonjkding@126.com>
 Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.notransitcardversionlimit
 SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.notransitcardversionlimit/depiction.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.brend0n.notransitcardversionlimit
 Architecture: iphoneos-arm64e
@@ -642,6 +665,7 @@ Name: NoTransitCardVersionLimit
 Author: Brend0n <brendonjkding@126.com>
 Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.notransitcardversionlimit
 SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.notransitcardversionlimit/depiction.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.bypassjb.sniper
 Architecture: iphoneos-arm64e
@@ -660,6 +684,7 @@ SHA512: bbd5dafe0f677ccf06408f25ea5c35db3bcd89d9e3ca53e157071d11fcc45b997ede6cb4
 Description: Sniper bypassjb Work in some apps not all applications
 Name: Sniperbypassjb
 Author: Sniper @DNS_Sys
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.cachetes.col0rant
 Architecture: iphoneos-arm64e
@@ -675,6 +700,7 @@ SHA512: f62485311a6f5eb5de79c190365e2f2be50e5ac491b6d325e5a116661b436ff318ded6a7
 Description: Colorful theme for iOS
 Name: Col0rant
 Author: Cachetes <markosg26@gmail.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.cachetes.oxyg3n
 Architecture: iphoneos-arm64e
@@ -690,6 +716,7 @@ SHA512: 8fa7eea127300c31bb8758e540c73ebb44feb32dd090f16e17c549f1fb95cfbec79bf78f
 Description: Colorful theme for iOS
 Name: Oxyg3n
 Author: Cachetes <markosg26@gmail.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.cokepokes.libnotifications
 Architecture: iphoneos-arm64e
@@ -713,6 +740,7 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotific
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CokePokes <cokepokes@gmail.com>
 dev: cokepokes
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.cokepokes.libnotifications
 Architecture: iphoneos-arm64
@@ -735,6 +763,7 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotific
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CokePokes <cokepokes@gmail.com>
 dev: cokepokes
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.crazymind90.appeditor
 Architecture: iphoneos-arm64e
@@ -802,6 +831,7 @@ Name: libCSPreferences
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturecoding.com/?page=depiction&id=libcspreferences
 SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcspreferences
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.creaturecoding.libcspreferences
 Architecture: iphoneos-arm64e
@@ -823,6 +853,7 @@ Name: libCSPreferences
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturecoding.com/?page=depiction&id=libcspreferences
 SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcspreferences
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.creaturecoding.shuffle
 Architecture: iphoneos-arm64
@@ -913,6 +944,7 @@ SHA512: 4de4112b76ce3e93cb9aacbaeaca2b97be4a12f34abb9f1403883de23250f86a0a224327
 Description: A minimal color picker library for developers
 Author: CreatureSurvive <support@creaturecoding.com>
 Name: libCSColorPicker
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.creaturesurvive.libcscolorpicker
 Architecture: iphoneos-arm64e
@@ -929,6 +961,7 @@ SHA512: e0dffc8e54f1b6e515b6c08c9dec4f13e9538e39100af6567f775162e6d07ce8fc1b1c04
 Description: A minimal color picker library for developers
 Author: CreatureSurvive <support@creaturecoding.com>
 Name: libCSColorPicker
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.cydiaabdullah.cacloud
 Architecture: iphoneos-arm
@@ -946,6 +979,7 @@ SHA512: 5c20a1e03c3e74866c5426193e784874d6fb9f6c6c46a82bae36a88ef92c5aab0fa82809
 Description:  حذف الأعلانات لتطبيق انمي كلاود وتسريع عمل الحلقة اظهار زر المشاهدة والتحميل
 Name: CACloud
 Author: CydiaAbdullah
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.cydiaabdullah.cacloud
 Architecture: iphoneos-arm64
@@ -963,6 +997,7 @@ SHA512: 24836c9922e27c4b6e38576ee2ac7ad5c91b28feb69f03224f29e6036115f7f117c30809
 Description:  حذف الأعلانات لتطبيق انمي كلاود وتسريع عمل الحلقة اظهار زر المشاهدة والتحميل
 Name: CACloud
 Author: CydiaAbdullah
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.cydiaabdullah.cacloud
 Architecture: iphoneos-arm64e
@@ -981,6 +1016,7 @@ SHA512: 07674c90c828065b19892f37e44f33fbc09927b21ffec0b7850115084b04cb254e2634f3
 Description:  حذف الأعلانات لتطبيق انمي كلاود وتسريع عمل الحلقة اظهار زر المشاهدة والتحميل
 Name: CACloud
 Author: CydiaAbdullah
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.cydiageek.noeditpages
 Architecture: iphoneos-arm64e
@@ -1004,6 +1040,7 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noeditpage
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.cydiageek.nomoredisabled
 Architecture: iphoneos-arm64e
@@ -1028,6 +1065,7 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nomoredisa
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.cyrex.epiphany
 Architecture: iphoneos-arm64e
@@ -1044,6 +1082,7 @@ SHA512: 45ffb13e3890579360286d2acb339d8574eec966fa3a1ca554d716712162071dda03f261
 Description: A theme with beautiful icons!
 Name: Epiphany
 Author: Cyrex
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.dcproducts.iossecuritysuitebypass
 Architecture: iphoneos-arm64
@@ -1103,6 +1142,7 @@ SHA512: e35d5775d8bdec4f34e37e672741fe11d846bf1e38ce38c8b8edbbfa215f5964a8aa5a54
 Description: An awesome MobileSubstrate tweak!
 Name: IGFormat
 Author: MrDeNsor
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64e
@@ -1126,6 +1166,7 @@ Name: IGFormat
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=igformatDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: mrdensor
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64e
@@ -1144,6 +1185,7 @@ SHA512: a479472091a8642201f6478f761fe5bbc4db0a28301b4920ceb143be02ae0cb196da667c
 Description: An awesome MobileSubstrate tweak!
 Name: IGFormat
 Author: MrDeNsor
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64e
@@ -1162,6 +1204,7 @@ SHA512: bce2bc9d17e00ed20a15e5a9a9085599b9dba672094c92c68af8da03c296b806cc9d9d85
 Description: An awesome MobileSubstrate tweak!
 Name: IGFormat
 Author: MrDeNsor
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64
@@ -1430,6 +1473,7 @@ Name: ShortCutx
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shortcutxDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: mrdensor
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.dhinakg.addprofileinstallbutton
 Architecture: iphoneos-arm
@@ -1447,6 +1491,7 @@ SHA512: eb5b5a58f5895e5a4ab934e5d3e671c3bd038f80ed51398f1227a692d95357dd627a6819
 Homepage: https://dhinakg.github.io/repo
 Description: Add an "Install Profile" button to the "Profile Downloaded" popup.
 Name: AddProfileInstallButton
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.dhinakg.addprofileinstallbutton
 Architecture: iphoneos-arm64
@@ -1464,6 +1509,7 @@ SHA512: 8fa17b9bff664a5388521c9812f8207d12baa22be687dd8c9edcc0272a8658d89499dc78
 Homepage: https://dhinakg.github.io/repo
 Description: Add an "Install Profile" button to the "Profile Downloaded" popup.
 Name: AddProfileInstallButton
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.dhinakg.addprofileinstallbutton
 Architecture: iphoneos-arm64e
@@ -1481,6 +1527,7 @@ SHA512: 359fd47ad20713038ad089f7c996ab1962472a845e1ccc91db3f6c49cf9ad291576ed40e
 Homepage: https://dhinakg.github.io/repo
 Description: Add an "Install Profile" button to the "Profile Downloaded" popup.
 Name: AddProfileInstallButton
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.dvntm.cc18
 Architecture: iphoneos-arm64
@@ -1498,6 +1545,7 @@ SHA512: 4f6a2b75f1ca37934bf34fb92413e4aad40fb4bf9b12f5014ea06fb6e9b389146d3e24c0
 Description: Round CC modules replication, like in iOS 18
 Name: CC18
 Author: dvntm
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.dvntm.cc18
 Architecture: iphoneos-arm64e
@@ -1515,6 +1563,7 @@ SHA512: ef7e2befc7095504da2535c752705bbafb2f0426951b376e3166da702d99a1e14e949a1a
 Description: Round CC modules replication, like in iOS 18
 Name: CC18
 Author: dvntm
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.dvntm.cmm
 Architecture: iphoneos-arm64e
@@ -1551,6 +1600,7 @@ SHA512: e810e06125933145df6d53ddb6c73972ab1bd55defd821c192f4b433e7da1c10b590771d
 Description: An awesome MobileSubstrate tweak!
 Name: ESignAlert
 Author: dvntm
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.dvntm.oledkeyboard
 Architecture: iphoneos-arm64
@@ -1643,6 +1693,7 @@ SHA512: 7ab2079ec745f177edb0a949b3a4bca8563d9786b805ce98af4d737c7ebb47c41af329f4
 Description: An awesome MobileSubstrate tweak!
 Name: Safariii
 Author: dvntm
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.dvntm.safariii
 Architecture: iphoneos-arm64e
@@ -1660,6 +1711,7 @@ SHA512: db9e6ad3365ebf3abcfa052bc3d88d55d30fae09df24b3d61fdcb8594085900672fc0269
 Description: An awesome MobileSubstrate tweak!
 Name: Safariii
 Author: dvntm
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.dvntm.silentnotifs
 Architecture: iphoneos-arm64
@@ -1697,6 +1749,7 @@ SHA512: f47061df24cb5893fe79725debdae99f9a048a6be5e9d320f54ed0f6da4cea234684ac5a
 Description: Keep notifications silent while media is playing
 Name: SilentNotifs
 Author: dvntm
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm64
@@ -1898,6 +1951,7 @@ Description: Track & download your contacts latest profile & statuses updates on
 Name: Stalky
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.f0u4d.stalky
 Architecture: iphoneos-arm64e
@@ -1918,6 +1972,7 @@ Description: Track & download your contacts latest profile & statuses updates on
 Name: Stalky
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.f0u4d.stalky
 Architecture: iphoneos-arm64e
@@ -1938,6 +1993,7 @@ Description: Track & download your contacts latest profile & statuses updates on
 Name: Stalky
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.f0u4d.stalky
 Architecture: iphoneos-arm64e
@@ -2018,6 +2074,7 @@ Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
@@ -2035,6 +2092,7 @@ Description: Library for Watusi, Regram and other tweaks
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Name: WatusiTools
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64e
@@ -2053,6 +2111,7 @@ Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
@@ -2070,6 +2129,7 @@ Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64e
@@ -2088,6 +2148,7 @@ Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
@@ -2105,6 +2166,7 @@ Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64e
@@ -2123,6 +2185,7 @@ Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm
@@ -2140,6 +2203,7 @@ Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
@@ -2157,6 +2221,7 @@ Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64e
@@ -2175,6 +2240,7 @@ Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64e
@@ -2193,6 +2259,7 @@ Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
@@ -2210,6 +2277,7 @@ Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64e
@@ -2228,6 +2296,7 @@ Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
@@ -3096,6 +3165,7 @@ Description: Helper tools for Foxfort tweaks
 Tag: role::developer
 Name: FoxFort Tools
 Author: FoxfortMobile
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.foxfort.krashkop
 Architecture: iphoneos-arm64e
@@ -3135,6 +3205,7 @@ Description: library for Foxfort tweaks
 Tag: role::developer
 Name: libfoxfortutils
 Author: FoxfortMobile
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.foxfort.skinnymenu
 Architecture: iphoneos-arm64e
@@ -3153,6 +3224,7 @@ SHA512: 2844ec413ee054b088dd8c421f43be8a7ee322ddd55f021e0701665d01372beb5c2eb772
 Description: Remove share and lookup from menu
 Name: SkinnyMenu
 Author: FoxfortMobile
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.foxfort.translomatic
 Architecture: iphoneos-arm64e
@@ -3191,6 +3263,7 @@ SHA512: e44caac84495109b5c389464eff20264d324d30668f693acfc5188338cc34721231ff43f
 Description: Displays the volume percentage on the stock volume HUD.
 Name: VolumePercent
 Author: gilshahar7
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.ginsu.ramundertime
 Architecture: iphoneos-arm64
@@ -3329,6 +3402,7 @@ Name: IconOrder
 Depiction: https://cydia.ichitaso.com/depiction/iconorder.html
 SileoDepiction: https://cydia.ichitaso.com/depiction/iconorder.json
 dev: ichitaso
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.ichitaso.otadisabler
 Architecture: iphoneos-arm64
@@ -3442,6 +3516,7 @@ SHA512: 736e6515ebbe1006645c8219e68cb666c4193024bf473e32aad9a99ebb1aa66d86060aa8
 Description: Automatically switch away from "everyone" AirDrop visibility after a set amount of time
 Name: TempDrop
 Author: iCraze
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.imokhles.disablertl
 Architecture: iphoneos-arm64
@@ -3460,6 +3535,7 @@ Description: Disable right-to-left languages across the system!
 Name: DisableRTL
 Author: @iMokhles
 SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/DisableRTL.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.imokhles.disablertl
 Architecture: iphoneos-arm64e
@@ -3478,6 +3554,7 @@ SHA512: a990843ceb8fe63dfce087ed1094877507f5f4287ca5d8a89f471d10a419bab32aee804d
 Description: Disable right-to-left languages across the system!
 Name: DisableRTL
 Author: @iMokhles
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.jailbreak365.safeccmodules
 Architecture: iphoneos-arm64
@@ -3499,6 +3576,7 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesD
 Author: jailbreak365 <jailbreak365@mail.com>
 Name: CCModules
 dev: jailbreak365
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.jailbreak365.safeccmodules
 Architecture: iphoneos-arm64e
@@ -3521,6 +3599,7 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesD
 Author: jailbreak365 <jailbreak365@mail.com>
 Name: CCModules
 dev: jailbreak365
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.jaxroth.supporttheunsupportedrevived
 Architecture: iphoneos-arm64
@@ -3538,6 +3617,7 @@ SHA512: f1847ee468842caaead6c7f77640a97b0fa88dd935d5489e2dbff3582e0eb66230955aaa
 Description: Allows iPhones to use “unsupported” charging accessories
 Name: SupportTheUnsupported Revived
 Author: Jax Roth
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.jaxroth.supporttheunsupportedrevived
 Architecture: iphoneos-arm64e
@@ -3556,6 +3636,7 @@ SHA512: 667770546bb3bbd355d4d76b7699dfaf56bc7048cdd6e0a83f8e59d3f8ab14a39a8db765
 Description: Allows iPhones to use “unsupported” charging accessories
 Name: SupportTheUnsupported Revived
 Author: Jax Roth
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm64e
@@ -3575,6 +3656,7 @@ SHA512: 89a8f3fb9727c463ec011dfe4ecf22bf4bed62e0cff7a19015fa14920337872d57845a9f
 Description: Pin screenshots on the screen.
 Name: Snapper 3
 Author: Jonathan Winger-lang
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.julioverne.goodwifi
 Architecture: iphoneos-arm64
@@ -3634,6 +3716,7 @@ Description: Install Apps In Lower iOS Version
 Name: LowerInstall
 Author: julioverne
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.lowerinstall
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.kdt.trollpad
 Architecture: iphoneos-arm64
@@ -3653,6 +3736,7 @@ Name: TrollPad
 Author: khanhduytran0
 Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
 SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.kdt.trollpad
 Architecture: iphoneos-arm64e
@@ -3673,6 +3757,7 @@ Name: TrollPad
 Author: khanhduytran0
 Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
 SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.kingpuffdaddi.control-center.ccvpn
 Architecture: iphoneos-arm64e
@@ -3733,6 +3818,7 @@ Description: Add more controls to the expanded brightness CC module
 Name: BetterCCBrightness
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.betterccbrightness
 Author: level3tjg
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.level3tjg.betterccbrightness
 Architecture: iphoneos-arm64e
@@ -3752,6 +3838,7 @@ Description: Add more controls to the expanded brightness CC module
 Name: BetterCCBrightness
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.betterccbrightness
 Author: level3tjg
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.level3tjg.twitchadblock
 Architecture: iphoneos-arm64
@@ -3770,6 +3857,7 @@ Description: Block Twitch video ads
 Name: TwitchAdBlock
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.twitchadblock
 Author: level3tjg
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.level3tjg.twitchadblock
 Architecture: iphoneos-arm64e
@@ -3789,6 +3877,7 @@ Description: Block Twitch video ads
 Name: TwitchAdBlock
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.twitchadblock
 Author: level3tjg
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.lizynz.folderx.rootless
 Architecture: iphoneos-arm64
@@ -3808,6 +3897,7 @@ Description: Allows you to configure folders
 Name: FolderX
 SileoDepiction: https://lizynz.github.io/depictions/com.lizynz.folderx/FolderX.json
 Author: Lizynz <lizynz@ya.ru>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.lizynz.telegaicons.rootless
 Architecture: iphoneos-arm64
@@ -3827,6 +3917,7 @@ Name: Telega Icons
 Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.telegaicons
 SileoDepiction: https://lizynz.github.io/depictions/com.lizynz.telegaicons/TelegaIcons.json
 Author: Lizynz <lizynz@ya.ru>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.lizynz.telegaicons.rootless
 Architecture: iphoneos-arm64e
@@ -3847,6 +3938,7 @@ Name: Telega Icons
 Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.telegaicons
 SileoDepiction: https://lizynz.github.io/depictions/com.lizynz.telegaicons/TelegaIcons.json
 Author: Lizynz <lizynz@ya.ru>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.managedelete.sniper
 Architecture: iphoneos-arm
@@ -3864,6 +3956,7 @@ SHA512: 1f59c4c1309ea0229c7a9f8b07935009099fb8671532bd14043d14ea348bfbc9c4c57ea2
 Description: A tweak to Manage Delete
 Name: ManageDelete
 Author: Sniper @DNS_Sys
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.managedelete.sniper
 Architecture: iphoneos-arm64
@@ -3881,6 +3974,7 @@ SHA512: e799a7835de3faa5489c615425db127275d155f639d98f0bd6ffafd107bee7f229a9063b
 Description: A tweak to Manage Delete
 Name: ManageDelete
 Author: Sniper @DNS_Sys
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.managedelete.sniper
 Architecture: iphoneos-arm64e
@@ -3899,6 +3993,7 @@ SHA512: 9a516e4c6d404d5d868b2f7d27f3655a76e2a8bb1180ae5052298565d226c7e4f4566283
 Description: A tweak to Manage Delete
 Name: ManageDelete
 Author: Sniper @DNS_Sys
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.megadev.sentinel
 Architecture: iphoneos-arm64
@@ -3936,6 +4031,7 @@ Tag: role::developer, compatible_min::ios14
 Name: libMiROShared
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
 Author: MiRO <tweaks_support@miro92.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.miro.libmiroshared
 Architecture: iphoneos-arm64e
@@ -3956,6 +4052,7 @@ Tag: role::developer, compatible_min::ios14
 Name: libMiROShared
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
 Author: MiRO <tweaks_support@miro92.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.miro.libphonenumber
 Architecture: iphoneos-arm64
@@ -3975,6 +4072,7 @@ Tag: role::developer, compatible_min::ios14
 Name: libPhoneNumber
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.libphonenumber
 Author: MiRO <tweaks_support@miro92.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.miro.libphonenumber
 Architecture: iphoneos-arm64e
@@ -3995,6 +4093,7 @@ Tag: role::developer, compatible_min::ios14
 Name: libPhoneNumber
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.libphonenumber
 Author: MiRO <tweaks_support@miro92.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.miro.uyou
 Architecture: iphoneos-arm64
@@ -4079,6 +4178,7 @@ Tag: purpose::extension, compatible_min::ios13
 Name: uYouImport
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
 Author: MiRO <tweaks_support@miro92.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.miro.uyouimport
 Architecture: iphoneos-arm64e
@@ -4099,6 +4199,7 @@ Tag: purpose::extension, compatible_min::ios13
 Name: uYouImport
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
 Author: MiRO <tweaks_support@miro92.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.miro.yellowpages2
 Architecture: iphoneos-arm64
@@ -4162,6 +4263,7 @@ Description: An awesome library of some sort!!
 Tag: role::developer
 Name: LibGcUniversal
 Author: MrGcGamer
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.mtac.ampere
 Architecture: iphoneos-arm64e
@@ -4180,6 +4282,7 @@ SHA512: 9ca80211d8c6a029cb03531899639a294522b7b7a4dff77d4a5387248d3eb611b5ead6b9
 Description: iOS 16 Style Battery Indicator
 Name: Ampere
 Author: MTAC
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.mtac.ccpowermenu
 Architecture: iphoneos-arm64
@@ -4355,6 +4458,7 @@ SHA512: 6d3658117bb37ef9485b252eb1a2ac7508bf13812a1a248e1d9b18feef56d03ebf4854b9
 Description: A modern crash reporter for iOS
 Name: Cr4shed
 Author: Muirey03
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.muirey03.cr4shed
 Architecture: iphoneos-arm64e
@@ -4372,6 +4476,7 @@ SHA512: d588da0e380ef99f8504eb768bd0ecc19b3128f609deae86be203ab40167c94bbde4805f
 Description: A modern crash reporter for iOS
 Name: Cr4shed
 Author: Muirey03
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.muirey03.libmryipc
 Architecture: iphoneos-arm64
@@ -4391,6 +4496,7 @@ Description: Support package for my tweak Novus that's available on Havoc repo, 
 Tag: role::developer
 Name: libMRYIPC-Rootless
 Author: Muirey03
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.muirey03.libmryipc
 Architecture: iphoneos-arm64e
@@ -4411,6 +4517,7 @@ Description: Support package for my tweak Novus that's available on Havoc repo, 
 Tag: role::developer
 Name: libMRYIPC-Rootless
 Author: Muirey03
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.nahtedetihw.closeall
 Architecture: iphoneos-arm64e
@@ -4429,6 +4536,7 @@ SHA512: da92f950726d3831f2c945a6e7e2d924db8e3fdb366a561801dd1b18639a9ee07db83d45
 Description: An awesome MobileSubstrate tweak!
 Name: CloseAll
 Author: Ethan Whited
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.nan.disablesblockaftercrash
 Architecture: iphoneos-arm64e
@@ -4730,6 +4838,7 @@ SHA512: 9ca02b0e973dc34e471e0e14948e2c7580389e8ffcb715a98fe0235be1e1c2c46e8d61c7
 Description: Tweak to enable the hidden storage settings
 Name: InternalStorageSettings
 Author: Nathan Senter
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.nathan.internalstoragesettings
 Architecture: iphoneos-arm64e
@@ -4747,6 +4856,7 @@ SHA512: 55999b00afca7b5926a54f6d4af19310c75b5290ba193777ca8d4da7b6f2d6ae7b21f167
 Description: Tweak to enable the hidden storage settings
 Name: InternalStorageSettings
 Author: Nathan Senter
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.netskao.appdata
 Architecture: iphoneos-arm64e
@@ -4766,6 +4876,7 @@ Description: View & Manage Applications Data from your Home Screen
 Name: AppData
 Author: Fouad Raheb
 SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.netskao.dumpdecrypter
 Architecture: iphoneos-arm64
@@ -4784,6 +4895,7 @@ Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
 Name: DumpDecrypter
 Author: Netskao
 SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.dumpdecrypter.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.netskao.dumpdecrypter
 Architecture: iphoneos-arm64e
@@ -4803,6 +4915,7 @@ Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
 Name: DumpDecrypter
 Author: Netskao
 SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.dumpdecrypter.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.newwares.badgesync
 Architecture: iphoneos-arm64e
@@ -4821,6 +4934,7 @@ SHA512: 485bcb776af1d62fe1903f72f6acc180972456457596e9e7863cafa3c2cf1832527d959a
 Description: Syncs icon badge values when notifications are dismissed from the notification centre.
 Name: BadgeSync
 Author: newwares
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.nguyenasang.snmessenger
 Architecture: iphoneos-arm64
@@ -4841,6 +4955,7 @@ SHA512: c625cf5ab86349bd1785302a6470726fe90c14c306db6e979d151278a4a3f89ce63fff29
 Description: A full-featured tweak for Messenger.
 Name: SNMessenger
 Author: NguyenASang
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.nguyenasang.snmessenger
 Architecture: iphoneos-arm64e
@@ -4862,6 +4977,7 @@ SHA512: dd3d63f5d063fafa4e091267736680907000b4feba359dff2a6d3121e0067cfe4fc608a1
 Description: A full-featured tweak for Messenger.
 Name: SNMessenger
 Author: NguyenASang
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.niceios.nicebarx16-roothide
 Architecture: iphoneos-arm64e
@@ -4880,6 +4996,7 @@ Description: 状态栏插件.
 Name: NiceBarX(iOS16)【Roothide】
 Author: niceios
 Sponsor: niceios
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.niceios.nicehelper-roothide
 Architecture: iphoneos-arm64e
@@ -4897,6 +5014,7 @@ Description: nice插件依赖组件.
 Name: NiceHelper【Roothide】
 Author: niceios
 Sponsor: niceios
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.nightwind.boldersreborn
 Architecture: iphoneos-arm64e
@@ -4973,6 +5091,7 @@ SHA512: 4bdda7d66774e2a48e17034888841d7710f2230bce56f5821da6ec0093316bffb451fad4
 Description: Changes "sbreload" in Sileo to "killall SpringBoard" to avoid a bug in Dopamine where a black screen happens.
 Name: SileoRespringFix
 Author: Nightwind
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.nightwind.sileorespringfix
 Architecture: iphoneos-arm64e
@@ -4991,6 +5110,7 @@ SHA512: 5ff193b0be5ddea400534f3df8ee735065ecde5c1c950b721d8c67a715c67083c65e78df
 Description: Changes "sbreload" in Sileo to "killall SpringBoard" to avoid a bug in Dopamine where a black screen happens.
 Name: SileoRespringFix
 Author: Nightwind
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.noisyflake.velvet2
 Architecture: iphoneos-arm64e
@@ -5032,6 +5152,7 @@ SHA512: 7574ef115f04f7b3234ed3d399ec3e7e722fd34a9c8537296912aa19496907e40c0e45a1
 Description: Multiple containers for one application!
 Name: Crane Lite
 Author: opa334
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.pordiosero
 Architecture: iphoneos-arm64e
@@ -5047,6 +5168,7 @@ SHA512: 712e3b3a3148c011224c6c5bfdbb3c188b5315a8f03639878a82131d583da17958e2972e
 Description: Colorful theme for iOS
 Name: Kraf
 Author: Pordiosero <markosg26@gmail.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.ps.batteryhealthenabler
 Architecture: iphoneos-arm64
@@ -5066,6 +5188,7 @@ Name: Battery Health Enabler
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/batteryhealthenabler.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/batteryhealthenabler.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.ps.batteryhealthenabler
 Architecture: iphoneos-arm64e
@@ -5086,6 +5209,7 @@ Name: Battery Health Enabler
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/batteryhealthenabler.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/batteryhealthenabler.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.ps.githubweblegacycompat
 Architecture: iphoneos-arm64e
@@ -5105,6 +5229,7 @@ Name: GitHubWebLegacyCompat
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/githubweblegacycompat.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/githubweblegacycompat.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.ps.highgraphics
 Architecture: iphoneos-arm64
@@ -5122,6 +5247,7 @@ SHA512: 7a27475bb215b7e443b9060e32990f8539b14bc42007a88591c1bbf46454579b00380096
 Description: Best UIKit graphics for older devices.
 Name: HighGraphics
 Author: PoomSmart
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.ps.highgraphics
 Architecture: iphoneos-arm64e
@@ -5140,6 +5266,7 @@ SHA512: 9c76203098172f03041126a9cef73c3c14285b6e32ea3064c6663af33fff8e89c72de77b
 Description: Best UIKit graphics for older devices.
 Name: HighGraphics
 Author: PoomSmart
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.ps.injectionfoundation
 Architecture: iphoneos-arm64e
@@ -5160,6 +5287,7 @@ Name: Injection Foundation
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/injectionfoundation.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/injectionfoundation.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.ps.latesttranslate
 Architecture: iphoneos-arm64
@@ -5179,6 +5307,7 @@ Name: LatestTranslate
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/latesttranslate.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/latesttranslate.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.ps.latesttranslate
 Architecture: iphoneos-arm64e
@@ -5199,6 +5328,7 @@ Name: LatestTranslate
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/latesttranslate.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/latesttranslate.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.ps.letmeblock
 Architecture: iphoneos-arm64
@@ -5218,6 +5348,7 @@ Name: LetMeBlock
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/letmeblock.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/letmeblock.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.ps.letmeblock
 Architecture: iphoneos-arm64e
@@ -5238,6 +5369,7 @@ Name: LetMeBlock
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/letmeblock.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/letmeblock.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.ps.recordpause
 Architecture: iphoneos-arm64e
@@ -5259,6 +5391,7 @@ SHA512: 61039d7a18bd19b25d946b5b7075ba494ec18c02f29dcda3e473148931345bd2a74267b4
 Description: Pause/resume video recording in iOS Camera app.
 Name: RecordPause
 Author: PoomSmart
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.ps.replaykitmax
 Architecture: iphoneos-arm64
@@ -5278,6 +5411,7 @@ Name: ReplayKit Max
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/replaykitmax.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/replaykitmax.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.ps.replaykitmax
 Architecture: iphoneos-arm64e
@@ -5298,6 +5432,7 @@ Name: ReplayKit Max
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/replaykitmax.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/replaykitmax.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.ps.yougroupsettings
 Architecture: iphoneos-arm64e
@@ -5337,6 +5472,7 @@ SHA512: 38dd66ea846ab4af514d48decc80595e478467dbdb38858487eaa8379b6b65e05fb31a04
 Description: Enable native darker dark mode on YouTube.
 Name: YTDarker
 Author: PoomSmart
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.randy420.tools
 Architecture: iphoneos-arm64
@@ -5358,6 +5494,7 @@ Tag: role::hacker
 Name: 420 Tools
 Depiction: https://Randy-420.GitHub.io/depic/420Tools.html
 Author: Randy420 <randy.skinner@hotmail.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.randy420.tools
 Architecture: iphoneos-arm64e
@@ -5380,6 +5517,7 @@ Tag: role::hacker
 Name: 420 Tools
 Depiction: https://Randy-420.GitHub.io/depic/420Tools.html
 Author: Randy420 <randy.skinner@hotmail.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.raulsaeed.bhtiktok++
 Architecture: iphoneos-arm64e
@@ -5398,6 +5536,7 @@ SHA512: 5555301ea6f2a15277206da5afae6b01685062c0100a9a5a30cac1aa74032cdcb23c61f3
 Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.raulsaeed.bhtiktok++
 Architecture: iphoneos-arm64
@@ -5415,6 +5554,7 @@ SHA512: f8cc27ed42104612fbc6b0defac482615c47f05a46e45928eb574e01a77f7ee52ca0dcdd
 Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.raulsaeed.bhtiktok++
 Architecture: iphoneos-arm64e
@@ -5433,6 +5573,7 @@ SHA512: 9cb5bf211c5d44ba2bd45c746be61d4122a832e1281f95f813e846f68c8bd7514d2a9c1f
 Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.roothide.managers
 Architecture: iphoneos-arm64
@@ -5469,6 +5610,7 @@ SHA512: 3b7fdcd09f140581d4399f60e665f6c6c6bfdfbdd035a72929c6ddc5ae9a3993f40e6879
 Description: is a modded of the Roothide Manager App's without bootstrap/roothide , with varClean function only to clean jailbreak junks & related files that make the iOS enviroment detected as jailbroken.
 Name: varClean (rootless)
 Author: roothide
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.rowandesign.morandi
 Architecture: iphoneos-arm64e
@@ -5485,6 +5627,7 @@ SHA512: 8663fcb04417d13b0a4b07700f8bf9daeffdb9218a0abeafdc6642b7cc69037405071409
 Description: Morandi - Pay tribute to my favorite painter
 Name: Morandi
 Author: Rowandesign
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.rpetrich.powercuff
 Architecture: iphoneos-arm64
@@ -5507,6 +5650,7 @@ Depiction: http://rpetri.ch/cydia/powercuff/
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.rpetrich.powercuff
 Architecture: iphoneos-arm64e
@@ -5530,6 +5674,7 @@ Depiction: http://rpetri.ch/cydia/powercuff/
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.rpetrich.powercuff
 Architecture: iphoneos-arm64
@@ -5570,6 +5715,7 @@ SHA512: c4f488ef84154b3c557709965c7472657f0b792836e591df8183143f10975febcd53a97f
 Description: Change your font!
 Name: A-Font
 Author: Baw Appie <pp121324@gmail.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.rpgfarm.a-font
 Architecture: iphoneos-arm64e
@@ -5588,6 +5734,7 @@ SHA512: dc381b46cc982a7ab6afa8dee165da17534bd724110e1974b9e16542f8f2be15a629c67b
 Description: Change your font!
 Name: A-Font
 Author: Baw Appie <pp121324@gmail.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.ryannair05.cylinderremade
 Architecture: iphoneos-arm64e
@@ -5625,6 +5772,7 @@ SHA512: 1485aa0637aa38582ccad1a7ca0ee0b7888d811b3e1168c5e19de7c09bd8ac3d47aee01b
 Description: Foreground your tweaks even if they are in the background!
 Name: Immortalizer
 Author: sergy
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.sergy.immortalizer
 Architecture: iphoneos-arm64e
@@ -5643,6 +5791,7 @@ SHA512: a78829f6039141cf8063ac5da4fb10a29f050a22c0f99f708509db7cad8619e933c13471
 Description: Foreground your apps even if they are in the background!
 Name: Immortalizer
 Author: sergy
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.sergy.immortalizer
 Architecture: iphoneos-arm64e
@@ -5679,6 +5828,7 @@ SHA512: 889664b666bd6d625fb10b5204b6f5154a462b40abf0e9bbf651478643bae4952e1cedfb
 Description: Bring good looking widgets to the front page of settings!
 Name: SettingsWidgets
 Author: shepgoba
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.shepgoba.settingswidgets
 Architecture: iphoneos-arm64e
@@ -5697,6 +5847,7 @@ SHA512: a628dc795a4860c7e7f91d39466b1fefcac5e15183907410a64fa6a67a7851c546b05629
 Description: Bring good looking widgets to the front page of settings!
 Name: SettingsWidgets
 Author: shepgoba
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.socuul.scinsta
 Architecture: iphoneos-arm64e
@@ -5715,6 +5866,7 @@ SHA512: d9685b1428a386ee9cb6560bd4013977f841c493667a10bdf597acac0c2bef62efa14f49
 Description: A feature-rich tweak for Instagram on iOS!
 Name: SCInsta
 Author: SoCuul
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.spark.libsparkapplist
 Architecture: iphoneos-arm64
@@ -5732,6 +5884,7 @@ Description: AppList alternative
 Tag: role::developer
 Name: libSparkAppList
 Author: Spark
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.spark.libsparkapplist
 Architecture: iphoneos-arm64e
@@ -5750,6 +5903,7 @@ Description: AppList alternative
 Tag: role::developer
 Name: libSparkAppList
 Author: Spark
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.spark.libsparkcolourpicker
 Architecture: iphoneos-arm64e
@@ -5769,6 +5923,7 @@ Description: Simple to implement, simple to use colour picker library. Built by 
 Tag: role::developer
 Name: libsparkcolourpicker
 Author: Spark
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.spark.snowboard.dock
 Architecture: iphoneos-arm64e
@@ -5787,6 +5942,7 @@ SHA512: 0b5cf95c99cc7dc8eef57fdabadbb440a4991e8abeb42c8a201f15c8c21f66337ff104ce
 Description: Dock for SnowBoard
 Name: SnowBoard Dock Extension
 Author: Spark
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.spark.snowboard.effects
 Architecture: iphoneos-arm64e
@@ -5805,6 +5961,7 @@ SHA512: ae8182c1637659241b7c2d7c3a1e65d2cef453a6b7349492a1b4cfae07829a2fda446284
 Description: Icon Effects for SnowBoard
 Name: SnowBoard Icon Effects Extension
 Author: Spark
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.spark.snowboard.fonts
 Architecture: iphoneos-arm64e
@@ -5826,6 +5983,7 @@ SHA512: 9750b7cb0487765137e0d0fabf58b96a42b25603983b88f21c10ff2549ef633bbdd40adb
 Description: Fonts for SnowBoard
 Name: SnowBoard Fonts Extension
 Author: Spark
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.spark.snowboard.labels
 Architecture: iphoneos-arm64e
@@ -5844,6 +6002,7 @@ SHA512: 64c6aff9edffb2db5b9d9e10a905365217765c1b582437b3d03a857f94181ef1f0f810c4
 Description: Labels for SnowBoard
 Name: SnowBoard Labels Extension
 Author: Spark
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.spark.snowboard.masks
 Architecture: iphoneos-arm64e
@@ -5862,6 +6021,7 @@ SHA512: 1a28748bd9f0f6a06ebd7f62d4463169599e9f0d9f160ef28c2702b72bba47c814d19e9a
 Description: Icon masks for SnowBoard
 Name: SnowBoard Icon Masks Extension
 Author: Spark
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.spark.snowboard.presetextension
 Architecture: iphoneos-arm64e
@@ -5880,6 +6040,7 @@ SHA512: 60d9c39012fcbf59e2a9d2b1e73e806cf117a5ec78a53f603681c573155de6da03adfd3d
 Description: SnowBoard Presets Extension
 Name: SnowBoard Preset Extension
 Author: Spark
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.spark.snowboard.settingsicons
 Architecture: iphoneos-arm64e
@@ -5898,6 +6059,7 @@ SHA512: 66fc74f8f4400b28ba97006483632d3c728803cb485ed383edee31b46a8889401f873912
 Description: Settings Icons for SnowBoard
 Name: SnowBoard Settings Icons Extension
 Author: Spark
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.spark.snowboard.statusbar
 Architecture: iphoneos-arm64e
@@ -5916,6 +6078,7 @@ SHA512: f42596158015ec9ec4d8abb41614569d8ca97a7668837c37b0d16cb324225e83556dbacd
 Description: StatusBar for SnowBoard
 Name: SnowBoard StatusBar Extension
 Author: Spark
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.spark.snowboard.ui
 Architecture: iphoneos-arm64e
@@ -5934,6 +6097,7 @@ SHA512: 7bd818a20b797795f4b9e4d7e42da7c6c6f54980036739414aa75e5571675a987561dad1
 Description: UI Extension for SnowBoard
 Name: SnowBoard UI Extension
 Author: Spark
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.spark.snowboard
 Architecture: iphoneos-arm64
@@ -5954,6 +6118,7 @@ SHA512: 5e49fe7b35fde5b469e70ca27e8ccd383278548c685ab3c86814a28f87c8df245038a96a
 Description: Snowboard theming engine
 Name: SnowBoard
 Author: Spark & Dennis D. Bednarz
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.spark.snowboard
 Architecture: iphoneos-arm64e
@@ -5975,6 +6140,7 @@ SHA512: 4ebbf9121a1375311774851bfdafc7744d542be8413ed3231983880e63799f42ecd51baa
 Description: Snowboard theming engine
 Name: SnowBoard
 Author: Spark & Dennis D. Bednarz
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.spark.snowboardapplication
 Architecture: iphoneos-arm64e
@@ -5993,6 +6159,7 @@ SHA512: a444ca66862cb4b074c072cd10b9d1c2c6e76068fc1a1cfd87d1386a86ad539b2dd29112
 Description: An awesome application!
 Name: SnowBoard
 Author: Spark
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.sparklechan.swifty
 Architecture: iphoneos-arm64e
@@ -6049,6 +6216,7 @@ SHA512: c2606fee7295c078aca62e699f5985170ad046c33185f719528bf8bd285f5527c71a6cac
 Description: Your Copy Vault, Your Pasteboard
 Name: CopyVault
 Author: SquidForce
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.squidforce.copyvault
 Architecture: iphoneos-arm64e
@@ -6067,6 +6235,7 @@ SHA512: 6e17c9ebac23d82a0a42502f698ec4b840aa199c962382d2fa30581838e5a299201d65a3
 Description: Your Copy Vault, Your Pasteboard
 Name: CopyVault
 Author: SquidForce
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.squidforce.copyvault
 Architecture: iphoneos-arm64e
@@ -6085,6 +6254,7 @@ SHA512: fe211aff7f04e0414842a70653deff067bfdd2d336b75bc45c69fec75f4db807f4d868de
 Description: Your Copy Vault, Your Pasteboard
 Name: CopyVault
 Author: SquidForce
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.squidforce.copyvault
 Architecture: iphoneos-arm64e
@@ -6103,6 +6273,7 @@ SHA512: d393eba4f04f9e09b6bf447b151f42c187ea5bfc0ecde1ae1e784b702d5859ed7d9eebf9
 Description: Your Copy Vault, Your Pasteboard
 Name: CopyVault
 Author: SquidForce
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.squidforce.copyvault
 Architecture: iphoneos-arm64e
@@ -6121,6 +6292,7 @@ SHA512: 119b96f1cf90e638b0d5f46ff729e7c3103c4c1c89b9b3611b3ff129d58755e9f78b17f3
 Description: Your Copy Vault, Your Pasteboard
 Name: CopyVault
 Author: SquidForce
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.squidforce.copyvault
 Architecture: iphoneos-arm64e
@@ -6139,6 +6311,7 @@ SHA512: 44a6500a4a0dc14cabe1acc18137a81b006ce003f0d63fedeb0b78e0094d3b3898e3d8e8
 Description: Your Copy Vault, Your Pasteboard
 Name: CopyVault
 Author: SquidForce
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.squidforce.copyvault
 Architecture: iphoneos-arm64e
@@ -6157,6 +6330,7 @@ SHA512: 27c9cabdd51d8eb84232b03634a462f9c46a4bb2b7f622ad8f4e47fbabd88270e6d0b805
 Description: Your Copy Vault, Your Pasteboard
 Name: CopyVault
 Author: SquidForce
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.squidforce.copyvault
 Architecture: iphoneos-arm64e
@@ -6175,6 +6349,7 @@ SHA512: bf47a5e6d6ec621e74f630e0d02a634976a9d8d4a9d0c3f87ed335b37c0f79004cf3c837
 Description: Your Copy Vault, Your Pasteboard
 Name: CopyVault
 Author: SquidForce
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.stevsarm.taffy
 Architecture: iphoneos-arm64e
@@ -6190,6 +6365,7 @@ SHA512: d59b9b93f833e270c5a311e7098f060ced1585f8286c47dad6782bbb7ee4331f36bf222c
 Description: salmon sal the taffy pal
 Name: Taffy
 Author: Steve Sarmiento <steve22sarmiento@gmail.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.swing.appstorenoads
 Architecture: iphoneos-arm64
@@ -6284,6 +6460,7 @@ SHA512: 8636b9394a405bfe4390ed542d4f75a1619046150bba8146e86f91f5f773d8a10a43abd2
 Description: A Vibrant Theme to Light up Your Device!
 Name: Vivacity
 Author: Thenatis
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.tigisoftware.appdatamanager
 Architecture: iphoneos-arm64e
@@ -6327,6 +6504,7 @@ SHA512: 111d9b7b0889cf8ffe7e005500181cadb9875f6c98ccf3392e2d767c3c562cb72c74582d
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
 Name: Filza File Manager 64-bit
 Author: TIGI Software
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.tonykraft.inosleep
 Architecture: iphoneos-arm64
@@ -6345,6 +6523,7 @@ Description: Allows Wifi to stay connected when the device is locked.
 Name: iNoSleep
 Author: Tony Kraft <iostonykraft@gmail.com>
 Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.inosleep.html
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.tonykraft.inosleep
 Architecture: iphoneos-arm64e
@@ -6364,6 +6543,7 @@ Description: Allows Wifi to stay connected when the device is locked.
 Name: iNoSleep
 Author: Tony Kraft <iostonykraft@gmail.com>
 Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.inosleep.html
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.tools4cydia.copylinkdeb
 Architecture: iphoneos-arm64
@@ -6380,6 +6560,7 @@ SHA512: 4c6fd3dd4587011585703a1f45c3ff519e838e376be2f086edb0c622ad359e6d6fca749c
 Description: تحميل ونسخ روابط ديب من سورسات Download deb files from sources!
 Name: CopyLinkDeb
 Author: Tools4cydia
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.tools4cydia.copylinkdeb
 Architecture: iphoneos-arm64e
@@ -6397,6 +6578,7 @@ SHA512: 1330b2d4dc28abf92a380795eb6d8ae22e878a2080e32add8f417ff59f8fb23bc41d30ce
 Description: تحميل ونسخ روابط ديب من سورسات Download deb files from sources!
 Name: CopyLinkDeb
 Author: Tools4cydia
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.tools4cydia.copylinkdeb
 Architecture: iphoneos-arm64
@@ -6413,6 +6595,7 @@ SHA512: b836003a294f657df75821bcf33bc526d95c00e1fa65ebfeabdc7d5deef8bff672d4c586
 Description: تحميل ونسخ روابط ديب من سورسات Download deb files from sources!
 Name: CopyLinkDeb
 Author: Tools4cydia
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.tools4cydia.copylinkdeb
 Architecture: iphoneos-arm64e
@@ -6430,6 +6613,7 @@ SHA512: f1159697be8876a21646b5b6af2523793545eaf88761dde7c0b7f8488ec47df527cf41ab
 Description: تحميل ونسخ روابط ديب من سورسات Download deb files from sources!
 Name: CopyLinkDeb
 Author: Tools4cydia
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.tools4cydia.packages4
 Architecture: iphoneos-arm64e
@@ -6446,6 +6630,7 @@ SHA512: 48388ee853010da6f5bcbea3a31c0cd12b6bbfbc2d6138058a18dac460ee4fc1050bfcf5
 Description: اظهار تفاصيل ديب وانشاء ملفات packages و bz2 وgz بسهوله !
 Name: packages4
 Author: tools4cydia
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.udevs.dockx
 Architecture: iphoneos-arm64
@@ -6503,6 +6688,7 @@ SHA512: 263f96ee83873147fb8447a427f31a4dbdba10b86d54a4f0c29de30863a3e139e1843a53
 Description: Remove settings notification badge!
 Name: NoSettingsBadge
 Author: Wes <wes.hamster@gmail.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.wrp1002.nosettingsbadge
 Architecture: iphoneos-arm64e
@@ -6521,6 +6707,7 @@ SHA512: 34c619a076184e687579c43ebab6939fa67a11063038913672aa4bcf17901879ba443660
 Description: Remove settings notification badge!
 Name: NoSettingsBadge
 Author: Wes <wes.hamster@gmail.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.xcxiao.bottomcontrolx
 Architecture: iphoneos-arm64e
@@ -6544,6 +6731,7 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bottomcont
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: XCXiao <958169971@qq.com>
 dev: xcxiao
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.xyaman.tako
 Architecture: iphoneos-arm64e
@@ -6581,6 +6769,7 @@ SHA512: 9d45cb2fe8774a34d3555f68a7eb4e0457a5020a7f9fc8be1114575a0c75fd0101f63940
 Description: new
 Name: Telegram || Unseen Message
 Author: yasxi <(null)>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.yourepo.0xkuj.storeswitcher2rootless
 Architecture: iphoneos-arm64e
@@ -6598,6 +6787,7 @@ SHA512: 68bed5280075538e2abe2bf697883dccf40e64861bcc33d936d4ac5b81076d9518ce242a
 Description: Adds a button to switch account in App Store account page on iOS 11+.
 Name: StoreSwitcher 2 (rootless)
 Author: 0xkuj <0xkujz@gmail.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.yourepo.b4db1r3r3p0.oleddarkmode
 Architecture: iphoneos-arm64e
@@ -6615,6 +6805,7 @@ SHA512: f2d19d5810103189e1a0b9719d0c7e236955765cabd1bee3618be361188cc21ec8dd7580
 Description: Make dark mode actual dark.
 Name: OLED Dark Mode
 Author: @fr0st & b4db1r3 <nfive060@gmail.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.yourepo.cydiageek.twitterlabelback
 Architecture: iphoneos-arm64e
@@ -6632,6 +6823,7 @@ SHA512: 496cc77296a0b5e61e5810383e54e9615b833bc3bb02ab9076066d4417c6170a91c27f1e
 Description: Bring Back Old Twitter Label Name!
 Name: TwitterLabelBack
 Author: CydiaGeek <lucaluca86@aol.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.yourepo.cydiageek.wiredock
 Architecture: iphoneos-arm64e
@@ -6649,6 +6841,7 @@ SHA512: 4c6860450905973e8d6ed8fc98b29aeb252312bcf1c5d2031d6d51c5537cda1c1c94d79f
 Description: Turns the dock into a customizable outline
 Name: WireDock
 Author: Christian Kosman & CydiaGeek <lucaluca86@aol.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.yourepo.ibreak.hideseparator
 Architecture: iphoneos-arm64
@@ -6665,6 +6858,7 @@ SHA512: 04cdb22e7643530a95c44b46fcf7cbb3f2fad8c8898a10288c094a7133a15fc81527f5f5
 Description: Hide separators system-wide  (including third-party Apps)
 Name: Hide Separator
 Author: iBreak <ibreak2019@qq.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.yourepo.ibreak.hideseparator
 Architecture: iphoneos-arm64e
@@ -6681,6 +6875,7 @@ SHA512: 803a1971e8a2c557909f3ae0fbe4df512852cb69fe65df8f3afc3a1f45c00b0cc8737447
 Description: Hide separators system-wide  (including third-party Apps)
 Name: Hide Separator
 Author: iBreak <ibreak2019@qq.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.yourepo.ibreak.nobigtitles
 Architecture: iphoneos-arm64e
@@ -6697,6 +6892,7 @@ SHA512: 067ad764820389ae061d06586af28c13c3663e9bd1bc2bc3783ed9c91479d61a33fc97d7
 Description: no bigtitles
 Name: No Bigtitles
 Author: iBreak <ibreak2019@qq.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.zqbb.limitcharging
 Architecture: iphoneos-arm64
@@ -6718,6 +6914,7 @@ Description: Hello Charging (限制充电)
 Name: Hello Charging
 Author: zqbb
 SileoDepiction: https://rootless.002599.xyz/web/com.zqbb.limitcharging
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.zqbb.limitcharging
 Architecture: iphoneos-arm64e
@@ -6739,6 +6936,7 @@ Description: Hello Charging (限制充电)
 Name: Hello Charging
 Author: zqbb
 SileoDepiction: https://rootless.002599.xyz/web/com.zqbb.limitcharging
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: com.zqbb.limitcharging
 Architecture: iphoneos-arm64e
@@ -6781,6 +6979,7 @@ SHA512: 6cf628b16f8fa57ddb5a89f8113f91c2612e47e9c198783e2c1fa1a27ded31519444a118
 Description: Allow installing unsigned profiles with the ability to write global defaults.
 Name: TrustEvaluator
 Author: daniel
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: daniel.trustevaluator
 Architecture: iphoneos-arm64e
@@ -6798,6 +6997,7 @@ SHA512: 4e12b59e17f6a0ddc961a8756285aacf1eed1fca7bb13f5ed53ba97eb4166e04c6f11f66
 Description: Allow installing unsigned profiles with the ability to write global defaults.
 Name: TrustEvaluator
 Author: daniel
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: dev.objcmsgsend.iota.ar
 Architecture: iphoneos-arm64
@@ -6816,6 +7016,7 @@ SHA512: 9365f50a363c9dd7fe8b9828492f5435b4ad7768bf1431a114cdc9afccca15aa21bc0712
 Description: A great Snapchat tweak 🥀.
 Name: iota ar
 Author: objc_msgSend
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: dev.objcmsgsend.iota
 Architecture: iphoneos-arm64
@@ -6834,6 +7035,7 @@ SHA512: d6478d065bbe6a624bb0139ea9c06ed56dbcb2006fc1217de51771ecef89d582fdaa9896
 Description: A great Snapchat tweak 🥀.
 Name: iota
 Author: objc_msgSend
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: dev.objcmsgsend.theta
 Architecture: iphoneos-arm64
@@ -6850,6 +7052,7 @@ SHA512: abbb2f998c22416e2e7762a61864c929e5fe790352b7b0e0dcac6f916d4499e49b4a4695
 Description: An awesome tweak for Instagram!
 Name: Theta
 Author: objc_msgSend
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: dev.objcmsgsend.theta
 Architecture: iphoneos-arm64e
@@ -6866,6 +7069,7 @@ SHA512: d3e247acb991ee230750bb90b251988e040b9f106f91191da6902ab2da2a7053a8ef715d
 Description: An awesome tweak for Instagram!
 Name: Theta
 Author: objc_msgSend
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: dev.traurige.eneko
 Architecture: iphoneos-arm64
@@ -6884,6 +7088,7 @@ SHA512: c24970a6d5b90bb83d591dbd2bb08d191efb25150bb3db321042ea720b7e33ea8d45075d
 Description: Live wallpapers for iOS
 Name: Eneko
 Author: Traurige <hello@traurige.dev>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: dev.traurige.eneko
 Architecture: iphoneos-arm64e
@@ -6903,6 +7108,7 @@ SHA512: c39cd8a15065ce59a08e651aec18e6d7af032b079f22a3eeab8ad9664e1851c9096c880f
 Description: Live wallpapers for iOS
 Name: Eneko
 Author: Traurige <hello@traurige.dev>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: dev.traurige.libkitten
 Architecture: iphoneos-arm64e
@@ -6924,6 +7130,7 @@ Description: Collection of image and color calculations
 Tag: role::developer
 Name: libKitten
 Author: Traurige <hello@traurige.dev>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: dev.traurige.liddell
 Architecture: iphoneos-arm64e
@@ -6943,6 +7150,7 @@ SHA512: 5fa22af2f27cdd4ee5297123039ee9695d7621580f77bc666979618a7b1bfc0b1676785e
 Description: Little and colorful notification banners
 Name: Liddell
 Author: Traurige <hello@traurige.dev>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: dev.zero.wicked
 Architecture: iphoneos-arm64
@@ -7000,6 +7208,7 @@ SHA512: b2d51ca6a2457d5b72e7f180b5918def9404f5bf2e39282fa17691057cf10ac5bbcab4bc
 Description: Scramble the passcode view on your lockscreen!
 Name: Rode
 Author: rootfs
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: jp.dcsyhi.adkeyboard
 Architecture: iphoneos-arm64e
@@ -7018,6 +7227,7 @@ SHA512: 3a7f46939cc22ccc4010a77e4c5269b866558dd0d423e1db0bde7920d5bd0169b30f2a40
 Description: Make keyboard color adaptive to app color.
 Name: ADKeyboard
 Author: Dcsyhi
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: jp.dcsyhi.kbappdock
 Architecture: iphoneos-arm64
@@ -7036,6 +7246,7 @@ Description: You can arrange apps on the dock of keyboard ⌨️.
 Name: KBApp
 Author: Dcsyhi
 icon: https://dcsyhi1998.github.io/icons/kbappdock/icon@2x.png
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: jp.dcsyhi.kbappdock
 Architecture: iphoneos-arm64e
@@ -7055,6 +7266,7 @@ Description: You can arrange apps on the dock of keyboard ⌨️.
 Name: KBApp
 Author: Dcsyhi
 icon: https://dcsyhi1998.github.io/icons/kbappdock/icon@2x.png
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: jp.dcsyhi.zetsu
 Architecture: iphoneos-arm64e
@@ -7113,6 +7325,7 @@ SHA512: f282d863033cf36822fdbd4076b298e25d3bd5b6fdd62b146cdcc8e59d6128d75ba3e7cb
 Description: Enable return on DeepSeek iOS app
 Name: EnableDSReturn
 Author: uz.ra
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: kr.xsf1re.vnodebypass
 Architecture: iphoneos-arm64
@@ -7150,6 +7363,7 @@ Description: A simple color picker implementation.
 Tag: role::developer
 Name: libskittycolor
 Author: Skitty
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: libskittycolor
 Architecture: iphoneos-arm64e
@@ -7168,6 +7382,7 @@ Description: A simple color picker implementation.
 Tag: role::developer
 Name: libskittycolor
 Author: Skitty
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: lol.itsnebula.modernos
 Architecture: iphoneos-arm64e
@@ -7183,6 +7398,7 @@ SHA512: a9bdcaef7ac22b12c5a618a227743b6eb5ee4c2c27127d5b7816c3739a2abc55aae240c5
 Description: Colorful, happy, modern.
 Name: modernOS
 Author: Nebula
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: me.ahmedbafkir.dleasy
 Architecture: iphoneos-arm64e
@@ -7355,6 +7571,7 @@ Name: Arres
 Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.arres
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.arres/depiction.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: me.luki.iwanttranslucent
 Architecture: iphoneos-arm64e
@@ -7437,6 +7654,7 @@ SHA512: 6ae6fd5b0dabc2c3878414e3a77448d3221380d5d373577d2536cbdac48725c7f50ba018
 Description: Clipboard history manager for iOS!
 Name: CopyLog
 Author: TomT000
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: mterminal
 Architecture: iphoneos-arm64
@@ -7493,6 +7711,7 @@ SHA512: d9bbc274a91a0eaccbdae0933bb281849c5567c31d39006f6e7afc6a9efc3bf9aa567ef3
 Description: An awesome ACInsta tweak!
 Name: ACInsta
 Author: aJBboCydia
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: net.ajbbo.acjodel
 Architecture: iphoneos-arm64e
@@ -7510,6 +7729,7 @@ SHA512: baa36bb9d781431f0a3e921aef75cb11c33ef78384991cc605af84da6516f1534add86c0
 Description: An awesome MobileSubstrate tweak!
 Name: ACJodel
 Author: aJBboCydia
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: net.ajbbo.actiktok
 Architecture: iphoneos-arm64e
@@ -7527,6 +7747,7 @@ SHA512: af6883c4260a487152d282e39464ce703eb1ff4a40c1ea785a9ca56518dd415e0f45f9f7
 Description: An awesome ACTikTok tweak!
 Name: ACTikTok
 Author: aJBboCydia
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: net.ajbbo.disableshareplay
 Architecture: iphoneos-arm64e
@@ -7545,6 +7766,7 @@ SHA512: ba351ff5126035ce6c8fd13cccb1ee0c2ca08c311df89a53b4569ab742e97c411cb8f3b4
 Description: An awesome MobileSubstrate tweak!
 Name: disableSharePlay
 Author: aJBboCydia
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: net.cadoth.nosbreload
 Architecture: iphoneos-arm64
@@ -7563,6 +7785,7 @@ Name: NoSBReload
 Depiction: https://repo.alexia.lol/depictions/net.cadoth.nosbreload
 SileoDepiction: https://repo.alexia.lol/sileo-depictions/net.cadoth.nosbreload
 Author: alexia <me@alexia.lol>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: net.cadoth.nosbreload
 Architecture: iphoneos-arm64e
@@ -7582,6 +7805,7 @@ Name: NoSBReload
 Depiction: https://repo.alexia.lol/depictions/net.cadoth.nosbreload
 SileoDepiction: https://repo.alexia.lol/sileo-depictions/net.cadoth.nosbreload
 Author: alexia <me@alexia.lol>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: netskao.appdata-rootless
 Architecture: iphoneos-arm64
@@ -7599,6 +7823,7 @@ SHA512: 175b4eb894dc9b737750a5296dbb7c12101a7037a1689032d39240ae04050bafcc18205e
 Description: View & Manage Applications Data from your Home Screen & downgrade
 Author: Fouad Raheb
 Name: AppData-Rootless
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: netskao.appdata-rootless
 Architecture: iphoneos-arm64e
@@ -7617,6 +7842,7 @@ SHA512: e69379774db7554f26151023a5db7161b495bce1a3332d691aa5db27f3f657d0fa0dc32a
 Description: View & Manage Applications Data from your Home Screen & downgrade
 Author: Fouad Raheb
 Name: AppData-Rootless
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: one.keycap.freepip
 Architecture: iphoneos-arm64
@@ -7635,6 +7861,7 @@ Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Pict
 Name: FreePIP
 Author: Soh Satoh
 SileoDepiction: https://repo.keycap.one/depictions/one.keycap.freepip.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: one.keycap.freepip
 Architecture: iphoneos-arm64e
@@ -7654,6 +7881,7 @@ Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Pict
 Name: FreePIP
 Author: Soh Satoh
 SileoDepiction: https://repo.keycap.one/depictions/one.keycap.freepip.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: org.haxi0.derootifier
 Architecture: iphoneos-arm64
@@ -7811,6 +8039,7 @@ Description: First made by iPadkid358 - then updated by myself. Change Flex 3 pa
 Name: Flex To Theos
 Depiction: https://Randy-420.GitHub.io/depic/ftt.html
 Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: ru.rj.ftt
 Architecture: iphoneos-arm64e
@@ -7834,6 +8063,7 @@ Description: First made by iPadkid358 - then updated by myself. Change Flex 3 pa
 Name: Flex To Theos
 Depiction: https://Randy-420.GitHub.io/depic/ftt.html
 Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: sa.ipapplus.autorepomanager
 Architecture: iphoneos-arm
@@ -8167,6 +8397,7 @@ Description: System information in Settings app > General > About, and other sec
 Name: System Info
 Depiction: https://arx8x.github.io/depictions/systeminfo.html
 Author: ARX8x
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: xyz.xninja.systeminfo
 Architecture: iphoneos-arm64e
@@ -8185,6 +8416,7 @@ Description: System information in Settings app > General > About, and other sec
 Name: System Info
 Depiction: https://arx8x.github.io/depictions/systeminfo.html
 Author: ARX8x
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: zp.cocoatop64.unject
 Architecture: iphoneos-arm64
@@ -8207,6 +8439,7 @@ Description: Process Viewer for iOS GUI,适配rootless并增加一些小功能.
 Name: CocoaTop64.zp
 Author: Domo, SXX , zp
 SileoDepiction: https://rootless.002599.xyz/web/zp.cocoatop64.unject
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: zp.cocoatop64.unject
 Architecture: iphoneos-arm64e
@@ -8230,6 +8463,7 @@ Description: Process Viewer for iOS GUI,适配rootless并增加一些小功能.
 Name: CocoaTop64.zp
 Author: Domo, SXX , zp
 SileoDepiction: https://rootless.002599.xyz/web/zp.cocoatop64.unject
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: zp.stopautolaunchapps
 Architecture: iphoneos-arm64
@@ -8248,6 +8482,7 @@ Description: Stop Auto Launch Apps
 Author: zqbb
 Name: StopAutoLaunchApps
 SileoDepiction: https://siieo.github.io/sileodepictions/StopAutoLaunchApps/StopAutoLaunchApps.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
 Package: zp.stopautolaunchapps
 Architecture: iphoneos-arm64e
@@ -8267,4 +8502,5 @@ Description: Stop Auto Launch Apps
 Author: zqbb
 Name: StopAutoLaunchApps
 SileoDepiction: https://siieo.github.io/sileodepictions/StopAutoLaunchApps/StopAutoLaunchApps.json
+Icon: https://i.imgur.com/hLWJ8OL.jpeg
 
