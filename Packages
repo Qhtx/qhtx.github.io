@@ -437,6 +437,38 @@ Description: Safari Essential Features
 Name: SafariX
 Author: 0xkuj
 
+Package: com.34306.messed
+Architecture: iphoneos-arm64
+Version: 3.2
+Maintainer: Little 34306
+Installed-Size: 2488
+Depends: mobilesubstrate
+Filename: ./debs//com.34306.messed_3.2_iphoneos-arm64.deb
+Size: 308140
+MD5sum: b0ad3c912f79badc944d60d88e5f8b6d
+SHA1: 6f84b14ceefac17ebe80103572fe26d89c60d287
+SHA256: 9867c721c8d9320f3674aaf2b3dff476ef98acd5a9a2afe633beb7cce9665b44
+SHA512: 089cd80139d7f745aa9da15ba0ccfb3e8c306070b190d584b4d9bd711e5ba3749ca7ca904a5776689e4062d62cc4bcd7d3f117c0fd74b8f2144e90c0431b90d6
+Description: Messed, Messenger with No Ads and No seen.
+Name: Messed
+Author: 34306
+
+Package: com.34306.messed
+Architecture: iphoneos-arm64e
+Version: 3.2
+Maintainer: Little 34306
+Installed-Size: 2488
+Depends: mobilesubstrate
+Filename: ./debs//com.34306.messed_3.2_iphoneos-arm64e.deb
+Size: 308498
+MD5sum: 3e43e9d7125ce99562a7a7dcb04b77cf
+SHA1: c7ea3cf312fec8df5c5cb108aff6b0e21d382cdc
+SHA256: 2f3ca55c863bcd7c6e8c1dc0b51cab403403224df3a5d9ad74c3c978ebfcd637
+SHA512: 3ca261ebe7f2f9ae0bd6a74b797b8e8880039c10d710eb90de76d0d4cebd89a02cf3c4f7d0dabf61bffa7c2fcc08804159724ef33431688cd55b977079ac4711
+Description: Messed, Messenger with No Ads and No seen.
+Name: Messed
+Author: 34306
+
 Package: com.34306.replaced
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -462,11 +494,11 @@ Maintainer: Little 34306
 Installed-Size: 152
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: ./debs//com.34306.replaced_1.0_iphoneos-arm64e.deb
-Size: 3152
-MD5sum: 25623d181915625b851446658cd510eb
-SHA1: 2b2d7a8f8b75c7fb11c24a26a544140a4962df41
-SHA256: 2d8a29c5cf5f6ff24f2e0ebce932eff5e270ecb13342be31d8205b81f437e913
-SHA512: 7f3967a5759a9401aaa2af8617c6cead8e910ae8c1cc9d6d6d8e08cdc86df73dc8b7a9ec996496006678cbf64f351e0f4e6c82ae7744054505f1a10356147ff2
+Size: 3052
+MD5sum: dc06e77e6126d9a06d31e7ad4ddb6485
+SHA1: 1f4c5e1d8a05eb3a12a6c64299491745244c2f6f
+SHA256: 622ef01822fad1e6f4ab57cf99045aaff607e26fb8413165d8437644bb0192d0
+SHA512: 61a96a39fe0aae6f1944bb509f30508acb51d8e94d071398a34ee2e18b22f9cffb52c578271098ca7416b9b823f66537c20926cc677fbc31ce67c27750aa2dda
 Description: Remove the notification that the P
 Name: replaced
 Author: 34306
@@ -3331,6 +3363,29 @@ Depiction: https://cydia.ichitaso.com/depiction/hidekbsettings.html
 dev: ichitaso
 Icon: https://raw.githubusercontent.com/ichitaso/HideKBSettings/master/Preferences/Resources/icon%403x.png
 
+Package: com.ichitaso.hidekbsettings
+Architecture: iphoneos-arm64e
+Version: 1.0.6
+Section: Tweaks
+Maintainer: ichitaso
+Installed-Size: 428
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs//com.ichitaso.hidekbsettings_1.0.6_iphoneos-arm64e.deb
+Size: 47366
+MD5sum: dd5616f9b238ff7f2108bb2e2d03714b
+SHA1: d8ec8f5eeb3d358a700658d9510c078922134f03
+SHA256: c44bc6b88bc362a44e9f1e84357aa30f7bd24fa24ce87f5035fede5424f9f673
+SHA512: bd7f221b3ccbe249dcedeeaa2d86ff627e3e54e5c08c163c287dde265ac6b36449b50e47f9f52f491a7ac556a3a58d4df726edd8156921480467e5d56bbd0abe
+Homepage: https://ichitaso.com/
+Description: Hide "Keyboard Settings" from the globe button switcher
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.3.1
+Author: ichitaso <willfeeltips+hks@gmail.com>
+Name: HideKBSettings (iOS 11 to 16)
+Depiction: https://cydia.ichitaso.com/depiction/hidekbsettings.html
+dev: ichitaso
+Icon: https://raw.githubusercontent.com/ichitaso/HideKBSettings/master/Preferences/Resources/icon%403x.png
+
 Package: com.ichitaso.hideserialnumber
 Architecture: iphoneos-arm64
 Version: 0.0.4
@@ -3416,6 +3471,28 @@ MD5sum: 6be45a897dc6d1a275c9ed0c0fc32329
 SHA1: 28e10242affc37852e3eac34bca1439f81ca6653
 SHA256: 3052aefd5a41dcfa3f77433508ae0f7ced87607e6d01517f512cb6195239dea5
 SHA512: 15599c3585881e33651a968a163932e89da88ddf9ab7bb6886eb4644a366a0506062c1eb16d5c27d42d8ddd36538504c8f74cf28d3a6bb41a6d8f35d5e8f9f3f
+Homepage: https://ichitaso.com
+Description: Disable OTA and remove badges on home screen, etc.
+Name: OTADisabler
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/otadisabler.json
+Icon: https://raw.githubusercontent.com/ichitaso/OTADisabler-App/main/OTADisabler/Icon-60%403x.png
+
+Package: com.ichitaso.otadisabler
+Architecture: iphoneos-arm64e
+Version: 0.6
+Section: System
+Maintainer: ichitaso
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs//com.ichitaso.otadisabler_0.6_iphoneos-arm64e.deb
+Size: 65694
+MD5sum: 0601b382f20c943a173417c0d2845c29
+SHA1: 6634560744189aad0bbf1b9ff0ffd9d244a3abfd
+SHA256: fda38562bc2d6110f0a6947312073c6a698d523c645025eb8e6f456c612e339d
+SHA512: 40e8038650a390c785ef7016a9fc3a78adee948e599b8145656c2e7a7cba519186534d97cdd2f1932a5965bd5077bb1b1287b4efe4f7666adcc4e05f0e3f9786
 Homepage: https://ichitaso.com
 Description: Disable OTA and remove badges on home screen, etc.
 Name: OTADisabler
@@ -4213,6 +4290,84 @@ SHA512: 9ca80211d8c6a029cb03531899639a294522b7b7a4dff77d4a5387248d3eb611b5ead6b9
 Description: iOS 16 Style Battery Indicator
 Name: Ampere
 Author: MTAC
+
+Package: com.mtac.ccpowermenu
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Control Center (Modules)
+Maintainer: MTAC
+Installed-Size: 356
+Depends: com.opa334.ccsupport
+Filename: ./debs//com.mtac.ccpowermenu_1.0.2_iphoneos-arm64.deb
+Size: 31262
+MD5sum: 1baa5b46408bb3094fb50794c8dc8c79
+SHA1: 00017afaf4a6ac9148fdd30adcfe48f15834a182
+SHA256: eec3d9ac26af2989d3247c8101bcc39a278a57c03354758f7a806b8794a3208d
+SHA512: 33ee1865440a4014968cf1539b9d2453c31c9bb32c8fc68c5d2c4741e56dee0a50c3439cea00737a638fde4f63561af279aa26c6f5cdc81c6476d0ddcc9d0c46
+Description: Control device power options from Control Center
+Name: CCPowerMenu
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.ccpowermenu/icon-rounded.png
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.ccpowermenu.json
+
+Package: com.mtac.ccpowermenu
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Control Center (Modules)
+Maintainer: MTAC
+Installed-Size: 356
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: com.opa334.ccsupport
+Filename: ./debs//com.mtac.ccpowermenu_1.0.2_iphoneos-arm64e.deb
+Size: 38276
+MD5sum: 2ff38c9c307da759f899dbeab18ac568
+SHA1: ac01b9886207a167aa2cf3ff6d861d2d0f606170
+SHA256: 963f9199d1ceceab46fd0266f8f291782f4e97d381d6abeaaecb4c94f4605044
+SHA512: 34fe53aca08b193c2ce6568faf1875059804c4ef64eea1034a7063cd94404c449307775fb99c5ab8003602f410c1be21943bbf2107eac9bd98103d4db87718f3
+Description: Control device power options from Control Center
+Name: CCPowerMenu
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.ccpowermenu/icon-rounded.png
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.ccpowermenu.json
+
+Package: com.mtac.lynxapp
+Architecture: iphoneos-arm64
+Version: 2.1
+Section: Utilities
+Maintainer: MTAC
+Installed-Size: 804
+Depends: com.mtac.lynxtwo
+Filename: ./debs//com.mtac.lynxapp_2.1_iphoneos-arm64.deb
+Size: 559446
+MD5sum: 522978a22526535da103fa52ef5ee93b
+SHA1: ab0f07a97c59785d9c182341e28e4d7c65960261
+SHA256: 95cb16673259007d5bf742d501a1d8ca7b1745552d10a96949c7085540930b7d
+SHA512: 92a5aff68dedb6ccdfc122c65f2773f31a938a2de035862e23fc76c3c0003d4afa289f787562555a7d12ed1ef19cfd8cc4f6c43d8fda79400b906d59ec5912d5
+Description: Homescreen Application for Lynx
+Name: Lynx Application
+Author: MTAC
+Icon: file:///Applications/Lynx.app/icon.png
+Depiction: https://mtac.app/repo/depiction/web/com.mtac.lynxapp.html
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.lynxapp.json
+
+Package: com.mtac.lynxtwo.localizations
+Architecture: iphoneos-arm64
+Version: 2.5
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 984
+Depends: com.mtac.lynxtwo
+Filename: ./debs//com.mtac.lynxtwo.localizations_2.5_iphoneos-arm64.deb
+Size: 114052
+MD5sum: 3331857f9dfe8b5b5e7cbab436f8b94d
+SHA1: 29b1c0e7eb6f3f1781e7a1717dce4b326d45f9d1
+SHA256: 4e6c688ec741933c47d7375b463e25f375b556adb041d13b03292f30d8456b4b
+SHA512: f5ef6c28ffb4a492a77ecb695c8be0062bbdc69b1e6b84735971313337391de74748f0614696d0a5266c0649c58b9df4db749444cd356716af70b9c68409a789
+Description: Localization support for Lynx 2
+Name: Lynx 2 Localizations
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.lynxtwo.localizations/icon-rounded.png
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.lynxtwo.localizations.json
 
 Package: com.mtac.prefs.localizer
 Architecture: iphoneos-arm64
@@ -5022,35 +5177,17 @@ SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/githubweblegacy
 
 Package: com.ps.highgraphics
 Architecture: iphoneos-arm64
-Version: 1.1.0
+Version: 1.1.1
 Section: Tweaks
 Maintainer: PoomSmart
-Installed-Size: 152
+Installed-Size: 168
 Depends: mobilesubstrate, firmware (>= 7.0)
-Filename: ./debs//com.ps.highgraphics_1.1.0_iphoneos-arm64.deb
-Size: 4222
-MD5sum: 750a6ca53d714a8e456797071a6d580a
-SHA1: fe9ef05fbd713187d184c09720a0bf58c8e1312e
-SHA256: 6dba3ab16ed0d5ac658d84f28f106bea88fd418dd4efdee435f01de9d3dca14b
-SHA512: 7aa5d7d9825b62f37c03ae4ec421da377bbbe2c0758fb29498d59fa2c3dd3724cc4ea91bc7f20cd3cd984bd4a38be2a0f0569e1b3b7f6f04170d67b8519b2ba0
-Description: Best UIKit graphics for older devices.
-Name: HighGraphics
-Author: PoomSmart
-
-Package: com.ps.highgraphics
-Architecture: iphoneos-arm64e
-Version: 1.1.0
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 152
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 7.0)
-Filename: ./debs//com.ps.highgraphics_1.1.0_iphoneos-arm64e.deb
-Size: 5796
-MD5sum: ed1e2c8b88cf0674baf9240f24d07482
-SHA1: 4e769670c06f5e500f0e6a06345a236df4e72e7e
-SHA256: 5dd6edac09de0961faba5d67dfd2dddb412b578025a77fb8311efb9ff7719fb1
-SHA512: 6ed97e2e6ca11719c5de9fc6a8f663629502022645cedf3448ebf570361f26269b60d706114228455092f5d80617440a4255647e593359fccf61e646bc8de541
+Filename: ./debs//com.ps.highgraphics_1.1.1_iphoneos-arm64.deb
+Size: 3998
+MD5sum: 4c72b5bf0c0cf6b0d0d5ec487b025673
+SHA1: b0b4fbdaf4b0702bd807a2de870c22136a74f428
+SHA256: 2c8d1c07e79888e8bdf88919bbe0e53ec45b97fbd5921baca52d1778f16b44f8
+SHA512: 7a27475bb215b7e443b9060e32990f8539b14bc42007a88591c1bbf46454579b00380096a8bf0231b540c605081b4a6ceef6b43c41fbf25373c69457e646a281
 Description: Best UIKit graphics for older devices.
 Name: HighGraphics
 Author: PoomSmart
@@ -5173,27 +5310,6 @@ SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/letmeblock.json
 
 Package: com.ps.recordpause
 Architecture: iphoneos-arm64e
-Version: 2.0.3
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 168
-Provides: org.thebigboss.recordpause, com.spicat.recordpause
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
-Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
-Replaces: org.thebigboss.recordpause, com.spicat.recordpause
-Filename: ./debs//com.ps.recordpause_2.0.3_iphoneos-arm64e.deb
-Size: 9824
-MD5sum: 298afc65b8ad689be8af34423d2a8271
-SHA1: 7674bb51495feee4d6ef7cd09aa9216ddc4e6a6a
-SHA256: 3f627ac1ce5c6190dd24a7bd5b2963ac72691983ce6afba4cf2a777229552a28
-SHA512: 6283a2aebbd82335deaae3794f302e137180f21b7340bbdcd1c25f470e92fe797f91c47b2c15048695dbb88e421bee8b2f5bd4442b296c2c26119be2a8dbfd5b
-Description: Pause/resume video recording in iOS Camera app.
-Name: RecordPause
-Author: PoomSmart
-
-Package: com.ps.recordpause
-Architecture: iphoneos-arm64e
 Version: 2.0.4
 Section: Tweaks
 Maintainer: PoomSmart
@@ -5254,26 +5370,6 @@ SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/replaykitmax.js
 
 Package: com.ps.yougroupsettings
 Architecture: iphoneos-arm64e
-Version: 1.0.1
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 80
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Filename: ./debs//com.ps.yougroupsettings_1.0.1_iphoneos-arm64e.deb
-Size: 5160
-MD5sum: 270ffdd2fa8ead8ba67575ba0020dfa8
-SHA1: 7bf66d73b33ba07d64f0cc1967c47d56ee849fdc
-SHA256: 5aa6892c03d6e61b194a3129fa1b9c5d83e751cefb5c6c4d5c004119b8a00f49
-SHA512: 3dc15b9aa4332117e069ef4ab70507e66aaca7d997f7280126ff752e6bf32c5b07836b915b2900d23e684a4de880f8569145bedd8f047844e4fd51aa96b5caaa
-Description: Allow tweak-made settings to be grouped and displayed in iOS YouTube app.
-Name: YouGroupSettings
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/yougroupsettings.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/yougroupsettings.json
-
-Package: com.ps.yougroupsettings
-Architecture: iphoneos-arm64e
 Version: 1.0.3
 Section: Tweaks
 Maintainer: PoomSmart <unicorn03.glimmer@icloud.com>
@@ -5293,198 +5389,6 @@ Name: YouGroupSettings
 Icon: https://img.chariz.cloud/icon/yougroupsettings/icon@3x.png
 Depiction: https://chariz.com/get/yougroupsettings
 
-Package: com.ps.youpip
-Architecture: iphoneos-arm64e
-Version: 1.10.1
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 196
-Provides: com.spicat.youpip
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
-Conflicts: com.spicat.youpip
-Replaces: com.spicat.youpip
-Filename: ./debs//com.ps.youpip_1.10.1_iphoneos-arm64e.deb
-Size: 24816
-MD5sum: f5191c55a660b4ed720fcf86a6a28aed
-SHA1: bf3d1ebbeb83af06c752520826089623f0d04a04
-SHA256: c79cf2096f1fc549f8fa247581173956e6485240a7d2406d4a2eba46dbe24021
-SHA512: fd3fb42c6bce254d259372909b38ca38db0a5a00e2fa3a2113acf8f81180c81fa6e61a248f5100bf517e7507004917e00dc45ac197ba1f41f403d5441633a7fe
-Description: Enable native PiP in iOS YouTube app.
-Name: YouPiP
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/youpip.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youpip.json
-
-Package: com.ps.youpip
-Architecture: iphoneos-arm64e
-Version: 1.12.1
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 212
-Provides: com.spicat.youpip
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
-Conflicts: com.spicat.youpip
-Replaces: com.spicat.youpip
-Filename: ./debs//com.ps.youpip_1.12.1_iphoneos-arm64e.deb
-Size: 26412
-MD5sum: 74f51e5ab415a1f9a5d3e5113bdc4c9f
-SHA1: e33890cb0fb8fef1aaa734d457017c5f8bb7def8
-SHA256: 7d6bdba67a3bfcfb3e8b6d0d4da316cfa318388b589f80e2b6cb7a3358e7682b
-SHA512: 7e58dd3308fa832d8ce157f52632b69cb80fea7ea1e9611a0aca173015366e761466479613fdff2bcce3b01729f4d8ace06e98a15816b02086b16ed77dd633f0
-Description: Enable native PiP in iOS YouTube app.
-Name: YouPiP
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/youpip.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youpip.json
-
-Package: com.ps.youpip
-Architecture: iphoneos-arm64e
-Version: 1.12.3
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 212
-Provides: com.spicat.youpip
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
-Conflicts: com.spicat.youpip
-Replaces: com.spicat.youpip
-Filename: ./debs//com.ps.youpip_1.12.3_iphoneos-arm64e.deb
-Size: 26284
-MD5sum: 78c02a52d189ded8c4feb7bbf44037dc
-SHA1: 37e882b11f0f804b5fa8ff604b481171a31284c4
-SHA256: 2a4af9759b6d9d2abccae86b1796e6490b6edd9716c862bf518cacb071fe62df
-SHA512: 5ba8cd896589ce8d1c4b5a39fc6426c5e5b9d36699cd39418269f836f43732158df304d6edd61bdc891d86b73d12d532e362be62499eb1da27cf23b158819dd9
-Description: Enable native PiP in iOS YouTube app.
-Name: YouPiP
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/youpip.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youpip.json
-
-Package: com.ps.youpip
-Architecture: iphoneos-arm64e
-Version: 1.8.19
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 192
-Provides: com.spicat.youpip
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
-Conflicts: com.spicat.youpip
-Replaces: com.spicat.youpip
-Filename: ./debs//com.ps.youpip_1.8.19_iphoneos-arm64e.deb
-Size: 26228
-MD5sum: 14e1ced8b15ac8d0fefd6fb5fc2d18c5
-SHA1: 9eeebec5555970c73fc0f73eb88d1059cb301296
-SHA256: 1468abd3b8f43ac5505d48d6e3c07969e1e68872a4706db28ed1ac1c0442a1e3
-SHA512: 7ab1800a21ace95fef38044d7de96a80ceb1604c730f865944e0edd2b9189dfc17fa9075485642bf770e72ede525e923cf4a1ec28052488e84bd64894b02e72e
-Description: Enable native PiP in iOS YouTube app.
-Name: YouPiP
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/youpip.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youpip.json
-
-Package: com.ps.youquality
-Architecture: iphoneos-arm64e
-Version: 1.2.1
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 120
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytvideooverlay (>= 1.2.0)
-Filename: ./debs//com.ps.youquality_1.2.1_iphoneos-arm64e.deb
-Size: 7796
-MD5sum: 3654da6765517e36191f2358d43c34ba
-SHA1: 30c3c297517775bff292936a6f286333225114bd
-SHA256: 25fce58655fefcca4f0d1f1efb13849b3867982882fbac084b073d0a6675893b
-SHA512: a08325024257a9083496280806cdb4bee57a01261d95f992bd5b9310d77ad8284152b4247841d2149a2423e8dc487de177a031f49301c46e9a4757cfa31df13a
-Description: View/change video quality in YouTube faster.
-Name: YouQuality
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/youquality.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youquality.json
-
-Package: com.ps.youquality
-Architecture: iphoneos-arm64e
-Version: 1.2.2
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 100
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytvideooverlay (>= 1.2.5)
-Filename: ./debs//com.ps.youquality_1.2.2_iphoneos-arm64e.deb
-Size: 6964
-MD5sum: 044b24befb4fd029fdf064979d36f63a
-SHA1: d3e9baf52268b4696bb5360bdf35f39c3b51ae7c
-SHA256: 280d8412cf63d86780a6cf4cfaaf1def94a1a522cf012123336c00facbf23376
-SHA512: d79aa2a94ef7dc97fae2848e2148a0d775a8b517b89aa8b33a90cfbfd9813ff2a469a29648a5699e3bf4a1bf8783a46265d8a5088a2e94aecaa97815c54cdaa3
-Description: View/change video quality in iOS YouTube app faster.
-Name: YouQuality
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/youquality.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youquality.json
-
-Package: com.ps.youquality
-Architecture: iphoneos-arm64e
-Version: 1.3.1
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 104
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytvideooverlay (>= 2.0.0)
-Filename: ./debs//com.ps.youquality_1.3.1_iphoneos-arm64e.deb
-Size: 6704
-MD5sum: 112af4eda0a0df29a3bea2403a1f41b4
-SHA1: 95b001468c644187b9ca7c26ae8d72593c4d7ead
-SHA256: 62cbd072f02fca10311e5ceee7fb707ab9c7f4b57d50a5f54bdc7e552d1bbf1e
-SHA512: 91801ef85091eb325e3d75ddd29f2b0fddc11af91749f4c272c9ea194c14645e5d5881d730bae170035c12c6da8b9920dca9cf4da1aca069c753948a8b8f7386
-Description: View/change video quality in iOS YouTube app faster.
-Name: YouQuality
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/youquality.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youquality.json
-
-Package: com.ps.youquality
-Architecture: iphoneos-arm64e
-Version: 1.3.4
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 124
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytvideooverlay (>= 2.1.0)
-Filename: ./debs//com.ps.youquality_1.3.4_iphoneos-arm64e.deb
-Size: 6740
-MD5sum: 3a52890ac7de92ceff7a5d69dd58577f
-SHA1: 93b627c1c72a56ea39d9083d08eb1a9751d4ecdf
-SHA256: 03cdf8ae95d12e521b40baf398e57bd62801a90cd1150d839ebd55cf244e7372
-SHA512: 9b6418fe230277f38caefd6d670ebc1feb8774b8d8a6def68a90bdac91719c6c3e216b7278310db09e2c0e06dd778c380026e0c922136f73bb430f16889115f6
-Description: View/change video quality in iOS YouTube app faster.
-Name: YouQuality
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/youquality.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youquality.json
-
-Package: com.ps.youquality
-Architecture: iphoneos-arm64e
-Version: 1.3.5
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 124
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytvideooverlay (>= 2.1.1)
-Filename: ./debs//com.ps.youquality_1.3.5_iphoneos-arm64e.deb
-Size: 6780
-MD5sum: 5248d2d6f43d33e929a56e64d7e6db7e
-SHA1: 0b6282234c8b1877e0f3dcb89b5700772e69149d
-SHA256: 51bb4091cd56d6f43b7020f93e2d81397ee3d78af8bff668fe510afa5b74c7bd
-SHA512: 0b5e9327038d8987519f9811e36e14f51ca18434b1f3f36a7bf3eef72d68ce82b6efb1771caf5b261d6d20890f19baaa1ac7ef6996588c3080c6ef0de8c57949
-Description: View/change video quality in iOS YouTube app faster.
-Name: YouQuality
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/youquality.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youquality.json
-
 Package: com.ps.ytdarker
 Architecture: iphoneos-arm64e
 Version: 1.0.3
@@ -5502,166 +5406,6 @@ SHA512: 38dd66ea846ab4af514d48decc80595e478467dbdb38858487eaa8379b6b65e05fb31a04
 Description: Enable native darker dark mode on YouTube.
 Name: YTDarker
 Author: PoomSmart
-
-Package: com.ps.ytuhd
-Architecture: iphoneos-arm64e
-Version: 1.5.6
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 144
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Filename: ./debs//com.ps.ytuhd_1.5.6_iphoneos-arm64e.deb
-Size: 13784
-MD5sum: bec1c49015d09401a5559a6a485508c4
-SHA1: 6ff3bffb14f671c5217d6570fe485c85c244f1c7
-SHA256: 935a60c4c5f4e802306d81972b03016b3c185a54ad27ced27ef06deebb1f35ef
-SHA512: 04dfeeb329c009c10156162679dd5dc100e53cded6512524bdb07401873e37e52458df6bba679b739295b0c25ae3683c425d1d9e746c6b50a378446dd42a2337
-Description: Unlock 1440p and 2160p resolutions in iOS YouTube app.
-Name: YTUHD
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/ytuhd.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytuhd.json
-
-Package: com.ps.ytuhd
-Architecture: iphoneos-arm64e
-Version: 1.5.8
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 160
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Filename: ./debs//com.ps.ytuhd_1.5.8_iphoneos-arm64e.deb
-Size: 14616
-MD5sum: 43475875305bfdf359f7c9e66cd1e7a8
-SHA1: 7ebefa5f572a2e49ecf863e3c654cf245a145197
-SHA256: dc8e516f0c46d85a5a2988a7ccbda5e35dabd35db5912a69183211a5f8e3dc09
-SHA512: a11227afbf756ac7ac798f6dfcc58f29c5cdba2b2ed49fa84e7b34305a5467569e6dae654f45b5d672bc9866d321bbb8c75b4fac69bd9c25658eed5b53171f86
-Description: Unlock 1440p and 2160p resolutions in iOS YouTube app.
-Name: YTUHD
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/ytuhd.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytuhd.json
-
-Package: com.ps.ytuhd
-Architecture: iphoneos-arm64e
-Version: 1.5.9
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 160
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Filename: ./debs//com.ps.ytuhd_1.5.9_iphoneos-arm64e.deb
-Size: 13220
-MD5sum: c2e75530abfae5d1057943f44728bcd7
-SHA1: 5252307a53caab4c41b6fd23064238fcf0df286f
-SHA256: 32d2576919502d4770a8556ddbff9bd7868550df6cb50978b9c920f6e7f9bc16
-SHA512: 160cc382a2c1faa98f27e1175694489fdd68fb6a2ebe21f7239cebdf657174a30cd0c9004850d1300a16dcea9a51cb41b7e0e1e310f45070f0feefa348789e9b
-Description: Unlock 1440p and 2160p resolutions in iOS YouTube app.
-Name: YTUHD
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/ytuhd.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytuhd.json
-
-Package: com.ps.ytvideooverlay
-Architecture: iphoneos-arm64e
-Version: 1.2.2
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 120
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.yougroupsettings
-Filename: ./debs//com.ps.ytvideooverlay_1.2.2_iphoneos-arm64e.deb
-Size: 11012
-MD5sum: e44c6f4a943afa44479304226d9c335d
-SHA1: a052fb64534eb9d626b1bfdc5777b3c32f1db2a4
-SHA256: f957d085bbdcc5a9a47e460b0c3c4338d97e76a7077837d2a713a72e52f763fd
-SHA512: 410e40292a3dc2768eda16b27d7387eef2108b4974c9dd909a20a91a14bb203b4210ae30136d95637344ae7336861ee4cef3cd8738609ecd99df8f950fbf1f10
-Description: A helper tweak to add buttons on YouTube video overlay.
-Name: YTVideoOverlay
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/ytvideooverlay.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytvideooverlay.json
-
-Package: com.ps.ytvideooverlay
-Architecture: iphoneos-arm64e
-Version: 1.2.5
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 124
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Filename: ./debs//com.ps.ytvideooverlay_1.2.5_iphoneos-arm64e.deb
-Size: 11548
-MD5sum: 9d42ea27b02f24f2efd154e4ee82e34f
-SHA1: e3267b4ca10247c782dc016d2b5d882ce99754ef
-SHA256: cdd0261186a321cd7c8a81a636e00623c6cf02d57b0805c9d9a21c829508c9a6
-SHA512: 9d8882dc0d08b42b985b44b52c120bcbee7eb9c6dd3f57286b6080fa890e1d196d135cdc2c038ed2739e142f0648060504ff668c3baf4553bb950d1387970a35
-Description: A helper tweak to add buttons on YouTube video overlay.
-Name: YTVideoOverlay
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/ytvideooverlay.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytvideooverlay.json
-
-Package: com.ps.ytvideooverlay
-Architecture: iphoneos-arm64e
-Version: 2.0.0
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 128
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Filename: ./debs//com.ps.ytvideooverlay_2.0.0_iphoneos-arm64e.deb
-Size: 12916
-MD5sum: ca24aed2d55e4e8ef2ac893acef84e07
-SHA1: 212aeefa07bb989c751bcbff6454a1b914c28abb
-SHA256: 9a475a8a65d3dd0d8a6d747de09dad14c9b8dbea394ff2776484b8610ad85e93
-SHA512: b877bddb0626210788aab29b7fe27c252e646b183f4af38d839f3611be19e31210caeb4a657a56c64a3c0a22833abafcf38042e23f5d9f08f04bdd5ff3359c09
-Description: A helper tweak to add buttons on YouTube video overlay.
-Name: YTVideoOverlay
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/ytvideooverlay.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytvideooverlay.json
-
-Package: com.ps.ytvideooverlay
-Architecture: iphoneos-arm64e
-Version: 2.1.0
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 128
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Filename: ./debs//com.ps.ytvideooverlay_2.1.0_iphoneos-arm64e.deb
-Size: 14012
-MD5sum: 5474d2804d5ead174bff4bfa976effb5
-SHA1: 390cc2e598efdc4aba4d3869dabb149b11c908a3
-SHA256: 5ae022dc8418ec76fbb054d40c472d926e9902514e6a466ade87a5bc586e00ed
-SHA512: a78b5f2db060dca83edac89a7f0c57431ff4024f4d344818d89871448c8aa7ddfae557f00168263c45db42a990693741e0c6addb31c1ee1bd7f9104090282a70
-Description: A helper tweak to add buttons on YouTube video overlay.
-Name: YTVideoOverlay
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/ytvideooverlay.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytvideooverlay.json
-
-Package: com.ps.ytvideooverlay
-Architecture: iphoneos-arm64e
-Version: 2.1.1
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 144
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Filename: ./debs//com.ps.ytvideooverlay_2.1.1_iphoneos-arm64e.deb
-Size: 13900
-MD5sum: ee28dae71f7bfcc1549479e2031db454
-SHA1: edfc09880a8a1867c4b5d6339b0e0ba60fd66e69
-SHA256: cf68797d4bc227bfd58bd004997f7dabe6ee1917358f2d695e6197da92b11210
-SHA512: 251232d4f66af9a9bd604600ef21f7248fef8fb8c2bb374f42dd9a483dad9518971acdc7c0acb2eec7fd2a8e9e52e9e2111211908c1d2366aeceeb2873c53d49
-Description: A helper tweak to add buttons on YouTube video overlay.
-Name: YTVideoOverlay
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/ytvideooverlay.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytvideooverlay.json
 
 Package: com.randy420.tools
 Architecture: iphoneos-arm64
@@ -6772,6 +6516,46 @@ Description: اظهار تفاصيل ديب وانشاء ملفات packages و 
 Name: packages4
 Author: tools4cydia
 
+Package: com.udevs.dockx
+Architecture: iphoneos-arm64
+Version: 2.6.2
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 2068
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs//com.udevs.dockx_2.6.2_iphoneos-arm64.deb
+Size: 421324
+MD5sum: 8171e4c2e0c183339702549d8d922736
+SHA1: c13175b8cc7cab09bf930986b5fdee6eea999d02
+SHA256: a8030df0d19128ee6e010396327f5dcabe0d31885615fab9234580398f46b826
+SHA512: a93a52cd4e3cf1517253e95a97063eed49125b7ffa51852ca8a15173a17e9790cc7f648ff2a019b5cdcb11241cc90fd2b2a933772b932f3c44b0cd99b5106ef4
+Description: Pasteboard shortcuts on your keyboard dock!
+Name: DockX
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Architecture: iphoneos-arm64e
+Version: 2.6.2
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 2036
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs//com.udevs.dockx_2.6.2_iphoneos-arm64e.deb
+Size: 415820
+MD5sum: 0e3d9fc803df4ba22950b4b132ac1057
+SHA1: 81599710c26c51d79148c054c262f85253c2f96a
+SHA256: 17bbec40c6e8d06627c3d5cb1f2f875f31f80ef5a9e92d306dcd145d64d57f39
+SHA512: 4b772c8780c4cb3b954d08f5a592bb827c1177264cc652dcdd881b036dd5bfb1e3e60752dcbb1418c25b1e549bd55daf1ac99362262c7ab403270a1f666fdb9f
+Description: Pasteboard shortcuts on your keyboard dock!
+Name: DockX
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
 Package: com.wrp1002.nosettingsbadge
 Architecture: iphoneos-arm64
 Version: 1.1.0
@@ -7740,6 +7524,45 @@ Description: Clipboard history manager for iOS!
 Name: CopyLog
 Author: TomT000
 
+Package: mterminal
+Architecture: iphoneos-arm64
+Version: 1.6
+Section: Utilities
+Maintainer: D.F (MTAC) <mtac@mtac.app>
+Installed-Size: 272
+Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh
+Filename: ./debs//mterminal_1.6_iphoneos-arm64.deb
+Size: 86310
+MD5sum: 1673d3203408491ad97a3052e5dcbdca
+SHA1: bb40c2690b3bf6e8bc846f9369f84e2135fe4aa2
+SHA256: 5be580e8cffe4364091e0c56f35b55062a84baae6d2a4b82c556204553443ae8
+SHA512: 414e9d57b6759908026e3492416d946efa8c9902e8aff1d515f8ad34f65485987f865557466608e783df4ac0d473f256baeaee8253ebc9912d4afae15fe5a580
+Description: A MobileTerminal fork
+Name: MTerminal
+Author: lordscotland <admin@officialscheduler.com>
+Icon: https://mtac.app/repo/assets/com.officialscheduler.mterminal/icon-rounded.png
+SileoDepiction: https://mtac.app/repo/depiction/native/com.officialscheduler.mterminal.json
+
+Package: mterminal
+Architecture: iphoneos-arm64e
+Version: 1.6
+Section: Utilities
+Maintainer: D.F (MTAC) <mtac@mtac.app>
+Installed-Size: 272
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh
+Filename: ./debs//mterminal_1.6_iphoneos-arm64e.deb
+Size: 99886
+MD5sum: 738ace99c286f9e7e99d2584fc77662d
+SHA1: f1be8b2d3b05c3c0581725d5a6f4509f0efff20f
+SHA256: fd02238e0cde606023aa2d7110a95281fa11f3c0e633010e1eb7b3e8aa25cc0f
+SHA512: 6892e69af575bed23da1df29508091533a9853c8f14fb77762b52aa5aef783afe6edba7a98f0b7597b3e1c5adb940e33ba0796349a083ee34d145f45ddd4a8a4
+Description: A MobileTerminal fork
+Name: MTerminal
+Author: lordscotland <admin@officialscheduler.com>
+Icon: https://mtac.app/repo/assets/com.officialscheduler.mterminal/icon-rounded.png
+SileoDepiction: https://mtac.app/repo/depiction/native/com.officialscheduler.mterminal.json
+
 Package: net.ajbbo.acinsta
 Architecture: iphoneos-arm64e
 Version: 1.3
@@ -8551,6 +8374,25 @@ MD5sum: 7a53ee58deb44f21b62a4200a9b671d3
 SHA1: b987e22e1859825dbe9411492edbb302de0c4e58
 SHA256: 6a608886173c6ac0e3a184a0fc463aedf238eeed1c890b3ca0e42b7ded29f1a7
 SHA512: 36acfdccff1dccfed5b5c23d17f1c6a3819ee76447d8bceb533bda4ba50f65b15421db35b4bd1fb730268ed8501af98582f1303b7b41befb8566d1d17966a6a2
+Description: Stop Auto Launch Apps
+Author: zqbb
+Name: StopAutoLaunchApps
+SileoDepiction: https://siieo.github.io/sileodepictions/StopAutoLaunchApps/StopAutoLaunchApps.json
+
+Package: zp.stopautolaunchapps
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: Hitori
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs//zp.stopautolaunchapps_1.1_iphoneos-arm64e.deb
+Size: 4390
+MD5sum: 670914e51a2553dc790a72d40c613dfa
+SHA1: e0cc6d21b66aeaa99a7bd0e71b7b14194316e444
+SHA256: 4ccfd7a3dd7983df9a67bb680eeee8068bd908b78b37136206db1a6b2ef3e16a
+SHA512: 2e95a931f5d9c66794816599e9118b9b020040b589ad0ecd111c9be847d27cb7aaefe3f35e67ae389380290b5e88f3f0df0d0707b379e468b0d01311b820641a
 Description: Stop Auto Launch Apps
 Author: zqbb
 Name: StopAutoLaunchApps
