@@ -4350,6 +4350,27 @@ Icon: file:///Applications/Lynx.app/icon.png
 Depiction: https://mtac.app/repo/depiction/web/com.mtac.lynxapp.html
 SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.lynxapp.json
 
+Package: com.mtac.lynxapp
+Architecture: iphoneos-arm64e
+Version: 2.1
+Section: Utilities
+Maintainer: MTAC
+Installed-Size: 804
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.mtac.lynxtwo
+Filename: ./debs//com.mtac.lynxapp_2.1_iphoneos-arm64e.deb
+Size: 560132
+MD5sum: 855accd0bc7fc1d38cdaab3bf3c2426a
+SHA1: 96bde0d6b831e8a04860e727476cabdb3ed05721
+SHA256: 14613666bbf61764603cc71b69b650f17393921726e15735ac116dda1ef4cab9
+SHA512: 9a1eb9d2ecd6b9bd11035b6683bcf5f4e01553aca54107f27cc524814f9f3ab8d751ddd5fc672cc29dd767d2106c4a0040ace2d1c70cd4f3418398d3ad1cafed
+Description: Homescreen Application for Lynx
+Name: Lynx Application
+Author: MTAC
+Icon: file:///Applications/Lynx.app/icon.png
+Depiction: https://mtac.app/repo/depiction/web/com.mtac.lynxapp.html
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.lynxapp.json
+
 Package: com.mtac.lynxtwo.localizations
 Architecture: iphoneos-arm64
 Version: 2.5
@@ -4363,6 +4384,26 @@ MD5sum: 3331857f9dfe8b5b5e7cbab436f8b94d
 SHA1: 29b1c0e7eb6f3f1781e7a1717dce4b326d45f9d1
 SHA256: 4e6c688ec741933c47d7375b463e25f375b556adb041d13b03292f30d8456b4b
 SHA512: f5ef6c28ffb4a492a77ecb695c8be0062bbdc69b1e6b84735971313337391de74748f0614696d0a5266c0649c58b9df4db749444cd356716af70b9c68409a789
+Description: Localization support for Lynx 2
+Name: Lynx 2 Localizations
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.lynxtwo.localizations/icon-rounded.png
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.lynxtwo.localizations.json
+
+Package: com.mtac.lynxtwo.localizations
+Architecture: iphoneos-arm64e
+Version: 2.5
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 984
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.mtac.lynxtwo
+Filename: ./debs//com.mtac.lynxtwo.localizations_2.5_iphoneos-arm64e.deb
+Size: 151702
+MD5sum: 13de8e0a88ed57de00dfea1c4aaea084
+SHA1: 3e4a9c8e1ef43307b804ceb1201093b23f4d9dde
+SHA256: 957399e627670f2329bfe036e8e46f4812b8814e27fb18a5252b200a81dd864f
+SHA512: 960363f312912d7b7015b1141c6370a90cfd6fac09a31d6ec36fdae20b8f4a4c1345eba5ec9c2b92fc281aacaa90f5cca21b0243b5bad5ffab3941e8f6d83893
 Description: Localization support for Lynx 2
 Name: Lynx 2 Localizations
 Author: MTAC
