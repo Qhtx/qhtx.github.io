@@ -1,3 +1,23 @@
+Package: Flex3beta
+Architecture: iphoneos-arm64e
+Version: 1:3~Beta92
+Section: Tweaks
+Maintainer: DXcool223
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./debs//Flex3RootHide_beta92.deb
+Size: 19227992
+MD5sum: 943cf674091af33f0ab2af59cc56ba02
+SHA1: 621ef5dba8b862dc5aa9022a69291ea813b0c25d
+SHA256: 205a43e6ca48b029693073a6a063607d6b421f557fcfd2b3c0fa6a8785f9f038
+SHA512: 9935fb3e4af8d3f6c8b3c91b22078849832fdb46cbcd723487b96f3d1c39a746d81205ccd6e2b81d8c7f7e0931f30ed8b79df736c24fab9c618478edc2c177c2
+Description: Flex 3 beta92 for RootHides Bootstrap & Dopamine by DXcool223
+Name: Flex 3 Beta RootHide Bootstrap
+Recommended: com.rpetrich.rocketbootstrap
+Author: John Coates
+
 Package: ai.akemi.appsyncunified
 Architecture: iphoneos-arm64
 Version: 112.0
@@ -127,82 +147,42 @@ Name: CrossOverIPC
 Author: @CrazyMind90
 
 Package: cn.zqbb.disupdateapp
-Architecture: iphoneos-arm64e
-Version: 1.0-2
-Priority: optional
+Architecture: iphoneos-arm64
+Version: 2.0.0-5
 Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 734
-Pre-Depends: rootless-compat(>= 0.9)
+Maintainer: zqbb
+Installed-Size: 804
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
-Filename: ./debs//cn.zqbb.disupdateapp_1.0-2_iphoneos-arm64e.deb
-Size: 126012
-MD5sum: f0c22c38d8fb4bf59d7028641263d245
-SHA1: d0358cc51df2c30a792d3dac7b36ec8d75c7df77
-SHA256: f8bb1a4f4574f1fd2e50620b167bd1482cbe5e04c7e367844d616648388388de
-SHA512: 1c77342c078df1830822d9d30aa90aeace33cdc74684d8ec375aadd4b4a8453395c81919c363fbeae1837ddb4a94f4775ab9983146e8e922d52280ca4de07f1e
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
-Description: Block App Store Updates!
-Tag: purpose::extension
-Name: BlockAppUpdate
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
-SileoDepiction: https://rootless.zq666.eu.org/web/cn.zqbb.orzfolder
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: zqbb <w2599z@gmail.com>
-dev: zqbb
-Icon: file:///var/jb/Library/PreferenceBundles/duapre.bundle/icon@2x.png
+Filename: ./debs//cn.zqbb.disupdateapp_2.0.0-5_iphoneos-arm64.deb
+Size: 197444
+MD5sum: 04d6b87ceb58c087f03df09d14a5ead2
+SHA1: 1de50123feb4741061c9dee3b91e273da56b23fa
+SHA256: 0428915f0335be37218160fe8b4c98162e516744af01a97da564c6f404aa6167
+SHA512: 5bc4f01c0bfa564c14004832bbb440878d54b10b976d12e8736372258fb5dcf2ab36189c89ed46f1f2f9c8b567b33410c1a097d49df406c04f71a2cf8163fe68
+Description: 屏蔽App Store更新提示(Block App Store Updates)!
+Name: Hello App
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.disupdateapp
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.disupdateapp
 
 Package: cn.zqbb.disupdateapp
 Architecture: iphoneos-arm64e
-Version: 2.0.0-2
-Priority: optional
+Version: 2.0.0-5
 Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 764
-Pre-Depends: rootless-compat(>= 0.9)
+Maintainer: zqbb
+Installed-Size: 804
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
-Filename: ./debs//cn.zqbb.disupdateapp_2.0.0-2_iphoneos-arm64e.deb
-Size: 195024
-MD5sum: 879b35b6ef6f3480003be69eff162c21
-SHA1: e83da547b4f4eb8ca65316b707657807b72acbdc
-SHA256: aee6d381d82e7cd5dc7851cbcd718554af64f8917fc3035e0c048e23f0cb07a7
-SHA512: 44321e555197f15c3a1635c78ba045189636026ad8d5d05ecd4b808989ffb538b0b0f4171227360508c3b67f750764dbe91bbc584adbda1a6fcb5fb3e84e8e03
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
-Description: Block App Store Updates!
-Tag: purpose::extension
-Name: BlockAppUpdate 屏蔽App Store更新
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
-SileoDepiction: https://rootless.zq666.eu.org/web/cn.zqbb.orzfolder
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: zqbb <w2599z@gmail.com>
-dev: zqbb
-Icon: file:///var/jb/Library/PreferenceBundles/duapre.bundle/icon@2x.png
-
-Package: cn.zqbb.disupdateapp
-Architecture: iphoneos-arm64e
-Version: 2.0.0-3
-Priority: optional
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 764
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
-Filename: ./debs//cn.zqbb.disupdateapp_2.0.0-3_iphoneos-arm64e.deb
-Size: 274644
-MD5sum: 5f912b4e23eced6f588432103e4dcde1
-SHA1: 9208458e68e172ab27d1757933a04a57ed4f7e4b
-SHA256: 614be20846f0a9beb762665d6f0708b060e103ae8f31cc170755169852006ace
-SHA512: 5a675239bf11abbf43208bba915b57dea457dade957e87a79fb48481e0dd37d0f6cd8ec88065235d7a4f003c77f77f4fd8602b86607714e34821ece2b335513a
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
-Description: Block App Store Updates!
-Tag: purpose::extension
-Name: BlockAppUpdate 屏蔽App Store更新
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
-SileoDepiction: https://rootless.zq666.eu.org/web/cn.zqbb.orzfolder
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: zqbb <w2599z@gmail.com>
-dev: zqbb
-Icon: file:///var/jb/Library/PreferenceBundles/duapre.bundle/icon@2x.png
+Filename: ./debs//cn.zqbb.disupdateapp_2.0.0-5_iphoneos-arm64e.deb
+Size: 193244
+MD5sum: b2e1e4ae1f5764f44cc899863d767faa
+SHA1: 9eacbd76d636a69dab4291b85100eab28c789f71
+SHA256: 5b70f7cddc77649602fab911ff492424ea03806445a4bab0632c2a0c2478e041
+SHA512: 9e3297060f7b0c1e38ea6c67941cdb346e330f0d141b87232750dc67a18f5c888278e0b4d11fa340a85fb39a3d5855aaf222e9244e09a41b0541ea7f9216960b
+Description: 屏蔽App Store更新提示(Block App Store Updates)!
+Name: Hello App
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.disupdateapp
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.disupdateapp
 
 Package: codes.aurora.kayoko
 Architecture: iphoneos-arm64
@@ -1852,6 +1832,26 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
 
+Package: com.eamontracey.secretshot
+Architecture: iphoneos-arm64e
+Version: 1.1.1
+Section: Tweaks
+Maintainer: ichitaso
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs//com.eamontracey.secretshot_1.1.1_iphoneos-arm64e.deb
+Size: 44806
+MD5sum: d2f8802f1a47f1f59a5de28e18b08a54
+SHA1: 12a73c962ceb57d91f954e1afa9dfee0d1336b4e
+SHA256: 7e9093efec4a1e4f0ec3db34098b5a7ed6297205276db7d0cfc958f5c6c62f6b
+SHA512: 279ed4a0eaee352a0d49043ae41692173d7a757e48b8e1ffa71fe7a696f6954aec7e9d4d46b12b2f8970949d60e07f1a4d94e987db79e951b99a7561b132a594
+Description: Block Snapchat screenshot and screen recording detection
+Name: SecretShot
+Author: Eamon Tracey
+Depiction: https://cydia.ichitaso.com/depiction/secretshot.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/secretshot.json
+Icon: https://raw.githubusercontent.com/ichitaso/SecretShot/main/SecretShotPreferences/Resources/icon%403x.png
+
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64
 Version: 7.10.0
@@ -1861,11 +1861,11 @@ Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Filename: ./debs//com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
-Size: 981148
-MD5sum: 948ddb04633657b5a94bae025e45ba89
-SHA1: 30425adf2730d4d49acc0975faf7ba2e2d506894
-SHA256: cf287daf0341c069c56a971475535f76ccd355e5f345f3fafc6dac0a4ef97289
-SHA512: 1a3e3f2f7c97d3d5c89cdc7ccc21fcaa5169b44ae2f38decf19d3bdc4fe5e3dd13aa1df56dab9efa534632a1ca5343f13cc4f740b6216e5eecf3cba4faedf66c
+Size: 1259402
+MD5sum: 6bf10790aabb8bf265fd84726c967a9b
+SHA1: d0c239d59f2a9d4aa291e9048fc4614c7db59dce
+SHA256: a1e8934fc9cb6eed5a1d39ba4c62fcf4e0125cbb1c085339fa4aa93d645e70fe
+SHA512: be7b310d752d48387828d754b6cf6b0587f77fc191a5efded465d2cbda13d807dba39323d6f49a8435fe4eae4eea7f18f91794c937d62580e6ec33ca520e61d7
 Homepage: http://ib-soft.net/icleaner
 Description: The first real iOS system cleanup and management utility
 Name: iCleaner Pro
@@ -2227,11 +2227,11 @@ Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs//com.f0u4d.watusitools_2.4.47_iphoneos-arm.deb
-Size: 4956268
-MD5sum: 8ee04edb289d4b64f7fff3792693aae5
-SHA1: 4295ddde67fddbe073aa016cf0f6339d0adf81d3
-SHA256: 7614b31b378897fee1792fe089ed64134f2c31111e7fcbcd5f51540b120b9c39
-SHA512: 67a3bd5a83402a6fb5918dc74d3f813b8d2487025c49e1bec43632add9397ae3bef48797095787331d977f7685cffc2ebe35624f6132b78fd0e0302761494ab6
+Size: 4874076
+MD5sum: 3d252eb825ab31e72c8ed6d850eef3c7
+SHA1: e45644aaf06f0613aecd44003d74274a094a444d
+SHA256: 624126aef7afff7e78b05284bbb4b110f9b983c8e52abac2e08d5790a2f24974
+SHA512: 2457ae5324a94882d2d81bb3fb0555711aea3b0313ed5160eeaa865741fb35bb42a6deb28450ed94179e118806260b251e6455300c46aaef9dfc532839abeee0
 Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -2244,11 +2244,11 @@ Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs//com.f0u4d.watusitools_2.4.47_iphoneos-arm64.deb
-Size: 4978760
-MD5sum: d3718a731f6dba3c30cbcd614852a7e8
-SHA1: 403cb96e275cd19cc8f1ccbcd6e2cdb44696642b
-SHA256: 9b924b41e7e618f3d3d115e7ba25871776b05721f3cea3db7e2aa8b65f260c45
-SHA512: b65f55ebe4d365063b195dba7569ca104e3c72bdfe190d8490054b8645987625bb91c99809e8e9ce48c52f7982f02f3dcd7908fe50ade611ace4d8f95022944d
+Size: 4899608
+MD5sum: 90ba916c938d6f0901f6e879707f3b0d
+SHA1: 73e5555a85f1e1154424bfc89ddcca5b968572fb
+SHA256: 362310086d0e956ea37034171e78a0cb5ac5086fed5407ba1ed695b6ecb3bc24
+SHA512: 41035d4859d05e9ab3ab7ef78524001a52cbee5342dee24e626e05f1201fe547a947b2afe6b0ed57ecfb22dff7e76dca07cf294376573f2a10273ade0ef52deb
 Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -2262,11 +2262,11 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
 Filename: ./debs//com.f0u4d.watusitools_2.4.47_iphoneos-arm64e.deb
-Size: 4921472
-MD5sum: 5f7665dbded1000211f38e7d604b3f7a
-SHA1: 8fefb2024072d36c72c9333b6ca0bb8116f1da56
-SHA256: fce9e55cfbc52b3ca0b6d66eb5b88bbe19a493f27ef252fe1973774c18e48d94
-SHA512: ace1a2ba85821dfd9aec65191f17246275fb0d0b884ff03b10a7976386de45a7192ddeacd5e69505b87e1bbe35a3b669191ed26ef796ed08b578a01478705428
+Size: 4876948
+MD5sum: f3df07ba9a8418fbc991538a47fd06fc
+SHA1: a72885847c6003e964634e88548e0a0acf4a0cc7
+SHA256: ca81137fdec366e1d3b24167ba858ef8a379247929eeccd43b476b5df5ca7e3f
+SHA512: 15eefe75125bd1daf8a3f78ffecb696aac97be53cc8c4ae060d62c75c9afd731bc26ec10cd34f560d324625826f671b502ad2c93d36daac619ee57516b5de117
 Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -2398,6 +2398,42 @@ Name: WatusiTools
 Icon: https://i.imgur.com/0WYytkh.jpeg
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.fiore.ccborder
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: fiore
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs//com.fiore.ccborder_1.0_iphoneos-arm64.deb
+Size: 5848
+MD5sum: 60d6bc31c4e48b10e1377eb7704f76a7
+SHA1: fb8469bc8eb29a7a3aa4254a9bd358e1fce7d888
+SHA256: c81a79756483e8a4245c8fa50194f5527638dce681c1d6754b851501649af89c
+SHA512: 6c17a25ee233bfc4a25a3d0cc6786d6d7bb763ddaedf125232ea307e16589ac8bd92a031ac001f2cbc65ac2e3c983cdd5df066773f060af39221cedb12dd86fb
+Description: Simple tweak that removes module background and adds a border, just like CoolCC!
+Name: CCBorder
+Author: fiore
+Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fiore.ccborder/icon.png
+
+Package: com.fiore.ccborder
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: fiore
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs//com.fiore.ccborder_1.0_iphoneos-arm64e.deb
+Size: 5808
+MD5sum: 2efef31b084c69a98b67d253be031b62
+SHA1: 69d3ea3ad26077773a3de80ed7c0bbed823c4531
+SHA256: 02e76b3afd9b9a881f04675ea818fde3a2f66739237f55368d67421f346b0fea
+SHA512: 0d2e09a5a62078e1cae9079c9cb866679b151525d002feeb0e3274049b8152f4b4d877ae81efb7d8a15eee81a12e1aaa5a14402f4c7191c85dbdbd00d10b2584
+Description: Simple tweak that removes module background and adds a border, just like CoolCC!
+Name: CCBorder
+Author: fiore
+Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fiore.ccborder/icon.png
 
 Package: com.fissiondev.uranium
 Architecture: iphoneos-arm64
@@ -3272,6 +3308,75 @@ Depiction: https://ginsudev.github.io/repo/depictions/ramundertime/index.html
 Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.ramundertime/icon.png
 SileoDepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.ramundertime.json
 
+Package: com.ichitaso.hidekbsettings
+Architecture: iphoneos-arm64
+Version: 1.0.6
+Section: Tweaks
+Maintainer: ichitaso
+Installed-Size: 428
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs//com.ichitaso.hidekbsettings_1.0.6_iphoneos-arm64.deb
+Size: 40926
+MD5sum: 586e3600795295a9a235847e11045b27
+SHA1: 3abcf8b521685d19cb9719c52077d12dda336b5a
+SHA256: df12801d49670fd548f001a10bca416441af6bcb203833566dc2d203fcfef0db
+SHA512: 4cf18cb98a68380e61dbc9bbbe292e38276aa9d055360ec496fa04201c79d86a12a9f0cdd0947400cb13f7e793ff45be95adf1de44124297cd269e518f419282
+Homepage: https://ichitaso.com/
+Description: Hide "Keyboard Settings" from the globe button switcher
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.3.1
+Author: ichitaso <willfeeltips+hks@gmail.com>
+Name: HideKBSettings (iOS 11 to 16)
+Depiction: https://cydia.ichitaso.com/depiction/hidekbsettings.html
+dev: ichitaso
+Icon: https://raw.githubusercontent.com/ichitaso/HideKBSettings/master/Preferences/Resources/icon%403x.png
+
+Package: com.ichitaso.hideserialnumber
+Architecture: iphoneos-arm64
+Version: 0.0.4
+Section: Tweaks
+Maintainer: ichitaso
+Installed-Size: 472
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs//com.ichitaso.hideserialnumber_0.0.4_iphoneos-arm64.deb
+Size: 56610
+MD5sum: 987f438f496909b2b12ef54856fe755a
+SHA1: 8ca9eb6d729dd107718151cf92cf2b43dcd1e725
+SHA256: fe64cf70d9800e57ecc68a2bf9cc59482de0ef65af33d9883a2668c6abf5a5e6
+SHA512: 456c5cc37a069cc8431fc781ca22bb375f167c6bcad2bb061e8170464e0f40b5060a1c8d6804e380cc3439cb73a1689b3533487dd1720a708789de80c4f955a8
+Homepage: https://cydia.ichitaso.com/depiction/hidesn.html
+Description: Hide Serial Number in Settings About page.
+Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
+Author: ichitaso
+Name: HideSerialNumber
+Depiction: https://cydia.ichitaso.com/depiction/hidesn.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/hidesn.json
+dev: ichitaso
+Icon: https://i.imgur.com/uFWkBXD.png
+
+Package: com.ichitaso.hideserialnumber
+Architecture: iphoneos-arm64e
+Version: 0.0.4
+Section: Tweaks
+Maintainer: ichitaso
+Installed-Size: 472
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs//com.ichitaso.hideserialnumber_0.0.4_iphoneos-arm64e.deb
+Size: 54938
+MD5sum: abbe1ed43af9e59f5dc62eead4c0eb37
+SHA1: ff961f278b9a3ae36aa5ff58ade12491cfab9c98
+SHA256: 4a2dc7eb08ad1e3f760ee26824cc92f6b5a55865ff58ea7e9f1ad1140a6d5483
+SHA512: d943cfa7b147b5b18ba09012d0d857ac64c79f2e18231300f17531e925cbf8daef72883c4a340eeeb95a32ff6435243ab53883399990ffa55fea22964a170748
+Homepage: https://cydia.ichitaso.com/depiction/hidesn.html
+Description: Hide Serial Number in Settings About page.
+Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
+Author: ichitaso
+Name: HideSerialNumber
+Depiction: https://cydia.ichitaso.com/depiction/hidesn.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/hidesn.json
+dev: ichitaso
+Icon: https://i.imgur.com/uFWkBXD.png
+
 Package: com.ichitaso.iconorder
 Architecture: iphoneos-arm64e
 Version: 1.0.3
@@ -3297,6 +3402,27 @@ Name: IconOrder
 Depiction: https://cydia.ichitaso.com/depiction/iconorder.html
 SileoDepiction: https://cydia.ichitaso.com/depiction/iconorder.json
 dev: ichitaso
+
+Package: com.ichitaso.otadisabler
+Architecture: iphoneos-arm64
+Version: 0.6
+Section: System
+Maintainer: ichitaso
+Installed-Size: 168
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs//com.ichitaso.otadisabler_0.6_iphoneos-arm64.deb
+Size: 17152
+MD5sum: 6be45a897dc6d1a275c9ed0c0fc32329
+SHA1: 28e10242affc37852e3eac34bca1439f81ca6653
+SHA256: 3052aefd5a41dcfa3f77433508ae0f7ced87607e6d01517f512cb6195239dea5
+SHA512: 15599c3585881e33651a968a163932e89da88ddf9ab7bb6886eb4644a366a0506062c1eb16d5c27d42d8ddd36538504c8f74cf28d3a6bb41a6d8f35d5e8f9f3f
+Homepage: https://ichitaso.com
+Description: Disable OTA and remove badges on home screen, etc.
+Name: OTADisabler
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/otadisabler.json
+Icon: https://raw.githubusercontent.com/ichitaso/OTADisabler-App/main/OTADisabler/Icon-60%403x.png
 
 Package: com.ichitaso.powerselector11
 Architecture: iphoneos-arm64
@@ -6875,6 +7001,48 @@ Name: No Bigtitles
 Author: iBreak <ibreak2019@qq.com>
 
 Package: com.zqbb.limitcharging
+Architecture: iphoneos-arm64
+Version: 1.0.8
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 248
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
+Conflicts: zp.limitcharging.rootless
+Filename: ./debs//com.zqbb.limitcharging_1.0.8_iphoneos-arm64.deb
+Size: 19148
+MD5sum: dd3e4d1029c519be4d9f6710f45cb827
+SHA1: cbf87fdb8de8de4c98c923e50de729d303ce2386
+SHA256: f6e3814c294baf31fff4fbb2115dbcf44e5a4c8704005c1273bfe6920405edf9
+SHA512: e988a976944ff1fa9994ba41e16ec849d8910a80aae511457560a1eb4a6a4d687027b0a3c45c6aa10b6b1c906a82f61b8c4e088a81f406572a76a9c27f007bd4
+Description: Hello Charging (限制充电)
+ - Wi-Fi Not Disconnected on Lock Screen (Standby consumes 5% more power)
+ - 锁屏不断Wi-Fi(待机多费电5%)
+Name: Hello Charging
+Author: zqbb
+SileoDepiction: https://rootless.002599.xyz/web/com.zqbb.limitcharging
+
+Package: com.zqbb.limitcharging
+Architecture: iphoneos-arm64e
+Version: 1.0.8
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 244
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
+Conflicts: zp.limitcharging.rootless
+Filename: ./debs//com.zqbb.limitcharging_1.0.8_iphoneos-arm64e.deb
+Size: 17980
+MD5sum: ae3cceb16c0922ade08fbcff8d13bf90
+SHA1: 12a848dea64dadae45a67156bb79421764cd3ed7
+SHA256: 6356dce48a460622f8cd8f523f0f5085be636894a4b4e38cc8d5f85162aff75f
+SHA512: 09a60eea441a97ee5df8ec1c9c420e585ccec17e32f04e93b0bfcaf1a5f1f08fd88d8997a88d56ece055c666359e6178fe23c4099f2a78da0ef3b140d1d452ad
+Description: Hello Charging (限制充电)
+ - Wi-Fi Not Disconnected on Lock Screen (Standby consumes 5% more power)
+ - 锁屏不断Wi-Fi(待机多费电5%)
+Name: Hello Charging
+Author: zqbb
+SileoDepiction: https://rootless.002599.xyz/web/com.zqbb.limitcharging
+
+Package: com.zqbb.limitcharging
 Architecture: iphoneos-arm64e
 Version: 1.0
 Priority: optional
@@ -7571,6 +7739,57 @@ SHA512: 6ae6fd5b0dabc2c3878414e3a77448d3221380d5d373577d2536cbdac48725c7f50ba018
 Description: Clipboard history manager for iOS!
 Name: CopyLog
 Author: TomT000
+
+Package: net.ajbbo.acinsta
+Architecture: iphoneos-arm64e
+Version: 1.3
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 676
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs//net.ajbbo.acinsta_1.3_iphoneos-arm64e.deb
+Size: 175438
+MD5sum: b7aeb65db9de4586bd4288047c514e94
+SHA1: 605e410945c31417da4df7da5ea677c8d1afb8c8
+SHA256: 438808ae8419d867779455f114a917b1271f30e8fe9a77e08bb9a6d3564424a7
+SHA512: d9bbc274a91a0eaccbdae0933bb281849c5567c31d39006f6e7afc6a9efc3bf9aa567ef32a1f531212bcaa0b8a73d7944a51612c2d1393d3529658026e1c9219
+Description: An awesome ACInsta tweak!
+Name: ACInsta
+Author: aJBboCydia
+
+Package: net.ajbbo.acjodel
+Architecture: iphoneos-arm64e
+Version: 1.7
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 488
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs//net.ajbbo.acjodel_1.7_iphoneos-arm64e.deb
+Size: 107582
+MD5sum: 6c6bd2e588b85c0b6487e02b1b43efbc
+SHA1: 32fa876cf8b571a9f51532240f20c0fa444dde3c
+SHA256: 73f4f6a535e3e475b041442c2e230c39bfe553d2347556d6cfecfca30450ea86
+SHA512: baa36bb9d781431f0a3e921aef75cb11c33ef78384991cc605af84da6516f1534add86c022eb0ee6ca71717c539d73e7c2023785daef341f8baa63aa40d5543c
+Description: An awesome MobileSubstrate tweak!
+Name: ACJodel
+Author: aJBboCydia
+
+Package: net.ajbbo.actiktok
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 1096
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs//net.ajbbo.actiktok_2.0_iphoneos-arm64e.deb
+Size: 303136
+MD5sum: 5314cf5588d6e8ea425f7b745f1be473
+SHA1: 4a2786eb2672ede1a2d4675cf4cde2d1e16bdb4a
+SHA256: cb53641e942a819948f29e43810ffb1b55ca2d56404b80b2f07b75332b7813dc
+SHA512: af6883c4260a487152d282e39464ce703eb1ff4a40c1ea785a9ca56518dd415e0f45f9f74f576f2550238088ddb4eccb4b5af38ca942f0875f46771977f08fa4
+Description: An awesome ACTikTok tweak!
+Name: ACTikTok
+Author: aJBboCydia
 
 Package: net.ajbbo.disableshareplay
 Architecture: iphoneos-arm64e
