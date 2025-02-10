@@ -273,40 +273,6 @@ Author: 0xkuj
 
 Package: com.0xkuj.filzadirprobe
 Architecture: iphoneos-arm64e
-Version: 1.6.0
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 240
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs//com.0xkuj.filzadirprobe_1.6.0_iphoneos-arm64e.deb
-Size: 35448
-MD5sum: 3301798f8e28df5b96ff308f5bf56dbd
-SHA1: c5c55d9d02e85e268cf8b337a94be4377539fa83
-SHA256: 24ab0a98509816247adafddd72f6652542bc721a9453058da25e19d2783a9d3d
-SHA512: d138813d77f208becc344451e39504683435796043ca8cdd552d77aeb6263a0c45ee08951f27fc5d8fa00597e293d373697d50b7391e0dcb61ae9bf4f4d7ef8c
-Description: Filza Extension To Calculate Folders Inside Your Filesystem
-Name: FilzaDirProbe
-Author: 0xkuj
-
-Package: com.0xkuj.filzadirprobe
-Architecture: iphoneos-arm64e
-Version: 1.6.1
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 240
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs//com.0xkuj.filzadirprobe_1.6.1_iphoneos-arm64e.deb
-Size: 49986
-MD5sum: ae6e856271a854796644cdac141b0866
-SHA1: 157c5a0ecbc5e9f86f892f653ac5daf7b4526436
-SHA256: 8f7d01818e8cae53576122ae855382d9d18afdd087adcbaa0b55e32897c503aa
-SHA512: 6f3d8d220e2f614928f3ad10a53aa52825face049d7f7e8aa7620feab556bf3ba46116f408b685e7d8e5cc3b798177354fd1be0a4bd1db1f177f8e7865932384
-Description: Filza Extension To Calculate Folders Inside Your Filesystem
-Name: FilzaDirProbe
-Author: 0xkuj
-
-Package: com.0xkuj.filzadirprobe
-Architecture: iphoneos-arm64e
 Version: 1.6.2
 Section: Tweaks
 Maintainer: 0xkuj
@@ -338,60 +304,6 @@ SHA256: fe1e645814c62ca267632616a8f9d5a32bd2fa7d10dbad60103bc28274f4e69e
 SHA512: 463d4177dbc1364a529ef2961215615f5544bfa8bffcd805fd542f0d1c6aec24c4d4931a4f50426a5eb37c3b7ff972b65186df9f86b1cb3eaa5bc40c0a6a4c52
 Description: Remove the annoying paste confirmation added on iOS 16
 Name: NoPasteAlerts16
-Author: 0xkuj
-
-Package: com.0xkuj.safarix
-Architecture: iphoneos-arm64e
-Version: 1.9.3
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 824
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs//com.0xkuj.safarix_1.9.3_iphoneos-arm64e.deb
-Size: 294792
-MD5sum: 762a86f74a3ce91b76aaf488dedb267f
-SHA1: b259f8b7e23c08e1dfb63d46fd07b97050be8490
-SHA256: 724b58f0bcd82c7782888c94327f22ba6810a6a4645fb07fc7f7d907e31965d6
-SHA512: cdf0d1e3464be2babc324f74ff96285b1075173026877c89156a353852f2720459e3fec1acf21c8d09baf22bd9f5ebb9ba14a39e0c1bafb6a404ee83a3bcc72b
-Description: Safari Essential Features
-Name: SafariX
-Author: 0xkuj
-
-Package: com.0xkuj.safarix
-Architecture: iphoneos-arm64e
-Version: 1.9.5
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 824
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs//com.0xkuj.safarix_1.9.5_iphoneos-arm64e.deb
-Size: 294800
-MD5sum: d54d9f7b605d60cc156b78b7cc1f1871
-SHA1: 48aad809df1a4f417c1cf0b3f73e14ff5f050051
-SHA256: ac437f9caec46726f92fdef83a7231112feb8623d6f81c1396c18079dac8c263
-SHA512: 71b5fd99218fab8811d65ecc31092c8e4f49c67e6fc6d82dd263a651c8eb5cf266995dcb1a4b26875301a3451577e369833e1597e47275863b32198c1ce5638d
-Description: Safari Essential Features
-Name: SafariX
-Author: 0xkuj
-
-Package: com.0xkuj.safarix
-Architecture: iphoneos-arm64e
-Version: 1.9.6
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 892
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs//com.0xkuj.safarix_1.9.6_iphoneos-arm64e.deb
-Size: 352436
-MD5sum: 4e4ca92c2f734ad8445bb86150a8ec84
-SHA1: 32003658e193b97b3d7ed57fb1e325ad60727d99
-SHA256: 3e9ace4ad0e1f506289c09063b3994cfd4df4156ca44e1609ab8a756301b59ec
-SHA512: 75141ee726f9840a24ea384905f081824346bdbf4a1912ecc341e24c6f5245b347e51a9abe6c847919efd2c79a7cff9013e28f7810b6c1f106f13f7d0627814e
-Description: Safari Essential Features
-Name: SafariX
 Author: 0xkuj
 
 Package: com.0xkuj.safarix
@@ -511,25 +423,6 @@ SHA512: 255ba0ec40ff1544ec4442c13ba02206dee55bce57a856247dd96e388969952b5b79543c
 Description: Save and restore the layout of your icons.
 Name: Icon Restore
 Author: Lessica <82flex@gmail.com>
-
-Package: com.ali.aimpro
-Architecture: iphoneos-arm64e
-Version: 1.1.1
-Section: Tweaks
-Maintainer: alimaulana
-Installed-Size: 5080
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 2.0), com.spark.libsparkcolourpicker
-Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
-Filename: ./debs//com.ali.aimpro_1.1.1_iphoneos-arm64e.deb
-Size: 5405664
-MD5sum: d8ce756013df7d0dd88ae77fcfc0c887
-SHA1: ab20f44443650ca174ad0d768b8282258986c0ec
-SHA256: 039cfde2e392615e68d58a29ca4e62986c436148c8b10230f186ca4d3a17a892
-SHA512: 396c5f394b6ef46dad15d2ff4df7311a26a88b82ba101b975da7bb0f23e4bc18762a5f9a6c9d5466916ca3db975d053a03053adb84b87d4196dc792102a89d0d
-Description: iOS 16 Style Time & Date Lockscreen
-Name: AIM Pro
-Author: alimaulana
 
 Package: com.alphastream.linearforsb
 Architecture: iphoneos-arm64e
@@ -1043,13 +936,13 @@ Version: 2.1
 Section: Tweaks
 Maintainer: CydiaAbdullah
 Installed-Size: 1116
-Depends: mobilesubstrate
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
 Filename: ./debs//com.cydiaabdullah.cacloud_2.1_iphoneos-arm.deb
-Size: 99708
-MD5sum: 596d36ec752c2053e3729a80dc5de6aa
-SHA1: cf0d06401c76c68d520b8b343f334d1744f723d0
-SHA256: 6ea5dcdfc54563e461b8f04cbbe1c47b0458c9c4a47f9a5953c5e03e6fd36323
-SHA512: c37dec1cf251665820252503bcb126d7df80c31b1657e6371440bea55f638372bf10f28abfb31e0bbebf3fb1448a6abf237ef9779b24102635f1d1b79d443ff1
+Size: 127064
+MD5sum: b9de53e610442f947557e25a029c50c0
+SHA1: e9104f44c709014f96af094bcf74df11a5ee858e
+SHA256: 5b94d9236ea6525981cc78b825f2804e094b2f4d0bed985147efaa891e2061af
+SHA512: 5c20a1e03c3e74866c5426193e784874d6fb9f6c6c46a82bae36a88ef92c5aab0fa82809003a2570babf88dfbdad72cca25838a14fe0068e4d423be57056c0d1
 Description:  حذف الأعلانات لتطبيق انمي كلاود وتسريع عمل الحلقة اظهار زر المشاهدة والتحميل
 Name: CACloud
 Author: CydiaAbdullah
@@ -1060,13 +953,13 @@ Version: 2.1
 Section: Tweaks
 Maintainer: CydiaAbdullah
 Installed-Size: 1116
-Depends: mobilesubstrate
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
 Filename: ./debs//com.cydiaabdullah.cacloud_2.1_iphoneos-arm64.deb
-Size: 100608
-MD5sum: 64f971e74eb6cbfabbdfc712a6140eb5
-SHA1: a36394fb80337b9a531f2eda41da86cd958abd69
-SHA256: e288eba7b6d296ade1782807f0be0583cf91e5d521fdc8991c697452d935e74f
-SHA512: 005dc9b52f9f85f9fccdec8854ada696df44ebbc4f3aeba0d439f9cabc87c84ae13922f5de40622721a9b76d27ea6743d317ecce83291bc55c6b32b9a8e862c3
+Size: 126332
+MD5sum: 45af490a2513bd3a7b50cf67f0272da6
+SHA1: 09e51145ea6354b2ae5d8b55555cc220dea0a58a
+SHA256: bee54f30548afb979541f7c9bf831cdffd31026a2dcdf3afab39b13fd72e76cf
+SHA512: 24836c9922e27c4b6e38576ee2ac7ad5c91b28feb69f03224f29e6036115f7f117c30809f1bb34e6a0d0b2adfce94522c7b2ec33a3709bea895cab04c918b93c
 Description:  حذف الأعلانات لتطبيق انمي كلاود وتسريع عمل الحلقة اظهار زر المشاهدة والتحميل
 Name: CACloud
 Author: CydiaAbdullah
@@ -1077,13 +970,14 @@ Version: 2.1
 Section: Tweaks
 Maintainer: CydiaAbdullah
 Installed-Size: 1116
-Depends: mobilesubstrate
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
 Filename: ./debs//com.cydiaabdullah.cacloud_2.1_iphoneos-arm64e.deb
-Size: 141878
-MD5sum: b4540f912e0a88e475097d0d2c8d43b3
-SHA1: ff094bb1a9a0f6f9f044099cf1ab94bbf3ea35a6
-SHA256: 8fdac5328027c8c0fa47dd71dca0b0f986b549de5a05dfe3bba1877e58614902
-SHA512: c0a181cfa1c389782c3ba629ed3f352ec3a6e25ffd39b151f7f2a7dabac66261e074edbf864c78e532557483bb409c8832e42febf4b47da096f16a638a3c793e
+Size: 159976
+MD5sum: e8dc26821285e2d059e4df98b9b9d019
+SHA1: effc71de29165f5b75a6fd5e10e0eda10bceb636
+SHA256: 5bfe306e5b4d69aa2edf1e95243e29ce34763b029141ed947482568fa4f2de06
+SHA512: 07674c90c828065b19892f37e44f33fbc09927b21ffec0b7850115084b04cb254e2634f304565f5880a492818064761900b9a66e0049dbd1aacee7301b15910b
 Description:  حذف الأعلانات لتطبيق انمي كلاود وتسريع عمل الحلقة اظهار زر المشاهدة والتحميل
 Name: CACloud
 Author: CydiaAbdullah
@@ -1473,6 +1367,47 @@ Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
 
+Package: com.den.igformat
+Architecture: iphoneos-arm64
+Version: 1.71-1+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 1192
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs//com.den.igformat_1.71-1+debug_iphoneos-arm64.deb
+Size: 187434
+MD5sum: ec3f6ee8beaf25cbbde6a1e8d96118ec
+SHA1: 558b381ee1a440a3d028ad9df404ff255184efae
+SHA256: 1cf0582084105a852591fe9d164607878a2c9483163dd5f1ad5dc82e37fa88f8
+SHA512: 4012e951edc5176052a8b09bbe2dc9ef39bf489c78b3ac34c617c530c24736b56927d4400d2837a186f7d33f63476bb7aadce6d089954009add0594b5cc54337
+Description: Powerful Instagram Tweak
+Name: IGFormat
+Author: MrDeNsor
+Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+
+Package: com.den.igformat
+Architecture: iphoneos-arm64e
+Version: 1.71-1+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 1192
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs//com.den.igformat_1.71-1+debug_iphoneos-arm64e.deb
+Size: 262876
+MD5sum: a7446aea1fc05ced8ec417d2a052798c
+SHA1: b8e701214c04a1888f47fbe6db5ef5a77a88b3e8
+SHA256: a58e215b42e6a1b83c490bb41d840555b99ce8670e43f09e1e062ed911f6a5c7
+SHA512: 16494bbe3eccae99f17418e5fb609756a3246e2ecfa74a81f89a8ca38a9f86efe72d2bd09fdd5d505d85fbb5b84268cd11be2a1c10f7812b66c98b934ee36bb8
+Description: Powerful Instagram Tweak
+Name: IGFormat
+Author: MrDeNsor
+Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+
 Package: com.den.shortcutx
 Architecture: iphoneos-arm64e
 Version: 0.0.1-1
@@ -1762,44 +1697,6 @@ SHA512: f47061df24cb5893fe79725debdae99f9a048a6be5e9d320f54ed0f6da4cea234684ac5a
 Description: Keep notifications silent while media is playing
 Name: SilentNotifs
 Author: dvntm
-
-Package: com.dvntm.ytlite
-Architecture: iphoneos-arm64
-Version: 5.0.2
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 16140
-Depends: mobilesubstrate
-Filename: ./debs//com.dvntm.ytlite_5.0.2_iphoneos-arm64.deb
-Size: 6100896
-MD5sum: 6548fd9a5d850111d18cdaf5ef3b1915
-SHA1: 89bb38dad2be416288596f43f1e00c3063792f47
-SHA256: e41bf59a07abc9bb6f2eab1d8441dc7dabdbfbfbb7d1581c3a30ab6e57fe61ef
-SHA512: ddfb439f0030998d1d8b739b2af10b65cb0939054df0d5318a8175c64e3e8ade48ebe65d8cd707866c94a9a0ae5486a447402c43b827e9b716ba2ddbfec3c8bc
-Description: An awesome tweak for YouTube!
-Name: YouTubePlus
-SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/YouTubePlus.json
-Icon: https://i.imgur.com/LHHJmJA.jpeg
-Author: dvntm
-
-Package: com.dvntm.ytlite
-Architecture: iphoneos-arm64e
-Version: 5.0.2
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 16124
-Depends: mobilesubstrate
-Filename: ./debs//com.dvntm.ytlite_5.0.2_iphoneos-arm64e.deb
-Size: 6098044
-MD5sum: ec82d448218ba1f7af8b5f225c69f351
-SHA1: 2d678383fb6a122baef9001221cdfb41cde6a9ca
-SHA256: e38f26c82846770604133700c8c37b716ea893cfb4e79ab81cde55b220452a1a
-SHA512: 2ddd445e4f27d7f447929e90ee2e69c8a7af8bd116c6eedeb2d4d7290574d1a55e08df477c00f4fd8dafbd3ca5adafd6fbcec91bcda9e758d8dac5cd1dc4e75b
-Description: Lightweight YouTube Enhancer
-Name: YTLite
-Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm64
@@ -3719,6 +3616,24 @@ Author: julioverne
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
 Icon: file:///var/jb/Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
 Name: GoodWiFi
+
+Package: com.julioverne.lowerinstall
+Architecture: iphoneos-arm
+Version: 0.0~beta6
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs//com.julioverne.lowerinstall_0.0~beta6_iphoneos-arm.deb
+Size: 94160
+MD5sum: 39a54683ff0f9fb0c2880cf393c87816
+SHA1: eafac690946057ec063f6a9d786950a9f092ea4e
+SHA256: 0b641d287e8dfbbd00948de6cf85a6b18fb4f885f6e3b98ffb627b68388cf8c1
+SHA512: b36e8da8389be78568e7ac1d74e333e8d0e42a6a60149854a06ac752c28bb2dbe131859713495c90197487adf049148372df4071dd7590073452bc1073c2bcb4
+Homepage: https://twitter.com/ijulioverne
+Description: Install Apps In Lower iOS Version
+Name: LowerInstall
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.lowerinstall
 
 Package: com.kdt.trollpad
 Architecture: iphoneos-arm64
@@ -6753,23 +6668,6 @@ Author: iBreak <ibreak2019@qq.com>
 
 Package: com.yourepo.ibreak.hideseparator
 Architecture: iphoneos-arm64e
-Version: 1.9.2
-Section: Tweaks
-Maintainer: iBreak <ibreak2019@qq.com>
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs//com.yourepo.ibreak.hideseparator_1.9.2_iphoneos-arm64e.deb
-Size: 10478
-MD5sum: 264586c2cef1fbda2a78a0a32bf2ef73
-SHA1: e69d182591ddcab6c89a57ef6ef5ecb8f4d6f3a8
-SHA256: 0ebc88c065ba6fffc92706cf34d434fa6d51577beda5b016c4e0d653f7d10757
-SHA512: 65967d595d9d127de64c1c0cee1db0c086855efdc0300955a0ee07b7c796a34ae80c1c680362ee31360785b48bfa624f25ba2e7a1ca8b1b0dcdc9606afb49424
-Description: Hide separators system-wide  (including third-party Apps)
-Name: Hide Separator
-Author: iBreak <ibreak2019@qq.com>
-
-Package: com.yourepo.ibreak.hideseparator
-Architecture: iphoneos-arm64e
 Version: 1.9.3
 Section: Tweaks
 Maintainer: iBreak <ibreak2019@qq.com>
@@ -8133,69 +8031,6 @@ Depiction: https://chariz.com/get/return-youtube-dislike
 
 Package: weeb.lillie.youtubedislikesreturn
 Architecture: iphoneos-arm64e
-Version: 1.12.13
-Section: Tweaks
-Maintainer: PoomSmart and kirb <ytdislikesreturn@gmail.com>
-Installed-Size: 229
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Filename: ./debs//weeb.lillie.youtubedislikesreturn_1.12.13_iphoneos-arm64e.deb
-Size: 25120
-MD5sum: c62eec0b4b4aae145c3ad8be33643602
-SHA1: 4dcdd80caccf962366dba95aefcf95e3e605a224
-SHA256: 61d017dd1985f5b5fc38b23eb0d75b3623dd0e3dd5011ef5eb46b77457deb5b8
-SHA512: 9f730c8679684c28e335b7347872995e8bd09804b04ebd8630cc1d4fcaa70d9417675a8c6177fc780c72cd790042c631b234b83cecf771c935b010d514b1d700
-Description: Bring Back Dislikes On iOS YouTube
-Tag: compatible_min::ios11.0
-Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
-Name: Return YouTube Dislike
-Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
-Depiction: https://chariz.com/get/return-youtube-dislike
-
-Package: weeb.lillie.youtubedislikesreturn
-Architecture: iphoneos-arm64e
-Version: 1.12.14
-Section: Tweaks
-Maintainer: PoomSmart and kirb <ytdislikesreturn@gmail.com>
-Installed-Size: 230
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Filename: ./debs//weeb.lillie.youtubedislikesreturn_1.12.14_iphoneos-arm64e.deb
-Size: 25256
-MD5sum: 38aa0438fa17292e759df1bc02df4323
-SHA1: e630e5f3660e0da78af0fedab8cec11b9b8e5f38
-SHA256: 8c763bc4647bca756a245486fdd8007ca173ff24ba54bbf8bc9b2acca4daf713
-SHA512: 2f80fc73e826b19aa7459e0184399907fa7042c7ba1b99071b4dfea61a284d46cd76b2aa87991c78839fc8a125cca19be76e18e4abba69d19cb9af53d414a288
-Description: Bring Back Dislikes On iOS YouTube
-Tag: compatible_min::ios11.0
-Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
-Name: Return YouTube Dislike
-Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
-Depiction: https://chariz.com/get/return-youtube-dislike
-
-Package: weeb.lillie.youtubedislikesreturn
-Architecture: iphoneos-arm64e
-Version: 1.13.1
-Section: Tweaks
-Maintainer: PoomSmart and kirb <ytdislikesreturn@gmail.com>
-Installed-Size: 240
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Filename: ./debs//weeb.lillie.youtubedislikesreturn_1.13.1_iphoneos-arm64e.deb
-Size: 27336
-MD5sum: f38a2fe8d9a1bc9609d79e7736954c7c
-SHA1: e7caca4cf1b643d04b638b7069af67eb7ed75871
-SHA256: 162421965fbb66a6eb5de5c409090a9427a133eef34c2a5e3667d83e020ef4a4
-SHA512: 9ee0076a4fbbb0c35f307297b3d4bd0b28667a384e3eb11a89bdc011fecdede2b110c858c19f02514fe07df4d64de4beae2dd9583ff9471943cc698f2dc209d6
-Description: Bring Back Dislikes On iOS YouTube
-Tag: compatible_min::ios11.0
-Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
-Name: Return YouTube Dislike
-Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
-Depiction: https://chariz.com/get/return-youtube-dislike
-
-Package: weeb.lillie.youtubedislikesreturn
-Architecture: iphoneos-arm64e
 Version: 1.13.3
 Section: Tweaks
 Maintainer: PoomSmart and kirb <ytdislikesreturn@gmail.com>
@@ -8214,6 +8049,25 @@ Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
 Name: Return YouTube Dislike
 Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
 Depiction: https://chariz.com/get/return-youtube-dislike
+
+Package: xyz.cypwn.appdata
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Tweaks
+Maintainer: CyPwn
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs//xyz.cypwn.appdata_1.4.1_iphoneos-arm.deb
+Size: 7401044
+MD5sum: 8a778f0a47ab0b6b9192256ccb20cca9
+SHA1: ce8b28b2220ca32f6cdcb42b0f854744a81f19e2
+SHA256: cc8c68e46e4e5916d2a5b89408b468b6c03667d06e75b3a25e0c8c2f1c9bcbcc
+SHA512: 81efb09e2890b0414b36fa76032f0cd5d8a8b9a46f7ccf37edbc9a641e94941ed34dc64069624d19fccfcdd07832d2abd66eb04efc2dfd0bd4fc1bd398d3712d
+Description: View & Manage Applications Data from your Home Screen
+Depiction: https://repo.cypwn.xyz/depiction/1391
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1391
+Name: AppData
+Author: Fouad Raheb
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/appdata.png
 
 Package: xyz.skitty.ersatz
 Architecture: iphoneos-arm64
