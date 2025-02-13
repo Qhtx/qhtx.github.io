@@ -7302,6 +7302,28 @@ Depiction: https://apt.alfhaily.me/depiction/4EYOXC
 SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
 Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
 
+Package: me.alfhaily.rocket
+Architecture: iphoneos-arm64e
+Version: 3.8.31
+Priority: optional
+Section: Tweaks
+Maintainer: Rocket App <support@getrocketapp.io>
+Installed-Size: 6588
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs//me.alfhaily.rocket_3.8.31_iphoneos-arm64e.deb
+Size: 4419912
+MD5sum: a11f194893fa2706d072b98f4be22d9a
+SHA1: 18743a8c82210fca7cc6a888c28c52c3448bbe1a
+SHA256: c13d7702fcbe9817343706cded9886ac51ebddcaee0d25ee8a4d41e86bc0ca91
+SHA512: 8deed5bb0875c06fa4470b79528f7dbef1ab45a6183c1863f9d3596d6227a3375e7badec5e14d3b5651b512365381d3ee2acd99241e81785478b28f226db5b4a
+Description: Save posts and view stories anonymously and do much more
+Name: Rocket for Instagram
+Author: Rocket App
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+
 Package: me.ikghd.inkplus
 Architecture: iphoneos-arm64e
 Version: 2.4.32
