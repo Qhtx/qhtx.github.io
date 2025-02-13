@@ -5301,18 +5301,18 @@ SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/replaykitmax.js
 
 Package: com.ps.yougroupsettings
 Architecture: iphoneos-arm64e
-Version: 1.0.3
+Version: 1.0.4
 Section: Tweaks
 Maintainer: PoomSmart <unicorn03.glimmer@icloud.com>
-Installed-Size: 110
+Installed-Size: 115
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Filename: ./debs//com.ps.yougroupsettings_1.0.3_iphoneos-arm64e.deb
-Size: 5220
-MD5sum: 4ec5c23d6fd67ed7ad39b4a506e1047b
-SHA1: 32413adaeb31bc0c1b055e394081c3ce9215ddc3
-SHA256: a17397df5b26f619f89a50e21f252e19ee2ea97c593a40d11f6633a92ae1301d
-SHA512: 76fbfe99869ae4451de4af79eaebb2ad195ecfed657f66b24ece396155421d5b9b8ea2c2ca943c152af2a2dba30b2c63134995a9eea2c6843b6d77713cc67bdc
+Filename: ./debs//com.ps.yougroupsettings_1.0.4_iphoneos-arm64e.deb
+Size: 7464
+MD5sum: d30ce6b761ac4ddf433229e8fb05de36
+SHA1: b6bf9c977cfb1febf530f56a6583e468843ca670
+SHA256: 8f8c368b456138831b1b83bbc79f076927438fb9bc59a1727f7c06808350391c
+SHA512: b7bb076fccf24a5985b2b7755de1596086821246ac65ce6823d03de8910dff9fbcf468d225a1c2d10a4bb4b5505a9798c05204953c8e0a512bbae6ac80a2680e
 Description: Allow tweak-made settings to be grouped and displayed in iOS YouTube app.
 Tag: compatible_min::ios11.0
 Author: PoomSmart <unicorn03.glimmer@icloud.com>
