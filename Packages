@@ -1756,6 +1756,28 @@ Depiction: https://cydia.ichitaso.com/depiction/secretshot.html
 SileoDepiction: https://cydia.ichitaso.com/depiction/secretshot.json
 Icon: https://raw.githubusercontent.com/ichitaso/SecretShot/main/SecretShotPreferences/Resources/icon%403x.png
 
+Package: com.ethxnn88.visibleisland-arm64e
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: ethxnn88 <ethxnn88@gmail.com>
+Depends: firmware (>=16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: ./debs//com.ethxnn88.visibleisland-arm64e.deb
+Size: 43040
+MD5sum: b06303c372a4600ab15a9677ec43fb2b
+SHA1: 647417a3d54d2f3ada34b83bdff5758c6183a4f9
+SHA256: be5d60f46c053f2bb57d1dc2b293cfa3f73329b9ec650f69c4bfd5127862af2f
+SHA512: 85d82bc7d77d91645db533220642f28eb8cdb2bd647579525cf4526a9389f438f2f1f02ffd82af6bc13f792313536f51e3c3c70dfb02a6496d395ebbba184063
+Homepage: https://shuga.co/
+Description: Enable, fix, and customize the Dynamic Island on older devices.
+Name: VisibleIsland (roothide)
+Depiction: https://ethxnn88.github.io/repo/depiction/web/com.ethxnn88.visibleisland-arm64e.html
+SileoDepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland-arm64e.json
+ModernDepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland-arm64e.json
+Icon: https://ethxnn88.github.io/repo/assets/com.ethxnn88.visibleisland-arm64e/icon.png
+Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
+Author: ethxnn88 <ethxnn88@gmail.com>
+
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64
 Version: 7.10.0
@@ -3173,6 +3195,23 @@ Description: Quickly translate any text
 Name: Translomatic
 Author: FoxfortMobile
 Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+
+Package: com.gamegod.igg.roothide
+Architecture: iphoneos-arm64e
+Version: 0.4.5
+Section: Utilities
+Maintainer: iGameGod
+Installed-Size: 100412
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs//com.gamegod.igg.roothide_0.4.5_iphoneos-arm64e.deb
+Size: 17907010
+MD5sum: a9516e1f4f8827daac4ec0fc4a4f836a
+SHA1: 2ae7ec60eaf06018299bd6e49800194ff98f5f53
+SHA256: fd8b24fc89f3192fe7e36d6e43cb37e6f62984a5d2845e335cafdcf512a4e182
+SHA512: 20448f83b226405a09ba09eed5240ded9da998aff8d7fe3a6ef3573a1a94d40be0ef4c378276adf692527041298991329c1c825e8c565d25326a4de760d0a5c7
+Description: Be the god of your games!
+Name: iGameGod Roothide
+Author: iGameGod
 
 Package: com.gilshahar7.volumepercent
 Architecture: iphoneos-arm64e
