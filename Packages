@@ -3674,6 +3674,25 @@ Author: khanhduytran0
 Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
 SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
 
+Package: com.kingpuffdaddi.audiomix
+Architecture: iphoneos-arm64e
+Version: 0.0.10
+Section: Tweaks
+Maintainer: KingPuffdaddi
+Installed-Size: 15488
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs//com.kingpuffdaddi.audiomix_0.0.10_iphoneos-arm64e.deb
+Size: 37922
+MD5sum: fcf62f5d7d96182aa42164933703b159
+SHA1: b25d914679ab8260cffe881c33bb7a916fb79cc6
+SHA256: 924e4e2fbd94f6700e7425ff145fd6db376cecd9d647a02cbe291f5a09f9072f
+SHA512: ee735326d70f9982b1281c4d68d24dc4b953e482838b3265b16ec251146c400270e9f5dd26d62a24b242383af7a0bbb4018c77e1aac7ae1656bd4af2fcd0e690
+Description: Tweak to play two or more audio sources simultaneously. Doesn't work well with all apps! Sometimes the first audio still gets paused, so you will have to start it again.
+Name: AudioMix
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.audiomix
+
 Package: com.kingpuffdaddi.control-center.ccvpn
 Architecture: iphoneos-arm64e
 Version: 1.0.6
