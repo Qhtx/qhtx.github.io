@@ -2690,6 +2690,47 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
 Icon: https://i.imgur.com/XYZ1gmb.jpeg
 
+Package: com.fouadraheb.regram
+Architecture: iphoneos-arm64
+Version: 1.0~b22
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 11032
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs//com.fouadraheb.regram_1.0~b22_iphoneos-arm64.deb
+Size: 3042464
+MD5sum: 944ae1917cad19591ccdcec8a8679806
+SHA1: e1ed8421caf8fa6415dd029fcea16e06af468fbf
+SHA256: 6fb205b3aad742d6d3c2ed7ef050aaef16d78e771dc90f5645c5694d55197ec1
+SHA512: 280844d5645b333b27d1cec109578ee5c75290baf2f78a7a0405c2c73ea1c257955abdd8ba821c78d0fad0bdc7d730258f15f3b1eff1f1384aba8a8eeaf4992d
+Description: The all-in-one tweak for Instagram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+
+Package: com.fouadraheb.regram
+Architecture: iphoneos-arm64e
+Version: 1.0~b22
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 11032
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs//com.fouadraheb.regram_1.0~b22_iphoneos-arm64e.deb
+Size: 3031296
+MD5sum: a4fdc49c3a4ff1ac54c28dd1fe89c342
+SHA1: 1d1b53b17786a11885e03986129ece3cce707881
+SHA256: af26eb3c87d63fa830957f7ea607c55f7b228d8036dc928dea40a92b4d3e516c
+SHA512: 681f7a894fb4010afbfb73940b8537b939fa9f26086d65292f48ea3c1a0fff23b61c6f843a657956a02fb0e5a42572140430e366b265ffa5293338a5ef9b9321
+Description: The all-in-one tweak for Instagram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm
 Version: 1.2.42
