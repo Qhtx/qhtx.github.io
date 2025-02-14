@@ -531,17 +531,17 @@ Author: Bandar Alruwaili
 
 Package: com.bandarhl.bhtiktok
 Architecture: iphoneos-arm64
-Version: 2.3
+Version: 2.3.1
 Section: Tweaks
 Maintainer: dvntm
 Installed-Size: 1480
 Depends: mobilesubstrate
-Filename: ./debs//com.bandarhl.bhtiktok_2.3_iphoneos-arm64.deb
-Size: 481172
-MD5sum: 73df7fc61cf3d70ea5cc809dd4dda5b8
-SHA1: 40866ca3b1e80515c35131e863cd5a9b2c36aaf1
-SHA256: a97a6cffff7060b49a48e4e04ba8c942276b0d71ed2c04f6f77fb6a598ae258f
-SHA512: 8a89b83623923eadd2a4e012838cbfa89f57c52ecc988e743f08c07537f7a8adc30575ea18e0e6b1d566f84ec2f3e9db059a13d64cef19eb106a748d0ab671f7
+Filename: ./debs//com.bandarhl.bhtiktok_2.3.1_iphoneos-arm64.deb
+Size: 506252
+MD5sum: 3338a111f00493a32fd8450c21876e6f
+SHA1: 796734b5cb72f648491d8eda60cd468dad144cb2
+SHA256: 05f441bdbe9ebe80e64cb7b73b394554cf39c6ef096686a99247ef8927a90dd3
+SHA512: a407b454cad746cede8527713ce251ab44d8289350cf8965c0cb9fd46c722e992a2d2c95dc54fefde26e9bd67ab054c7f8500b1ab8c3b744828af4c91081167c
 Description: An awesome tweak fot TikTok!
 Name: BHTikTok Plus
 SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/test.json
@@ -550,18 +550,18 @@ Author: dvntm
 
 Package: com.bandarhl.bhtiktok
 Architecture: iphoneos-arm64e
-Version: 2.3
+Version: 2.3.1
 Section: Tweaks
 Maintainer: dvntm
 Installed-Size: 1480
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
-Filename: ./debs//com.bandarhl.bhtiktok_2.3_iphoneos-arm64e.deb
-Size: 474568
-MD5sum: 10d27a0b02c7a16538ca663feab64496
-SHA1: 2f47ca6715f214d038c7d7f6ed9c92a0a07a6292
-SHA256: a26fec05f5fbb5ef564dcc5026b5ca15a82586047a840627ad06daeed2e2b289
-SHA512: 2424d794ba8bc112fc5bca0ca709b1af69e44260c3571d3cfc347b11bf4e7202ef4c517410dd55c065949fe3e667c0eacfffc624ce876208d34b02ca807d7e26
+Filename: ./debs//com.bandarhl.bhtiktok_2.3.1_iphoneos-arm64e.deb
+Size: 498448
+MD5sum: eb7129253b2eb413d8de9da9cd5f99f0
+SHA1: 1856a8e17e42f8e7527695ef7748d9d168e13f64
+SHA256: bb127c345a104581da0b2f9c27440f1a7d938aeec8fda38e68886f94c538fa43
+SHA512: c79c027cb34297b1a59206d5eb03be558097e97a7c17334f5c606df003e12998c2b149e69347f1aa2e8d686a8f65c33706bef23393562f2013ef158272a0cd8b
 Description: An awesome tweak for TikTok!
 Name: BHTikTok Plus
 Author: dvntm
@@ -3975,231 +3975,6 @@ Description: Stop losing your jailbreak when your battery dies!
 Name: Sentinel
 Author: MegaDev
 Icon: https://media.havoc.app/620e286f62d8a0bb3788377a?w=1920&q=75
-
-Package: com.miro.libmiroshared
-Architecture: iphoneos-arm64
-Version: 1.0.1
-Section: Development
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 4932
-Depends: firmware (>=14.0)
-Filename: ./debs//com.miro.libmiroshared_1.0.1_iphoneos-arm64.deb
-Size: 716660
-MD5sum: 1ec8f1e8c9e32dc89464b9c4cc935668
-SHA1: 540453b3846f66f30c1a338679d52b7816e6a587
-SHA256: 073fcd393c14e2c08a5841883e0495551b0dab246dad6fcd07b45b1616fa2770
-SHA512: 562d3faecc678c51a477b82c75ad8d429f9dc3d09da7d6412050e91e257f859d93e7d1cb1caaf3560183c4f4b1d831426c0704a1d9e5e11db4afa6ff3c97fe97
-Description: Shared library for my tweaks.
-Tag: role::developer, compatible_min::ios14
-Name: libMiROShared
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
-Author: MiRO <tweaks_support@miro92.com>
-
-Package: com.miro.libmiroshared
-Architecture: iphoneos-arm64e
-Version: 1.0.1
-Section: Development
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 4932
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>=14.0)
-Filename: ./debs//com.miro.libmiroshared_1.0.1_iphoneos-arm64e.deb
-Size: 2552698
-MD5sum: bd09fd0dcdba98fba866b820dd523a43
-SHA1: 4725ac8913a4c88bb40ede9a5562f1a0521d0807
-SHA256: 9e18746879b9179778fc427a47300148f8617b57a84bf680b9c30e4a96d99bea
-SHA512: 18183e265adf183146df9968526c56acbe9242719b876cbaee4a4a9a0ef837189c9cef863e72bd62018724266b5bd98f8f303c7e6420642561a283b821bf4d0c
-Description: Shared library for my tweaks.
-Tag: role::developer, compatible_min::ios14
-Name: libMiROShared
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
-Author: MiRO <tweaks_support@miro92.com>
-
-Package: com.miro.libphonenumber
-Architecture: iphoneos-arm64
-Version: 1.1
-Section: Development
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 604
-Depends: firmware (>=14.0)
-Filename: ./debs//com.miro.libphonenumber_1.1_iphoneos-arm64.deb
-Size: 139676
-MD5sum: cd61d8c83e947719c242f2a69c6ee1e4
-SHA1: de1b127dac42a30bbf87a5fd4870d991b81caea9
-SHA256: eb731095145b467834c602f258ae08c984bfbe08d75940bc58521d358e05d75d
-SHA512: 25b82dc7fea67cf7a80cc1017e0ba000c3df61d92e5fe6d3a60027455d15b26a2911b7f61fe812ce0a5763258643ecafd72e28e5070c0774c4a3919bf2cdf71c
-Description: Google's phone number handling library.
-Tag: role::developer, compatible_min::ios14
-Name: libPhoneNumber
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.libphonenumber
-Author: MiRO <tweaks_support@miro92.com>
-
-Package: com.miro.libphonenumber
-Architecture: iphoneos-arm64e
-Version: 1.1
-Section: Development
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 604
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>=14.0)
-Filename: ./debs//com.miro.libphonenumber_1.1_iphoneos-arm64e.deb
-Size: 174870
-MD5sum: 2ff90c65bd59e3ed63681acc2f67def8
-SHA1: 215ac74933bd5972c363252e1b38d8a8d4741634
-SHA256: 081682a77f4f82c7a865a6528b4ae2d9245090e886a0e02faaf9581ab809bfc2
-SHA512: e81a57dbf35c78fb579605deace1a5cc22bb6b745cf626f18176d2e8f54ed4b936d31d6424acb8e80db5238e8754106ed544310f0f3ba6c50ccda9fb67d5ee2f
-Description: Google's phone number handling library.
-Tag: role::developer, compatible_min::ios14
-Name: libPhoneNumber
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.libphonenumber
-Author: MiRO <tweaks_support@miro92.com>
-
-Package: com.miro.uyou
-Architecture: iphoneos-arm64
-Version: 3.0.1
-Section: Tweaks
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 31200
-Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
-Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
-Filename: ./debs//com.miro.uyou_3.0.1_iphoneos-arm64.deb
-Size: 10948110
-MD5sum: 9eb39d64200461cb4f64e7ab47358ace
-SHA1: ff43999f2889dcd6a5ce4b21a174c1fd825ce289
-SHA256: 6ec9a970e059b6ae458eda958544af749d0c420d76d10ebbf73733b36204df92
-SHA512: 88fda1d6fe5f0acbce53d68a1d7798a62ad8f881a998563071d0d4c63f53792b3dde5b46377b2964279de7b6f89ede8aa5c132fd47bfbd1eba4dc351cf319cc3
-Description: The best tweak for the YouTube app
-Tag: purpose::extension, compatible_min::ios13
-Name: uYou
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
-Author: MiRO <tweaks_support@miro92.com>
-Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
-
-Package: com.miro.uyou
-Architecture: iphoneos-arm64e
-Version: 3.0.1
-Section: Tweaks
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 31200
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
-Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
-Filename: ./debs//com.miro.uyou_3.0.1_iphoneos-arm64e.deb
-Size: 10813888
-MD5sum: ce2d1ff2446fa48ab3af298b983156c1
-SHA1: e61099e935f897b906cec1baffcd6c8db61d2d87
-SHA256: 05761c4e1a29de45fea872db44701c1f124cba4c3c63cdc7d2e1fc03dd83828e
-SHA512: 59a59d585285c741a24c240d3332740922faeb24eba9e0dfbd7cd14bed4d3f584f2c3b4152d09c46c09c5ea63df6908f0c64049fd6e59e458b15d59faef6eb67
-Description: The best tweak for the YouTube app
-Tag: purpose::extension, compatible_min::ios13
-Name: uYou
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
-Author: MiRO <tweaks_support@miro92.com>
-Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
-
-Package: com.miro.uyou
-Architecture: iphoneos-arm64e
-Version: 3.0.3
-Section: Tweaks
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 31212
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
-Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
-Filename: ./debs//com.miro.uyou_3.0.3_iphoneos-arm64e.deb
-Size: 10815468
-MD5sum: dfa97f827de39a3f6ea1547fff5dc702
-SHA1: ae66f84d2c60a7022048dddb6952b6046052499b
-SHA256: 2e4461fa2ba737271e2621383efb901ac6c419baa5749dfebf4c127cd2c2b606
-SHA512: 00189f5fb6b742b51ba341b7b5ed421eaf065d40bdd174aa3c3cf917db03cce12e33dd65d9e2e953ed1797b36fb6b8fabd917792a32333eb26985d83cf0c7cef
-Description: Enhance Your YouTube Experience
-Tag: purpose::extension, compatible_min::ios13
-Name: uYou
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
-Author: MiRO <tweaks_support@miro92.com>
-Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
-
-Package: com.miro.uyouimport
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 444
-Depends: firmware (>=13.0), mobilesubstrate
-Filename: ./debs//com.miro.uyouimport_1.0_iphoneos-arm64.deb
-Size: 81376
-MD5sum: 583568c6e3b2215fd5d69da939f112b9
-SHA1: 582f9f84d000bb2b93b846c8e87226e778a5c19e
-SHA256: b7dd9822f4e7cf6a255eab72877d00229c86d648b50892419b96ed61b9b19bea
-SHA512: ad944dd6183770d2dc829bbac23c8f6e5b2e71eb28fbfdcfb760b17dcd9a23da4d8425a09b251747eae40b9787b85aff82285a361f7a3a77555689b5721ee356
-Description: Library for importing songs/videos into the Music app.
-Tag: purpose::extension, compatible_min::ios13
-Name: uYouImport
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
-Author: MiRO <tweaks_support@miro92.com>
-
-Package: com.miro.uyouimport
-Architecture: iphoneos-arm64e
-Version: 1.0
-Section: Tweaks
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 444
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>=13.0), mobilesubstrate
-Filename: ./debs//com.miro.uyouimport_1.0_iphoneos-arm64e.deb
-Size: 79708
-MD5sum: 37b659261a52babcef5f8dce51fbb4b0
-SHA1: 6c9498c83d6710f065b2eb1869b2cacf7ab76694
-SHA256: 89a08fa0c323cdc9097f7b54b7b9119b5646fcc7be58c4826b0d1c0523f45e7a
-SHA512: 84dea223eaac441d5451d354f5a52c0db550fb13c6f2bbd0327c6b484567fdf924bd98952ef04297c5087769de60eaa9d998a7a6ed46716c697c307496a15bae
-Description: Library for importing songs/videos into the Music app.
-Tag: purpose::extension, compatible_min::ios13
-Name: uYouImport
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
-Author: MiRO <tweaks_support@miro92.com>
-
-Package: com.miro.yellowpages2
-Architecture: iphoneos-arm64
-Version: 1.0.1
-Section: Tweaks
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 736
-Depends: firmware (>=14.0), mobilesubstrate, preferenceloader, com.miro.libmiroshared (>=1.0.1), com.miro.libphonenumber, com.opa334.libsandy
-Conflicts: com.iarrays.whoozit, ru.rejail.whoozit, com.miro.yellowpages
-Filename: ./debs//com.miro.yellowpages2_1.0.1_iphoneos-arm64.deb
-Size: 225324
-MD5sum: 3d796b7c78c0a0cdeb97e83622cf0f4f
-SHA1: 8494ca84a10f622bcbc776e7908ed087ae432a08
-SHA256: 67bd321305f423bb15f77c45e6a5693e281846bba4e550a6416e48a4bb202f75
-SHA512: 34eb64b52a36d100624c5e848bb72948626bc816aa383eecaeaf733ef404f542864c0212a8c5fc48283df16cddf8fe736c48ed96625e36b8e98184fb140592fb
-Description: Say Goodbye to Unknown Callers
-Tag: purpose::extension, compatible_min::ios14
-Name: YellowPages 2
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.yellowpages2
-Author: MiRO <tweaks_support@miro92.com>
-Icon: file:////Library/PreferenceBundles/YellowPages2.bundle/Header.png
-
-Package: com.miro.yellowpages2
-Architecture: iphoneos-arm64e
-Version: 1.0.1
-Section: Tweaks
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 736
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>=14.0), mobilesubstrate, preferenceloader, com.miro.libmiroshared (>=1.0.1), com.miro.libphonenumber, com.opa334.libsandy
-Conflicts: com.iarrays.whoozit, ru.rejail.whoozit, com.miro.yellowpages
-Filename: ./debs//com.miro.yellowpages2_1.0.1_iphoneos-arm64e.deb
-Size: 254804
-MD5sum: f0ea945cf484e712969c84dbe7fc2fc4
-SHA1: fdac1236135de96834f88a6ad27738da3bfea229
-SHA256: fe328ea4ce463118aac01c5426ffc777b57181a5c3b23c71ec342f0b9fecf670
-SHA512: 9ab11ed2b15849f75c7bed16936942f898d8b495ed0bad7394b0537cea1667e852e57227152c4c2b8084eae728b6d59cc8de92e3d936aa2a1f11ac51ef1a9165
-Description: Say Goodbye to Unknown Callers
-Tag: purpose::extension, compatible_min::ios14
-Name: YellowPages 2
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.yellowpages2
-Author: MiRO <tweaks_support@miro92.com>
-Icon: file:////Library/PreferenceBundles/YellowPages2.bundle/Header.png
 
 Package: com.mrgcgamer.libgcuniversal
 Architecture: iphoneos-arm64e
