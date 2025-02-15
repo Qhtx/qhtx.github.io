@@ -6682,11 +6682,11 @@ Installed-Size: 2472
 Depends: mobilesubstrate
 Replaces: dev.objcmsgsend.iota
 Filename: ./debs//dev.objcmsgsend.iota.ar_2.4_iphoneos-arm64.deb
-Size: 517200
-MD5sum: a7e57e01944b8911e0678af6e16f58d4
-SHA1: 3aaa523e862b0532b451f71b62ca615bdce820a1
-SHA256: d963f7bd8a5e8e372b72aa97c19fdf4fb8aa4db57afe82baa859a78f3ceecb66
-SHA512: 9365f50a363c9dd7fe8b9828492f5435b4ad7768bf1431a114cdc9afccca15aa21bc0712b1d2288f4e5d8eb1975991ff35568d636707a57987ef7c9163e1ac6e
+Size: 330196
+MD5sum: 2ec536672ef04b023a987ccdfe749e04
+SHA1: 206b343e6e40a93c1a9ce2cab4abd32fba1b7eb5
+SHA256: f7f63fd7f253d8325088f12e1fa1579d50401c2b1931cb60b4ecbaf8caa40910
+SHA512: 95e025f13842dd5d354b12625e551b4835dc8111a73ec08585498abf48c776189373897b7ea073cd63fba4f26142db9d0ea76464f47219a98dd304ab8a5cac37
 Description: A great Snapchat tweak 🥀.
 Name: iota ar
 Author: objc_msgSend
