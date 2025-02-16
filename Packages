@@ -3337,6 +3337,47 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: https://i.imgur.com/wdr3k2Z.jpeg
 
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64
+Version: 1.2.57
+Section: Tweaks
+Header: https://i.imgur.com/ffTbQHi.jpeg
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6388
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.6)
+Filename: ./debs/com.fouadraheb.watusi3_1.2.57_iphoneos-arm64.deb
+Size: 1923752
+MD5sum: e25e7ae834e9e02fb3bc4268a9bf1f26
+SHA1: 98ca7c3425a0830060988795e249f5a38be5ffa8
+SHA256: 0edfb1cc2bb3276ab415659677c65ea521d8c9da579b2693fb4c629224493b60
+SHA512: e20e3f743d6be8c398fd72dc1c54db38c5fb75e56d87d63b39ed719806103f1f731ba31963d6c1c739049f728049012ad3c0209ec2eb9f5b94babe0ada4cc75e
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64e
+Version: 1.2.57
+Section: Tweaks
+Header: https://i.imgur.com/ffTbQHi.jpeg
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6388
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.6)
+Filename: ./debs/com.fouadraheb.watusi3_1.2.57_iphoneos-arm64e.deb
+Size: 1906764
+MD5sum: 1820abef7a0f848e29352a11f1edf1bb
+SHA1: 1f01b0b385c8598500e2c81bbf79a06546b4e3a2
+SHA256: 92a41e0b47209c14cf866222b65e1b4b6be99bc75b66b46915c391fcf49f6169
+SHA512: 52f959db18b67ea196c22374dfa4dbc7b81e7d5dfe42492865e98d446a40513a2170632867e8704ee495c5d99b63a9ea7668ceba3277a08d91aedea97c3500dc
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
 Package: com.foxfort.foxforttools
 Architecture: iphoneos-arm64e
 Version: 1.4.13
