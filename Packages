@@ -2444,6 +2444,43 @@ Icon: https://i.imgur.com/0WYytkh.jpeg
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64
+Version: 2.5.6
+Section: Development
+Header: https://i.imgur.com/ffTbQHi.jpeg
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Filename: ./debs/com.f0u4d.watusitools_2.5.6_iphoneos-arm64.deb
+Size: 4643960
+MD5sum: 510ecef00145e096ebef78dbf5bc537d
+SHA1: 034ba3288e3236a7653c057f9d805f48b22f8864
+SHA256: 496e767b1ce23b157b8e9687b419b133785abba4f4ec9cf72b089e9ead8eb47a
+SHA512: 1029a1ef2f28025bdae8a55f2c3101d718e189fe8850ffd1a9ef1e5d4830beb412baffe86c6cb411a67f64acc115e1a48ce81f63df8c4d8c0445ab06e29d6615
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64e
+Version: 2.5.6
+Section: Development
+Header: https://i.imgur.com/ffTbQHi.jpeg
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0)
+Filename: ./debs/com.f0u4d.watusitools_2.5.6_iphoneos-arm64e.deb
+Size: 4623380
+MD5sum: 8d75352d6d636134fa00af13c0365949
+SHA1: 1c215a8d1a5193a7dc60af22fbd9327174ea1357
+SHA256: e817401acf42d23426508c3db3e990995257ec1975979fec6591b00926feee35
+SHA512: 4c0696a4d30b0cbfb96c1b797229a7aaef22554b29ff11267e98ec5707a9213cd0947047e1318dc7f918795a8c148093c3a6ab7f120aa8ed68494a351d8020a4
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
 Package: com.fiore.ccborder
 Architecture: iphoneos-arm64
 Version: 1.0
