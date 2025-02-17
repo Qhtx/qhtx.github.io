@@ -9,6 +9,7 @@ Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmwa
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Filename: ./debs/Flex3RootHide_beta92.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 19227992
 MD5sum: 943cf674091af33f0ab2af59cc56ba02
 SHA1: 621ef5dba8b862dc5aa9022a69291ea813b0c25d
@@ -31,6 +32,7 @@ Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified, ellekit (< 1.1)
 Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
 Filename: ./debs/ai.akemi.appsyncunified_116.0_iphoneos-arm.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 51658
 MD5sum: 536009a11dad57e48a5563224eaffaff
 SHA1: e0fa412cb3c26718887edd834804c88909297079
@@ -54,6 +56,7 @@ Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified, ellekit (< 1.1)
 Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
 Filename: ./debs/ai.akemi.appsyncunified_116.0_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 49472
 MD5sum: d6a31911e878b83e47c6525fa29ecef1
 SHA1: d00d2667c0d5421dddfc70a2734f1d63b972a535
@@ -78,6 +81,7 @@ Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified, ellekit (< 1.1)
 Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
 Filename: ./debs/ai.akemi.appsyncunified_116.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 101042
 MD5sum: 05dd50d3f941dbd68cd6970c346107b9
 SHA1: 28197b2c40462ad7668b60140700348472bdd0bb
@@ -100,6 +104,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Conflicts: app.catscript.pro
 Filename: ./debs/app.catscript.lite_1.4.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 15320372
 MD5sum: 944a02dbd3564b8a146791f4d53ef4cb
 SHA1: 113c34e8ba53b70eca4c75536d76637fc53af8af
@@ -118,6 +123,7 @@ Maintainer: @CrazyMind90
 Installed-Size: 364
 Depends: mobilesubstrate
 Filename: ./debs/cm90.crossoveripc_1.1-1+debug_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 15374
 MD5sum: f20b39388b84f1769f55ebd92956347e
 SHA1: 920583a16a7e1204d6f160f85f58ef0afe137019
@@ -136,6 +142,7 @@ Maintainer: zqbb
 Installed-Size: 804
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Filename: ./debs/cn.zqbb.disupdateapp_2.0.0-5_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 197444
 MD5sum: 04d6b87ceb58c087f03df09d14a5ead2
 SHA1: 1de50123feb4741061c9dee3b91e273da56b23fa
@@ -156,6 +163,7 @@ Maintainer: zqbb
 Installed-Size: 804
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Filename: ./debs/cn.zqbb.disupdateapp_2.0.0-5_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 193244
 MD5sum: b2e1e4ae1f5764f44cc899863d767faa
 SHA1: 9eacbd76d636a69dab4291b85100eab28c789f71
@@ -176,6 +184,7 @@ Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 936
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: ./debs/codes.aurora.kayoko_2.7_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 126294
 MD5sum: ef8bf34a3bf7d1e3c1f69e4fd2fc303b
 SHA1: ae04ce0726840ce0db94c567c56a3a33060c6e88
@@ -195,6 +204,7 @@ Installed-Size: 936
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: ./debs/codes.aurora.kayoko_2.7_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 176272
 MD5sum: 4c621c22dd0967104753b904f8723956
 SHA1: 38b9ea9a3343e046475c33def34ef28876867c3b
@@ -214,6 +224,7 @@ Installed-Size: 408
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: com.opa334.altlist
 Filename: ./debs/com.0xkuj.3dappversionspoofer_2.1.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 59192
 MD5sum: c4caf1f64b7c0e9be2ee0c929f4dfbba
 SHA1: fd1f7842a72db7101be9a9322dc62a1928c43919
@@ -233,6 +244,7 @@ Installed-Size: 384
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: jp.akusio.backgrounderaction15, com.opa334.altlist
 Filename: ./debs/com.0xkuj.backgrounderaction15autostate_1.0.3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 25040
 MD5sum: 0a2349dc0e597a8269af3615bcc3a98a
 SHA1: 4005ef707b7edd2c8176cf7dd98f6fb9bbe0f36c
@@ -252,6 +264,7 @@ Installed-Size: 172
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.0xkuj.blockwaupdates_1.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4608
 MD5sum: c79c7cd6841345b2c6ece2cc67598717
 SHA1: d883407290e0c3c63ebde2f99b5a84ebfa665245
@@ -276,6 +289,7 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: me.tomt000.copylog, firmware (>= 16.0)
 Filename: ./debs/com.0xkuj.copylogfix16_1.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 6288
 MD5sum: e268eb6bb5c3f353c6b4295b198b245c
 SHA1: 39693c9f14b9ba5dbf702cc86c7f9541ffa72565
@@ -294,6 +308,7 @@ Maintainer: 0xkuj
 Installed-Size: 240
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.0xkuj.filzadirprobe_1.6.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 35136
 MD5sum: 9d017f7a1a4296e3eab773db29e92d8e
 SHA1: 5a8aca69ea352cb3a354f8ee3a8f8f2883cd718b
@@ -313,6 +328,7 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 16.0)
 Filename: ./debs/com.0xkuj.nopastealerts16_1.0.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4000
 MD5sum: be21f52b902951b2389b8e7fff26904b
 SHA1: f1b3d141c3ebb7ce4de8e5e5705e55ff944b2c8c
@@ -332,6 +348,7 @@ Installed-Size: 908
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: ./debs/com.0xkuj.safarix_1.9.7_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 337920
 MD5sum: ca02bc2f5f24109995f45fc732fedb9c
 SHA1: 573261dcbcb284c8b19b72f24ead8720bb9d41d1
@@ -348,6 +365,7 @@ Maintainer: Little 34306
 Installed-Size: 2488
 Depends: mobilesubstrate
 Filename: ./debs/com.34306.messed_3.2_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 308140
 MD5sum: b0ad3c912f79badc944d60d88e5f8b6d
 SHA1: 6f84b14ceefac17ebe80103572fe26d89c60d287
@@ -364,6 +382,7 @@ Maintainer: Little 34306
 Installed-Size: 2488
 Depends: mobilesubstrate
 Filename: ./debs/com.34306.messed_3.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 308498
 MD5sum: 3e43e9d7125ce99562a7a7dcb04b77cf
 SHA1: c7ea3cf312fec8df5c5cb108aff6b0e21d382cdc
@@ -382,6 +401,7 @@ Maintainer: Little 34306
 Installed-Size: 152
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: ./debs/com.34306.replaced_1.0_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3094
 MD5sum: 9f36730b58f43f060d082b03b6f3ce32
 SHA1: 1d841504fbd18d9578b2ec260f47229b329f04a7
@@ -400,6 +420,7 @@ Maintainer: Little 34306
 Installed-Size: 152
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: ./debs/com.34306.replaced_1.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3052
 MD5sum: dc06e77e6126d9a06d31e7ad4ddb6485
 SHA1: 1f4c5e1d8a05eb3a12a6c64299491745244c2f6f
@@ -418,6 +439,7 @@ Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 412
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: ./debs/com.82flex.iconrestore_1.7_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 30460
 MD5sum: fd6409554b1bdbb3f7cc707147b1356f
 SHA1: 943d2e18477aaa2947f44e5e3e240eb2b4ed7728
@@ -436,6 +458,7 @@ Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 412
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: ./debs/com.82flex.iconrestore_1.7_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 30404
 MD5sum: 0aa2b5ce8fc9e254a9b0429393e88769
 SHA1: 765b7a1df88cbeb81c07c12ce709424f74465ff4
@@ -454,6 +477,7 @@ Maintainer: Alpha_Stream <alphastream113@gmail.com>
 Installed-Size: 494
 Depends: com.spark.snowboard, com.spark.snowboard.statusbar, firmware (>= 12.0)
 Filename: ./debs/com.alphastream.linearforsb_1.4.2-1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 222302
 MD5sum: 42509c450597a00759ec8cd719fff4a3
 SHA1: 789cd57b5c67ddd0775edb31815e00a5ed8cfa38
@@ -475,6 +499,7 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 509
 Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.creaturesurvive.libcscolorpicker
 Filename: ./debs/com.asterix.digitalbattery13_1.1.0_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 39320
 MD5sum: 2e8a6413d12396cad335936def79915a
 SHA1: 101ee53c8c964055207276611cb544f2caeeec55
@@ -500,6 +525,7 @@ Installed-Size: 509
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.creaturesurvive.libcscolorpicker
 Filename: ./debs/com.asterix.digitalbattery13_1.1.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 39372
 MD5sum: f317bd06df0a8688043e9863ff252f57
 SHA1: fe7d86423cd907d139b56b22118781126c610279
@@ -524,6 +550,7 @@ Maintainer: Bandar Alruwaili
 Installed-Size: 648
 Depends: mobilesubstrate
 Filename: ./debs/com.bandarhl.bhinsta_1.0.3_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 163092
 MD5sum: eb712799da6070094c0b713fdf582486
 SHA1: 05234d6d614f092699408fea1ef74951ba494d6d
@@ -545,6 +572,7 @@ Installed-Size: 648
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/com.bandarhl.bhinsta_1.0.3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 160724
 MD5sum: a4b89731eb3b55a94686984590c15c9a
 SHA1: 4f07acffa5663a3e04b86b723b42ba0109c39fd9
@@ -564,6 +592,7 @@ Maintainer: dvntm
 Installed-Size: 1480
 Depends: mobilesubstrate
 Filename: ./debs/com.bandarhl.bhtiktok_2.3.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 506252
 MD5sum: 3338a111f00493a32fd8450c21876e6f
 SHA1: 796734b5cb72f648491d8eda60cd468dad144cb2
@@ -585,6 +614,7 @@ Installed-Size: 1480
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/com.bandarhl.bhtiktok_2.3.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 498448
 MD5sum: eb7129253b2eb413d8de9da9cd5f99f0
 SHA1: 1856a8e17e42f8e7527695ef7748d9d168e13f64
@@ -604,6 +634,7 @@ Maintainer: Bandar Alruwaili
 Installed-Size: 6292
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/com.bandarhl.bhtwitter_4.3-5+debug_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1063488
 MD5sum: 521401c94c1bd3ab19a4dd0370cd875a
 SHA1: 127818d49a063faf60a45f8a7d530c3851ec0277
@@ -625,6 +656,7 @@ Installed-Size: 6292
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/com.bandarhl.bhtwitter_4.3-5+debug_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1035288
 MD5sum: a15bdb359d0bb0410068d74ddfd987c3
 SHA1: 10d49bf51648a9f70fd82fe568d49e27cb58ddf8
@@ -643,6 +675,7 @@ Maintainer: Brend0n <brendonjkding@126.com>
 Installed-Size: 216
 Depends: mobilesubstrate
 Filename: ./debs/com.brend0n.notransitcardversionlimit_0.0.2_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 7784
 MD5sum: c1edfcfe352a56e3e1073e7ab71d2778
 SHA1: c5f9f7ad347a16004136189ce0d9949b7e30e44a
@@ -664,6 +697,7 @@ Installed-Size: 216
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/com.brend0n.notransitcardversionlimit_0.0.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 10388
 MD5sum: 0c5cce9daa0e5f9b1dc750d02d7831c8
 SHA1: e9317a7bd0b3f9305d7cd07919a93f32acc210c9
@@ -685,6 +719,7 @@ Installed-Size: 660
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.bypassjb.sniper_6.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 69700
 MD5sum: eccdaa6b14d7451b27d4f2c7e8de54ba
 SHA1: 86d1e37a972a37a16bf6f5265c0c49563a6622c4
@@ -701,6 +736,7 @@ Section: Themes
 Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Cachetes <markosg26@gmail.com>
 Filename: ./debs/com.cachetes.col0rant_1.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 7670298
 MD5sum: c45b22c5d96f715cd67ecafbff2a4ef6
 SHA1: ec2f327f886adc97b3b7fbb5effc5caa7055d1ba
@@ -717,6 +753,7 @@ Section: Themes
 Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Cachetes <markosg26@gmail.com>
 Filename: ./debs/com.cachetes.oxyg3n_2.4_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 6345242
 MD5sum: 0a9465dfccea1a1c2f3a017af4837252
 SHA1: ec1caea25293112eb114ea2fc71e6bdadb2011cc
@@ -736,6 +773,7 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 416
 Depends: firmware (>= 8.0), com.opa334.libsandy, cm90.crossoveripc
 Filename: ./debs/com.cokepokes.libnotifications_0.3-6-1+debug_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 16700
 MD5sum: 4a5cf884d8997daa47553b3ed8475c2b
 SHA1: 72ebf69361a9cc528884fe72ee65a5b698a45ec9
@@ -760,6 +798,7 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 376
 Depends: firmware (>= 8.0), cm90.crossoveripc
 Filename: ./debs/com.cokepokes.libnotifications_0.3-6_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 15866
 MD5sum: 42ec30335286174767cdd893800eb12b
 SHA1: d1efd18082c8b0f804f86a6efe68a4fb0fa16c76
@@ -783,6 +822,7 @@ Installed-Size: 58953
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), ldid
 Filename: ./debs/com.crazymind90.appeditor_3.8.10.7_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 20003932
 MD5sum: 01fd8eabf7df6a7caf9b291ca5a39bbd
 SHA1: c08a50d220408e30e886384fcef5d1d0de75a94b
@@ -809,6 +849,7 @@ Installed-Size: 57664
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, ldid
 Filename: ./debs/com.crazymind90.appeditor_3.8.8_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 19602188
 MD5sum: 940969dd9d2a748d5a607d38ff161ee2
 SHA1: 5a9829d507adfa0ddc56c7c36f03c1d6f4ea6a49
@@ -830,6 +871,7 @@ Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 2332
 Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
 Filename: ./debs/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 333134
 MD5sum: bbb549941f13b83b158f0809e953214a
 SHA1: cefacbbd2ad0e7701c0708e919131c401cd50d8a
@@ -852,6 +894,7 @@ Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 2332
 Pre-Depends: rootless-compat(>= 0.9), firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
 Filename: ./debs/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 335124
 MD5sum: 70d2e29573a7dd74e2f8f0d43482a7ca
 SHA1: 9faf3ae23942c9100a5b8de230b9f3c842c116cc
@@ -877,6 +920,7 @@ Depends: com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
 Replaces: com.cpdigitaldarkroom.placeholder
 Filename: ./debs/com.creaturecoding.shuffle_1.6.2_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 253928
 MD5sum: f33bb228db1e0ab18083e59793928d80
 SHA1: 02d21ff03c51fa75df6282501597222526953f04
@@ -903,6 +947,7 @@ Depends: com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
 Replaces: com.cpdigitaldarkroom.placeholder
 Filename: ./debs/com.creaturecoding.shuffle_1.6.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 251648
 MD5sum: 4d116fa3f9f7023cf7d7df9b54a96e2b
 SHA1: 74f67656e2bc31dfaa9cc82509c57173d00cb814
@@ -928,6 +973,7 @@ Installed-Size: 1064
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
 Filename: ./debs/com.creaturecoding.tweaksettings_1.0.8_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 383672
 MD5sum: 152cc61ebeaa1ce2db0566af35dc1f09
 SHA1: 52fd271d3a121ea5832980cc8c358cb22a0b126c
@@ -950,6 +996,7 @@ Section: System
 Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0.6_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 149100
 MD5sum: b6d3bdbefc7cca1ed469185ab6320207
 SHA1: 6065572afb0561ce4f3762257b1cbc0d772f8d65
@@ -967,6 +1014,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0.6_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 144828
 MD5sum: 14448a0025e70c9bc6dd47a17333d58a
 SHA1: 2f8bee1e3f7395094c77c1ef5c580280c8395777
@@ -985,6 +1033,7 @@ Maintainer: CydiaAbdullah
 Installed-Size: 1116
 Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
 Filename: ./debs/com.cydiaabdullah.cacloud_2.1_iphoneos-arm.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 127064
 MD5sum: b9de53e610442f947557e25a029c50c0
 SHA1: e9104f44c709014f96af094bcf74df11a5ee858e
@@ -1003,6 +1052,7 @@ Maintainer: CydiaAbdullah
 Installed-Size: 1116
 Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
 Filename: ./debs/com.cydiaabdullah.cacloud_2.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 126332
 MD5sum: 45af490a2513bd3a7b50cf67f0272da6
 SHA1: 09e51145ea6354b2ae5d8b55555cc220dea0a58a
@@ -1022,6 +1072,7 @@ Installed-Size: 1116
 Pre-Depends: rootless-compat(>= 0.1)
 Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
 Filename: ./debs/com.cydiaabdullah.cacloud_2.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 159976
 MD5sum: e8dc26821285e2d059e4df98b9b9d019
 SHA1: effc71de29165f5b75a6fd5e10e0eda10bceb636
@@ -1041,6 +1092,7 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 173
 Depends: mobilesubstrate, firmware (>= 14.0)
 Filename: ./debs/com.cydiageek.noeditpages_1.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3212
 MD5sum: 45d492f5e85c9a0f1b173c275a26463f
 SHA1: ba516bb58d1777c62c407d9436c05ea46e6a596f
@@ -1066,6 +1118,7 @@ Installed-Size: 289
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 10.0)
 Filename: ./debs/com.cydiageek.nomoredisabled_1.0.2-1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4792
 MD5sum: 5a6b09f86d7ae48e2928a82cbc5ea320
 SHA1: 29fa63d11947a17c9b11cb7efc2a0cadadb0ba6f
@@ -1088,6 +1141,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Cyrex
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: ./debs/com.cyrex.epiphany_1.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1113998
 MD5sum: 5cb9f22d5ce5b7243b54dd625742d7ca
 SHA1: f31cc0c0151623878d473093e1e5e90b942e082f
@@ -1106,6 +1160,7 @@ Maintainer: Derek Calabro
 Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.dcproducts.iossecuritysuitebypass_1.0.0_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2508
 MD5sum: 3ef90ef91bca136ef5f92cb9f4706da4
 SHA1: 806a6ad9cea47a09c6c8dc92a2798ce619dd5f19
@@ -1128,6 +1183,7 @@ Installed-Size: 136
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.dcproducts.iossecuritysuitebypass_1.0.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3816
 MD5sum: 9bd46c050fad661748891b70126e38f6
 SHA1: e6500fb362bfe6a30f3e72d1486b3fb1fefc912a
@@ -1150,6 +1206,7 @@ Installed-Size: 240
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.igformat_0.0.1-162+debug_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 26452
 MD5sum: 13d64f05ef71ad8b233945e8e4179241
 SHA1: 4917b80e140f6d3d158880c2702bd0d61fb40c78
@@ -1169,6 +1226,7 @@ Installed-Size: 238
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.igformat_0.0.1-39_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 20196
 MD5sum: 2a9e93aec781a7a50ec5e00a75c6e03a
 SHA1: 480bb1bc03346de7863dfebbda5a49f2b65af579
@@ -1193,6 +1251,7 @@ Installed-Size: 372
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.igformat_0.0.9-1+debug_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 51048
 MD5sum: b9215450608833d1f9e4c7df4939a4e7
 SHA1: be6b6f8f311895c3ffceeb4f59e8ac5353e754fb
@@ -1212,6 +1271,7 @@ Installed-Size: 424
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.igformat_1.10-1+debug_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 55552
 MD5sum: 77d16697d862c4aeb364f876b419dd72
 SHA1: e41451093d261ccbe4fa1376c8a128420afa2450
@@ -1230,6 +1290,7 @@ Maintainer: MrDeNsor
 Installed-Size: 520
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.igformat_1.12-1+debug_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 73008
 MD5sum: 18c8f933e92e33278d15dfda8b479b8b
 SHA1: 04170abfd93bbd452685c1863488361d7b5ad669
@@ -1252,6 +1313,7 @@ Installed-Size: 624
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.igformat_1.14_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 145916
 MD5sum: 051ca15c263fa8a4fe230117b7d850d7
 SHA1: 90653910052a8256e7f107274f4ee8f30f4c4322
@@ -1273,6 +1335,7 @@ Maintainer: MrDeNsor
 Installed-Size: 716
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.igformat_1.16-1+debug_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 111860
 MD5sum: b6a06fb7a6adeffe1fa669597d07ed37
 SHA1: 9d5fe5052967762631ea91ce4eab860d551db3ab
@@ -1295,6 +1358,7 @@ Installed-Size: 912
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.igformat_1.19-1+debug_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 146064
 MD5sum: ec21913531265e4d52e8f938c1c35171
 SHA1: 78e11236d00e1af55e55d1b3f75a2785d02f5552
@@ -1316,6 +1380,7 @@ Maintainer: MrDeNsor
 Installed-Size: 980
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.igformat_1.20-2+debug_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 133272
 MD5sum: 24bbf5dd452c3120b7b5b854dde46938
 SHA1: 604d48351ce7348bbd1fed381c47e0979d7cc5e7
@@ -1337,6 +1402,7 @@ Maintainer: MrDeNsor
 Installed-Size: 1020
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.igformat_1.21-2+debug_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 141696
 MD5sum: 7e99b28adc98128b75968786a8fa1ffe
 SHA1: 6c1792acfdc2c2ed9ff4f5229500f0f429ccd35f
@@ -1358,6 +1424,7 @@ Maintainer: MrDeNsor
 Installed-Size: 1020
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.igformat_1.21-2+debug_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 136880
 MD5sum: f98cfb9fda9d0a6c28377de45cde1b0e
 SHA1: cfe1a0d19231dc32fcea78f099d98497678f80f7
@@ -1380,6 +1447,7 @@ Installed-Size: 1020
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.igformat_1.69-41_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 136432
 MD5sum: dc2ca396cfd6adea7e9bc381bb5e307e
 SHA1: 5938668896e2746c6e1436c722dcdd3d0e26a74a
@@ -1401,6 +1469,7 @@ Maintainer: MrDeNsor
 Installed-Size: 1112
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.igformat_1.70-1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 157772
 MD5sum: 477979e53f61c13675d7dae0079b54b5
 SHA1: 27ba7da4a179d12fab6ead2b07854bde9ac540b1
@@ -1423,6 +1492,7 @@ Installed-Size: 1079
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.igformat_1.70-1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 153012
 MD5sum: 3ffdbdc311895edebeebe0a27ea03ae5
 SHA1: deb6e8f8b29fdb2b2dca141ec86ac5e56c86a6c5
@@ -1444,6 +1514,7 @@ Maintainer: MrDeNsor
 Installed-Size: 1192
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.igformat_1.71-1+debug_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 187434
 MD5sum: ec3f6ee8beaf25cbbde6a1e8d96118ec
 SHA1: 558b381ee1a440a3d028ad9df404ff255184efae
@@ -1466,6 +1537,7 @@ Installed-Size: 1192
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.igformat_1.71-1+debug_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 262876
 MD5sum: a7446aea1fc05ced8ec417d2a052798c
 SHA1: b8e701214c04a1888f47fbe6db5ef5a77a88b3e8
@@ -1487,6 +1559,7 @@ Maintainer: MrDeNsor
 Installed-Size: 180
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.locktouchx_1.1-8+debug_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 13596
 MD5sum: 203141120041cc0273cb6c1ce3f01bb9
 SHA1: add23868d17372f11299b02a235845cde76ab7fd
@@ -1506,6 +1579,7 @@ Installed-Size: 180
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.locktouchx_1.1-8+debug_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 17276
 MD5sum: 2358ea4cd18bc205cb18bda23a2749f8
 SHA1: 90b4c1d586ea0a0731a191e3cec11974cbc722ab
@@ -1525,6 +1599,7 @@ Installed-Size: 180
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.shortcutx_0.0.1-1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 14404
 MD5sum: 1585861720e4716c6f3237f14799b045
 SHA1: f98de859ed7fdac89634ce23935841642d665354
@@ -1548,6 +1623,7 @@ Maintainer: DhinakG
 Installed-Size: 120
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/com.dhinakg.addprofileinstallbutton_1.0.2_iphoneos-arm.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 7538
 MD5sum: 5cea42f70a500621a8ee1e534b51f512
 SHA1: 022b8879c1ab66c64edf06de704c6a7060001c4a
@@ -1566,6 +1642,7 @@ Maintainer: DhinakG
 Installed-Size: 120
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/com.dhinakg.addprofileinstallbutton_1.0.2_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 7840
 MD5sum: 8db48a47e331f914cf56fa3545d05983
 SHA1: 8d84c01fa3b3e28ada10c8d61a52fb2db4e0f9b4
@@ -1584,6 +1661,7 @@ Maintainer: DhinakG
 Installed-Size: 120
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/com.dhinakg.addprofileinstallbutton_1.0.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 9176
 MD5sum: 2b42d57d8fae97b5a4e78a904fe8b9d8
 SHA1: ddaf39740236c9af4ec543714ee7c29a8880a118
@@ -1602,6 +1680,7 @@ Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
 Filename: ./debs/com.dvntm.cc18_0.0.2_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4358
 MD5sum: 962b6adfb1596b392cabeb4fb6ad8aa6
 SHA1: 50cd3b662f1819c403828b5ab704f41f816e2572
@@ -1620,6 +1699,7 @@ Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
 Filename: ./debs/com.dvntm.cc18_0.0.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4294
 MD5sum: 289ed9620f73f5112bf20d7b6e2cc46c
 SHA1: 731e017f13c7beda1c342cb583b0d63eae201a4c
@@ -1638,6 +1718,7 @@ Maintainer: dvntm
 Installed-Size: 264
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.dvntm.cmm_1.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 33948
 MD5sum: 8ab233b7c0a0ae3fc50b1a81d66f7620
 SHA1: 84e543f8c3c53d911a88ee06855ccd99d3636331
@@ -1658,6 +1739,7 @@ Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.dvntm.esignalert_0.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3532
 MD5sum: 31b5037d355e1d0e0e6d410e920295d2
 SHA1: 1a87926dc44bb24fb59ef8b98bfeea1407c389a1
@@ -1676,6 +1758,7 @@ Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.dvntm.oledkeyboard_0.0.3_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4756
 MD5sum: fd51d52423dfc6971f349eb5432474fe
 SHA1: f688fed54b7ac984dfeff0824dd09680906cfcc1
@@ -1696,6 +1779,7 @@ Installed-Size: 152
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.dvntm.oledkeyboard_0.0.3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 6354
 MD5sum: dc69b4c1384d9594a51a93f52bc96eba
 SHA1: aae6cd91265d32dc732d8546d84bc6c6694ca5bc
@@ -1715,6 +1799,7 @@ Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.dvntm.ratebegone_0.0.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3252
 MD5sum: 212b5a6765b8300478dacc3cc278bd6a
 SHA1: 89729705fe7d2cfbac362e0030deeed93bdb7991
@@ -1735,6 +1820,7 @@ Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.dvntm.ratebegone_0.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3176
 MD5sum: 1e96b688f65ce9ea233a4efae7ecddfe
 SHA1: 686f2122e5e2f09f1c6eb93bad924c70e1afb4ee
@@ -1755,6 +1841,7 @@ Maintainer: dvntm
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.dvntm.safariii_0.0.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2862
 MD5sum: 8e865c406486e63ad3f69a43c057b497
 SHA1: 2ae1b2ff2e1bda54b2e4590eae12195ccd0a1e00
@@ -1773,6 +1860,7 @@ Maintainer: dvntm
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.dvntm.safariii_0.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2800
 MD5sum: efd79bde9da976d9d4a4b29b3ef10c15
 SHA1: 4ddadaa4b69833af20fa4851eb911b3edcf54b09
@@ -1791,6 +1879,7 @@ Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/com.dvntm.silentnotifs_0.0.2_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3852
 MD5sum: a9db8e137654f5b39eeb62905df47253
 SHA1: e3198d3d3e5ed4a5e62fdc33c239caadec0cac67
@@ -1812,6 +1901,7 @@ Installed-Size: 152
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/com.dvntm.silentnotifs_0.0.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3656
 MD5sum: 5d587df9382de3f621d0b19e507ced5f
 SHA1: 3a504b4f5b97f01a6c74bf1994e4b374e927b3c8
@@ -1830,6 +1920,7 @@ Maintainer: dvntm
 Installed-Size: 16344
 Depends: mobilesubstrate
 Filename: ./debs/com.dvntm.ytlite_5.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 6182104
 MD5sum: e35f08aa8c4f5be01291059b892eeea6
 SHA1: 7a744a32a1c6ebb92f6e1cb0d108b20ea3d4a3fb
@@ -1850,6 +1941,7 @@ Maintainer: dvntm
 Installed-Size: 16344
 Depends: mobilesubstrate
 Filename: ./debs/com.dvntm.ytlite_5.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 6176040
 MD5sum: 5881c597abb3e563658aeec523844369
 SHA1: 25cc53973ac84efa1ba16b0afcdbaf26663369a0
@@ -1870,6 +1962,7 @@ Maintainer: ichitaso
 Installed-Size: 412
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.eamontracey.secretshot_1.1.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 44806
 MD5sum: d2f8802f1a47f1f59a5de28e18b08a54
 SHA1: 12a73c962ceb57d91f954e1afa9dfee0d1336b4e
@@ -1890,6 +1983,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: ethxnn88 <ethxnn88@gmail.com>
 Depends: firmware (>=16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
 Filename: ./debs/com.ethxnn88.visibleisland-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 43040
 MD5sum: b06303c372a4600ab15a9677ec43fb2b
 SHA1: 647417a3d54d2f3ada34b83bdff5758c6183a4f9
@@ -1915,6 +2009,7 @@ Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1259402
 MD5sum: 6bf10790aabb8bf265fd84726c967a9b
 SHA1: d0c239d59f2a9d4aa291e9048fc4614c7db59dce
@@ -1938,6 +2033,7 @@ Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2500518
 MD5sum: bb1826e6af958907109933ad586eab2f
 SHA1: c917607a10aaa056a2f9e0d52f10ed97bd16ab4d
@@ -1960,6 +2056,7 @@ Installed-Size: 700
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
 Filename: ./debs/com.f0u4d.onlinenotify_3.4.10_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 188096
 MD5sum: 9787920815c73d78fad1b37c0437368b
 SHA1: da43b4db9fee37b691ac7479cb4376fa2dc21f7a
@@ -1981,6 +2078,7 @@ Installed-Size: 700
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.43)
 Filename: ./debs/com.f0u4d.onlinenotify_3.4.11_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 184108
 MD5sum: 25e86ff6d130e4efff8d9869cc40669e
 SHA1: f46f5e18104c000b44edb8133d484bf3c226a44f
@@ -2002,6 +2100,7 @@ Installed-Size: 684
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.0)
 Filename: ./debs/com.f0u4d.onlinenotify_3.4.13_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 183412
 MD5sum: af823aa1c534ef5478e4945223edf51e
 SHA1: 9515e9d3897f5acff5e7dd60b894dee9e5f85ae3
@@ -2023,6 +2122,7 @@ Installed-Size: 700
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
 Filename: ./debs/com.f0u4d.onlinenotify_3.4.9_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 184088
 MD5sum: 1478c67f5f029fe7ac8cb124e12b25c5
 SHA1: fff1d13bb8a70269f43433123c8766dbf8e4f37d
@@ -2045,6 +2145,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
 Enhances: WhatsApp
 Filename: ./debs/com.f0u4d.stalky_4.1.31_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1580108
 MD5sum: 4a71a5eea8ebed93dd51209b2855dd76
 SHA1: a949331e1da483219653b90f5a97b11b65ef5ace
@@ -2066,6 +2167,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
 Enhances: WhatsApp
 Filename: ./debs/com.f0u4d.stalky_4.1.32_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1613100
 MD5sum: 75fb0340adf130fd9538fc177f1bcb89
 SHA1: 9046ea6538861ab6eec0e15a84b51edbda508146
@@ -2087,6 +2189,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.43)
 Enhances: WhatsApp
 Filename: ./debs/com.f0u4d.stalky_4.1.33_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1579812
 MD5sum: 28f615684edd1c700a37afc5a8e97fa0
 SHA1: b2a71c767df2061b43e2c90a208bff910d18f9c7
@@ -2108,6 +2211,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.3)
 Enhances: WhatsApp
 Filename: ./debs/com.f0u4d.stalky_4.1.35_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1577272
 MD5sum: 1a0130d65b05b46ea7fd10d15f8e0d93
 SHA1: 8bf0bee5ca8043a103225a2e0e3fd889f113ba06
@@ -2130,6 +2234,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.4)
 Enhances: WhatsApp
 Filename: ./debs/com.f0u4d.stalky_4.1.36_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1577532
 MD5sum: 82b9c40d9c6f207bbee911c2ca7f19d1
 SHA1: 991ecd47ea62150e813c7b3f3e40c9ecde6e3f70
@@ -2152,6 +2257,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.5)
 Enhances: WhatsApp
 Filename: ./debs/com.f0u4d.stalky_4.1.37_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1578040
 MD5sum: b9f42555e6cf820e44d9348d0677b3b1
 SHA1: 70b885fd9edf0a1fea52836184d12cdbb07267fd
@@ -2171,6 +2277,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 14.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.38_iphoneos-arm.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4496744
 MD5sum: 6184ee43b550d078a7f4906d3044a4f5
 SHA1: 795d5645fa264af28df45446c9c9cb1720a0ff8a
@@ -2189,6 +2296,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.40_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4498516
 MD5sum: e0f89c551894b8dedda2f6480132b74e
 SHA1: 448d1fa303aa1bbb7bb90b773e606ed4cf6dab2e
@@ -2208,6 +2316,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.40_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4497396
 MD5sum: afd6a1734ff9a8bb7160258ea2595ec7
 SHA1: 378c9e2e5aac37a6de1544a4b7f404c187b66142
@@ -2226,6 +2335,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.45_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4898432
 MD5sum: 6ee5622f080820091a0df827166e965f
 SHA1: 1c9ae9202e36d842c573ed48ecfec6eb948c6364
@@ -2245,6 +2355,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.45_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 13219208
 MD5sum: 31da57ecf1e97d25c3e09e81a758431f
 SHA1: 70e963a4c4bbc697916baf63bfc0185116934fcb
@@ -2263,6 +2374,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.46_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4899432
 MD5sum: 214422482c733a270e6e8e997a8e83ca
 SHA1: 7cd515e3fee33d338707dc15185effa2d576465e
@@ -2282,6 +2394,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.46_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4875272
 MD5sum: ca64d466fb1837177f2b9a27ba73fae8
 SHA1: 394ab21f1a261271801aa96c7141ebb6a7c56ce6
@@ -2300,6 +2413,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.47_iphoneos-arm.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4874076
 MD5sum: 3d252eb825ab31e72c8ed6d850eef3c7
 SHA1: e45644aaf06f0613aecd44003d74274a094a444d
@@ -2318,6 +2432,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.47_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4899608
 MD5sum: 90ba916c938d6f0901f6e879707f3b0d
 SHA1: 73e5555a85f1e1154424bfc89ddcca5b968572fb
@@ -2337,6 +2452,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.47_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4876948
 MD5sum: f3df07ba9a8418fbc991538a47fd06fc
 SHA1: a72885847c6003e964634e88548e0a0acf4a0cc7
@@ -2356,6 +2472,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.5.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 5004648
 MD5sum: 77b641ad200e947ad2f056db09d46bf5
 SHA1: 7e769a25cb08dd701d797cb4bcc51bc9a2950998
@@ -2374,6 +2491,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.5.3_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4600500
 MD5sum: f20682f360dd24451093e5fc1b8c2f5f
 SHA1: 391695c4c4aef0aec85107758403e8ca33660adf
@@ -2393,6 +2511,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.5.3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4575624
 MD5sum: 0ff08927864b7670af0b924d603c7d19
 SHA1: 6d9f37163274fb75ab61638b34eece8eb28b7217
@@ -2411,6 +2530,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.5.4_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4633380
 MD5sum: 26fb315245c04a03197ecbbb4d0f9fb7
 SHA1: 27465f0a936371e34b073ecbd98f674b08bf8abb
@@ -2431,6 +2551,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.5.4_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4605968
 MD5sum: dfde41e06bc599c5c6d36e65ee23f94a
 SHA1: f835915a758f7e70420707447e5e66f1bb992b7e
@@ -2450,6 +2571,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.5.5_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4613932
 MD5sum: 0377fee8362f6dfa7f2efcf58edf7e73
 SHA1: 4721f665575cf1c4cd7964eb3d76c8afdd2cb796
@@ -2470,6 +2592,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.5.5_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4586720
 MD5sum: 76ed6ca1149fd2bcce306217eb76419e
 SHA1: b4e04c9bfa795b33b32991802d401b4d1794d09d
@@ -2489,6 +2612,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.5.6_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4643960
 MD5sum: 510ecef00145e096ebef78dbf5bc537d
 SHA1: 034ba3288e3236a7653c057f9d805f48b22f8864
@@ -2508,6 +2632,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.5.6_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4623380
 MD5sum: 8d75352d6d636134fa00af13c0365949
 SHA1: 1c215a8d1a5193a7dc60af22fbd9327174ea1357
@@ -2527,6 +2652,7 @@ Maintainer: fiore
 Installed-Size: 168
 Depends: mobilesubstrate, firmware (>= 14.0)
 Filename: ./debs/com.fiore.ccborder_1.0_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 5848
 MD5sum: 60d6bc31c4e48b10e1377eb7704f76a7
 SHA1: fb8469bc8eb29a7a3aa4254a9bd358e1fce7d888
@@ -2546,6 +2672,7 @@ Maintainer: fiore
 Installed-Size: 168
 Depends: mobilesubstrate, firmware (>= 14.0)
 Filename: ./debs/com.fiore.ccborder_1.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 5808
 MD5sum: 2efef31b084c69a98b67d253be031b62
 SHA1: 69d3ea3ad26077773a3de80ed7c0bbed823c4531
@@ -2565,6 +2692,7 @@ Maintainer: FissionDev
 Installed-Size: 468
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0)
 Filename: ./debs/com.fissiondev.uranium_1.2.7_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 38516
 MD5sum: 380018fcd3aea541b41ca19cfaa0c30b
 SHA1: 60683c559d63968f4eb929a0cf30e03589ff1012
@@ -2585,6 +2713,7 @@ Installed-Size: 468
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0)
 Filename: ./debs/com.fissiondev.uranium_1.2.7_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 37292
 MD5sum: ea7ee4babb0eee1b3932232fee015715
 SHA1: 471d0275fbc215b690fd77cb8ef35deb1b22ed5a
@@ -2606,6 +2735,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Conflicts:
 Filename: ./debs/com.fouadraheb.appdata_1.4.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 111420
 MD5sum: 1b7be8fb17ccb56a4572b9adb338b970
 SHA1: 7bf183dcaedcb23c98fc13725729734f6d279622
@@ -2628,6 +2758,7 @@ Installed-Size: 620
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
 Filename: ./debs/com.fouadraheb.contactsync_1.1.10_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 114692
 MD5sum: 045e4cb0e6eea8fee4e283eb12bd6d3f
 SHA1: 5ecb3b2cc6cbc54b3a7456349324d3b2e2663044
@@ -2650,6 +2781,7 @@ Installed-Size: 620
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
 Filename: ./debs/com.fouadraheb.contactsync_1.1.12_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 120004
 MD5sum: 1f796b3009a4bbc1e6a741a9aec4f362
 SHA1: 97c6564bbf6b8dffea83d88bf14e6717746a3c13
@@ -2672,6 +2804,7 @@ Installed-Size: 620
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.43)
 Filename: ./debs/com.fouadraheb.contactsync_1.1.13_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 116608
 MD5sum: 51f3eaeba9efec6da4b6ce6c0bd9ceeb
 SHA1: 53f410b697386598fd311ebe8e8a9ae7c66d87f1
@@ -2694,6 +2827,7 @@ Installed-Size: 600
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.0)
 Filename: ./debs/com.fouadraheb.contactsync_1.1.14_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 115984
 MD5sum: 7675f63b95e9e2508bfa16e752c94fcb
 SHA1: bcd96213fd98e7037c5c66f11d739d971abe182f
@@ -2716,6 +2850,7 @@ Installed-Size: 6252
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.39)
 Filename: ./debs/com.fouadraheb.regram_1.0~b14_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1343752
 MD5sum: fc3997803ffc49a7677ddc23fa988f38
 SHA1: a9e88a3bfb9112df16041bfcb9b7989308fd39ee
@@ -2737,6 +2872,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6252
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.39)
 Filename: ./debs/com.fouadraheb.regram_1.0~b15_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1331968
 MD5sum: bcb7753a9156daeeca55ec369ae76299
 SHA1: 28b748dae7ee0137c664b4ddf5e4147aa01d720d
@@ -2759,6 +2895,7 @@ Installed-Size: 6252
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.39)
 Filename: ./debs/com.fouadraheb.regram_1.0~b15_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1343684
 MD5sum: b8b8972f9410e693f49a4572d7ec097a
 SHA1: 4dd0c820e4c748679e074c806440a23238911f65
@@ -2781,6 +2918,7 @@ Installed-Size: 6284
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.44)
 Filename: ./debs/com.fouadraheb.regram_1.0~b17_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1353576
 MD5sum: 0e8d60583bb064082c87f31bb5ca6682
 SHA1: 29375b566dbe40bb06a76bb7b525f06467bb7d5a
@@ -2802,6 +2940,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6284
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.46)
 Filename: ./debs/com.fouadraheb.regram_1.0~b18_iphoneos-arm.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1353992
 MD5sum: c32cd45e05577ba2b0c7fbbca95700c4
 SHA1: c0a599f3b5b794e797471446cc157bccec0533b0
@@ -2823,6 +2962,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6284
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.46)
 Filename: ./debs/com.fouadraheb.regram_1.0~b18_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1355908
 MD5sum: f61c44afeb2c0ecc0ec5f2caff4031ff
 SHA1: 9087f5504631a63651f0471d0c63bb563e32a853
@@ -2845,6 +2985,7 @@ Installed-Size: 6284
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.46)
 Filename: ./debs/com.fouadraheb.regram_1.0~b18_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3705552
 MD5sum: cc5a6762ec13a2748b0f77a9a6f788ca
 SHA1: 51627416373b26c6672563e12d327d12cd7a7471
@@ -2867,6 +3008,7 @@ Installed-Size: 10636
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.fouadraheb.regram_1.0~b20_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2939948
 MD5sum: 661058326eb584b9e12d473e4c254670
 SHA1: 3a9ed518ee9d3868a18fd0a67f86cd09d8015700
@@ -2889,6 +3031,7 @@ Installed-Size: 10756
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.fouadraheb.regram_1.0~b21_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2972564
 MD5sum: f9e6c32ad90cf91d595c1ac22ec3cf6f
 SHA1: 15b3695f6849765d6817d19b60c0ec128ed93c90
@@ -2910,6 +3053,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 11032
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.fouadraheb.regram_1.0~b22_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3042464
 MD5sum: 944ae1917cad19591ccdcec8a8679806
 SHA1: e1ed8421caf8fa6415dd029fcea16e06af468fbf
@@ -2932,6 +3076,7 @@ Installed-Size: 11032
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.fouadraheb.regram_1.0~b22_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3031296
 MD5sum: a4fdc49c3a4ff1ac54c28dd1fe89c342
 SHA1: 1d1b53b17786a11885e03986129ece3cce707881
@@ -2953,6 +3098,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 7208
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.37), com.muirey03.libmryipc
 Filename: ./debs/com.fouadraheb.watusi3_1.2.42_iphoneos-arm.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2194972
 MD5sum: 5a4c54da8482a369fcb710cac88b11d9
 SHA1: 9acfdf91d3ea056c378107a29b5668e5c87b016a
@@ -2973,6 +3119,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6660
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.37)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.42_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1974512
 MD5sum: 323989f6aeecaa612675bf5f9583b557
 SHA1: df1cb9e97731a7085fb5a7f2f0c740794252d6d7
@@ -2994,6 +3141,7 @@ Installed-Size: 6660
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.37)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.42_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1956848
 MD5sum: 2ef9e84b1b4128644ce181efdb5432ea
 SHA1: 8d470591bc315b57f93b7085a5fe9999983287d5
@@ -3014,6 +3162,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6688
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.44_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1978412
 MD5sum: bf8f29e7a627ebd8121e9e3540cd95c9
 SHA1: 987e986b3dc4c174e9203fac3fdb9445d7927673
@@ -3035,6 +3184,7 @@ Installed-Size: 6688
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.44_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1961212
 MD5sum: 729ab97afb79b44ce64e2cb97ca44c2d
 SHA1: 43fba194e2d22ed5d68ebf4c1fffe59b96f20fc1
@@ -3055,6 +3205,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6688
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.45_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1978116
 MD5sum: a754ec6bca78b18958d64b133c64e109
 SHA1: a53b1b7cf3c57299baf2acc4ced6ae720c00ea14
@@ -3076,6 +3227,7 @@ Installed-Size: 6688
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.45_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1961140
 MD5sum: a179d229b134853d31dcd90525d92db3
 SHA1: ef406e807b27424dc6d24f562cae3c042ab23c85
@@ -3096,6 +3248,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6672
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.44)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.48_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1978912
 MD5sum: 4a27317fff49f6e63f2b30fc93b5a23a
 SHA1: 4c0e974cdd0886421231eb65ad6d86033f3304b7
@@ -3117,6 +3270,7 @@ Installed-Size: 6672
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.44)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.48_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1962192
 MD5sum: 8761f491ca8d5b42cdf4243e6acc190b
 SHA1: 6c810f5961f1b5460bd509a895400e90ae874c34
@@ -3137,6 +3291,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6492
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.46)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.49_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1941924
 MD5sum: 52712b46184a72a409b30062f706cdf4
 SHA1: 4e9601311a6319d3db0102bbbace713c5be3d68b
@@ -3158,6 +3313,7 @@ Installed-Size: 6492
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.46)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.49_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4691422
 MD5sum: 2bf0566bda6bf907723ca4e94351c7bb
 SHA1: b80b78a9c73bb444c2a41fddf5d5b24200debdae
@@ -3178,6 +3334,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6492
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.47)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.50_iphoneos-arm.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1927044
 MD5sum: bb988ff53169badd352007f9dfa41247
 SHA1: 29467bcd0f8074ce824eb58dadc92ef3c87c5043
@@ -3198,6 +3355,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6492
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.47)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.50_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1942692
 MD5sum: 4ea184c521fa6e08aa27f931e087ab2a
 SHA1: 499cddeea78b690bbcce17fec479e8b2b76b94d1
@@ -3219,6 +3377,7 @@ Installed-Size: 6492
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.47)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.50_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4691552
 MD5sum: b1134ac1e2c34fccafd07d5875fc733a
 SHA1: 163cb21870be0db6be06a7e5af7160798d52be93
@@ -3240,6 +3399,7 @@ Installed-Size: 6440
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.0)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.52_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1917588
 MD5sum: ce23fed6f7baab1a222c5ca91b8c412a
 SHA1: f9c74dba9554cede5d63dde936240dac6a824204
@@ -3260,6 +3420,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6440
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.3)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.53_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1934412
 MD5sum: f639b9e745edeac1db0811047b3eea0e
 SHA1: 37d8f4704cd3404477d31172bb354a1c069072b0
@@ -3281,6 +3442,7 @@ Installed-Size: 6440
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.3)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.53_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1918376
 MD5sum: e9ce5d616dbb816b57fc6657bbceda22
 SHA1: 70b871344d4ba91fd72b3fb508fc6c03e2614b29
@@ -3301,6 +3463,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6388
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.3)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.54_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1921380
 MD5sum: ece38c98e6046150761fbe865da43f24
 SHA1: f702b03988d156f754b8c66c2f8a99e0f68fa13c
@@ -3322,6 +3485,7 @@ Installed-Size: 6388
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.3)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.54_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1905560
 MD5sum: eda4e16da426f913bae7e56bf5b459bf
 SHA1: 125312547cf09692575a97568021d4b1e0701f99
@@ -3342,6 +3506,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6388
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.5)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.55_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1921592
 MD5sum: 8a6a9a41e72f9f27032386380834e6a9
 SHA1: 24dce9189850eba8f7c7eb67b5ea92e7f77f03ba
@@ -3363,6 +3528,7 @@ Installed-Size: 6388
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.5)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.55_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1905168
 MD5sum: 5f8b3bad08669d22bd7553f5c28be098
 SHA1: 71f3bcf0cef36aea7d82c6179fcb9155559c1380
@@ -3383,6 +3549,7 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6388
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.6)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.57_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1923752
 MD5sum: e25e7ae834e9e02fb3bc4268a9bf1f26
 SHA1: 98ca7c3425a0830060988795e249f5a38be5ffa8
@@ -3404,6 +3571,7 @@ Installed-Size: 6388
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.6)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.57_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1906764
 MD5sum: 1820abef7a0f848e29352a11f1edf1bb
 SHA1: 1f01b0b385c8598500e2c81bbf79a06546b4e3a2
@@ -3426,6 +3594,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.4.7)
 Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.foxforttools, r-o-o-t-l-e-s-s-, com.r-o-o-t-l-e-s-s-.manager
 Filename: ./debs/com.foxfort.foxforttools_1.4.13_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1593640
 MD5sum: fbab5964f60e45f8b45b3e2953c0995d
 SHA1: 638c1b1f238ebe8250b9d347e330b4cf1eb38fbc
@@ -3446,6 +3615,7 @@ Installed-Size: 428
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
 Filename: ./debs/com.foxfort.krashkop_1.0.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 192536
 MD5sum: 51a1cfbe1d1b996f34f52c08c1b401ff
 SHA1: cef9f3c345fe95fd84b2e20e02d0f98e3504f982
@@ -3467,6 +3637,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 11.0), com.opa334.libsandy
 Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.libfoxfortutils, r-o-o-t-l-e-s-s-
 Filename: ./debs/com.foxfort.libfoxfortutils_1.4.7_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 442900
 MD5sum: 1d05ab88af88bcd9272f18fb801d8d43
 SHA1: 55c94fa0071d778fa659312e1b9f72fc4a7a53af
@@ -3487,6 +3658,7 @@ Installed-Size: 912
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.foxfort.libfoxfortutils
 Filename: ./debs/com.foxfort.skinnymenu_1.0.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 255992
 MD5sum: 61a2fe6696ebd87fc39deb512f65ef35
 SHA1: d786ff0b015996aeab0d03d0681d53198eb1ec7b
@@ -3507,6 +3679,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.4.12), com.opa334.altlist
 Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic, me.sa3odka.translomatic, com.cydiabc.translomaticzh, x7mii.vip.translomatic, com.bo7ios.translomatic, ru.rj.translomatichack, com.hk.translomatic.cn.rl, r-o-o-t-l-e-s-s-
 Filename: ./debs/com.foxfort.translomatic_2.18.26_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3842094
 MD5sum: 9a63db6ff25fd939b8541bf7b2d2e718
 SHA1: 4b6cb1f75135b1934592779432036122de696293
@@ -3526,6 +3699,7 @@ Maintainer: iGameGod
 Installed-Size: 100412
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.gamegod.igg.roothide_0.4.5_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 17907010
 MD5sum: a9516e1f4f8827daac4ec0fc4a4f836a
 SHA1: 2ae7ec60eaf06018299bd6e49800194ff98f5f53
@@ -3545,6 +3719,7 @@ Installed-Size: 404
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.gilshahar7.volumepercent_1.0.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 36752
 MD5sum: aaa80603eb1678b6e2adff2e0feb22fb
 SHA1: e1ffae2222385086532cde628dfbd9b7c4354daf
@@ -3563,6 +3738,7 @@ Maintainer: Ginsu
 Installed-Size: 248
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: ./debs/com.ginsu.ramundertime_3.3_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 23868
 MD5sum: 365c626741147f78123802f5208dc713
 SHA1: 654cbdfb6b8824de4d9a142e048da5a75fc67c17
@@ -3585,6 +3761,7 @@ Installed-Size: 428
 Pre-Depends: firmware (>= 11.0)
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.ichitaso.hidekbsettings_1.0.6_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 40926
 MD5sum: 586e3600795295a9a235847e11045b27
 SHA1: 3abcf8b521685d19cb9719c52077d12dda336b5a
@@ -3609,6 +3786,7 @@ Installed-Size: 428
 Pre-Depends: rootless-compat(>= 0.9), firmware (>= 11.0)
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.ichitaso.hidekbsettings_1.0.6_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 47366
 MD5sum: dd5616f9b238ff7f2108bb2e2d03714b
 SHA1: d8ec8f5eeb3d358a700658d9510c078922134f03
@@ -3632,6 +3810,7 @@ Maintainer: ichitaso
 Installed-Size: 472
 Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
 Filename: ./debs/com.ichitaso.hideserialnumber_0.0.4_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 56610
 MD5sum: 987f438f496909b2b12ef54856fe755a
 SHA1: 8ca9eb6d729dd107718151cf92cf2b43dcd1e725
@@ -3656,6 +3835,7 @@ Maintainer: ichitaso
 Installed-Size: 472
 Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
 Filename: ./debs/com.ichitaso.hideserialnumber_0.0.4_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 54938
 MD5sum: abbe1ed43af9e59f5dc62eead4c0eb37
 SHA1: ff961f278b9a3ae36aa5ff58ade12491cfab9c98
@@ -3684,6 +3864,7 @@ Depends: mobilesubstrate
 Conflicts: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
 Replaces: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
 Filename: ./debs/com.ichitaso.iconorder_1.0.3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 8496
 MD5sum: 7392e0d240e0389ee359e4e89ebcfc25
 SHA1: d10304e92ada78e7c828c955fec64f4546045a1d
@@ -3707,6 +3888,7 @@ Maintainer: ichitaso
 Installed-Size: 168
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/com.ichitaso.otadisabler_0.6_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 17152
 MD5sum: 6be45a897dc6d1a275c9ed0c0fc32329
 SHA1: 28e10242affc37852e3eac34bca1439f81ca6653
@@ -3730,6 +3912,7 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/com.ichitaso.otadisabler_0.6_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 65694
 MD5sum: 0601b382f20c943a173417c0d2845c29
 SHA1: 6634560744189aad0bbf1b9ff0ffd9d244a3abfd
@@ -3755,6 +3938,7 @@ Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
 Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
 Replaces: com.ichitaso.powerselector11
 Filename: ./debs/com.ichitaso.powerselector11_1.4.0_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 201760
 MD5sum: 8239543ce656dcdfc767153ca91bf4e6
 SHA1: a903b8356ebf69ceb1df8c0b70629c27fba7c1b8
@@ -3782,6 +3966,7 @@ Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
 Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
 Replaces: com.ichitaso.powerselector11
 Filename: ./debs/com.ichitaso.powerselector11_1.4.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 208512
 MD5sum: 7ea41de4b84485885c7d5976a0fb673c
 SHA1: de485b4d0de069e13fe27ab741e1cad3bca3470d
@@ -3807,6 +3992,7 @@ Installed-Size: 364
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/com.icraze.tempdrop_1.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 29666
 MD5sum: 8675ef979029af143dec0839d74c4e6a
 SHA1: 113530c42e732443aab99b8e2e291c0110cbf154
@@ -3825,6 +4011,7 @@ Maintainer: @iMokhles
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.imokhles.disablertl_0.0.1-3+debug_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4868
 MD5sum: 5cc89eb3b20a52052fe160662cace182
 SHA1: 46b1c873a8e3ec925cfe47918a4fc7d8b911bcb8
@@ -3845,6 +4032,7 @@ Installed-Size: 200
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/com.imokhles.disablertl_0.0.1-3+debug_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4468
 MD5sum: 9c1abc6ef7f3b68e47ce53ac555540bf
 SHA1: e9861d3f8cb40b4286b44717911a6ea7b9de3434
@@ -3863,6 +4051,7 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 5131
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
 Filename: ./debs/com.jailbreak365.safeccmodules_1.5-1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1129272
 MD5sum: e1fbec6cdc897845a9c3237aca1732c2
 SHA1: bfe4c4ad2d0977453cc6fc7066afc5381401c7f8
@@ -3886,6 +4075,7 @@ Installed-Size: 5131
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
 Filename: ./debs/com.jailbreak365.safeccmodules_1.5-1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1127572
 MD5sum: 15aa22b1085a0b075c08a9b7c7d7515c
 SHA1: 44c549cad16c449f39d55aec4a7a8302264fa5c5
@@ -3908,6 +4098,7 @@ Maintainer: Jax Roth
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4772
 MD5sum: 983a087d34956d773df79d17647e23b6
 SHA1: c2e2a58d21655a9999b2bd66052675593d73349d
@@ -3927,6 +4118,7 @@ Installed-Size: 136
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4840
 MD5sum: 3310ef7893e267300fe6d39b65214934
 SHA1: 25818704dba366db49a3d0559db252413b6776ec
@@ -3947,6 +4139,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
 Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
 Filename: ./debs/com.jontelang.snapper3_1.2.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1022696
 MD5sum: c3041ca374f1dc157b273b764b2189b2
 SHA1: c12624d48926d3dc72cec613459e2b5c8fe1d06a
@@ -3965,6 +4158,7 @@ Maintainer: Julio
 Installed-Size: 412
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 40822
 MD5sum: a1001e8b942bd4870f4c5e55096ec28a
 SHA1: 79c9c4197f616a2b885ed496af43a437390d21a0
@@ -3987,6 +4181,7 @@ Installed-Size: 412
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 40172
 MD5sum: 597c677cf030401a7bdfe23a8a9aff26
 SHA1: d83ebcdd0d2ff72ac12d7d4e7d6ab46de5ae857e
@@ -4007,6 +4202,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Julio
 Depends: mobilesubstrate
 Filename: ./debs/com.julioverne.lowerinstall_0.0~beta6_iphoneos-arm.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 94160
 MD5sum: 39a54683ff0f9fb0c2880cf393c87816
 SHA1: eafac690946057ec063f6a9d786950a9f092ea4e
@@ -4027,6 +4223,7 @@ Maintainer: khanhduytran0
 Installed-Size: 536
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
 Filename: ./debs/com.kdt.trollpad_1.3_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 28710
 MD5sum: efae35a2879d140279dfbf6c2cc7ea46
 SHA1: 8d7267da91e7bf4858d61d3a082ef916209d1379
@@ -4048,6 +4245,7 @@ Installed-Size: 536
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
 Filename: ./debs/com.kdt.trollpad_1.3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 22668
 MD5sum: 7c359d388841a96db6d7670feb67e5be
 SHA1: d142b06b67940408de2f21b598ce08c8336aebcf
@@ -4069,6 +4267,7 @@ Installed-Size: 15488
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
 Filename: ./debs/com.kingpuffdaddi.audiomix_0.0.10_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 37922
 MD5sum: fcf62f5d7d96182aa42164933703b159
 SHA1: b25d914679ab8260cffe881c33bb7a916fb79cc6
@@ -4089,6 +4288,7 @@ Installed-Size: 187
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
 Filename: ./debs/com.kingpuffdaddi.control-center.ccvpn_1.0.6_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 15460
 MD5sum: 2e2be0a15062641e84f4f7b3d9f98bac
 SHA1: ef07e3bb816b903ee47102e44ba0ec71610f3a8a
@@ -4113,6 +4313,7 @@ Installed-Size: 3808
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
 Filename: ./debs/com.lclrc.hammerit_1.7.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2767600
 MD5sum: 8baef280519cac7f7b92ff2605db9711
 SHA1: 685b54b10a3f271d65211821b7752b19b0f7aacb
@@ -4132,6 +4333,7 @@ Maintainer: level3tjg
 Installed-Size: 304
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
 Filename: ./debs/com.level3tjg.betterccbrightness_1.0.2_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 43514
 MD5sum: 9fc36ffe7051f451c79b55a54be0a375
 SHA1: 90aacf957dbc6f54e5b9cc91b843ad588d729dda
@@ -4152,6 +4354,7 @@ Installed-Size: 304
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
 Filename: ./debs/com.level3tjg.betterccbrightness_1.0.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 42516
 MD5sum: 243a909a1f796be8a13fcf8d08c250e8
 SHA1: ad4f84107121ced37bd1e26db307af00bf26f2cd
@@ -4171,6 +4374,7 @@ Maintainer: level3tjg
 Installed-Size: 140
 Depends: mobilesubstrate
 Filename: ./debs/com.level3tjg.twitchadblock_0.1.4_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 18486
 MD5sum: 61a9b717a3eabad584e10030f6858861
 SHA1: ed94cc8ae276ab9312cb6b24557647cd9ac2bd2c
@@ -4191,6 +4395,7 @@ Installed-Size: 140
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/com.level3tjg.twitchadblock_0.1.4_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 18812
 MD5sum: 7def14c1291e8cc800dcc6ac47791267
 SHA1: 9452236c6fed8a648401d18203ee0df4e95d80f7
@@ -4211,6 +4416,7 @@ Installed-Size: 752
 Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
 Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, ca.ndoizo.bolders, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, com.nightwind.dockapplibrary, com.tomaszpoliszuk.dockcontroller
 Filename: ./debs/com.lizynz.folderx.rootless_2.0_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 83870
 MD5sum: 105f64c129fbc234576aac9ef9fe49a6
 SHA1: 649bf89b9dae70c27aeea470ce405b9f14b5d4c6
@@ -4230,6 +4436,7 @@ Maintainer: Lizynz <lizynz@ya.ru>
 Installed-Size: 216
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: ./debs/com.lizynz.telegaicons.rootless_1.3_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 19370
 MD5sum: 991a3a9bccdce6748e2041e93c1566b3
 SHA1: dce8c5a7037de5ad3dd8220a99a6354e4ac4e8c6
@@ -4251,6 +4458,7 @@ Installed-Size: 216
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: ./debs/com.lizynz.telegaicons.rootless_1.3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 24788
 MD5sum: 051097e1ef14e0485922314dc931f36c
 SHA1: d27fbbec4b2ffa399b6ae0b9958170a3268f815d
@@ -4271,6 +4479,7 @@ Maintainer: Sniper @DNS_Sys
 Installed-Size: 256
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.managedelete.sniper_1.0_iphoneos-arm.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 32028
 MD5sum: 9e54755b785b60d1183fc994a0eadc4f
 SHA1: 38fab67088af1c7af067982f8974f1473288600c
@@ -4289,6 +4498,7 @@ Maintainer: Sniper @DNS_Sys
 Installed-Size: 256
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.managedelete.sniper_1.0_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 32448
 MD5sum: 4a741d71e50ab3b1b3d1becedbd1e632
 SHA1: d259f1d57aa5cfef52054d619487823aae6bc097
@@ -4308,6 +4518,7 @@ Installed-Size: 256
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.managedelete.sniper_1.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 32508
 MD5sum: e81bd6460245fcb08d93e324f0e54692
 SHA1: 50fe2264e3ba1fcd05d697f511e9e1bde20a9970
@@ -4326,6 +4537,7 @@ Maintainer: MegaDev
 Installed-Size: 752
 Depends: mobilesubstrate,ws.hbang.common,preferenceloader,com.opa334.ccsupport
 Filename: ./debs/com.megadev.sentinel_1.3.2_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 77368
 MD5sum: 47e4d26753bfdbb167cc64afa8a7efb6
 SHA1: fab41c42401665c98e66cff3ebb90185d613c4a4
@@ -4347,6 +4559,7 @@ Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
 Filename: ./debs/com.mrgcgamer.libgcuniversal_1.7.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 53276
 MD5sum: babb07f6813cf4f98e0dcf72b92d1afb
 SHA1: 6bffe79c4eca4b60a92a3ed77b29a3aa72aaf284
@@ -4367,6 +4580,7 @@ Installed-Size: 604
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
 Filename: ./debs/com.mtac.ampere_1.4_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 129106
 MD5sum: c3e09eca9f96388b9f473a4ba23fc28f
 SHA1: 5442c173611b76dffd32d596cc4cebb5767b8de2
@@ -4385,6 +4599,7 @@ Maintainer: MTAC
 Installed-Size: 356
 Depends: com.opa334.ccsupport
 Filename: ./debs/com.mtac.ccpowermenu_1.0.2_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 31262
 MD5sum: 1baa5b46408bb3094fb50794c8dc8c79
 SHA1: 00017afaf4a6ac9148fdd30adcfe48f15834a182
@@ -4406,6 +4621,7 @@ Installed-Size: 356
 Pre-Depends: rootless-compat(>= 0.1)
 Depends: com.opa334.ccsupport
 Filename: ./debs/com.mtac.ccpowermenu_1.0.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 38276
 MD5sum: 2ff38c9c307da759f899dbeab18ac568
 SHA1: ac01b9886207a167aa2cf3ff6d861d2d0f606170
@@ -4426,6 +4642,7 @@ Maintainer: MTAC
 Installed-Size: 804
 Depends: com.mtac.lynxtwo
 Filename: ./debs/com.mtac.lynxapp_2.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 559446
 MD5sum: 522978a22526535da103fa52ef5ee93b
 SHA1: ab0f07a97c59785d9c182341e28e4d7c65960261
@@ -4448,6 +4665,7 @@ Installed-Size: 804
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: com.mtac.lynxtwo
 Filename: ./debs/com.mtac.lynxapp_2.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 560132
 MD5sum: 855accd0bc7fc1d38cdaab3bf3c2426a
 SHA1: 96bde0d6b831e8a04860e727476cabdb3ed05721
@@ -4469,6 +4687,7 @@ Maintainer: MTAC
 Installed-Size: 984
 Depends: com.mtac.lynxtwo
 Filename: ./debs/com.mtac.lynxtwo.localizations_2.5_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 114052
 MD5sum: 3331857f9dfe8b5b5e7cbab436f8b94d
 SHA1: 29b1c0e7eb6f3f1781e7a1717dce4b326d45f9d1
@@ -4490,6 +4709,7 @@ Installed-Size: 984
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: com.mtac.lynxtwo
 Filename: ./debs/com.mtac.lynxtwo.localizations_2.5_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 151702
 MD5sum: 13de8e0a88ed57de00dfea1c4aaea084
 SHA1: 3e4a9c8e1ef43307b804ceb1201093b23f4d9dde
@@ -4510,6 +4730,7 @@ Maintainer: MTAC
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.mtac.prefs.localizer_1.2_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 8690
 MD5sum: 59bd338b86754c25e6882744f3322372
 SHA1: 03bae3e75f6e23c86be7fae4185a61543f94ea58
@@ -4531,6 +4752,7 @@ Installed-Size: 172
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.mtac.prefs.localizer_1.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 11426
 MD5sum: 1eb506155590140315246182413efcea
 SHA1: b8af14ce6631e1938caa339d04818a8bf9b1bc03
@@ -4551,6 +4773,7 @@ Maintainer: Muirey03
 Installed-Size: 2404
 Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), cm90.crossoveripc, com.cokepokes.libnotifications
 Filename: ./debs/com.muirey03.cr4shed_4.3.1-1+debug_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 231584
 MD5sum: 88eb9a71266fb2744af5521d20208193
 SHA1: 43b5f81b8d0db56b1b4047cf5dde95c736276f85
@@ -4569,6 +4792,7 @@ Maintainer: Muirey03
 Installed-Size: 2356
 Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid, cm90.crossoveripc
 Filename: ./debs/com.muirey03.cr4shed_4.3.1-1+debug_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 211468
 MD5sum: 0b56c44a59d088214ea586085298deb8
 SHA1: eab69cc49769b908147516498c06e3ab1160397c
@@ -4588,6 +4812,7 @@ Installed-Size: 304
 Depends: mobilesubstrate
 Conflicts: ws.hbang.stopcrashingpls (=1.0)
 Filename: ./debs/com.muirey03.libmryipc_2.0.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 14760
 MD5sum: 1a905e9c25d7357c4d3c5f7a11172152
 SHA1: 7df3a1ef7f9970eab50d8edad5dcae3987d5db8b
@@ -4609,6 +4834,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Conflicts: ws.hbang.stopcrashingpls (=1.0)
 Filename: ./debs/com.muirey03.libmryipc_2.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 20028
 MD5sum: 0fd59c8aed6fe88117933e4144d0e5c8
 SHA1: 5f2d94965c1b8e7e2ffb8cad9393f49c45189d3b
@@ -4629,6 +4855,7 @@ Installed-Size: 208
 Pre-Depends: rootless-compat(>= 0.9)
 Depends:
 Filename: ./debs/com.nahtedetihw.closeall_1.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 21280
 MD5sum: 8c98e46f831d27d2af5df063a2fd477f
 SHA1: 9a511192f68251ece666a7ff4054e523b06ed9e9
@@ -4647,6 +4874,7 @@ Maintainer: zhaonan
 Pre-Depends: firmware (>= 7.0)
 Depends: plutil | com.bingner.plutil
 Filename: ./debs/com.nan.disablesblockaftercrash_0.1.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1220
 MD5sum: d2f7d67aa6053c2494a09ddc22834673
 SHA1: 35072e30ad900b466ef4a91ebc71e41b7e0830c7
@@ -4666,6 +4894,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: zhaonan
 Depends: plutil
 Filename: ./debs/com.nan.disablethermalmonitord_0.1.0_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1204
 MD5sum: 3d22e473d8538affc6818cfe2050d7c3
 SHA1: 27ccc7d65f89f70a0af4b77fd85d09f28d2525fc
@@ -4685,6 +4914,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: zhaonan
 Depends: plutil
 Filename: ./debs/com.nan.disablethermalmonitord_0.1.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1204
 MD5sum: e088b722881044353915cbdee3243d21
 SHA1: 370870289c42e8dff977dee9731b1ba3c11390e4
@@ -4704,6 +4934,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: zhaonan
 Pre-Depends: file-cmds
 Filename: ./debs/com.nan.disableupdates_0.1.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1100
 MD5sum: 8f2a8abbc442b86c1a43a8d1fe47e9f6
 SHA1: 0a37ee5574eaf5059d052d00d0f043d17b41761d
@@ -4723,6 +4954,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: zhaonan
 Pre-Depends: file-cmds
 Filename: ./debs/com.nan.disableupdates_0.1.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1104
 MD5sum: 63e258649049d0d05a37907b4853166b
 SHA1: c5e2f815a934548ae506344f8f61efa30c3c78b3
@@ -4742,6 +4974,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: zhaonan
 Depends: com.nan.miic
 Filename: ./debs/com.nan.jbir_0.1.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1584
 MD5sum: bb4dc25f71b58c7755fe8cced7b1c210
 SHA1: 8d7de12ea702428556d63b5af1827a8379403e90
@@ -4761,6 +4994,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: zhaonan
 Depends: com.nan.miic
 Filename: ./debs/com.nan.jbir_0.1.2_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1968
 MD5sum: b8980d061139e9b0285edcb0fc0b8ef4
 SHA1: 5105bef0c091004df64f2b767b58d25f8aeec791
@@ -4780,6 +5014,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: zhaonan
 Depends: coreutils
 Filename: ./debs/com.nan.miic_0.1.0_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1136
 MD5sum: 107e5844a695ca219ae5a5af8d0a2fe5
 SHA1: 3adcf36e07994fb59320ed578a77dbde0860a574
@@ -4799,6 +5034,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: zhaonan
 Depends: coreutils
 Filename: ./debs/com.nan.miic_0.1.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1136
 MD5sum: e24d60a30b99ca89b1c2ca22bb0621c3
 SHA1: bd6fb64476e90d242b9827355877c0ad953c3d2c
@@ -4817,6 +5053,7 @@ Section: Addons
 Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: zhaonan
 Filename: ./debs/com.nan.pointless_0.1.0_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1596
 MD5sum: b0103df5ea03af6351eeac295de11de3
 SHA1: e9e30d39ba5f2a8580a2208ecbf61f875dd4fdde
@@ -4835,6 +5072,7 @@ Section: Addons
 Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: zhaonan
 Filename: ./debs/com.nan.pointless_0.1.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1560
 MD5sum: d858f01bf76397c7f70fc70f943a2444
 SHA1: ae98bc6fad26af6ba912bacb52962537621b00ff
@@ -4854,6 +5092,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: zhaonan
 Depends: shell-cmds
 Filename: ./debs/com.nan.raru_0.1.4_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1812
 MD5sum: 647909a947f7a27b2692f94a9cf41bc6
 SHA1: c029bc794f43081e64df1bf1b2381ae7205993df
@@ -4872,6 +5111,7 @@ Section: Addons
 Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: zhaonan
 Filename: ./debs/com.nan.realitytmp_0.2.2_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2204
 MD5sum: 8f7b05679fec15a2932c405f406b4cd4
 SHA1: c7074dbcc6e15f6fff92c2568629382678d1cbe7
@@ -4890,6 +5130,7 @@ Section: Addons
 Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: zhaonan
 Filename: ./debs/com.nan.realitytmp_0.2.3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2240
 MD5sum: b6419582835a32d8592e979746219066
 SHA1: b191ea483460fb37c7d5b160a6a5ace66228ac17
@@ -4909,6 +5150,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: zhaonan
 Depends: coreutils, lsof
 Filename: ./debs/com.nan.rebirth_0.1.4_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2048
 MD5sum: e6f7d69585def8cd2de8a6965fee08af
 SHA1: 4c6051c44b9c3ecb98f361f83a6339d91d7ac91e
@@ -4928,6 +5170,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: zhaonan
 Depends: coreutils, lsof
 Filename: ./debs/com.nan.rebirth_0.1.4_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2048
 MD5sum: 2209eb84a0a3965f0309ebedcf894a26
 SHA1: 28bce8bc731a571ccc0162041c9996b2a0a69cee
@@ -4947,6 +5190,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Nathan Senter
 Installed-Size: 136
 Filename: ./debs/com.nathan.internalstoragesettings_1.0_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3860
 MD5sum: a8d5cabab357fd08bec861648ec9dbeb
 SHA1: ec724279da07746d3a788254ae281db6e41c9ec3
@@ -4965,6 +5209,7 @@ Maintainer: Nathan Senter
 Installed-Size: 136
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.nathan.internalstoragesettings_1.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4144
 MD5sum: 42edf71fc048a6bda5d48cd40e90a3be
 SHA1: f67fa46f7c7f50b821db1d41563b773b401ccfbd
@@ -4984,6 +5229,7 @@ Installed-Size: 13548
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.netskao.appdata_1.4.4_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 5049568
 MD5sum: afff04c2ed8c05da11edb5f391396eb7
 SHA1: 656547520400a4ed10cfb0d8543694c38d36fd9c
@@ -5003,6 +5249,7 @@ Maintainer: Nets
 Installed-Size: 952
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/com.netskao.dumpdecrypter_1.5-1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 393772
 MD5sum: 29d21a27df4f055081ca875644a215f6
 SHA1: 4a50fc8cc87b0fe0eea1b2670238e34d2119b6a3
@@ -5023,6 +5270,7 @@ Installed-Size: 952
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/com.netskao.dumpdecrypter_1.5-1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 393764
 MD5sum: a105bd1d036b779360564bac6125da7c
 SHA1: 6acf20e5e76156050f201d42fc6c1495391145ac
@@ -5043,6 +5291,7 @@ Installed-Size: 384
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), ws.hbang.common, preferenceloader, com.opa334.altlist
 Filename: ./debs/com.newwares.badgesync_1.2.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 37280
 MD5sum: 4e3ae4cedb7795fd183f10166a036161
 SHA1: 701c8b52eeb2c6ed317085e073dabf0e6700bbdf
@@ -5064,6 +5313,7 @@ Depends: mobilesubstrate, firmware (>= 12.4)
 Conflicts: com.haoict.messengernoads
 Replaces: com.haoict.messengernoads
 Filename: ./debs/com.nguyenasang.snmessenger_1.0.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 653700
 MD5sum: e925f59c89d4652d39c501ce8e3f7484
 SHA1: 62687bfac32e0630f5faadf8746aa522b6222242
@@ -5086,6 +5336,7 @@ Depends: mobilesubstrate, firmware (>= 12.4)
 Conflicts: com.haoict.messengernoads
 Replaces: com.haoict.messengernoads
 Filename: ./debs/com.nguyenasang.snmessenger_1.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 672718
 MD5sum: 5694397be2b6a4bee40880f4a32c9639
 SHA1: 0732b305b7ab3934c2f1048eb89ec141b6f6bca0
@@ -5104,6 +5355,7 @@ Maintainer: niceios
 Installed-Size: 14792
 Depends: mobilesubstrate,com.niceios.nicehelper-roothide(>=6.3),preferenceloader
 Filename: ./debs/com.niceios.nicebarx16-roothide_1.0.1.2-4_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4227690
 MD5sum: 6d4dac3906aac84f6a3aef4c5fdac858
 SHA1: 7fca7744009677ff20aaa6057024350f862bc04f
@@ -5122,6 +5374,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: niceios
 Installed-Size: 2648
 Filename: ./debs/com.niceios.nicehelper-roothide_6.6-3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 733762
 MD5sum: 7e6f77cad027aacb21ce47475331a13f
 SHA1: c5d1da5aec05b2def9a1b29b7393f9f5f6b75be0
@@ -5143,6 +5396,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.ichitaso.iconorder
 Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, gsc.ipad, com.lizynz.folderx.rootless, com.lizynz.folderx
 Filename: ./debs/com.nightwind.boldersreborn_1.1.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4864536
 MD5sum: 4b3a23f82fd7697d3b7863eb1d41efac
 SHA1: 98c8edad0dd02a20275d18d4cd2c49a3d5686212
@@ -5164,6 +5418,7 @@ Maintainer: Nightwind
 Installed-Size: 164
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: ./debs/com.nightwind.lockbuttonx_0.0.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 17510
 MD5sum: aed631efa5bc37bea8aba1bf65baee15
 SHA1: a37b5b41570ced39e8f8a7334a65ad779a736220
@@ -5184,6 +5439,7 @@ Installed-Size: 164
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: ./debs/com.nightwind.lockbuttonx_0.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 17804
 MD5sum: b277b0d66814d3a6016048b94da854f9
 SHA1: f01fe546b1222a10c4a04a6b112e31477bda31db
@@ -5203,6 +5459,7 @@ Maintainer: Nightwind
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.nightwind.sileorespringfix_0.0.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4592
 MD5sum: 53e6cbedc970d890ff64eac09bdc2f77
 SHA1: 65217ddacaf263794a52b533b1561f78e0895089
@@ -5222,6 +5479,7 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.nightwind.sileorespringfix_0.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4812
 MD5sum: 05bc7c8076ed9cbd292b730b7c0a68e2
 SHA1: 3ec0806043a80084e31ad52d805acb09d641ad99
@@ -5242,6 +5500,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.initwithframe.velvet
 Filename: ./debs/com.noisyflake.velvet2_2.1.2-3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 125600
 MD5sum: 918241b40fe815e1b4df6ca610d69ca8
 SHA1: 91ed9189bbd7e776d386aac3f85d6afd54fb7c90
@@ -5265,6 +5524,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
 Conflicts: com.opa334.crane, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
 Filename: ./debs/com.opa334.cranelite_1.3.16-3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 905898
 MD5sum: ccd4e8fe23402fdb47c4662039d785a7
 SHA1: b601ef397392e94396a1118056eb7597cbcbbb7b
@@ -5281,6 +5541,7 @@ Section: Themes
 Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Cachetes <markosg26@gmail.com>
 Filename: ./debs/com.pordiosero_1.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2288058
 MD5sum: d3b29ea327bb93c826a01d23a1cf104e
 SHA1: 1cd88a8f830d421d69a4aa4c37473bc6aca66bc7
@@ -5299,6 +5560,7 @@ Maintainer: PoomSmart
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
 Filename: ./debs/com.ps.batteryhealthenabler_1.0.0_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 5434
 MD5sum: 0ca1bad2a71148ce73af82df31d8c511
 SHA1: f2f7c9a9cfdba5a655151b16005e3ce6d7224948
@@ -5320,6 +5582,7 @@ Installed-Size: 152
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
 Filename: ./debs/com.ps.batteryhealthenabler_1.0.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 5452
 MD5sum: dd1560f8f0d666c40136ccc6241acf22
 SHA1: 6689c0e8db9bfce04b8d115032b49abc6e618b6f
@@ -5340,6 +5603,7 @@ Maintainer: PoomSmart
 Installed-Size: 360
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), firmware (<< 17.0)
 Filename: ./debs/com.ps.githubweblegacycompat_1.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 17692
 MD5sum: ea9b17d2f40ffce899a145344e773f5b
 SHA1: 3f63fb4252bb2287cb521bd653fded6237081d0a
@@ -5360,6 +5624,7 @@ Maintainer: PoomSmart
 Installed-Size: 168
 Depends: mobilesubstrate, firmware (>= 7.0)
 Filename: ./debs/com.ps.highgraphics_1.1.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3998
 MD5sum: 4c72b5bf0c0cf6b0d0d5ec487b025673
 SHA1: b0b4fbdaf4b0702bd807a2de870c22136a74f428
@@ -5379,6 +5644,7 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 7.0)
 Filename: ./debs/com.ps.highgraphics_1.1.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3988
 MD5sum: 275b3a4082ed4aa1ca2400da656f6152
 SHA1: d89d669f2b993c0d01a4ad01475bcc607678716d
@@ -5398,6 +5664,7 @@ Installed-Size: 72
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
 Filename: ./debs/com.ps.injectionfoundation_1.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 5682
 MD5sum: e5ee143909516f60b29881cb03cc2f37
 SHA1: 3fd65e509d653f2460ec5c8be196ffac151e3ec0
@@ -5418,6 +5685,7 @@ Maintainer: PoomSmart
 Installed-Size: 46592
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 17.0)
 Filename: ./debs/com.ps.latesttranslate_6.0.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 228888
 MD5sum: 881d5c9d58aafdb775bb3891afce48c2
 SHA1: 5ec88c17bec178eeb350d055e1a9506bcdb0e3d2
@@ -5439,6 +5707,7 @@ Installed-Size: 46592
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 17.0)
 Filename: ./debs/com.ps.latesttranslate_6.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 208736
 MD5sum: ec382e4e0508eb947de3afcb6264226b
 SHA1: 7987d1b70db8c0251c118461a656365963be9237
@@ -5459,6 +5728,7 @@ Maintainer: PoomSmart
 Installed-Size: 140
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), com.opa334.libsandy
 Filename: ./debs/com.ps.letmeblock_1.3.0_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 6190
 MD5sum: eaebb6437016a6b043e31fa258e85803
 SHA1: a577ade337190ea7c7aaae42b801c0983be611d8
@@ -5480,6 +5750,7 @@ Installed-Size: 140
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), com.opa334.libsandy
 Filename: ./debs/com.ps.letmeblock_1.3.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 8564
 MD5sum: 23aed44bfd37d086ff945d4ba2ecfe0e
 SHA1: daa1806dd96fa55e0a03a53e7f96ed5013b9588f
@@ -5504,6 +5775,7 @@ Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
 Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
 Replaces: org.thebigboss.recordpause, com.spicat.recordpause
 Filename: ./debs/com.ps.recordpause_2.0.4_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 9820
 MD5sum: b07394b3718408f68185e79bb23deea0
 SHA1: f1e80e67dddbdae7e56ecc19787c324a6a42cd6e
@@ -5522,6 +5794,7 @@ Maintainer: PoomSmart
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0)
 Filename: ./debs/com.ps.replaykitmax_1.0.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3332
 MD5sum: 3f9ad3a301f6d31b9969451ba85ea789
 SHA1: e785ab54560f53486bd7cad52a48b8b0c3727f2d
@@ -5543,6 +5816,7 @@ Installed-Size: 152
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0)
 Filename: ./debs/com.ps.replaykitmax_1.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3348
 MD5sum: e80d325d70fee4de8fb843db857cdf3e
 SHA1: 1c8803024ab9a4767507bf7031dda2decaa805e6
@@ -5564,6 +5838,7 @@ Installed-Size: 115
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
 Filename: ./debs/com.ps.yougroupsettings_1.0.4_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 7464
 MD5sum: d30ce6b761ac4ddf433229e8fb05de36
 SHA1: b6bf9c977cfb1febf530f56a6583e468843ca670
@@ -5586,6 +5861,7 @@ Installed-Size: 72
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
 Filename: ./debs/com.ps.ytdarker_1.0.3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3148
 MD5sum: b1640045f96ba14e01ecbb4b497238d0
 SHA1: 15efc1cf952c5c21b64d70c47f20d43c7feb5e16
@@ -5605,6 +5881,7 @@ Installed-Size: 2392
 Depends: firmware (<= 15.0) | cy+cpu.arm64v8 | oldabi-xina | oldabi
 Replaces: com.randy420.encrypt
 Filename: ./debs/com.randy420.tools_2.3.9_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 548408
 MD5sum: f19b7d05980987d9af12fe040579165d
 SHA1: e9fb5417950d46264044947f37b9a8faadd0abcc
@@ -5628,6 +5905,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (<= 15.0) | cy+cpu.arm64v8 | oldabi-xina | oldabi
 Replaces: com.randy420.encrypt
 Filename: ./debs/com.randy420.tools_2.3.9_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 556392
 MD5sum: dbfd374cb6bfb233d230dce581dc53d6
 SHA1: 37149e6162a7749b63d0827e5c575231b6f2a7ff
@@ -5650,6 +5928,7 @@ Installed-Size: 996
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/com.raulsaeed.bhtiktok++_1.4.5-161+debug_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 133908
 MD5sum: 3f874ac22d8d2aa8289f97050817d656
 SHA1: 6a1bc83ee2509e1c8f0be5737f95d8283cc20da4
@@ -5668,6 +5947,7 @@ Maintainer: raul saeed
 Installed-Size: 1092
 Depends: mobilesubstrate
 Filename: ./debs/com.raulsaeed.bhtiktok++_1.7-1+debug_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 152664
 MD5sum: 645fde324adea3745de09b0a0d52345e
 SHA1: 34a8f65a0d3744e37cba094a73950f482acccabb
@@ -5687,6 +5967,7 @@ Installed-Size: 1092
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/com.raulsaeed.bhtiktok++_1.7-1+debug_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 224002
 MD5sum: f374bc38512482b207f5f6735930c105
 SHA1: 2e7bd5c9543558e77e63a5d8a719c5b164b2d68b
@@ -5705,6 +5986,7 @@ Maintainer: roothide
 Installed-Size: 896
 Depends: firmware (>= 15.0)
 Filename: ./debs/com.roothide.managers_1.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 733160
 MD5sum: 9b76f5428a21cf51eb8de3c16736bb53
 SHA1: 31be11cdcdb78e9ef105bfb51affb85c18b46072
@@ -5725,6 +6007,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Waji1h
 Depends: firmware (>= 15.0)
 Filename: ./debs/com.roothide.varclean_0.7_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 733264
 MD5sum: d37cfc57736e3c5cb921cf3f3fd56efc
 SHA1: da88d5deb8dbbed106f71201fc248f66f554a324
@@ -5742,6 +6025,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Rowandesign
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: ./debs/com.rowandesign.morandi_1.1.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 5872184
 MD5sum: 895ce422226f20f5f95b7a267cb21067
 SHA1: 1c14f04efb69b3897caf13fb434847ca9246eb5c
@@ -5760,6 +6044,7 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 156
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: ./debs/com.rpetrich.powercuff_1.0.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 14008
 MD5sum: 75a8bccf6e8e85cbfd061cf9d00b90d8
 SHA1: 569b9895c15060c80291531d8c76a16f47c11059
@@ -5784,6 +6069,7 @@ Installed-Size: 156
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: ./debs/com.rpetrich.powercuff_1.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 17084
 MD5sum: edafdb992e118985eee9c4cffff4527c
 SHA1: d645af1f07b06a6fe79cc55bc7651275fccacd44
@@ -5807,6 +6093,7 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 188
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: ./debs/com.rpetrich.powercuff_1.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 14112
 MD5sum: 23395601d97d58b7b35a5f0a79972f84
 SHA1: c80748446b1c76eb0eb41d093c4c613a51fc7d47
@@ -5831,6 +6118,7 @@ Maintainer: Baw Appie <pp121324@gmail.com>
 Installed-Size: 2476
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.rpgfarm.a-font_1.10.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 494572
 MD5sum: 01b1c8b7b6552093d04de9f5be50ff65
 SHA1: c3f43c400bb689d9d1aca56fc72916d2320a89df
@@ -5850,6 +6138,7 @@ Installed-Size: 2476
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.rpgfarm.a-font_1.10.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 400136
 MD5sum: 3cdfa6d4e9325dc2cf67ab7d7218a127
 SHA1: 4988559b051e17cf9a933b89f97945f3e9ee25cf
@@ -5869,6 +6158,7 @@ Installed-Size: 604
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.6011), preferenceloader
 Conflicts: com.ryannair05.cylinder
 Filename: ./debs/com.ryannair05.cylinderremade_0.0.3-beta_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 102872
 MD5sum: 18da1266e2df75c2667dc65e921f10f3
 SHA1: fdeb774df6a4a17b6af9efb0138f7dacc6fc7aa9
@@ -5889,6 +6179,7 @@ Installed-Size: 412
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Filename: ./debs/com.sergy.immortalizer_1.0.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 28024
 MD5sum: 1ae779f49a03a8f5e2e1f76c9cba4903
 SHA1: 37e33fce552e4398741a534392b38b049995a9f6
@@ -5908,6 +6199,7 @@ Installed-Size: 412
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Filename: ./debs/com.sergy.immortalizer_1.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 28104
 MD5sum: 7c26958204d8b42b42ecec3459e29c59
 SHA1: e828d7653e4183df3055e3e7980117546c6b914f
@@ -5927,6 +6219,7 @@ Installed-Size: 652
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
 Filename: ./debs/com.sergy.immortalizer_2.0.0-1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 57444
 MD5sum: 634a9cde4758d0e8f0f589fa6326ed7f
 SHA1: a58b8e22a9063ee037b90b707705519a655edbec
@@ -5946,6 +6239,7 @@ Maintainer: shepgoba
 Installed-Size: 512
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.shepgoba.settingswidgets_1.2.3_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 73112
 MD5sum: 027515e2b64bde33c6ed50fda9f18e48
 SHA1: 619943a5e2039deeff8099b4e8d6589c25224ca4
@@ -5965,6 +6259,7 @@ Installed-Size: 512
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.shepgoba.settingswidgets_1.2.3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 72152
 MD5sum: 45322521e924375d865128090ac8996a
 SHA1: 1fd0afbb1724bad8c03270ee15ce439165d927a3
@@ -5984,6 +6279,7 @@ Installed-Size: 3136
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/com.socuul.scinsta_0.6.0-1+debug_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 80436
 MD5sum: d60f17868c5e7b05ceaaa52c63b4e48e
 SHA1: a9a2d76620c1da3cc789cd8c7c15f0c5be25a028
@@ -6001,6 +6297,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Spark
 Installed-Size: 408
 Filename: ./debs/com.spark.libsparkapplist_1.1.0~rootless_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 24834
 MD5sum: 0b8283166fd138011c971c9e466002c4
 SHA1: 986f8a4c07c63d9685b7fc61644dda220566438c
@@ -6020,6 +6317,7 @@ Maintainer: Spark
 Installed-Size: 408
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.spark.libsparkapplist_1.1.0~rootless_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 33398
 MD5sum: d0a5591baedff8c2130b6baa130fc54b
 SHA1: 4a70ae8fad332edb8a5187147d3c065e5ceb8714
@@ -6040,6 +6338,7 @@ Installed-Size: 424
 Pre-Depends: rootless-compat(>= 0.9)
 Depends:
 Filename: ./debs/com.spark.libsparkcolourpicker_1.0.3-rootless_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 97414
 MD5sum: 2c435e7a50e3bbb9c771f19f50e406d4
 SHA1: 875fc42cdfe72689f7543d26d13a312b0f106623
@@ -6060,6 +6359,7 @@ Installed-Size: 440
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Filename: ./debs/com.spark.snowboard.dock_1.1.3~Beta4-rootless_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 44352
 MD5sum: a378c330454bd20efe73a7a15582afa8
 SHA1: d37c2ea6e2fc3988150e8cd0d775119bd1d0efee
@@ -6079,6 +6379,7 @@ Installed-Size: 412
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Filename: ./debs/com.spark.snowboard.effects_1.2.2-Beta2-rootless_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 45706
 MD5sum: 9eb97a22ebbdf4be00559e334ebf6823
 SHA1: 74afec8c50a9a5e9fdfabe3c1a1be7f30c8a1b42
@@ -6101,6 +6402,7 @@ Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
 Replaces: com.ipr.bytafont, com.bytafont.bytafont3
 Filename: ./debs/com.spark.snowboard.fonts_1.1.0~Beta4-rootless_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 27436
 MD5sum: c85899e0713c1f687e3038e0d458d101
 SHA1: 9dcf14cccfc563be1565a7209c49f8ba6ea42a22
@@ -6120,6 +6422,7 @@ Installed-Size: 432
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Filename: ./debs/com.spark.snowboard.labels_1.1.1~Beta4-rootless_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 33860
 MD5sum: ee097799cf06fcd46fbe64454bd06242
 SHA1: d2f17fb96b41e1b2a09fdd406377a552cf4c9360
@@ -6139,6 +6442,7 @@ Installed-Size: 340
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Filename: ./debs/com.spark.snowboard.masks_1.2.2-Beta2-rootless_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 25548
 MD5sum: de6af75ffb0caca8c1ef288b09edb496
 SHA1: 60ea628985ffef8bf4f41b892d812e2e7fc531e6
@@ -6158,6 +6462,7 @@ Installed-Size: 488
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
 Filename: ./debs/com.spark.snowboard.presetextension_1.1.0~Beta4-rootless_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 57550
 MD5sum: dc154f510ee18b70d7062af390226963
 SHA1: c3a1526469e0cee4a2c3459b6ad6ca77bc98df27
@@ -6177,6 +6482,7 @@ Installed-Size: 340
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Filename: ./debs/com.spark.snowboard.settingsicons_1.0.26~Beta3-rootless_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 23952
 MD5sum: 8beb3e8f25752523a80d381b5be08f07
 SHA1: 2e2938b94585a2b36daa4288fa14654112576891
@@ -6196,6 +6502,7 @@ Installed-Size: 364
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Filename: ./debs/com.spark.snowboard.statusbar_1.1.0-Beta4-rootless_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 36358
 MD5sum: 0f48059871feea208de3e8f875f40365
 SHA1: 6639588d26d6c61f4d3adeade78437b76b6dce6f
@@ -6215,6 +6522,7 @@ Installed-Size: 476
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
 Filename: ./debs/com.spark.snowboard.ui_1.3.0~Beta2-rootless_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 92302
 MD5sum: 1c82eecf83df55ad22eef793cc0c6aa9
 SHA1: 9cd641261f2d6b966275cdbdbe5a93c03f633cff
@@ -6236,6 +6544,7 @@ Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: ./debs/com.spark.snowboard_1.5.37-Beta4-rootless_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1128570
 MD5sum: a7239a85eee273dc2f297878702a97b8
 SHA1: 1b3e80eb10ea03f6ed54f23262789ef37aa02656
@@ -6258,6 +6567,7 @@ Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: ./debs/com.spark.snowboard_1.5.37-Beta4-rootless_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1115484
 MD5sum: 9d29dd56391367e347b2a209627c0eaa
 SHA1: e80444f27cd53d3485f366d1034c5b7e989fd883
@@ -6277,6 +6587,7 @@ Installed-Size: 992
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: com.spark.snowboard
 Filename: ./debs/com.spark.snowboardapplication_1.1.0~Beta4-rootless_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 629530
 MD5sum: 5444b1442dd60dbeab8060ec3b1570dc
 SHA1: 307b34829aad1dafae350def928cfb96bbcd1212
@@ -6295,6 +6606,7 @@ Maintainer: FCCT
 Depends: swift, clang, ldid
 Conflicts: com.sparklechan.sparkkit
 Filename: ./debs/com.sparklechan.swifty_1.6_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3165472
 MD5sum: f05bbde30d37d6cf48dcc1c237b6ea5a
 SHA1: c7ddec059557379044fb9f9472cc81075abcebc6
@@ -6315,6 +6627,7 @@ Maintainer: FCCT
 Depends: swift, clang-14, ldid, git
 Conflicts: com.sparklechan.sparkkit
 Filename: ./debs/com.sparklechan.swifty_2.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4779344
 MD5sum: f898de9a8cb456ebceb1c6aa2affd1a1
 SHA1: 096f4b86d16ab91ad75dcdcff317f50b80870697
@@ -6336,6 +6649,7 @@ Installed-Size: 6664
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Filename: ./debs/com.squidforce.copyvault_1.5.8_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2068376
 MD5sum: 6381125c2b7bf6650de86fd6878db9a8
 SHA1: 5c74186edcece12e71ad3db96b5c53216ffabc9d
@@ -6355,6 +6669,7 @@ Installed-Size: 6696
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Filename: ./debs/com.squidforce.copyvault_1.5.9_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2069744
 MD5sum: 3bd9c76db4ab372b5deebe466f9e2c46
 SHA1: b91803b689c58473bc65917a27cfd430e85e7bcc
@@ -6374,6 +6689,7 @@ Installed-Size: 5416
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Filename: ./debs/com.squidforce.copyvault_1.7.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4692244
 MD5sum: 219444b2cb0529c3d84121e6c2e20c72
 SHA1: 15f003f076af819ec423e42e0ef6c014a645fe0f
@@ -6393,6 +6709,7 @@ Installed-Size: 5416
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Filename: ./debs/com.squidforce.copyvault_1.7.5_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1662760
 MD5sum: 5e161f9fe64c277fa32d251fce0cc20b
 SHA1: 2add533354c4ae1c2e8794bc5b7267df549227be
@@ -6412,6 +6729,7 @@ Installed-Size: 5496
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Filename: ./debs/com.squidforce.copyvault_1.7.8_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1692284
 MD5sum: 627a2d387d3a15e135f406312600bc09
 SHA1: 9ca130a60b699ab4a3eda7007e873802bc7a7e27
@@ -6431,6 +6749,7 @@ Installed-Size: 5480
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Filename: ./debs/com.squidforce.copyvault_1.8.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1694480
 MD5sum: 25f5c27c2bd28613d630eacc3827465a
 SHA1: 0d3d6c9c7479ce07b74303113c55110c644bf479
@@ -6450,6 +6769,7 @@ Installed-Size: 5444
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Filename: ./debs/com.squidforce.copyvault_1.8.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1683464
 MD5sum: bc10995ea095820632f8d551dfb3e5c0
 SHA1: a081cf3d7297e1ca5252f99edb1ec4802b1d3379
@@ -6469,6 +6789,7 @@ Installed-Size: 5512
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Filename: ./debs/com.squidforce.copyvault_1.8.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1689920
 MD5sum: 92c2cb2816c2bb8226a5110c1e58fff2
 SHA1: 91b4a47bb786665503fba88a3aa2237b05a899a1
@@ -6485,6 +6806,7 @@ Section: Themes
 Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Steve Sarmiento <steve22sarmiento@gmail.com>
 Filename: ./debs/com.stevsarm.taffy_1.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 22777488
 MD5sum: 3e4351b4765aa99fc64f2d2e8ebed05f
 SHA1: 2b331afcd4a80cf2fa845326feb9dfcac96f1854
@@ -6503,6 +6825,7 @@ Maintainer: SWING
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.swing.appstorenoads_0.0.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4100
 MD5sum: a217038f15fdb04fef709c5ed347770f
 SHA1: 638eb2341cb685f9b39b6834be861f6141e6a74f
@@ -6523,6 +6846,7 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.swing.appstorenoads_0.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 5484
 MD5sum: e56448f599fd0092e9fc37f79138e248
 SHA1: 9346e06125bd83b19793440444a851532f90effe
@@ -6543,6 +6867,7 @@ Installed-Size: 480
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
 Filename: ./debs/com.teslaman3092.popoutbuttons_1.0.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 52452
 MD5sum: 2d24907658d306c21030d0c94fff594d
 SHA1: 4de9839df6440eac21b9ba7181cf481c71105e03
@@ -6565,6 +6890,7 @@ Installed-Size: 481
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
 Filename: ./debs/com.teslaman3092.popoutbuttons_1.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 73044
 MD5sum: 4078899980243f214fd7f9cb0e75618f
 SHA1: 1199960539996b81f15bc000f241750229c6274f
@@ -6584,6 +6910,7 @@ Section: Themes
 Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Thenatis
 Filename: ./debs/com.thenatis.vivacity_2.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 5191648
 MD5sum: 8b1b42898840acba368153951d91b0f0
 SHA1: bc1d67db1d162b115ee5331a80d16bd63625704e
@@ -6604,6 +6931,7 @@ Installed-Size: 9121
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 7.0), ldid
 Filename: ./debs/com.tigisoftware.appdatamanager_1.8.2-5_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2476352
 MD5sum: f07d458037f18ff3326b03adf183be3a
 SHA1: b62f286c9b171f9eefc0f50652b437c9746c98f4
@@ -6629,6 +6957,7 @@ Installed-Size: 23200
 Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
 Filename: ./debs/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 8700882
 MD5sum: 3ba64c6c17e4a92c3afc89a95a224532
 SHA1: edaaf4766eeafcbc2186eecdc99a519b8eca2ed5
@@ -6647,6 +6976,7 @@ Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Installed-Size: 368
 Depends: mobilesubstrate
 Filename: ./debs/com.tonykraft.inosleep_1.2.4_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 31646
 MD5sum: c114b2b650d9e1762c767f491b204126
 SHA1: e79b59d3b1fa13ee4701aa15ba08fb9033119b94
@@ -6667,6 +6997,7 @@ Installed-Size: 368
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/com.tonykraft.inosleep_1.2.4_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 30588
 MD5sum: 5153c3fabe817d9576579de5a4b06bd6
 SHA1: fdc0f5de3360881e3e480f8fc595c0e86f347bef
@@ -6685,6 +7016,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Tools4cydia
 Installed-Size: 11552
 Filename: ./debs/com.tools4cydia.copylinkdeb_2.0.4-15+rootless_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 478968
 MD5sum: d8b8693de602af3521b8bdf2ccb83892
 SHA1: fe670b220a914a1dee2c4f472437cceb072062f4
@@ -6703,6 +7035,7 @@ Maintainer: Tools4cydia
 Installed-Size: 11552
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.tools4cydia.copylinkdeb_2.0.4-15+rootless_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 475432
 MD5sum: 5556f6d76467ad4dfea2a93769b7db3c
 SHA1: d17982ab4995b2b8dc8f0a90801c7578b355bf1b
@@ -6720,6 +7053,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Tools4cydia
 Installed-Size: 11568
 Filename: ./debs/com.tools4cydia.copylinkdeb_3.0.4-1+rootless_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 476268
 MD5sum: 9bb68130bfb1d3cdc5d55d058a28efba
 SHA1: 70dbef3113ac9f755e94af8e45ec17e330a1b060
@@ -6738,6 +7072,7 @@ Maintainer: Tools4cydia
 Installed-Size: 11568
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.tools4cydia.copylinkdeb_3.0.4-1+rootless_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 476356
 MD5sum: 634c91787e897733fec86459f9a15fad
 SHA1: 163e2fee8b1c73274473342a9b11690996631e78
@@ -6755,6 +7090,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: tools4cydia
 Installed-Size: 732
 Filename: ./debs/com.tools4cydia.packages4_3.3.2-1+roothide_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 69500
 MD5sum: e0cae9e8a22fe15a208f9fcf31a10a7f
 SHA1: fbe4ac8b5cce7599810ae2005c74760f731dad46
@@ -6774,6 +7110,7 @@ Installed-Size: 2068
 Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
 Conflicts: com.restiveconch.actionbar
 Filename: ./debs/com.udevs.dockx_2.6.2_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 421324
 MD5sum: 8171e4c2e0c183339702549d8d922736
 SHA1: c13175b8cc7cab09bf930986b5fdee6eea999d02
@@ -6795,6 +7132,7 @@ Installed-Size: 2036
 Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
 Conflicts: com.restiveconch.actionbar
 Filename: ./debs/com.udevs.dockx_2.6.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 415820
 MD5sum: 0e3d9fc803df4ba22950b4b132ac1057
 SHA1: 81599710c26c51d79148c054c262f85253c2f96a
@@ -6815,6 +7153,7 @@ Maintainer: Wes <wes.hamster@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wrp1002.nosettingsbadge_1.1.0_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4386
 MD5sum: eb490f9575dac7396e9ab1a332cb7a30
 SHA1: f3d3baf3ed3a07ce5d1593e5c0a98eb1000ceb1e
@@ -6834,6 +7173,7 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wrp1002.nosettingsbadge_1.1.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4360
 MD5sum: b17c15a518acc96d3ec7fe58bf66256e
 SHA1: 6846984c0a8ea4d6a42394a29914ac55ce646ce6
@@ -6853,6 +7193,7 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 479
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, oldabi
 Filename: ./debs/com.xcxiao.bottomcontrolx_1.3.3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 108656
 MD5sum: 3d35e57f0a7b598777d4d3cdffc91007
 SHA1: 26a30de968b718f85d3d089f36f2b806010330d0
@@ -6877,6 +7218,7 @@ Installed-Size: 768
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16),com.mrgcgamer.libgcuniversal
 Filename: ./debs/com.xyaman.tako_3.5.2.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 127680
 MD5sum: 58aafe1a560261c06f99c38ed4fee9ed
 SHA1: dca0b0056b8b8505c46b85194b40aca1c19e141b
@@ -6897,6 +7239,7 @@ Installed-Size: 152
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/com.yasxi.telegramunseenmessage_4.2.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4276
 MD5sum: b879d4d69f60152ca46c60e0776bb06e
 SHA1: 1bf7a48eed912b1a378f8430dfd47d2571a8c262
@@ -6915,6 +7258,7 @@ Maintainer: 0xkuj <0xkujz@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 11)
 Filename: ./debs/com.yourepo.0xkuj.storeswitcher2rootless_1.0.4_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 14508
 MD5sum: 02724b457793acf613f5a4c53e060725
 SHA1: eac2a43213762e2c0293251290ccad7261d9a5a7
@@ -6933,6 +7277,7 @@ Maintainer: @fr0st & b4db1r3 <nfive060@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/com.yourepo.b4db1r3r3p0.oleddarkmode_0.5.1-11_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 9096
 MD5sum: 188c3a27180ed74607094cd7ea1daf03
 SHA1: 5ba8f7670b2e959bbaddb1f7457f06dd9f008f12
@@ -6951,6 +7296,7 @@ Maintainer: CydiaGeek <lucaluca86@aol.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/com.yourepo.cydiageek.twitterlabelback_1.0.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4848
 MD5sum: ca1ee09e614a7e657780c154427a5bf6
 SHA1: 695778474555a3fc540d105619e639c90764348b
@@ -6969,6 +7315,7 @@ Maintainer: Christian Kosman & CydiaGeek <lucaluca86@aol.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: ./debs/com.yourepo.cydiageek.wiredock_0.0.1-1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 19604
 MD5sum: a4281e6640e8eb6f7383740f4f90057f
 SHA1: 50ebf0f0952c785bea42e6c74a76dca891ab1deb
@@ -6986,6 +7333,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: iBreak <ibreak2019@qq.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.yourepo.ibreak.hideseparator_1.9.2_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 8040
 MD5sum: 76efab855ff86f38ee2cf803a8c6c1b5
 SHA1: 01f8986e23efdf5a43a191dbd76461a5af3a44be
@@ -7003,6 +7351,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: iBreak <ibreak2019@qq.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.yourepo.ibreak.hideseparator_1.9.3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 9130
 MD5sum: 36d9823775059b4925bba957b0cf4f18
 SHA1: dc8d3c708251c739a95b474d1fd64277c7a6eaf5
@@ -7020,6 +7369,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: iBreak <ibreak2019@qq.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.yourepo.ibreak.nobigtitles_1.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4444
 MD5sum: d5d5e63d69a84a4123f17af6d0cf7834
 SHA1: 03eee1df62d7b7768b1e3c817524f4b8d84de9c4
@@ -7039,6 +7389,7 @@ Installed-Size: 248
 Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
 Conflicts: zp.limitcharging.rootless
 Filename: ./debs/com.zqbb.limitcharging_1.0.8_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 19148
 MD5sum: dd3e4d1029c519be4d9f6710f45cb827
 SHA1: cbf87fdb8de8de4c98c923e50de729d303ce2386
@@ -7061,6 +7412,7 @@ Installed-Size: 244
 Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
 Conflicts: zp.limitcharging.rootless
 Filename: ./debs/com.zqbb.limitcharging_1.0.8_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 17980
 MD5sum: ae3cceb16c0922ade08fbcff8d13bf90
 SHA1: 12a848dea64dadae45a67156bb79421764cd3ed7
@@ -7084,6 +7436,7 @@ Installed-Size: 546
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.zqbb.limitcharging_1.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 18560
 MD5sum: f446abc70eec1501c028ab86d876e88d
 SHA1: a8c9304ce4c74e20e6f777b0ae76a29c10debbd2
@@ -7108,6 +7461,7 @@ Maintainer: daniel
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/daniel.trustevaluator_0.0.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2916
 MD5sum: 6824d51ddf87bba5b049416fd40136d8
 SHA1: f994a9700ec217e4ac60de9837348bf477d40a9a
@@ -7126,6 +7480,7 @@ Maintainer: daniel
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/daniel.trustevaluator_0.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2932
 MD5sum: 68a1a5c5dd84bdc632f5b024c8ebec3a
 SHA1: c405e56821cefb6bdfa9a47d73ee3ace692f0c20
@@ -7145,6 +7500,7 @@ Installed-Size: 2472
 Depends: mobilesubstrate
 Replaces: dev.objcmsgsend.iota
 Filename: ./debs/dev.objcmsgsend.iota.ar_2.4_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 330196
 MD5sum: 2ec536672ef04b023a987ccdfe749e04
 SHA1: 206b343e6e40a93c1a9ce2cab4abd32fba1b7eb5
@@ -7164,6 +7520,7 @@ Installed-Size: 2472
 Depends: mobilesubstrate
 Replaces: dev.objcmsgsend.iota.ar
 Filename: ./debs/dev.objcmsgsend.iota_2.4_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 557156
 MD5sum: aa018cbedf63a4c9092d380bf1da911b
 SHA1: 22c98581b63136e5ffe05924eec41df64d9b5e89
@@ -7181,6 +7538,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: objc_msgSend
 Installed-Size: 2576
 Filename: ./debs/dev.objcmsgsend.theta_1.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 675648
 MD5sum: 8ec93889bd892e285d2ed5ae528e409a
 SHA1: 03b94e83da573fa76c2792d428cff7f6e78d0166
@@ -7198,6 +7556,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: objc_msgSend
 Installed-Size: 2820
 Filename: ./debs/dev.objcmsgsend.theta_1.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 983892
 MD5sum: 5f5e835d3d98102d8a7488627ac86ec8
 SHA1: 8db7629e6edd085ed5ed4cc01d17922956342b75
@@ -7217,6 +7576,7 @@ Installed-Size: 404
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Conflicts: love.litten.eneko
 Filename: ./debs/dev.traurige.eneko_1.4.2_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 28456
 MD5sum: e25d1c124704d4a4080a21f04a95a93a
 SHA1: ecd7ae867017395255234be0753e86007a243547
@@ -7237,6 +7597,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Conflicts: love.litten.eneko
 Filename: ./debs/dev.traurige.eneko_1.4.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 28328
 MD5sum: c8f2c2b4e813069b2e0056524c51307a
 SHA1: 07c44afd391301339c6f031d5506e00de75ae58f
@@ -7258,6 +7619,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
 Conflicts: love.litten.libkitten
 Filename: ./debs/dev.traurige.libkitten_1.4.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 10150
 MD5sum: 3191a7b2805de2cc3e39907756674e5e
 SHA1: 3f38db162d5ae29cdc89c7e2ff52c724e809fc7d
@@ -7279,6 +7641,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, dev.traurige.libkitten (>= 1.3.3), com.mrgcgamer.libgcuniversal
 Conflicts: love.litten.liddell
 Filename: ./debs/dev.traurige.liddell_1.4.3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 124296
 MD5sum: c5f0aeca3c7db60bcd81a5d5e06b539d
 SHA1: cc3a56dbefb5b85ca9d9cd1440838d76f4fcce2a
@@ -7298,6 +7661,7 @@ Installed-Size: 19416
 Conflicts: dev.zero.wisp
 Replaces: dev.zero.wisp
 Filename: ./debs/dev.zero.wicked_3.0b10_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 7980862
 MD5sum: 2d84d6ea71cde2a30d920342378905e0
 SHA1: 89617c2a6bc2fac6507b858e93d727e6a6e97eb9
@@ -7319,6 +7683,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Conflicts: dev.zero.wisp
 Replaces: dev.zero.wisp
 Filename: ./debs/dev.zero.wicked_3.0b10_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 7907224
 MD5sum: 52a5df4453278787f4450586fc08dc6e
 SHA1: 61e210831f68da28c490827feb0972666f5fcd12
@@ -7339,6 +7704,7 @@ Installed-Size: 216
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/fr.rootfs.rode_1.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 5980
 MD5sum: be7b44dc9f64a6bdfb4a9629d0fd7f28
 SHA1: 13713182f089b74781a8e4d719ef62e055b0aa87
@@ -7358,6 +7724,7 @@ Installed-Size: 628
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/jp.dcsyhi.adkeyboard_1.3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 287372
 MD5sum: 65b6b8fbf75c1b14de0ca9483e766e33
 SHA1: 3e294932359e22d064b80a5f4990fee1777b15e7
@@ -7376,6 +7743,7 @@ Maintainer: Dcsyhi
 Installed-Size: 1364
 Depends: mobilesubstrate
 Filename: ./debs/jp.dcsyhi.kbappdock_1.5_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 814362
 MD5sum: 143eebeb012807c1206528f5c12156dc
 SHA1: c85bb326be05ecab63285f1ab79ba5c3d4f9c8c1
@@ -7396,6 +7764,7 @@ Installed-Size: 1364
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/jp.dcsyhi.kbappdock_1.5_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 842602
 MD5sum: d116d1fbcf69a5378393de458d8c4ed4
 SHA1: 4b7e86655a294b1050139df1996ba7bc75321672
@@ -7416,6 +7785,7 @@ Installed-Size: 12005
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
 Filename: ./debs/jp.dcsyhi.zetsu_1.6.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 20979540
 MD5sum: 62543028d9ad7119c3f0ed236c89864c
 SHA1: 34ef7725c86a51fa2010910b99904dc286a85b54
@@ -7438,6 +7808,7 @@ Installed-Size: 504
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 11.0)
 Filename: ./debs/jp.r-plus.menusupport_1.3.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 35612
 MD5sum: d171d6ed48d75bc93fb8077c9e5960e6
 SHA1: a76c5a2b441eddbee4abf11212a71e4b7b9b877b
@@ -7458,6 +7829,7 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/jp.uzra.enabledsreturn_1.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 5910
 MD5sum: ff21c7e474256dffba0ddfb2453c8cc5
 SHA1: 9b7c9d2b8ba358c7102613a3f2ff2845db84ff7b
@@ -7476,6 +7848,7 @@ Maintainer: alias20
 Installed-Size: 532
 Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
 Filename: ./debs/kr.xsf1re.vnodebypass_0.4.2_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 68940
 MD5sum: f63f94487bb0c0072abf19c0aa942f22
 SHA1: 750702664c5944a7e6131aad73a3550b81b5b326
@@ -7496,6 +7869,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Skitty
 Installed-Size: 204
 Filename: ./debs/libskittycolor_1.0_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 22418
 MD5sum: 35149956e98e904274a00a83c9cc6e31
 SHA1: 02568f5c6de443a2321f8e3f1f3db990e2252f5e
@@ -7515,6 +7889,7 @@ Maintainer: Skitty
 Installed-Size: 204
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/libskittycolor_1.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 21856
 MD5sum: 7a7a83570392b7beedf606b274a37493
 SHA1: 71613f6cd1aed890bc43b875f4f3f0c9e324e99e
@@ -7532,6 +7907,7 @@ Section: Themes
 Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: Nebula
 Filename: ./debs/lol.itsnebula.modernos_1.2-1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2755020
 MD5sum: d3a75b08ed3676ba56fa3af27cd820d2
 SHA1: 43571ff152180a171ebc0f62315a30db1e6528d3
@@ -7551,6 +7927,7 @@ Installed-Size: 15524
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Filename: ./debs/me.ahmedbafkir.dleasy_2.14.5_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 5451260
 MD5sum: 754242684e890e64d9cf85fc62d49824
 SHA1: 2201fc7cd89b8d8481eb44192f2b934d1591081b
@@ -7571,6 +7948,7 @@ Installed-Size: 15544
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Filename: ./debs/me.ahmedbafkir.dleasy_2.14.6_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 5458724
 MD5sum: 6881c98f70ffae96488b918e7b4d485c
 SHA1: 380ebcb5e17bcb857bd125f4b356c13a6d24812a
@@ -7592,6 +7970,7 @@ Installed-Size: 6588
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: ./debs/me.alfhaily.rocket_3.8.30_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1412084
 MD5sum: c6aa47b90d3f3d863b54c377f5afea39
 SHA1: e99da084467f8c32a44fbb23d1a14395878ad218
@@ -7615,6 +7994,7 @@ Installed-Size: 6588
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: ./debs/me.alfhaily.rocket_3.8.31_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4419912
 MD5sum: a11f194893fa2706d072b98f4be22d9a
 SHA1: 18743a8c82210fca7cc6a888c28c52c3448bbe1a
@@ -7638,6 +8018,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: me.ikghd.instakiller
 Filename: ./debs/me.ikghd.inkplus_2.4.32_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 257692
 MD5sum: 25624b782ef57ffb4ca9760b2325b487
 SHA1: af29668102dc9fb51b11b9b039db0890ae9a094a
@@ -7662,6 +8043,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: me.ikghd.instakiller
 Filename: ./debs/me.ikghd.inkplus_2.4.40_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 268264
 MD5sum: 55f0e38234b4cb10b7546f987e51ae89
 SHA1: 80e5436dae8a9307d2857a6762e2da8d0661f77e
@@ -7686,6 +8068,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: me.ikghd.youtubekiller
 Filename: ./debs/me.ikghd.ytkplus_3.2.46_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 9065232
 MD5sum: e0c6be8986514b65f35886cc2f93868e
 SHA1: bf16832ec4aae2fd6bc1ad4598438bb837a8cf65
@@ -7710,6 +8093,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: me.ikghd.youtubekiller
 Filename: ./debs/me.ikghd.ytkplus_3.2.52_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 9077024
 MD5sum: 302e9ed8981a4a2f83ca6cf34d9ddcc8
 SHA1: 064cbd87da738d6eab0e1bd94caa3e4aa4379a7a
@@ -7733,6 +8117,7 @@ Installed-Size: 344
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/me.luki.arres_0.9.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 10832
 MD5sum: 3cf64b3ade5e0193d8b9b21148f8c750
 SHA1: 14ebb4bedf99ccc70dc942b82c73631b53251cea
@@ -7754,6 +8139,7 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/me.luki.iwanttranslucent_0.9.4_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 7474
 MD5sum: d41133ed43c7f8e64dc1f90331e372c3
 SHA1: f8f7eaf2fcc1caa8842af594fb164550ed3ae84e
@@ -7775,6 +8161,7 @@ Maintainer: Nixuge
 Installed-Size: 396
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: ./debs/me.nixuge.networkmanager_1.4.3_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 37720
 MD5sum: 402214901aca2e45c30556ceb235c6a1
 SHA1: 2f986934a77a3a97876604913cff4fef84ba6f82
@@ -7798,6 +8185,7 @@ Installed-Size: 396
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: ./debs/me.nixuge.networkmanager_1.4.3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 36708
 MD5sum: d663837245b4c854e7e2e6feaf1e6746
 SHA1: 9876287ab5b0e5945732107480bd2a7c14b6f73e
@@ -7821,6 +8209,7 @@ Installed-Size: 4252
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.0xkuj.copylogfix16
 Filename: ./debs/me.tomt000.copylog_1.5.6_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 1507160
 MD5sum: 13f52649781b70eb0dab1bff4858ca21
 SHA1: e0e16b036e7454f473a4cf49a62482a023dc08b8
@@ -7839,6 +8228,7 @@ Maintainer: D.F (MTAC) <mtac@mtac.app>
 Installed-Size: 272
 Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh
 Filename: ./debs/mterminal_1.6_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 86310
 MD5sum: 1673d3203408491ad97a3052e5dcbdca
 SHA1: bb40c2690b3bf6e8bc846f9369f84e2135fe4aa2
@@ -7860,6 +8250,7 @@ Installed-Size: 272
 Pre-Depends: rootless-compat(>= 0.1)
 Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh
 Filename: ./debs/mterminal_1.6_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 99886
 MD5sum: 738ace99c286f9e7e99d2584fc77662d
 SHA1: f1be8b2d3b05c3c0581725d5a6f4509f0efff20f
@@ -7880,6 +8271,7 @@ Maintainer: aJBboCydia
 Installed-Size: 676
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/net.ajbbo.acinsta_1.3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 175438
 MD5sum: b7aeb65db9de4586bd4288047c514e94
 SHA1: 605e410945c31417da4df7da5ea677c8d1afb8c8
@@ -7898,6 +8290,7 @@ Maintainer: aJBboCydia
 Installed-Size: 488
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/net.ajbbo.acjodel_1.7_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 107582
 MD5sum: 6c6bd2e588b85c0b6487e02b1b43efbc
 SHA1: 32fa876cf8b571a9f51532240f20c0fa444dde3c
@@ -7916,6 +8309,7 @@ Maintainer: aJBboCydia
 Installed-Size: 1096
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/net.ajbbo.actiktok_2.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 303136
 MD5sum: 5314cf5588d6e8ea425f7b745f1be473
 SHA1: 4a2786eb2672ede1a2d4675cf4cde2d1e16bdb4a
@@ -7935,6 +8329,7 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/net.ajbbo.disableshareplay_0.0.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2920
 MD5sum: aa224fdfaef93f8bd6bef009d3edd434
 SHA1: f9655d36f0850abf479cc85699fb190fb5eb6d12
@@ -7952,6 +8347,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: alexia <me@alexia.lol>
 Depends: firmware (>> 15.0)
 Filename: ./debs/net.cadoth.nosbreload_0.1.1-1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3504
 MD5sum: 898f20ecbfad05c86f068a014f2841fa
 SHA1: bbd661952261389aa0f6ed975d0be9664e15cf36
@@ -7972,6 +8368,7 @@ Maintainer: alexia <me@alexia.lol>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>> 15.0)
 Filename: ./debs/net.cadoth.nosbreload_0.1.1-1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3672
 MD5sum: 308cc637238651c25a3aea43639936e3
 SHA1: e7b96d16ea8fcda4e0d3ed8243bb2b4e67feafd4
@@ -7992,6 +8389,7 @@ Maintainer: Nets
 Installed-Size: 23032
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/netskao.appdata-rootless_1.4.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 5072808
 MD5sum: dc4ef27d60fdbac908773332832c3554
 SHA1: 2ec0bbbe6b576fc2bd90b484d3e52cd6fc4475d3
@@ -8011,6 +8409,7 @@ Installed-Size: 23032
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/netskao.appdata-rootless_1.4.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 5069720
 MD5sum: fa6e81699de40407cb2c5e5e68cc76af
 SHA1: 5ddd27d7a8198d8bc16b6d492f1844ae9e88d901
@@ -8029,6 +8428,7 @@ Maintainer: SingleKeycap
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/one.keycap.freepip_0.0.3_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 6044
 MD5sum: d0151611ab8507911e34e3da3e0b4ec9
 SHA1: ece61e11126bd7327bfeb258740766b029d414c7
@@ -8049,6 +8449,7 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/one.keycap.freepip_0.0.3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 8030
 MD5sum: 7d4939fd84380facc5d6c289088e23bd
 SHA1: f06dfc1ebf5c3b2f0f6f0e2f5a2d4e57856877a9
@@ -8068,6 +8469,7 @@ Maintainer: CoolStar
 Installed-Size: 4468
 Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
 Filename: ./debs/org.coolstar.classicfolders2_3.0.6_iphoneos-arm.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3309482
 MD5sum: ee2bfa205e5e28fb46520fdf173415dc
 SHA1: 0dd50613baedc8c2f582f229b79adabd43beb5b5
@@ -8086,6 +8488,7 @@ Maintainer: CoolStar
 Installed-Size: 4468
 Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
 Filename: ./debs/org.coolstar.classicfolders2_3.0.6_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3309382
 MD5sum: f5055f0aa94f13a3030a88ac489222f8
 SHA1: f67fe3599cb9b0d04411178de49b9ee03d90873d
@@ -8104,6 +8507,7 @@ Maintainer: CoolStar
 Installed-Size: 4464
 Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
 Filename: ./debs/org.coolstar.classicfolders2_3.0.6_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3306566
 MD5sum: 9489dd6975888227c2d8245a02eacb03
 SHA1: bbd193ea652cda8de93adf8908bdd6c7ca86dc84
@@ -8121,6 +8525,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: haxi0
 Depends: mobilesubstrate, odcctools, fakeroot, ldid, oldabi, file
 Filename: ./debs/org.haxi0.derootifier_1.3_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 529272
 MD5sum: 25b9ea072c6cd64bed45ebbe4bea5d83
 SHA1: 3dbaa5b30f59a4b3826822374f92b2386533e4d4
@@ -8142,6 +8547,7 @@ Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
 Depends: firmware (>= 6.0)
 Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
 Filename: ./debs/org.thebigboss.libcolorpicker_1.6.9.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 71096
 MD5sum: dcd979434652725495b904063c88cceb
 SHA1: 9e19e8bf343dd27b072ad91eae13a5232e1dac40
@@ -8167,6 +8573,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 6.0)
 Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
 Filename: ./debs/org.thebigboss.libcolorpicker_1.6.9.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 96984
 MD5sum: eb3f6ef90cbfdaf29d07f461890945fc
 SHA1: c5874de4cea493b82706c0806f682b6fe275b84d
@@ -8191,6 +8598,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: org.thebigboss.whatsapprevaelrootless
 Filename: ./debs/org.thebigboss.whatsapprevael_10.23_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2106820
 MD5sum: 7931b7c01f6e1fc0fe9dd17830e444fe
 SHA1: 8480829f844e538876fdd9a03bbd62c578c7dcc5
@@ -8218,6 +8626,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, firmware(>= 15.0), com.opa334.ccsupport
 Conflicts: com.yourepo.ikghd.pmp
 Filename: ./debs/pro.ikghd.pmp_1.9_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 53372
 MD5sum: 8a5dc660ee7fd50b97fd38b000a4f98e
 SHA1: ec3459b47e51cbd2f26dd2d3d9fd3d2dcfd44dde
@@ -8244,6 +8653,7 @@ Installed-Size: 892
 Depends:
 Conflicts: ru.domo.cocoatop, xyz.cypwn.cocoatop64
 Filename: ./debs/ru.domo.cocoatop64_2.2.4_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 202300
 MD5sum: a64fcfd24b3b92c50ccbb9101685a4db
 SHA1: a0691a7ec3244349779fd40a4ccf6b28f90c3152
@@ -8264,6 +8674,7 @@ Installed-Size: 1300
 Depends: mobilesubstrate, com.randy420.tools (>=2.3.7)
 Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
 Filename: ./debs/ru.rj.ftt_1.4_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 354912
 MD5sum: 533437e089cdd9336c8b8252487455b1
 SHA1: 68dfa80216e072b6f62b8a00997c5c19d3d83a56
@@ -8288,6 +8699,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.randy420.tools (>=2.3.7)
 Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
 Filename: ./debs/ru.rj.ftt_1.4_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 356948
 MD5sum: 572bbef943ad6b0a46133eefa828443b
 SHA1: 2c6e1fbd9f1ff5f1c5412f446ab9b5ef86eb2921
@@ -8309,6 +8721,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: ipapplus
 Depends: apt-utils
 Filename: ./debs/sa.ipapplus.autorepomanager_1.0_iphoneos-arm.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2600
 MD5sum: 49c26a9df40dbf5828e6e2ba20a6aa22
 SHA1: fe65f92240e08ce8c294b2b2395e5f8e267837b0
@@ -8327,6 +8740,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: ipapplus
 Depends: apt-utils
 Filename: ./debs/sa.ipapplus.autorepomanager_1.0_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2600
 MD5sum: 363297001d650da94489de723040c384
 SHA1: f971a1aedc92708d9c28d74866b493902815774d
@@ -8345,6 +8759,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: ipapplus
 Depends: apt-utils
 Filename: ./debs/sa.ipapplus.autorepomanager_1.0_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2600
 MD5sum: 4b45d616c8a01fd50853b889661147f5
 SHA1: 0b207165399c5297b46bc9a021efbba7d6abadec
@@ -8363,6 +8778,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: ipapplus
 Depends: apt-utils
 Filename: ./debs/sa.ipapplus.autorepomanager_1.1_iphoneos-arm.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3240
 MD5sum: fa9aa9cccaca830943d6c2fed4225937
 SHA1: 0bd9fcc767a61ecdd34195766ec1e8aaf5c1bc70
@@ -8381,6 +8797,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: ipapplus
 Depends: apt-utils
 Filename: ./debs/sa.ipapplus.autorepomanager_1.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3244
 MD5sum: caedeb7564dc26531d82832485ae626d
 SHA1: 1e66fb8ad1ffb28418fad75e191a743ce62c94f8
@@ -8399,6 +8816,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: ipapplus
 Depends: apt-utils
 Filename: ./debs/sa.ipapplus.autorepomanager_1.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 3244
 MD5sum: e72898235c931d48a87f9ac80820d00b
 SHA1: 528e45e778ae216b4063027316955bb8c65d17b3
@@ -8419,6 +8837,7 @@ Installed-Size: 502
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/twitter.nowesr1.location-spoofer_0.0.2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 110066
 MD5sum: e1328fe14af9597cbc7c5f8ff7a59fa8
 SHA1: 3b47d16a4e2e8912801dadd114cfbbca94f72895
@@ -8444,6 +8863,7 @@ Installed-Size: 376
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/twitter.nowesr1.photosplus_0.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 26168
 MD5sum: f0880ab33ee33c9fa89455d733e658a1
 SHA1: 8a63ed80d7a66791e5c8f2b2676e25dba17dad6f
@@ -8468,6 +8888,7 @@ Installed-Size: 135
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate
 Filename: ./debs/twitter.nowesr1.waignorecalls_1.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 47010
 MD5sum: 2d91e16956a8fd1099d55ae82a9fc74a
 SHA1: d186b3e20c3a4f5b08b1f0e30f224793fc52277f
@@ -8493,6 +8914,7 @@ Installed-Size: 224
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
 Filename: ./debs/weeb.lillie.youtubedislikesreturn_1.12.10_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 26716
 MD5sum: 7911adddb3e306ce7d6e494a14e98fca
 SHA1: 581edab7abcc1e4d02d5f6d565123dbf1a4a1d78
@@ -8515,6 +8937,7 @@ Installed-Size: 239
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
 Filename: ./debs/weeb.lillie.youtubedislikesreturn_1.13.3_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 34516
 MD5sum: 42174845111584db76e14294a09c745e
 SHA1: db2fb1726f06d1d86d6ce7eca25bac7ca5526fa8
@@ -8535,6 +8958,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: CyPwn
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Filename: ./debs/xyz.cypwn.appdata_1.4.1_iphoneos-arm.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 7401044
 MD5sum: 8a778f0a47ab0b6b9192256ccb20cca9
 SHA1: ce8b28b2220ca32f6cdcb42b0f854744a81f19e2
@@ -8556,6 +8980,7 @@ Maintainer: Skitty
 Installed-Size: 504
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/xyz.skitty.ersatz_1.0.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 49052
 MD5sum: c7944721ae5894b81c57a42583a1580a
 SHA1: a7a37f9d316e86625e1a0d6f9a95bf49e80576e7
@@ -8578,6 +9003,7 @@ Installed-Size: 504
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/xyz.skitty.ersatz_1.0.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 47904
 MD5sum: 43599a338ca09914f85b4349b9f49757
 SHA1: 02fbb6086ea762f3fdf271c74c73f4b1a61e93be
@@ -8599,6 +9025,7 @@ Maintainer: Skitty
 Installed-Size: 580
 Depends: mobilesubstrate, libskittycolor, firmware (>= 13.0)
 Filename: ./debs/xyz.skitty.spectrum_1.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 60814
 MD5sum: 1fb3cad655bbd4f831af4eb3b0384f80
 SHA1: d7783f337ed583c0a4603592f1e8b7cef51b31e9
@@ -8621,6 +9048,7 @@ Installed-Size: 580
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, libskittycolor, firmware (>= 13.0)
 Filename: ./debs/xyz.skitty.spectrum_1.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 58472
 MD5sum: 40b6a7ad474d22b74f1ee6bfa8de0e54
 SHA1: 943a9ba1c0ab104476e88d05477769f87c9d3ad3
@@ -8641,6 +9069,7 @@ Header: https://i.imgur.com/ffTbQHi.jpeg
 Maintainer: ARX8x
 Depends: mobilesubstrate, oldabi
 Filename: ./debs/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 272484
 MD5sum: b95eab5cb98ee59903074e07556eeeef
 SHA1: cd12112a3197a800fc1e1fe45779cba2ec47e921
@@ -8660,6 +9089,7 @@ Maintainer: ARX8x
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, oldabi
 Filename: ./debs/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 268276
 MD5sum: 83b313cb75e21ac6c2f9742eab035bf8
 SHA1: 13e713c724b5fabed2b6869dfb979f5e8cedde3e
@@ -8680,6 +9110,7 @@ Installed-Size: 504
 Depends:
 Conflicts: ru.domo.cocoatop , ru.domo.cocoatop64 , zp.cocoatop64 , zp.cocoatop64.inject
 Filename: ./debs/zp.cocoatop64.unject_3.1.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 139024
 MD5sum: dd8cc81bce506c0216f220a7b1defdfa
 SHA1: 7f25289d6e636fcd6de0740dfa0046ef8c81acf4
@@ -8704,6 +9135,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends:
 Conflicts: ru.domo.cocoatop , ru.domo.cocoatop64 , zp.cocoatop64 , zp.cocoatop64.inject
 Filename: ./debs/zp.cocoatop64.unject_3.1.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 172664
 MD5sum: bdaace9be16410ad292e9e8688eeeeaf
 SHA1: 5b03978bcacf5f44746e8606648ea10cf5384565
@@ -8726,6 +9158,7 @@ Maintainer: Hitori
 Installed-Size: 168
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: ./debs/zp.stopautolaunchapps_1.1_iphoneos-arm64.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 2992
 MD5sum: 7a53ee58deb44f21b62a4200a9b671d3
 SHA1: b987e22e1859825dbe9411492edbb302de0c4e58
@@ -8746,6 +9179,7 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: ./debs/zp.stopautolaunchapps_1.1_iphoneos-arm64e.deb
+Icon: https://i.imgur.com/VAEwLFR.jpeg
 Size: 4390
 MD5sum: 670914e51a2553dc790a72d40c613dfa
 SHA1: e0cc6d21b66aeaa99a7bd0e71b7b14194316e444
