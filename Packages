@@ -1496,6 +1496,25 @@ Description: Adds Touch ID authentication to apps, just like the security featur
 Name: LockTouchX
 Author: MrDeNsor
 
+Package: com.den.locktouchx
+Architecture: iphoneos-arm64e
+Version: 1.1-8+debug
+Section: Tweaks
+Header: https://i.imgur.com/ffTbQHi.jpeg
+Maintainer: MrDeNsor
+Installed-Size: 180
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.den.locktouchx_1.1-8+debug_iphoneos-arm64e.deb
+Size: 17276
+MD5sum: 2358ea4cd18bc205cb18bda23a2749f8
+SHA1: 90b4c1d586ea0a0731a191e3cec11974cbc722ab
+SHA256: 64d94aec2e56e2fd2306fb881da4b0d267d38c6ca4b0079b879d37f332191773
+SHA512: 5a52cde94edbe85ce9941df7856c64a3bff920fb21be825ac729af169473846e000e6905aaf8d11efb3a00051ba0132681a79d423e187287ceda0d228c8e1955
+Description: Adds Touch ID authentication to apps, just like the security features in iOS 18
+Name: LockTouchX
+Author: MrDeNsor
+
 Package: com.den.shortcutx
 Architecture: iphoneos-arm64e
 Version: 0.0.1-1
