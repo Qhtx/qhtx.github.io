@@ -1,5 +1,5 @@
 PACKAGES_FILE="Packages"
-ICON_URL="https://i.imgur.com/VAEwLFR.jpeg"
+ICON_URL="https://i.imgur.com/UQw8wjw.jpeg"
 TEMP_FILE="Packages_temp"
 
 awk -v icon="$ICON_URL" '
