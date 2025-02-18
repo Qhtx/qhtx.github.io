@@ -28,18 +28,32 @@
       max-width: 100vw;
       color: #fff;
       position: relative;
+      overflow: hidden;
+    }
+
+    body::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: inherit;
+      filter: blur(10px);
+      z-index: -1;
     }
 
     #profile-box {
       position: relative;
       z-index: 10;
       text-align: center;
-      background: rgba(0, 0, 0, 0.7);
-      padding: 30px 20px;
+      background: rgba(0, 0, 0, 0.5);
+      padding: 20px 15px;
       border-radius: 20px;
       box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
-      width: 300px;
+      width: 250px;
       transition: transform 0.3s ease, box-shadow 0.3s ease;
+      margin-top: 30px;
     }
 
     #profile-box:hover {
@@ -48,17 +62,17 @@
     }
 
     #profile-box img {
-      width: 120px;
-      height: 120px;
+      width: 100px;
+      height: 100px;
       border-radius: 50%;
-      margin-bottom: 15px;
+      margin-bottom: 10px;
       box-shadow: 0 6px 12px rgba(255, 255, 255, 0.3);
-      border: 4px solid #00BFFF;
+      border: 3px solid #00BFFF;
     }
 
     #profile-box h2 {
-      font-size: 1.8rem;
-      margin: 10px 0;
+      font-size: 1.5rem;
+      margin: 5px 0;
       color: #fff;
       text-transform: capitalize;
       letter-spacing: 2px;
@@ -67,9 +81,9 @@
     }
 
     #profile-box p {
-      font-size: 1.1rem;
-      color: #ddd;
-      margin-bottom: 20px;
+      font-size: 1rem;
+      color: #ccc;
+      margin-bottom: 15px;
       letter-spacing: 1px;
       text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
     }
@@ -78,18 +92,18 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      margin: 10px auto;
-      padding: 12px 20px;
+      margin: 8px auto;
+      padding: 10px 15px;
       color: white;
       background: rgba(255, 255, 255, 0.2);
       border: 1px solid rgba(255, 255, 255, 0.3);
-      border-radius: 10px;
+      border-radius: 8px;
       text-decoration: none;
-      font-size: 1rem;
+      font-size: 0.9rem;
       font-weight: 500;
       letter-spacing: 1px;
       transition: all 0.3s ease;
-      width: 85%;
+      width: 80%;
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
     }
 
@@ -102,7 +116,7 @@
 
     .button-container a i {
       margin-right: 8px;
-      font-size: 1.2rem;
+      font-size: 1rem;
     }
 
     #switch-btn {
@@ -110,17 +124,17 @@
       align-items: center;
       justify-content: center;
       margin: 10px auto;
-      padding: 12px 20px;
+      padding: 10px 15px;
       color: white;
       background: linear-gradient(135deg, #0073e6, #005bb5);
       border: none;
-      border-radius: 10px;
+      border-radius: 8px;
       text-decoration: none;
-      font-size: 1rem;
+      font-size: 0.9rem;
       font-weight: 500;
       letter-spacing: 1px;
       transition: all 0.3s ease;
-      width: 85%;
+      width: 80%;
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
     }
 
@@ -149,9 +163,7 @@
       <a href="https://live.kwikmotion.com/sbrksaquranradiolive/ksaquranradio/chunks.m3u8" target="_blank"><i class="fas fa-microphone"></i> إذاعة القرآن</a>
       <a href="http://n08.radiojar.com/dktga74wdd3vv?rj-ttl=5&rj-tok=AAABk6IjRw8Agk32ONglYT_gqA" target="_blank"><i class="fas fa-mosque"></i> إذاعة المسجد النبوي</a>
     </div>
-
     <a href="page2.html" id="switch-btn"><i class="fas fa-random"></i> التالي</a>
-
   </div>
 </body>
 </html>
