@@ -4105,6 +4105,26 @@ Description: Pin screenshots on the screen.
 Name: Snapper 3
 Author: Jonathan Winger-lang
 
+Package: com.joshua.volumeflex
+Architecture: iphoneos-arm64e
+Version: 0.0.6
+Section: Tweaks
+Header: https://api.linkjar.co/open/53d0fded-83d6-4a8c-bd71-78b2577ad603
+Maintainer: Joshua Wheeler
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), libvolumeflex
+Filename: ./debs/com.joshua.volumeflex_0.0.6_iphoneos-arm64e.deb
+Icon: https://api.linkjar.co/open/adad7be4-fb8a-4b70-89a7-c5cb7cc7edf4
+Size: 34588
+MD5sum: d5573125eb2797323178ba7c415041f2
+SHA1: d0130e66708504d839237da00a8888576c5f0aea
+SHA256: 00d161d52b6ac43b4c47a2d7c441f8a53e69b4d5f4d2bcd8db64b8e87df11fbf
+SHA512: a6f70beace18a9205b1fa8c663189cc9b733205ababfb034fa56f1e7fa9d6fb6c5c3176fb04d9dda37e773122ef872bfaa506e647afd5bdd6d47c31568609285
+Description: The world dosen't need another FLEX loader but people with fat fingers do.
+Name: VolumeFLEX
+Author: Joshua Wheeler
+
 Package: com.julioverne.goodwifi
 Architecture: iphoneos-arm64
 Version: 0.0~beta6
@@ -7812,6 +7832,29 @@ Description: A simple color picker implementation.
 Tag: role::developer
 Name: libskittycolor
 Author: Skitty
+
+Package: libvolumeflex
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Header: https://api.linkjar.co/open/53d0fded-83d6-4a8c-bd71-78b2577ad603
+Maintainer: Tanner Bennett <tannerbennett@me.com>
+Installed-Size: 2844
+Provides: libflex
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 9.0)
+Depends:
+Filename: ./debs/libvolumeflex_0.0.2_iphoneos-arm64e.deb
+Icon: https://api.linkjar.co/open/adad7be4-fb8a-4b70-89a7-c5cb7cc7edf4
+Size: 1722378
+MD5sum: 43524c5f071687d55e2f3382c1fc993a
+SHA1: aa121fb8124995cb92841947e555a7ce2df5e6ce
+SHA256: 35a0fab3075a720f263ab6b334ec16e50b19751171b31989258f52ad5f42dee5
+SHA512: 0428a15fa397115535f726e6df2f0a57ccd19c24b66f0b7e585687edeecc6f701cd5361a40764c23c532178764a7d14031b6e2aa76de00482bf2cb777c643707
+Description: A library for Flipboard Explorer.
+Name: libVolumeFLEX
+Author: Tanner Bennett <tannerbennett@me.com>
+Depiction: https://nscake.github.io/package.html?package=libflex
+SileoDepiction: https://nscake.github.io/depictions/libflex.sileo.json
 
 Package: lol.itsnebula.modernos
 Architecture: iphoneos-arm64e
