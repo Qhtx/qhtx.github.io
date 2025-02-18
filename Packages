@@ -8,7 +8,7 @@ Pre-Depends: rootless-compat(>= 0.1)
 Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./debs/Flex3RootHide_beta92.deb
+Filename: ./debs/Flex3beta_1:3~Beta92_iphoneos-arm64e.deb
 Icon: https://api.linkjar.co/open/adad7be4-fb8a-4b70-89a7-c5cb7cc7edf4
 Size: 19227992
 MD5sum: 943cf674091af33f0ab2af59cc56ba02
@@ -5482,32 +5482,6 @@ Name: Velvet 2
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 Depiction: https://chariz.com/get/velvet-2
 
-Package: com.opa334.choicy
-Architecture: iphoneos-arm64e
-Version: 1.5.2-2
-Section: Tweaks
-Header: https://api.linkjar.co/open/53d0fded-83d6-4a8c-bd71-78b2577ad603
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 1122
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
-Filename: ./debs/com.opa334.choicy_1.5.2-2_iphoneos-arm64e.deb
-Icon: https://api.linkjar.co/open/adad7be4-fb8a-4b70-89a7-c5cb7cc7edf4
-Size: 213230
-MD5sum: 503e077729c436f0fd8a4aab33b2f7a7
-SHA1: 565cfa4adacedf863fd104c578ceba02cdd85768
-SHA256: 732a0f8b8df9fd38deab8fd700b54f74f01cbfd744b7dc7ee9685cad4bfa254b
-SHA512: 437c0ef3c509afd2a16433fb6da20938fc83eac427002aa5a4e1e4c31b45d5f85e2db446915e8ce39a8ff76a7d9b4703bc269048bdadbf7a21d9a8c05b633204
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
-Description: Advanced Tweak Configuration!
-Tag: purpose::extension
-Author: opa334 <opa334@protonmail.com>
-Name: Choicy
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: opa334
-Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
-
 Package: com.opa334.cranelite
 Architecture: iphoneos-arm64e
 Version: 1.3.16-3
@@ -9048,27 +9022,6 @@ MD5sum: 7a53ee58deb44f21b62a4200a9b671d3
 SHA1: b987e22e1859825dbe9411492edbb302de0c4e58
 SHA256: 6a608886173c6ac0e3a184a0fc463aedf238eeed1c890b3ca0e42b7ded29f1a7
 SHA512: 36acfdccff1dccfed5b5c23d17f1c6a3819ee76447d8bceb533bda4ba50f65b15421db35b4bd1fb730268ed8501af98582f1303b7b41befb8566d1d17966a6a2
-Description: Stop Auto Launch Apps
-Author: zqbb
-Name: StopAutoLaunchApps
-SileoDepiction: https://siieo.github.io/sileodepictions/StopAutoLaunchApps/StopAutoLaunchApps.json
-
-Package: zp.stopautolaunchapps
-Architecture: iphoneos-arm64e
-Version: 1.1
-Section: Tweaks
-Header: https://api.linkjar.co/open/53d0fded-83d6-4a8c-bd71-78b2577ad603
-Maintainer: Hitori
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/zp.stopautolaunchapps_1.1_iphoneos-arm64e.deb
-Icon: https://api.linkjar.co/open/adad7be4-fb8a-4b70-89a7-c5cb7cc7edf4
-Size: 4390
-MD5sum: 670914e51a2553dc790a72d40c613dfa
-SHA1: e0cc6d21b66aeaa99a7bd0e71b7b14194316e444
-SHA256: 4ccfd7a3dd7983df9a67bb680eeee8068bd908b78b37136206db1a6b2ef3e16a
-SHA512: 2e95a931f5d9c66794816599e9118b9b020040b589ad0ecd111c9be847d27cb7aaefe3f35e67ae389380290b5e88f3f0df0d0707b379e468b0d01311b820641a
 Description: Stop Auto Launch Apps
 Author: zqbb
 Name: StopAutoLaunchApps
