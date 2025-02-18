@@ -1,1 +1,4 @@
-/rootfs/var/mobile/Containers/Shared/AppGroup/.jbroot-77D0FB678B0CDD61/var/mobile/Documents/#Package.sh
+DEBS_DIR="./debs"
+PACKAGES_FILE="Packages"
+
+apt-ftparchive packages "$DEBS_DIR" > "$PACKAGES_FILE"
