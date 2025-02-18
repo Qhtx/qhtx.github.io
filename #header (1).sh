@@ -1,0 +1,1 @@
+/rootfs/var/mobile/Containers/Shared/AppGroup/.jbroot-9A421FC9B7D6325D/var/mobile/Documents/#header.sh

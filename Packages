@@ -4105,6 +4105,26 @@ Description: Pin screenshots on the screen.
 Name: Snapper 3
 Author: Jonathan Winger-lang
 
+Package: com.joshua.volumeflex
+Architecture: iphoneos-arm64e
+Version: 0.0.6
+Section: Tweaks
+Header: https://api.linkjar.co/open/53d0fded-83d6-4a8c-bd71-78b2577ad603
+Maintainer: Joshua Wheeler
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), libvolumeflex
+Filename: ./debs/com.joshua.volumeflex_0.0.6_iphoneos-arm64e.deb
+Icon: https://api.linkjar.co/open/adad7be4-fb8a-4b70-89a7-c5cb7cc7edf4
+Size: 34588
+MD5sum: d5573125eb2797323178ba7c415041f2
+SHA1: d0130e66708504d839237da00a8888576c5f0aea
+SHA256: 00d161d52b6ac43b4c47a2d7c441f8a53e69b4d5f4d2bcd8db64b8e87df11fbf
+SHA512: a6f70beace18a9205b1fa8c663189cc9b733205ababfb034fa56f1e7fa9d6fb6c5c3176fb04d9dda37e773122ef872bfaa506e647afd5bdd6d47c31568609285
+Description: The world dosen't need another FLEX loader but people with fat fingers do.
+Name: VolumeFLEX
+Author: Joshua Wheeler
+
 Package: com.julioverne.goodwifi
 Architecture: iphoneos-arm64
 Version: 0.0~beta6
@@ -5211,6 +5231,26 @@ Name: DumpDecrypter
 Author: Netskao
 SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.dumpdecrypter.json
 
+Package: com.netskao.flexlist
+Architecture: iphoneos-arm64e
+Version: 1.4-2
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 5020
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.netskao.flexlist_1.4-2_iphoneos-arm64e.deb
+Icon: https://api.linkjar.co/open/adad7be4-fb8a-4b70-89a7-c5cb7cc7edf4
+Size: 3714518
+MD5sum: f89e8d17948742213559f395ef5903b9
+SHA1: 078501bed7e7da6f77ca2b98772dd464feffcced
+SHA256: a07cad11765adf820730fb284b72ad2f89c1cf6d25f9910ff2ecdcc0ce3b44d1
+SHA512: d7ced49523523a3d973eaba0f2b5381efef94ba2da204d83303be872fe7ccb541ae765a8c158d7de77654f6d4aa6bff7f3540bee955ba5fc27e630384cba1c9a
+Description: FLEXList is a wrapper tool for FLEX Tool
+Name: FLEXList
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.flexlist.json
+
 Package: com.newwares.badgesync
 Architecture: iphoneos-arm64e
 Version: 1.2.2
@@ -5441,6 +5481,32 @@ Author: NoisyFlake <support@noisyflake.com>
 Name: Velvet 2
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 Depiction: https://chariz.com/get/velvet-2
+
+Package: com.opa334.choicy
+Architecture: iphoneos-arm64e
+Version: 1.5.2-2
+Section: Tweaks
+Header: https://api.linkjar.co/open/53d0fded-83d6-4a8c-bd71-78b2577ad603
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1122
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/com.opa334.choicy_1.5.2-2_iphoneos-arm64e.deb
+Icon: https://api.linkjar.co/open/adad7be4-fb8a-4b70-89a7-c5cb7cc7edf4
+Size: 213230
+MD5sum: 503e077729c436f0fd8a4aab33b2f7a7
+SHA1: 565cfa4adacedf863fd104c578ceba02cdd85768
+SHA256: 732a0f8b8df9fd38deab8fd700b54f74f01cbfd744b7dc7ee9685cad4bfa254b
+SHA512: 437c0ef3c509afd2a16433fb6da20938fc83eac427002aa5a4e1e4c31b45d5f85e2db446915e8ce39a8ff76a7d9b4703bc269048bdadbf7a21d9a8c05b633204
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Description: Advanced Tweak Configuration!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: Choicy
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
 
 Package: com.opa334.cranelite
 Architecture: iphoneos-arm64e
@@ -7792,6 +7858,29 @@ Description: A simple color picker implementation.
 Tag: role::developer
 Name: libskittycolor
 Author: Skitty
+
+Package: libvolumeflex
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Header: https://api.linkjar.co/open/53d0fded-83d6-4a8c-bd71-78b2577ad603
+Maintainer: Tanner Bennett <tannerbennett@me.com>
+Installed-Size: 2844
+Provides: libflex
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 9.0)
+Depends:
+Filename: ./debs/libvolumeflex_0.0.2_iphoneos-arm64e.deb
+Icon: https://api.linkjar.co/open/adad7be4-fb8a-4b70-89a7-c5cb7cc7edf4
+Size: 1722378
+MD5sum: 43524c5f071687d55e2f3382c1fc993a
+SHA1: aa121fb8124995cb92841947e555a7ce2df5e6ce
+SHA256: 35a0fab3075a720f263ab6b334ec16e50b19751171b31989258f52ad5f42dee5
+SHA512: 0428a15fa397115535f726e6df2f0a57ccd19c24b66f0b7e585687edeecc6f701cd5361a40764c23c532178764a7d14031b6e2aa76de00482bf2cb777c643707
+Description: A library for Flipboard Explorer.
+Name: libVolumeFLEX
+Author: Tanner Bennett <tannerbennett@me.com>
+Depiction: https://nscake.github.io/package.html?package=libflex
+SileoDepiction: https://nscake.github.io/depictions/libflex.sileo.json
 
 Package: lol.itsnebula.modernos
 Architecture: iphoneos-arm64e
