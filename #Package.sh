@@ -7,7 +7,6 @@ HEADER_URL="https://i.imgur.com/vrj6wpD.jpeg"
 TEMP_FILE="Packages_temp"
 
 apt-ftparchive packages "$DEBS_DIR" > "$PACKAGES_FILE"
-
 sed -i "/Section: /c\Section: Tweaks" "$PACKAGES_FILE"
 sed -i "/Section: Tweaks/a Header: $HEADER_URL" "$PACKAGES_FILE"
 
@@ -24,3 +23,8 @@ awk -v icon="$ICON_URL" '
 ' "$PACKAGES_FILE" > "$TEMP_FILE"
 
 mv "$TEMP_FILE" "$PACKAGES_FILE"
+
+cd repo
+git add --all
+git commit -m "Update Packages with new header and icon"
+git push
