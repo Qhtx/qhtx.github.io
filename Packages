@@ -4,9 +4,6 @@ Version: 1:3~Beta92
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: DXcool223
 Pre-Depends: rootless-compat(>= 0.1)
 Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
@@ -26,9 +23,6 @@ Architecture: iphoneos-arm
 Version: 116.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Karen/あけみ <karen@akemi.ai>
 Provides: appsync, net.angelxwind.appsyncunified
@@ -50,9 +44,6 @@ Version: 116.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Karen/あけみ <karen@akemi.ai>
 Provides: appsync, net.angelxwind.appsyncunified
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
@@ -72,9 +63,6 @@ Architecture: iphoneos-arm64e
 Version: 116.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Karen/あけみ <karen@akemi.ai>
 Provides: appsync, net.angelxwind.appsyncunified
@@ -97,9 +85,6 @@ Version: 1.4.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: 0x530c<0x530c@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
@@ -119,9 +104,6 @@ Version: 1.1-1+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: @CrazyMind90
 Depends: mobilesubstrate
 Filename: ./debs/cm90.crossoveripc_1.1-1+debug_iphoneos-arm64.deb
@@ -138,9 +120,6 @@ Architecture: iphoneos-arm64
 Version: 2.0.0-5
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zqbb
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
@@ -160,9 +139,6 @@ Version: 2.0.0-5
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zqbb
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Filename: ./debs/cn.zqbb.disupdateapp_2.0.0-5_iphoneos-arm64e.deb
@@ -181,9 +157,6 @@ Version: 2.7
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Lessica <82flex@gmail.com>
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: ./debs/codes.aurora.kayoko_2.7_iphoneos-arm64.deb
@@ -200,9 +173,6 @@ Architecture: iphoneos-arm64e
 Version: 2.7
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Lessica <82flex@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -222,9 +192,6 @@ Version: 2.1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: 0xkuj
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: com.opa334.altlist
@@ -242,9 +209,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: 0xkuj
 Pre-Depends: rootless-compat(>= 0.9)
@@ -264,9 +228,6 @@ Version: 1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
@@ -284,9 +245,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: 0xkuj
 Pre-Depends: rootless-compat(>= 0.9)
@@ -306,9 +264,6 @@ Version: 1.6.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: 0xkuj
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.0xkuj.filzadirprobe_1.6.2_iphoneos-arm64e.deb
@@ -325,9 +280,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: 0xkuj
 Pre-Depends: rootless-compat(>= 0.9)
@@ -346,9 +298,6 @@ Architecture: iphoneos-arm64e
 Version: 1.9.7
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: 0xkuj
 Pre-Depends: rootless-compat(>= 0.9)
@@ -396,9 +345,6 @@ Version: 1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Little 34306
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: ./debs/com.34306.replaced_1.0_iphoneos-arm64.deb
@@ -415,9 +361,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Little 34306
 Depends: mobilesubstrate, firmware (>= 15.0)
@@ -436,9 +379,6 @@ Version: 1.7
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Lessica <82flex@gmail.com>
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: ./debs/com.82flex.iconrestore_1.7_iphoneos-arm64.deb
@@ -456,9 +396,6 @@ Version: 1.7
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Lessica <82flex@gmail.com>
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: ./debs/com.82flex.iconrestore_1.7_iphoneos-arm64e.deb
@@ -475,9 +412,6 @@ Architecture: iphoneos-arm64e
 Version: 1.4.2-1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Alpha_Stream <alphastream113@gmail.com>
 Depends: com.spark.snowboard, com.spark.snowboard.statusbar, firmware (>= 12.0)
@@ -497,9 +431,6 @@ Version: 1.1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.creaturesurvive.libcscolorpicker
 Filename: ./debs/com.asterix.digitalbattery13_1.1.0_iphoneos-arm64.deb
@@ -517,9 +448,6 @@ Architecture: iphoneos-arm64e
 Version: 1.1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -540,9 +468,6 @@ Version: 1.0.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Bandar Alruwaili
 Depends: mobilesubstrate
 Filename: ./debs/com.bandarhl.bhinsta_1.0.3_iphoneos-arm64.deb
@@ -560,9 +485,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Bandar Alruwaili
 Pre-Depends: rootless-compat(>= 0.9)
@@ -583,9 +505,6 @@ Version: 2.3.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: dvntm
 Depends: mobilesubstrate
 Filename: ./debs/com.bandarhl.bhtiktok_2.3.1_iphoneos-arm64.deb
@@ -603,9 +522,6 @@ Architecture: iphoneos-arm64e
 Version: 2.3.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: dvntm
 Pre-Depends: rootless-compat(>= 0.9)
@@ -626,9 +542,6 @@ Version: 4.3-5+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Bandar Alruwaili
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/com.bandarhl.bhtwitter_4.3-5+debug_iphoneos-arm64.deb
@@ -646,9 +559,6 @@ Architecture: iphoneos-arm64e
 Version: 4.3-5+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Bandar Alruwaili
 Pre-Depends: rootless-compat(>= 0.9)
@@ -668,9 +578,6 @@ Version: 0.0.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Brend0n <brendonjkding@126.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.brend0n.notransitcardversionlimit_0.0.2_iphoneos-arm64.deb
@@ -687,9 +594,6 @@ Architecture: iphoneos-arm64e
 Version: 0.0.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Brend0n <brendonjkding@126.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -709,9 +613,6 @@ Version: 6.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Sniper @DNS_Sys
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader
@@ -730,9 +631,6 @@ Version: 1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Cachetes <markosg26@gmail.com>
 Filename: ./debs/com.cachetes.col0rant_1.1_iphoneos-arm64e.deb
 Size: 7670298
@@ -748,9 +646,6 @@ Architecture: iphoneos-arm64e
 Version: 2.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Cachetes <markosg26@gmail.com>
 Filename: ./debs/com.cachetes.oxyg3n_2.4_iphoneos-arm64e.deb
@@ -768,9 +663,6 @@ Version: 0.3-6-1+debug
 Priority: optional
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 8.0), com.opa334.libsandy, cm90.crossoveripc
@@ -790,9 +682,6 @@ Priority: optional
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 8.0), cm90.crossoveripc
 Filename: ./debs/com.cokepokes.libnotifications_0.3-6_iphoneos-arm64.deb
@@ -809,9 +698,6 @@ Architecture: iphoneos-arm64e
 Version: 3.8.10.7
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -833,9 +719,6 @@ Version: 3.8.8
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: @CrazyMind90
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, ldid
@@ -855,9 +738,6 @@ Version: 1.5.8
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
 Filename: ./debs/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64.deb
@@ -875,9 +755,6 @@ Version: 1.5.8
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Pre-Depends: rootless-compat(>= 0.9), firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
 Filename: ./debs/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64e.deb
@@ -894,9 +771,6 @@ Architecture: iphoneos-arm64
 Version: 1.6.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
@@ -918,9 +792,6 @@ Architecture: iphoneos-arm64e
 Version: 1.6.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Pre-Depends: rootless-compat(>= 0.9), firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
@@ -944,9 +815,6 @@ Priority: optional
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
@@ -966,9 +834,6 @@ Version: 1.0.6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0.6_iphoneos-arm64.deb
 Size: 149100
@@ -984,9 +849,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -1005,9 +867,6 @@ Version: 2.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: CydiaAbdullah
 Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
 Filename: ./debs/com.cydiaabdullah.cacloud_2.1_iphoneos-arm.deb
@@ -1025,9 +884,6 @@ Version: 2.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: CydiaAbdullah
 Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
 Filename: ./debs/com.cydiaabdullah.cacloud_2.1_iphoneos-arm64.deb
@@ -1044,9 +900,6 @@ Architecture: iphoneos-arm64e
 Version: 2.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: CydiaAbdullah
 Pre-Depends: rootless-compat(>= 0.1)
@@ -1067,9 +920,6 @@ Priority: optional
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 14.0)
 Filename: ./debs/com.cydiageek.noeditpages_1.0.1_iphoneos-arm64e.deb
@@ -1087,9 +937,6 @@ Version: 1.0.2-1
 Priority: optional
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -1109,9 +956,6 @@ Version: 1.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Cyrex
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: ./debs/com.cyrex.epiphany_1.0.1_iphoneos-arm64e.deb
@@ -1128,9 +972,6 @@ Architecture: iphoneos-arm64
 Version: 1.0.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Derek Calabro
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1149,9 +990,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Derek Calabro
 Pre-Depends: rootless-compat(>= 0.9)
@@ -1172,9 +1010,6 @@ Version: 0.0.1-162+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MrDeNsor
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1192,9 +1027,6 @@ Architecture: iphoneos-arm64e
 Version: 0.0.1-39
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -1214,9 +1046,6 @@ Version: 0.0.9-1+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MrDeNsor
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1234,9 +1063,6 @@ Architecture: iphoneos-arm64e
 Version: 1.10-1+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MrDeNsor
 Pre-Depends: rootless-compat(>= 0.9)
@@ -1256,9 +1082,6 @@ Version: 1.12-1+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MrDeNsor
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.igformat_1.12-1+debug_iphoneos-arm64.deb
@@ -1272,16 +1095,12 @@ Author: MrDeNsor
 Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64e
 Version: 1.14
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MrDeNsor
 Pre-Depends: rootless-compat(>= 0.9)
@@ -1297,16 +1116,12 @@ Author: MrDeNsor
 Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64e
 Version: 1.16-1+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MrDeNsor
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1321,16 +1136,12 @@ Author: MrDeNsor
 Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64e
 Version: 1.19-1+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MrDeNsor
 Pre-Depends: rootless-compat(>= 0.9)
@@ -1346,16 +1157,12 @@ Author: MrDeNsor
 Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64e
 Version: 1.20-2+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MrDeNsor
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1370,16 +1177,12 @@ Author: MrDeNsor
 Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64
 Version: 1.21-2+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MrDeNsor
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1394,16 +1197,12 @@ Author: MrDeNsor
 Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64e
 Version: 1.21-2+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MrDeNsor
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1418,16 +1217,12 @@ Author: MrDeNsor
 Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64e
 Version: 1.69-41
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MrDeNsor
 Pre-Depends: rootless-compat(>= 0.9)
@@ -1443,16 +1238,12 @@ Author: MrDeNsor
 Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64
 Version: 1.70-1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MrDeNsor
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1467,16 +1258,12 @@ Author: MrDeNsor
 Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64e
 Version: 1.70-1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MrDeNsor
 Pre-Depends: rootless-compat(>= 0.9)
@@ -1492,16 +1279,12 @@ Author: MrDeNsor
 Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64
 Version: 1.71-1+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MrDeNsor
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1516,16 +1299,12 @@ Author: MrDeNsor
 Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64e
 Version: 1.71-1+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MrDeNsor
 Pre-Depends: rootless-compat(>= 0.9)
@@ -1541,16 +1320,12 @@ Author: MrDeNsor
 Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 
 Package: com.den.locktouchx
 Architecture: iphoneos-arm64
 Version: 1.1-8+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MrDeNsor
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1568,9 +1343,6 @@ Architecture: iphoneos-arm64e
 Version: 1.1-8+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MrDeNsor
 Pre-Depends: rootless-compat(>= 0.9)
@@ -1590,9 +1362,6 @@ Version: 1.2-18+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MrDeNsor
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.den.locktouchx_1.2-18+debug_iphoneos-arm64.deb
@@ -1609,9 +1378,6 @@ Architecture: iphoneos-arm64e
 Version: 1.2-18+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MrDeNsor
 Pre-Depends: rootless-compat(>= 0.9)
@@ -1631,9 +1397,6 @@ Version: 0.0.1-1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
@@ -1652,9 +1415,6 @@ Version: 1.0.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: DhinakG
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/com.dhinakg.addprofileinstallbutton_1.0.2_iphoneos-arm.deb
@@ -1670,9 +1430,6 @@ Architecture: iphoneos-arm64
 Version: 1.0.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: DhinakG
 Depends: mobilesubstrate, firmware (>= 12.0)
@@ -1690,9 +1447,6 @@ Version: 1.0.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: DhinakG
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/com.dhinakg.addprofileinstallbutton_1.0.2_iphoneos-arm64e.deb
@@ -1708,9 +1462,6 @@ Architecture: iphoneos-arm64
 Version: 0.0.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: dvntm
 Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
@@ -1729,9 +1480,6 @@ Version: 0.0.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: dvntm
 Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
 Filename: ./debs/com.dvntm.cc18_0.0.2_iphoneos-arm64e.deb
@@ -1748,9 +1496,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: dvntm
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1770,9 +1515,6 @@ Version: 0.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: dvntm
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.dvntm.esignalert_0.0.1_iphoneos-arm64e.deb
@@ -1789,9 +1531,6 @@ Architecture: iphoneos-arm64
 Version: 0.0.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: dvntm
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1810,9 +1549,6 @@ Architecture: iphoneos-arm64e
 Version: 0.0.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: dvntm
 Pre-Depends: rootless-compat(>= 0.9)
@@ -1833,9 +1569,6 @@ Version: 0.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: dvntm
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.dvntm.ratebegone_0.0.1_iphoneos-arm64.deb
@@ -1853,9 +1586,6 @@ Architecture: iphoneos-arm64e
 Version: 0.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: dvntm
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1875,9 +1605,6 @@ Version: 0.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: dvntm
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.dvntm.safariii_0.0.1_iphoneos-arm64.deb
@@ -1895,9 +1622,6 @@ Version: 0.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: dvntm
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.dvntm.safariii_0.0.1_iphoneos-arm64e.deb
@@ -1914,9 +1638,6 @@ Architecture: iphoneos-arm64
 Version: 0.0.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: dvntm
 Depends: mobilesubstrate
@@ -1936,9 +1657,6 @@ Version: 0.0.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: dvntm
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
@@ -1956,9 +1674,6 @@ Architecture: iphoneos-arm64
 Version: 5.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: dvntm
 Depends: mobilesubstrate
@@ -1978,9 +1693,6 @@ Version: 5.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: dvntm
 Depends: mobilesubstrate
 Filename: ./debs/com.dvntm.ytlite_5.1_iphoneos-arm64e.deb
@@ -1999,9 +1711,6 @@ Version: 1.1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: ichitaso
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.eamontracey.secretshot_1.1.1_iphoneos-arm64e.deb
@@ -2019,9 +1728,6 @@ Architecture: iphoneos-arm64e
 Version: 2.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: ethxnn88 <ethxnn88@gmail.com>
 Depends: firmware (>=16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
@@ -2042,9 +1748,6 @@ Version: 7.10.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
@@ -2064,9 +1767,6 @@ Architecture: iphoneos-arm64e
 Version: 7.10.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -2089,9 +1789,6 @@ Version: 3.4.10
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
@@ -2110,9 +1807,6 @@ Architecture: iphoneos-arm64e
 Version: 3.4.11
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -2133,9 +1827,6 @@ Version: 3.4.13
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.0)
@@ -2154,9 +1845,6 @@ Architecture: iphoneos-arm64e
 Version: 3.4.9
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -2177,9 +1865,6 @@ Version: 4.1.31
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
@@ -2198,9 +1883,6 @@ Architecture: iphoneos-arm64e
 Version: 4.1.32
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -2221,9 +1903,6 @@ Version: 4.1.33
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.43)
@@ -2242,9 +1921,6 @@ Architecture: iphoneos-arm64e
 Version: 4.1.35
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -2266,9 +1942,6 @@ Version: 4.1.36
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.4)
@@ -2288,9 +1961,6 @@ Architecture: iphoneos-arm64e
 Version: 4.1.37
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -2312,9 +1982,6 @@ Version: 2.4.38
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 14.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.38_iphoneos-arm.deb
@@ -2332,9 +1999,6 @@ Version: 2.4.40
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.40_iphoneos-arm64.deb
@@ -2351,9 +2015,6 @@ Architecture: iphoneos-arm64e
 Version: 2.4.40
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -2373,9 +2034,6 @@ Version: 2.4.45
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.45_iphoneos-arm64.deb
@@ -2392,9 +2050,6 @@ Architecture: iphoneos-arm64e
 Version: 2.4.45
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -2414,9 +2069,6 @@ Version: 2.4.46
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.46_iphoneos-arm64.deb
@@ -2433,9 +2085,6 @@ Architecture: iphoneos-arm64e
 Version: 2.4.46
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -2455,9 +2104,6 @@ Version: 2.4.47
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.47_iphoneos-arm.deb
@@ -2475,9 +2121,6 @@ Version: 2.4.47
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.47_iphoneos-arm64.deb
@@ -2494,9 +2137,6 @@ Architecture: iphoneos-arm64e
 Version: 2.4.47
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -2516,9 +2156,6 @@ Version: 2.5.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
@@ -2537,9 +2174,6 @@ Version: 2.5.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.5.3_iphoneos-arm64.deb
@@ -2556,9 +2190,6 @@ Architecture: iphoneos-arm64e
 Version: 2.5.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -2578,9 +2209,6 @@ Version: 2.5.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.5.4_iphoneos-arm64.deb
@@ -2598,9 +2226,6 @@ Architecture: iphoneos-arm64e
 Version: 2.5.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -2621,9 +2246,6 @@ Version: 2.5.5
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.5.5_iphoneos-arm64.deb
@@ -2641,9 +2263,6 @@ Architecture: iphoneos-arm64e
 Version: 2.5.5
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -2664,9 +2283,6 @@ Version: 2.5.6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.5.6_iphoneos-arm64.deb
@@ -2683,9 +2299,6 @@ Architecture: iphoneos-arm64e
 Version: 2.5.6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -2705,9 +2318,6 @@ Version: 1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: fiore
 Depends: mobilesubstrate, firmware (>= 14.0)
 Filename: ./debs/com.fiore.ccborder_1.0_iphoneos-arm64.deb
@@ -2725,9 +2335,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: fiore
 Depends: mobilesubstrate, firmware (>= 14.0)
@@ -2747,9 +2354,6 @@ Version: 1.2.7
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: FissionDev
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0)
 Filename: ./debs/com.fissiondev.uranium_1.2.7_iphoneos-arm64.deb
@@ -2767,9 +2371,6 @@ Architecture: iphoneos-arm64e
 Version: 1.2.7
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: FissionDev
 Pre-Depends: rootless-compat(>= 0.9)
@@ -2789,9 +2390,6 @@ Architecture: iphoneos-arm64e
 Version: 1.4.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -2813,9 +2411,6 @@ Version: 1.1.10
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
@@ -2834,9 +2429,6 @@ Architecture: iphoneos-arm64e
 Version: 1.1.12
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -2857,9 +2449,6 @@ Version: 1.1.13
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.43)
@@ -2878,9 +2467,6 @@ Architecture: iphoneos-arm64e
 Version: 1.1.14
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -2901,9 +2487,6 @@ Version: 1.0~b14
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.39)
@@ -2923,9 +2506,6 @@ Version: 1.0~b15
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.39)
 Filename: ./debs/com.fouadraheb.regram_1.0~b15_iphoneos-arm64.deb
@@ -2943,9 +2523,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0~b15
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -2966,9 +2543,6 @@ Version: 1.0~b17
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.44)
@@ -2988,9 +2562,6 @@ Version: 1.0~b18
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.46)
 Filename: ./debs/com.fouadraheb.regram_1.0~b18_iphoneos-arm.deb
@@ -3009,9 +2580,6 @@ Version: 1.0~b18
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.46)
 Filename: ./debs/com.fouadraheb.regram_1.0~b18_iphoneos-arm64.deb
@@ -3029,9 +2597,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0~b18
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3052,9 +2617,6 @@ Version: 1.0~b20
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
@@ -3073,9 +2635,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0~b21
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3096,9 +2655,6 @@ Version: 1.0~b22
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.fouadraheb.regram_1.0~b22_iphoneos-arm64.deb
@@ -3116,9 +2672,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0~b22
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3139,9 +2692,6 @@ Version: 1.2.42
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.37), com.muirey03.libmryipc
 Filename: ./debs/com.fouadraheb.watusi3_1.2.42_iphoneos-arm.deb
@@ -3160,9 +2710,6 @@ Version: 1.2.42
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.37)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.42_iphoneos-arm64.deb
@@ -3180,9 +2727,6 @@ Architecture: iphoneos-arm64e
 Version: 1.2.42
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3203,9 +2747,6 @@ Version: 1.2.44
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.44_iphoneos-arm64.deb
@@ -3223,9 +2764,6 @@ Architecture: iphoneos-arm64e
 Version: 1.2.44
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3246,9 +2784,6 @@ Version: 1.2.45
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.45_iphoneos-arm64.deb
@@ -3266,9 +2801,6 @@ Architecture: iphoneos-arm64e
 Version: 1.2.45
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3289,9 +2821,6 @@ Version: 1.2.48
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.44)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.48_iphoneos-arm64.deb
@@ -3309,9 +2838,6 @@ Architecture: iphoneos-arm64e
 Version: 1.2.48
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3332,9 +2858,6 @@ Version: 1.2.49
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.46)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.49_iphoneos-arm64.deb
@@ -3352,9 +2875,6 @@ Architecture: iphoneos-arm64e
 Version: 1.2.49
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3375,9 +2895,6 @@ Version: 1.2.50
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.47)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.50_iphoneos-arm.deb
@@ -3396,9 +2913,6 @@ Version: 1.2.50
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.47)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.50_iphoneos-arm64.deb
@@ -3416,9 +2930,6 @@ Architecture: iphoneos-arm64e
 Version: 1.2.50
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3439,9 +2950,6 @@ Version: 1.2.52
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.0)
@@ -3461,9 +2969,6 @@ Version: 1.2.53
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.3)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.53_iphoneos-arm64.deb
@@ -3481,9 +2986,6 @@ Architecture: iphoneos-arm64e
 Version: 1.2.53
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3504,9 +3006,6 @@ Version: 1.2.54
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.3)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.54_iphoneos-arm64.deb
@@ -3524,9 +3023,6 @@ Architecture: iphoneos-arm64e
 Version: 1.2.54
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3547,9 +3043,6 @@ Version: 1.2.55
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.5)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.55_iphoneos-arm64.deb
@@ -3567,9 +3060,6 @@ Architecture: iphoneos-arm64e
 Version: 1.2.55
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3590,9 +3080,6 @@ Version: 1.2.57
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.6)
 Filename: ./debs/com.fouadraheb.watusi3_1.2.57_iphoneos-arm64.deb
@@ -3610,9 +3097,6 @@ Architecture: iphoneos-arm64e
 Version: 1.2.57
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3633,9 +3117,6 @@ Version: 1.4.13
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: FoxfortMobile
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.4.7)
@@ -3654,9 +3135,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: FoxfortMobile
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3677,9 +3155,6 @@ Version: 1.4.7
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: FoxfortMobile
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 11.0), com.opa334.libsandy
@@ -3699,9 +3174,6 @@ Version: 1.0.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: FoxfortMobile
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.foxfort.libfoxfortutils
@@ -3719,9 +3191,6 @@ Architecture: iphoneos-arm64e
 Version: 2.18.26
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: FoxfortMobile
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3743,9 +3212,6 @@ Version: 0.4.5
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: iGameGod
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.gamegod.igg.roothide_0.4.5_iphoneos-arm64e.deb
@@ -3762,9 +3228,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: gilshahar7
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3784,9 +3247,6 @@ Version: 3.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Ginsu
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: ./debs/com.ginsu.ramundertime_3.3_iphoneos-arm64.deb
@@ -3804,9 +3264,6 @@ Architecture: iphoneos-arm64
 Version: 1.0.6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: ichitaso
 Pre-Depends: firmware (>= 11.0)
@@ -3827,9 +3284,6 @@ Version: 1.0.6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: ichitaso
 Pre-Depends: rootless-compat(>= 0.9), firmware (>= 11.0)
 Depends: mobilesubstrate, preferenceloader
@@ -3849,9 +3303,6 @@ Version: 0.0.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: ichitaso
 Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
 Filename: ./debs/com.ichitaso.hideserialnumber_0.0.4_iphoneos-arm64.deb
@@ -3870,9 +3321,6 @@ Version: 0.0.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: ichitaso
 Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
 Filename: ./debs/com.ichitaso.hideserialnumber_0.0.4_iphoneos-arm64e.deb
@@ -3890,9 +3338,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Havoc
 Provides: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
@@ -3915,9 +3360,6 @@ Version: 0.6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: ichitaso
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/com.ichitaso.otadisabler_0.6_iphoneos-arm64.deb
@@ -3935,9 +3377,6 @@ Architecture: iphoneos-arm64e
 Version: 0.6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: ichitaso
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3957,9 +3396,6 @@ Architecture: iphoneos-arm64
 Version: 1.4.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
 Pre-Depends: firmware (>= 11.0)
@@ -3982,9 +3418,6 @@ Version: 1.4.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9), firmware (>= 11.0)
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
@@ -4006,9 +3439,6 @@ Version: 1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: iCraze
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
@@ -4027,9 +3457,6 @@ Version: 0.0.1-3+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: @iMokhles
 Depends: mobilesubstrate
 Filename: ./debs/com.imokhles.disablertl_0.0.1-3+debug_iphoneos-arm64.deb
@@ -4046,9 +3473,6 @@ Architecture: iphoneos-arm64e
 Version: 0.0.1-3+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: @iMokhles
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4068,9 +3492,6 @@ Version: 1.5-1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
 Filename: ./debs/com.jailbreak365.safeccmodules_1.5-1_iphoneos-arm64.deb
@@ -4087,9 +3508,6 @@ Architecture: iphoneos-arm64e
 Version: 1.5-1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4109,9 +3527,6 @@ Version: 1.0.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Jax Roth
 Depends: mobilesubstrate
 Filename: ./debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_iphoneos-arm64.deb
@@ -4128,9 +3543,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Jax Roth
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4149,9 +3561,6 @@ Architecture: iphoneos-arm64e
 Version: 1.2.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Jonathan Winger-lang
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4172,9 +3581,6 @@ Version: 0.0.6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Joshua Wheeler
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), libvolumeflex
@@ -4193,9 +3599,6 @@ Version: 0.0~beta6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64.deb
@@ -4213,9 +3616,6 @@ Architecture: iphoneos-arm64e
 Version: 0.0~beta6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Julio
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4236,9 +3636,6 @@ Version: 0.0~beta6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Julio
 Depends: mobilesubstrate
 Filename: ./debs/com.julioverne.lowerinstall_0.0~beta6_iphoneos-arm.deb
@@ -4256,9 +3653,6 @@ Version: 1.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: khanhduytran0
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
 Filename: ./debs/com.kdt.trollpad_1.3_iphoneos-arm64.deb
@@ -4275,9 +3669,6 @@ Architecture: iphoneos-arm64e
 Version: 1.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: khanhduytran0
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4297,9 +3688,6 @@ Version: 0.0.10
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: KingPuffdaddi
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
@@ -4317,9 +3705,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4340,9 +3725,6 @@ Version: 1.7.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: lclrc(SquidForce)
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
@@ -4362,9 +3744,6 @@ Version: 1.0.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: level3tjg
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
 Filename: ./debs/com.level3tjg.betterccbrightness_1.0.2_iphoneos-arm64.deb
@@ -4381,9 +3760,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: level3tjg
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4403,9 +3779,6 @@ Version: 0.1.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: level3tjg
 Depends: mobilesubstrate
 Filename: ./debs/com.level3tjg.twitchadblock_0.1.4_iphoneos-arm64.deb
@@ -4422,9 +3795,6 @@ Architecture: iphoneos-arm64e
 Version: 0.1.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: level3tjg
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4444,9 +3814,6 @@ Version: 2.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Lizynz <lizynz@ya.ru>
 Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
 Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, ca.ndoizo.bolders, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, com.nightwind.dockapplibrary, com.tomaszpoliszuk.dockcontroller
@@ -4465,9 +3832,6 @@ Version: 1.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Lizynz <lizynz@ya.ru>
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: ./debs/com.lizynz.telegaicons.rootless_1.3_iphoneos-arm64.deb
@@ -4484,9 +3848,6 @@ Architecture: iphoneos-arm64e
 Version: 1.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Lizynz <lizynz@ya.ru>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4506,9 +3867,6 @@ Version: 1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Sniper @DNS_Sys
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.managedelete.sniper_1.0_iphoneos-arm.deb
@@ -4526,9 +3884,6 @@ Version: 1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Sniper @DNS_Sys
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.managedelete.sniper_1.0_iphoneos-arm64.deb
@@ -4545,9 +3900,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Sniper @DNS_Sys
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4567,9 +3919,6 @@ Version: 1.3.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MegaDev
 Depends: mobilesubstrate,ws.hbang.common,preferenceloader,com.opa334.ccsupport
 Filename: ./debs/com.megadev.sentinel_1.3.2_iphoneos-arm64.deb
@@ -4587,9 +3936,6 @@ Architecture: iphoneos-arm64e
 Version: 1.7.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MrGcGamer
 Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
@@ -4610,9 +3956,6 @@ Version: 1.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MTAC
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
@@ -4631,9 +3974,6 @@ Version: 1.0.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MTAC
 Depends: com.opa334.ccsupport
 Filename: ./debs/com.mtac.ccpowermenu_1.0.2_iphoneos-arm64.deb
@@ -4651,9 +3991,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MTAC
 Pre-Depends: rootless-compat(>= 0.1)
@@ -4674,9 +4011,6 @@ Version: 2.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MTAC
 Depends: com.mtac.lynxtwo
 Filename: ./debs/com.mtac.lynxapp_2.1_iphoneos-arm64.deb
@@ -4694,9 +4028,6 @@ Architecture: iphoneos-arm64e
 Version: 2.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MTAC
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4717,9 +4048,6 @@ Version: 2.5
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MTAC
 Depends: com.mtac.lynxtwo
 Filename: ./debs/com.mtac.lynxtwo.localizations_2.5_iphoneos-arm64.deb
@@ -4737,9 +4065,6 @@ Architecture: iphoneos-arm64e
 Version: 2.5
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MTAC
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4760,9 +4085,6 @@ Version: 1.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MTAC
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.mtac.prefs.localizer_1.2_iphoneos-arm64.deb
@@ -4780,9 +4102,6 @@ Architecture: iphoneos-arm64e
 Version: 1.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: MTAC
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4803,9 +4122,6 @@ Version: 4.3.1-1+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Muirey03
 Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), cm90.crossoveripc, com.cokepokes.libnotifications
 Filename: ./debs/com.muirey03.cr4shed_4.3.1-1+debug_iphoneos-arm64.deb
@@ -4822,9 +4138,6 @@ Architecture: iphoneos-arm64e
 Version: 4.3.1-1+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Muirey03
 Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid, cm90.crossoveripc
@@ -4843,9 +4156,6 @@ Version: 2.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: nicho1asdev
 Depends: mobilesubstrate
 Conflicts: ws.hbang.stopcrashingpls (=1.0)
@@ -4863,9 +4173,6 @@ Architecture: iphoneos-arm64e
 Version: 2.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: nicho1asdev
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4886,9 +4193,6 @@ Version: 1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Ethan Whited
 Pre-Depends: rootless-compat(>= 0.9)
 Depends:
@@ -4906,9 +4210,6 @@ Architecture: iphoneos-arm64e
 Version: 0.1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zhaonan
 Pre-Depends: firmware (>= 7.0)
@@ -4929,9 +4230,6 @@ Version: 0.1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zhaonan
 Depends: plutil
 Filename: ./debs/com.nan.disablethermalmonitord_0.1.0_iphoneos-arm64.deb
@@ -4949,9 +4247,6 @@ Architecture: iphoneos-arm64e
 Version: 0.1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zhaonan
 Depends: plutil
@@ -4971,9 +4266,6 @@ Version: 0.1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zhaonan
 Pre-Depends: file-cmds
 Filename: ./debs/com.nan.disableupdates_0.1.1_iphoneos-arm64.deb
@@ -4991,9 +4283,6 @@ Architecture: iphoneos-arm64e
 Version: 0.1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zhaonan
 Pre-Depends: file-cmds
@@ -5013,9 +4302,6 @@ Version: 0.1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zhaonan
 Depends: com.nan.miic
 Filename: ./debs/com.nan.jbir_0.1.1_iphoneos-arm64e.deb
@@ -5033,9 +4319,6 @@ Architecture: iphoneos-arm64
 Version: 0.1.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zhaonan
 Depends: com.nan.miic
@@ -5055,9 +4338,6 @@ Version: 0.1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zhaonan
 Depends: coreutils
 Filename: ./debs/com.nan.miic_0.1.0_iphoneos-arm64.deb
@@ -5075,9 +4355,6 @@ Architecture: iphoneos-arm64e
 Version: 0.1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zhaonan
 Depends: coreutils
@@ -5097,9 +4374,6 @@ Version: 0.1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zhaonan
 Filename: ./debs/com.nan.pointless_0.1.0_iphoneos-arm64.deb
 Size: 1596
@@ -5117,9 +4391,6 @@ Version: 0.1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zhaonan
 Filename: ./debs/com.nan.pointless_0.1.0_iphoneos-arm64e.deb
 Size: 1560
@@ -5136,9 +4407,6 @@ Architecture: iphoneos-arm64e
 Version: 0.1.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zhaonan
 Depends: shell-cmds
@@ -5158,9 +4426,6 @@ Version: 0.2.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zhaonan
 Filename: ./debs/com.nan.realitytmp_0.2.2_iphoneos-arm64.deb
 Size: 2204
@@ -5178,9 +4443,6 @@ Version: 0.2.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zhaonan
 Filename: ./debs/com.nan.realitytmp_0.2.3_iphoneos-arm64e.deb
 Size: 2240
@@ -5197,9 +4459,6 @@ Architecture: iphoneos-arm64
 Version: 0.1.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zhaonan
 Depends: coreutils, lsof
@@ -5219,9 +4478,6 @@ Version: 0.1.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zhaonan
 Depends: coreutils, lsof
 Filename: ./debs/com.nan.rebirth_0.1.4_iphoneos-arm64e.deb
@@ -5240,9 +4496,6 @@ Version: 1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Nathan Senter
 Filename: ./debs/com.nathan.internalstoragesettings_1.0_iphoneos-arm64.deb
 Size: 3860
@@ -5258,9 +4511,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Nathan Senter
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5278,9 +4528,6 @@ Architecture: iphoneos-arm64e
 Version: 1.4.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Nets
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5300,9 +4547,6 @@ Version: 1.5-1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/com.netskao.dumpdecrypter_1.5-1_iphoneos-arm64.deb
@@ -5319,9 +4563,6 @@ Architecture: iphoneos-arm64e
 Version: 1.5-1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Nets
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5341,9 +4582,6 @@ Version: 1.4-2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Nets
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
@@ -5362,9 +4600,6 @@ Version: 1.2.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: newwares
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), ws.hbang.common, preferenceloader, com.opa334.altlist
@@ -5382,9 +4617,6 @@ Architecture: iphoneos-arm64
 Version: 1.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: NguyenASang
 Provides: com.haoict.messengernoads
@@ -5405,9 +4637,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: NguyenASang
 Provides: com.haoict.messengernoads
@@ -5430,9 +4659,6 @@ Version: 1.0.1.2-4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: niceios
 Depends: mobilesubstrate,com.niceios.nicehelper-roothide(>=6.3),preferenceloader
 Filename: ./debs/com.niceios.nicebarx16-roothide_1.0.1.2-4_iphoneos-arm64e.deb
@@ -5450,9 +4676,6 @@ Version: 6.6-3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: niceios
 Filename: ./debs/com.niceios.nicehelper-roothide_6.6-3_iphoneos-arm64e.deb
 Size: 733762
@@ -5468,9 +4691,6 @@ Architecture: iphoneos-arm64e
 Version: 1.1.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Nightwind <nightwinddev@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5492,9 +4712,6 @@ Version: 0.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Nightwind
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: ./debs/com.nightwind.lockbuttonx_0.0.1_iphoneos-arm64.deb
@@ -5512,9 +4729,6 @@ Architecture: iphoneos-arm64e
 Version: 0.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Nightwind
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5535,9 +4749,6 @@ Version: 0.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Nightwind
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.nightwind.sileorespringfix_0.0.1_iphoneos-arm64.deb
@@ -5554,9 +4765,6 @@ Architecture: iphoneos-arm64e
 Version: 0.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Nightwind
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5575,9 +4783,6 @@ Architecture: iphoneos-arm64e
 Version: 2.1.2-3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: NoisyFlake <support@noisyflake.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5599,9 +4804,6 @@ Version: 1.3.16-3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: opa334
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
@@ -5621,9 +4823,6 @@ Version: 1.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Cachetes <markosg26@gmail.com>
 Filename: ./debs/com.pordiosero_1.2_iphoneos-arm64e.deb
 Size: 2288058
@@ -5639,9 +4838,6 @@ Architecture: iphoneos-arm64
 Version: 1.0.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: PoomSmart
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
@@ -5659,9 +4855,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: PoomSmart
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5681,9 +4874,6 @@ Version: 1.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: PoomSmart
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), firmware (<< 17.0)
 Filename: ./debs/com.ps.githubweblegacycompat_1.0.1_iphoneos-arm64e.deb
@@ -5701,9 +4891,6 @@ Version: 1.1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: PoomSmart
 Depends: mobilesubstrate, firmware (>= 7.0)
 Filename: ./debs/com.ps.highgraphics_1.1.1_iphoneos-arm64.deb
@@ -5720,9 +4907,6 @@ Architecture: iphoneos-arm64e
 Version: 1.1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: PoomSmart
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5742,9 +4926,6 @@ Version: 1.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: PoomSmart
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
@@ -5763,9 +4944,6 @@ Version: 6.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: PoomSmart
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 17.0)
 Filename: ./debs/com.ps.latesttranslate_6.0.1_iphoneos-arm64.deb
@@ -5782,9 +4960,6 @@ Architecture: iphoneos-arm64e
 Version: 6.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: PoomSmart
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5804,9 +4979,6 @@ Version: 1.3.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: PoomSmart
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), com.opa334.libsandy
 Filename: ./debs/com.ps.letmeblock_1.3.0_iphoneos-arm64.deb
@@ -5823,9 +4995,6 @@ Architecture: iphoneos-arm64e
 Version: 1.3.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: PoomSmart
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5844,9 +5013,6 @@ Architecture: iphoneos-arm64e
 Version: 2.0.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: PoomSmart
 Provides: org.thebigboss.recordpause, com.spicat.recordpause
@@ -5869,9 +5035,6 @@ Version: 1.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: PoomSmart
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0)
 Filename: ./debs/com.ps.replaykitmax_1.0.1_iphoneos-arm64.deb
@@ -5888,9 +5051,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: PoomSmart
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5909,9 +5069,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: PoomSmart <unicorn03.glimmer@icloud.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5932,9 +5089,6 @@ Version: 1.0.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: PoomSmart
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
@@ -5953,9 +5107,6 @@ Version: 2.3.9
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Randy420 <randy.skinner@hotmail.com>
 Depends: firmware (<= 15.0) | cy+cpu.arm64v8 | oldabi-xina | oldabi
 Replaces: com.randy420.encrypt
@@ -5973,9 +5124,6 @@ Architecture: iphoneos-arm64e
 Version: 2.3.9
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Randy420 <randy.skinner@hotmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5996,9 +5144,6 @@ Version: 1.4.5-161+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: raul saeed
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
@@ -6017,9 +5162,6 @@ Version: 1.7-1+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: raul saeed
 Depends: mobilesubstrate
 Filename: ./debs/com.raulsaeed.bhtiktok++_1.7-1+debug_iphoneos-arm64.deb
@@ -6036,9 +5178,6 @@ Architecture: iphoneos-arm64e
 Version: 1.7-1+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: raul saeed
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6057,9 +5196,6 @@ Architecture: iphoneos-arm64
 Version: 1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: roothide
 Depends: firmware (>= 15.0)
@@ -6080,9 +5216,6 @@ Version: 0.7
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Waji1h
 Depends: firmware (>= 15.0)
 Filename: ./debs/com.roothide.varclean_0.7_iphoneos-arm64.deb
@@ -6099,9 +5232,6 @@ Architecture: iphoneos-arm64e
 Version: 1.1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Rowandesign
 Depends: com.anemonetheming.anemone | com.spark.snowboard
@@ -6120,9 +5250,6 @@ Version: 1.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: ./debs/com.rpetrich.powercuff_1.0.1_iphoneos-arm64.deb
@@ -6139,9 +5266,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6161,9 +5285,6 @@ Version: 1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: ./debs/com.rpetrich.powercuff_1.1_iphoneos-arm64.deb
@@ -6182,9 +5303,6 @@ Version: 1.10.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Baw Appie <pp121324@gmail.com>
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.rpgfarm.a-font_1.10.1_iphoneos-arm64.deb
@@ -6201,9 +5319,6 @@ Architecture: iphoneos-arm64e
 Version: 1.10.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Baw Appie <pp121324@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6222,9 +5337,6 @@ Architecture: iphoneos-arm64e
 Version: 0.0.3-beta
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Ryan Nair
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.6011), preferenceloader
@@ -6245,9 +5357,6 @@ Version: 1.0.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: sergy
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
@@ -6266,9 +5375,6 @@ Version: 1.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: sergy
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
@@ -6286,9 +5392,6 @@ Architecture: iphoneos-arm64e
 Version: 2.0.0-1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: sergy
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6309,9 +5412,6 @@ Version: 1.2.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: shepgoba
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.shepgoba.settingswidgets_1.2.3_iphoneos-arm64.deb
@@ -6328,9 +5428,6 @@ Architecture: iphoneos-arm64e
 Version: 1.2.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: shepgoba
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6350,9 +5447,6 @@ Version: 0.6.0-1+debug
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: SoCuul
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, ws.hbang.common
@@ -6371,9 +5465,6 @@ Version: 1.1.0~rootless
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Spark
 Filename: ./debs/com.spark.libsparkapplist_1.1.0~rootless_iphoneos-arm64.deb
 Size: 24834
@@ -6389,9 +5480,6 @@ Architecture: iphoneos-arm64e
 Version: 1.1.0~rootless
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Spark
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6409,9 +5497,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.3-rootless
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Spark
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6431,9 +5516,6 @@ Version: 1.1.3~Beta4-rootless
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Spark
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
@@ -6452,9 +5534,6 @@ Version: 1.2.2-Beta2-rootless
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Spark
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
@@ -6472,9 +5551,6 @@ Architecture: iphoneos-arm64e
 Version: 1.1.0~Beta4-rootless
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Spark
 Provides: com.ipr.bytafont, com.bytafont.bytafont3
@@ -6497,9 +5573,6 @@ Version: 1.1.1~Beta4-rootless
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Spark
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
@@ -6517,9 +5590,6 @@ Architecture: iphoneos-arm64e
 Version: 1.2.2-Beta2-rootless
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Spark
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6539,9 +5609,6 @@ Version: 1.1.0~Beta4-rootless
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Spark
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
@@ -6559,9 +5626,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.26~Beta3-rootless
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Spark
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6581,9 +5645,6 @@ Version: 1.1.0-Beta4-rootless
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Spark
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
@@ -6602,9 +5663,6 @@ Version: 1.3.0~Beta2-rootless
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Spark
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
@@ -6622,9 +5680,6 @@ Architecture: iphoneos-arm64
 Version: 1.5.37-Beta4-rootless
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Spark
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
@@ -6645,9 +5700,6 @@ Architecture: iphoneos-arm64e
 Version: 1.5.37-Beta4-rootless
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Spark
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
@@ -6670,9 +5722,6 @@ Version: 1.1.0~Beta4-rootless
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Spark
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: com.spark.snowboard
@@ -6690,9 +5739,6 @@ Architecture: iphoneos-arm64e
 Version: 1.6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: FCCT
 Depends: swift, clang, ldid
@@ -6713,9 +5759,6 @@ Version: 2.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: FCCT
 Depends: swift, clang-14, ldid, git
 Conflicts: com.sparklechan.sparkkit
@@ -6735,9 +5778,6 @@ Version: 1.5.8
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: SquidForce
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
@@ -6755,9 +5795,6 @@ Architecture: iphoneos-arm64e
 Version: 1.5.9
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: SquidForce
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6777,9 +5814,6 @@ Version: 1.7.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: SquidForce
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
@@ -6797,9 +5831,6 @@ Architecture: iphoneos-arm64e
 Version: 1.7.5
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: SquidForce
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6819,9 +5850,6 @@ Version: 1.7.8
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: SquidForce
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
@@ -6839,9 +5867,6 @@ Architecture: iphoneos-arm64e
 Version: 1.8.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: SquidForce
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6861,9 +5886,6 @@ Version: 1.8.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: SquidForce
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
@@ -6881,9 +5903,6 @@ Architecture: iphoneos-arm64e
 Version: 1.8.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: SquidForce
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6903,9 +5922,6 @@ Version: 1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Steve Sarmiento <steve22sarmiento@gmail.com>
 Filename: ./debs/com.stevsarm.taffy_1.0_iphoneos-arm64e.deb
 Size: 22777488
@@ -6921,9 +5937,6 @@ Architecture: iphoneos-arm64
 Version: 0.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: SWING
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -6942,9 +5955,6 @@ Architecture: iphoneos-arm64e
 Version: 0.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: SWING
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6965,9 +5975,6 @@ Version: 1.0.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
@@ -6986,9 +5993,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -7009,9 +6013,6 @@ Version: 2.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Thenatis
 Filename: ./debs/com.thenatis.vivacity_2.0_iphoneos-arm64e.deb
 Size: 5191648
@@ -7028,9 +6029,6 @@ Version: 1.8.2-5
 Priority: optional
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -7051,9 +6049,6 @@ Version: 4.0.1-4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: TIGI Software
 Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
@@ -7072,9 +6067,6 @@ Version: 1.2.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.tonykraft.inosleep_1.2.4_iphoneos-arm64.deb
@@ -7091,9 +6083,6 @@ Architecture: iphoneos-arm64e
 Version: 1.2.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Tony Kraft <iostonykraft@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -7113,9 +6102,6 @@ Version: 2.0.4-15+rootless
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Tools4cydia
 Filename: ./debs/com.tools4cydia.copylinkdeb_2.0.4-15+rootless_iphoneos-arm64.deb
 Size: 478968
@@ -7131,9 +6117,6 @@ Architecture: iphoneos-arm64e
 Version: 2.0.4-15+rootless
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Tools4cydia
 Pre-Depends: rootless-compat(>= 0.9)
@@ -7152,9 +6135,6 @@ Version: 3.0.4-1+rootless
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Tools4cydia
 Filename: ./debs/com.tools4cydia.copylinkdeb_3.0.4-1+rootless_iphoneos-arm64.deb
 Size: 476268
@@ -7170,9 +6150,6 @@ Architecture: iphoneos-arm64e
 Version: 3.0.4-1+rootless
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Tools4cydia
 Pre-Depends: rootless-compat(>= 0.9)
@@ -7191,9 +6168,6 @@ Version: 3.3.2-1+roothide
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: tools4cydia
 Filename: ./debs/com.tools4cydia.packages4_3.3.2-1+roothide_iphoneos-arm64e.deb
 Size: 69500
@@ -7209,9 +6183,6 @@ Architecture: iphoneos-arm64
 Version: 2.6.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: udevs
 Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
@@ -7232,9 +6203,6 @@ Version: 2.6.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: udevs
 Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
 Conflicts: com.restiveconch.actionbar
@@ -7254,9 +6222,6 @@ Version: 1.1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Wes <wes.hamster@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.wrp1002.nosettingsbadge_1.1.0_iphoneos-arm64.deb
@@ -7273,9 +6238,6 @@ Architecture: iphoneos-arm64e
 Version: 1.1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Wes <wes.hamster@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -7296,9 +6258,6 @@ Priority: optional
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, oldabi
 Filename: ./debs/com.xcxiao.bottomcontrolx_1.3.3_iphoneos-arm64e.deb
@@ -7315,9 +6274,6 @@ Architecture: iphoneos-arm64e
 Version: 3.5.2.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: b4db1r3
 Pre-Depends: rootless-compat(>= 0.9)
@@ -7338,9 +6294,6 @@ Version: 4.2.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: yasxi <(null)>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
@@ -7358,9 +6311,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: 0xkuj <0xkujz@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -7380,9 +6330,6 @@ Version: 0.5.1-11
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: @fr0st & b4db1r3 <nfive060@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 13.0)
@@ -7400,9 +6347,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: CydiaGeek <lucaluca86@aol.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -7422,9 +6366,6 @@ Version: 0.0.1-1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Christian Kosman & CydiaGeek <lucaluca86@aol.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
@@ -7443,9 +6384,6 @@ Version: 1.9.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: iBreak <ibreak2019@qq.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.yourepo.ibreak.hideseparator_1.9.2_iphoneos-arm64.deb
@@ -7462,9 +6400,6 @@ Architecture: iphoneos-arm64e
 Version: 1.9.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: iBreak <ibreak2019@qq.com>
 Depends: mobilesubstrate
@@ -7483,9 +6418,6 @@ Version: 1.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: iBreak <ibreak2019@qq.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.yourepo.ibreak.nobigtitles_1.0.1_iphoneos-arm64e.deb
@@ -7502,9 +6434,6 @@ Architecture: iphoneos-arm64
 Version: 1.0.8
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zqbb
 Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
@@ -7525,9 +6454,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.8
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zqbb
 Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
@@ -7550,9 +6476,6 @@ Priority: optional
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
@@ -7573,9 +6496,6 @@ Version: 0.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: daniel
 Depends: mobilesubstrate
 Filename: ./debs/daniel.trustevaluator_0.0.1_iphoneos-arm64.deb
@@ -7593,9 +6513,6 @@ Version: 0.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: daniel
 Depends: mobilesubstrate
 Filename: ./debs/daniel.trustevaluator_0.0.1_iphoneos-arm64e.deb
@@ -7612,9 +6529,6 @@ Architecture: iphoneos-arm64
 Version: 2.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: objc_msgSend
 Depends: mobilesubstrate
@@ -7634,9 +6548,6 @@ Version: 2.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: objc_msgSend
 Depends: mobilesubstrate
 Replaces: dev.objcmsgsend.iota.ar
@@ -7655,9 +6566,6 @@ Version: 1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: objc_msgSend
 Filename: ./debs/dev.objcmsgsend.theta_1.1_iphoneos-arm64.deb
 Size: 675648
@@ -7674,9 +6582,6 @@ Version: 1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: objc_msgSend
 Filename: ./debs/dev.objcmsgsend.theta_1.1_iphoneos-arm64e.deb
 Size: 983892
@@ -7692,9 +6597,6 @@ Architecture: iphoneos-arm64
 Version: 1.4.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Traurige <hello@traurige.dev>
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
@@ -7714,9 +6616,6 @@ Version: 1.4.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Traurige <hello@traurige.dev>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
@@ -7735,9 +6634,6 @@ Architecture: iphoneos-arm64e
 Version: 1.4.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Traurige <hello@traurige.dev>
 Provides: love.litten.libkitten (=1.3.3)
@@ -7759,9 +6655,6 @@ Version: 1.4.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Traurige <hello@traurige.dev>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, dev.traurige.libkitten (>= 1.3.3), com.mrgcgamer.libgcuniversal
@@ -7781,9 +6674,6 @@ Version: 3.0b10
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zero
 Conflicts: dev.zero.wisp
 Replaces: dev.zero.wisp
@@ -7802,9 +6692,6 @@ Architecture: iphoneos-arm64e
 Version: 3.0b10
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zero
 Pre-Depends: rootless-compat(>= 0.9)
@@ -7826,9 +6713,6 @@ Version: 1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: rootfs
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -7846,9 +6730,6 @@ Architecture: iphoneos-arm64e
 Version: 1.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Dcsyhi
 Pre-Depends: rootless-compat(>= 0.9)
@@ -7868,9 +6749,6 @@ Version: 1.5
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Dcsyhi
 Depends: mobilesubstrate
 Filename: ./debs/jp.dcsyhi.kbappdock_1.5_iphoneos-arm64.deb
@@ -7888,9 +6766,6 @@ Architecture: iphoneos-arm64e
 Version: 1.5
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Dcsyhi
 Pre-Depends: rootless-compat(>= 0.9)
@@ -7911,9 +6786,6 @@ Version: 1.6.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
@@ -7932,9 +6804,6 @@ Architecture: iphoneos-arm64e
 Version: 1.3.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: r_plus
 Pre-Depends: rootless-compat(>= 0.9)
@@ -7955,9 +6824,6 @@ Version: 1.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: uz.ra
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
@@ -7975,9 +6841,6 @@ Architecture: iphoneos-arm64
 Version: 0.4.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: alias20
 Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
@@ -7997,9 +6860,6 @@ Version: 1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Skitty
 Filename: ./debs/libskittycolor_1.0_iphoneos-arm64.deb
 Size: 22418
@@ -8015,9 +6875,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Skitty
 Pre-Depends: rootless-compat(>= 0.9)
@@ -8035,9 +6892,6 @@ Architecture: iphoneos-arm64e
 Version: 0.0.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Tanner Bennett <tannerbennett@me.com>
 Provides: libflex
@@ -8058,9 +6912,6 @@ Version: 1.2-1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Nebula
 Filename: ./debs/lol.itsnebula.modernos_1.2-1_iphoneos-arm64e.deb
 Size: 2755020
@@ -8076,9 +6927,6 @@ Architecture: iphoneos-arm64e
 Version: 2.14.5
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: AhmedBafkir <prooxy0@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -8098,9 +6946,6 @@ Architecture: iphoneos-arm64e
 Version: 2.14.6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: AhmedBafkir <prooxy0@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -8122,9 +6967,6 @@ Priority: optional
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Rocket App <support@getrocketapp.io>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 8.0), mobilesubstrate
@@ -8145,9 +6987,6 @@ Priority: optional
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Rocket App <support@getrocketapp.io>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 8.0), mobilesubstrate
@@ -8166,9 +7005,6 @@ Architecture: iphoneos-arm64e
 Version: 2.4.32
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: iKarwan <ikghd3@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -8190,9 +7026,6 @@ Version: 2.4.40
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: iKarwan <ikghd3@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
@@ -8212,9 +7045,6 @@ Architecture: iphoneos-arm64e
 Version: 3.2.46
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: iKarwan <ikghd3@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -8236,9 +7066,6 @@ Version: 3.2.52
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: iKarwan <ikghd3@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
@@ -8259,9 +7086,6 @@ Version: 0.9.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Luki
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
@@ -8279,9 +7103,6 @@ Architecture: iphoneos-arm64e
 Version: 0.9.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Luki
 Pre-Depends: rootless-compat(>= 0.9)
@@ -8302,9 +7123,6 @@ Version: 1.4.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Nixuge
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: ./debs/me.nixuge.networkmanager_1.4.3_iphoneos-arm64.deb
@@ -8322,9 +7140,6 @@ Architecture: iphoneos-arm64e
 Version: 1.4.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Nixuge
 Pre-Depends: rootless-compat(>= 0.9)
@@ -8345,9 +7160,6 @@ Version: 1.5.6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: TomT000
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.0xkuj.copylogfix16
@@ -8366,9 +7178,6 @@ Version: 1.6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: D.F (MTAC) <mtac@mtac.app>
 Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh
 Filename: ./debs/mterminal_1.6_iphoneos-arm64.deb
@@ -8386,9 +7195,6 @@ Architecture: iphoneos-arm64e
 Version: 1.6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: D.F (MTAC) <mtac@mtac.app>
 Pre-Depends: rootless-compat(>= 0.1)
@@ -8409,9 +7215,6 @@ Version: 0.1.1-1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: alexia <me@alexia.lol>
 Depends: firmware (>> 15.0)
 Filename: ./debs/net.cadoth.nosbreload_0.1.1-1_iphoneos-arm64.deb
@@ -8428,9 +7231,6 @@ Architecture: iphoneos-arm64e
 Version: 0.1.1-1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: alexia <me@alexia.lol>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -8450,9 +7250,6 @@ Version: 1.4.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/netskao.appdata-rootless_1.4.1_iphoneos-arm64.deb
@@ -8469,9 +7266,6 @@ Architecture: iphoneos-arm64e
 Version: 1.4.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Nets
 Pre-Depends: rootless-compat(>= 0.9)
@@ -8491,9 +7285,6 @@ Version: 0.0.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: SingleKeycap
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/one.keycap.freepip_0.0.3_iphoneos-arm64.deb
@@ -8510,9 +7301,6 @@ Architecture: iphoneos-arm64e
 Version: 0.0.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: SingleKeycap
 Pre-Depends: rootless-compat(>= 0.9)
@@ -8532,9 +7320,6 @@ Version: 3.0.6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: CoolStar
 Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
 Filename: ./debs/org.coolstar.classicfolders2_3.0.6_iphoneos-arm.deb
@@ -8551,9 +7336,6 @@ Architecture: iphoneos-arm64
 Version: 3.0.6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: CoolStar
 Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
@@ -8572,9 +7354,6 @@ Version: 3.0.6
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: CoolStar
 Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
 Filename: ./debs/org.coolstar.classicfolders2_3.0.6_iphoneos-arm64e.deb
@@ -8591,9 +7370,6 @@ Architecture: iphoneos-arm64
 Version: 1.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: haxi0
 Depends: mobilesubstrate, odcctools, fakeroot, ldid, oldabi, file
@@ -8612,9 +7388,6 @@ Architecture: iphoneos-arm64
 Version: 1.6.9.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Bailey Seymour
 Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
@@ -8635,9 +7408,6 @@ Architecture: iphoneos-arm64e
 Version: 1.6.9.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Bailey Seymour
 Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
@@ -8660,9 +7430,6 @@ Version: 10.23
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader
@@ -8684,9 +7451,6 @@ Priority: optional
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, firmware(>= 15.0), com.opa334.ccsupport
@@ -8707,9 +7471,6 @@ Version: 2.2.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: SXX, Domo
 Depends:
 Conflicts: ru.domo.cocoatop, xyz.cypwn.cocoatop64
@@ -8728,9 +7489,6 @@ Architecture: iphoneos-arm64
 Version: 1.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Randy420 <randy.skinner@hotmail.com>
 Depends: mobilesubstrate, com.randy420.tools (>=2.3.7)
@@ -8751,9 +7509,6 @@ Architecture: iphoneos-arm64e
 Version: 1.4
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Randy420 <randy.skinner@hotmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -8776,9 +7531,6 @@ Version: 1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: ipapplus
 Depends: apt-utils
 Filename: ./debs/sa.ipapplus.autorepomanager_1.0_iphoneos-arm.deb
@@ -8796,9 +7548,6 @@ Architecture: iphoneos-arm64
 Version: 1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: ipapplus
 Depends: apt-utils
@@ -8818,9 +7567,6 @@ Version: 1.0
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: ipapplus
 Depends: apt-utils
 Filename: ./debs/sa.ipapplus.autorepomanager_1.0_iphoneos-arm64e.deb
@@ -8838,9 +7584,6 @@ Architecture: iphoneos-arm
 Version: 1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: ipapplus
 Depends: apt-utils
@@ -8860,9 +7603,6 @@ Version: 1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: ipapplus
 Depends: apt-utils
 Filename: ./debs/sa.ipapplus.autorepomanager_1.1_iphoneos-arm64.deb
@@ -8881,9 +7621,6 @@ Version: 1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: ipapplus
 Depends: apt-utils
 Filename: ./debs/sa.ipapplus.autorepomanager_1.1_iphoneos-arm64e.deb
@@ -8901,9 +7638,6 @@ Architecture: iphoneos-arm64e
 Version: 0.0.2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -8924,9 +7658,6 @@ Version: 0.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
@@ -8945,9 +7676,6 @@ Architecture: iphoneos-arm64e
 Version: 1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -8968,9 +7696,6 @@ Version: 1.12.10
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: PoomSmart and kirb <ytdislikesreturn@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
@@ -8989,9 +7714,6 @@ Architecture: iphoneos-arm64e
 Version: 1.13.3
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: PoomSmart and kirb <ytdislikesreturn@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
@@ -9012,9 +7734,6 @@ Version: 1.4.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: CyPwn
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Filename: ./debs/xyz.cypwn.appdata_1.4.1_iphoneos-arm.deb
@@ -9033,9 +7752,6 @@ Version: 1.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Skitty
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/xyz.skitty.ersatz_1.0.1_iphoneos-arm64.deb
@@ -9053,9 +7769,6 @@ Architecture: iphoneos-arm64e
 Version: 1.0.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Skitty
 Pre-Depends: rootless-compat(>= 0.9)
@@ -9076,9 +7789,6 @@ Version: 1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Skitty
 Depends: mobilesubstrate, libskittycolor, firmware (>= 13.0)
 Filename: ./debs/xyz.skitty.spectrum_1.1_iphoneos-arm64.deb
@@ -9096,9 +7806,6 @@ Architecture: iphoneos-arm64e
 Version: 1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Skitty
 Pre-Depends: rootless-compat(>= 0.9)
@@ -9119,9 +7826,6 @@ Version: 2.7.2-2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: ARX8x
 Depends: mobilesubstrate, oldabi
 Filename: ./debs/xyz.xninja.systeminfo_2.7.2-2_iphoneos-arm64.deb
@@ -9138,9 +7842,6 @@ Architecture: iphoneos-arm64e
 Version: 2.7.2-2
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: ARX8x
 Pre-Depends: rootless-compat(>= 0.9)
@@ -9159,9 +7860,6 @@ Architecture: iphoneos-arm64
 Version: 3.1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zp, SXX, Domo
 Depends:
@@ -9184,9 +7882,6 @@ Version: 3.1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: zp, SXX, Domo
 Pre-Depends: rootless-compat(>= 0.9)
 Depends:
@@ -9208,9 +7903,6 @@ Architecture: iphoneos-arm64
 Version: 1.1
 Section: Tweaks
 Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
-Header: https://i.imgur.com/vrj6wpD.jpeg
-Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Icon: https://i.imgur.com/QiQF4Gl.jpeg
 Maintainer: Hitori
 Depends: mobilesubstrate, firmware (>= 15.0)
