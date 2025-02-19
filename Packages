@@ -327,7 +327,6 @@ Author: 0xkuj
 Package: com.34306.messed
 Architecture: iphoneos-arm64
 Version: 3.2
-Section: Tweaks
 Maintainer: Little 34306
 Installed-Size: 2488
 Depends: mobilesubstrate
@@ -344,7 +343,6 @@ Author: 34306
 Package: com.34306.messed
 Architecture: iphoneos-arm64e
 Version: 3.2
-Section: Tweaks
 Maintainer: Little 34306
 Installed-Size: 2488
 Depends: mobilesubstrate
@@ -429,7 +427,7 @@ Author: Lessica <82flex@gmail.com>
 Package: com.alphastream.linearforsb
 Architecture: iphoneos-arm64e
 Version: 1.4.2-1
-Section: Tweaks
+Section: Themes
 Maintainer: Alpha_Stream <alphastream113@gmail.com>
 Installed-Size: 494
 Depends: com.spark.snowboard, com.spark.snowboard.statusbar, firmware (>= 12.0)
@@ -666,7 +664,7 @@ Author: Sniper @DNS_Sys
 Package: com.cachetes.col0rant
 Architecture: iphoneos-arm64e
 Version: 1.1
-Section: Tweaks
+Section: Themes
 Maintainer: Cachetes <markosg26@gmail.com>
 Filename: ./debs/com.cachetes.col0rant_1.1_iphoneos-arm64e.deb
 Size: 7670298
@@ -681,7 +679,7 @@ Author: Cachetes <markosg26@gmail.com>
 Package: com.cachetes.oxyg3n
 Architecture: iphoneos-arm64e
 Version: 2.4
-Section: Tweaks
+Section: Themes
 Maintainer: Cachetes <markosg26@gmail.com>
 Filename: ./debs/com.cachetes.oxyg3n_2.4_iphoneos-arm64e.deb
 Size: 6345242
@@ -697,7 +695,7 @@ Package: com.cokepokes.libnotifications
 Architecture: iphoneos-arm64e
 Version: 0.3-6-1+debug
 Priority: optional
-Section: Tweaks
+Section: Development
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 416
 Depends: firmware (>= 8.0), com.opa334.libsandy, cm90.crossoveripc
@@ -720,7 +718,7 @@ Package: com.cokepokes.libnotifications
 Architecture: iphoneos-arm64
 Version: 0.3-6
 Priority: optional
-Section: Tweaks
+Section: Development
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 376
 Depends: firmware (>= 8.0), cm90.crossoveripc
@@ -787,7 +785,7 @@ SileoDepiction: https://crazy90.com/repo/1.json
 Package: com.creaturecoding.libcspreferences
 Architecture: iphoneos-arm64
 Version: 1.5.8
-Section: Tweaks
+Section: System
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 2332
 Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
@@ -808,7 +806,7 @@ SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcspref
 Package: com.creaturecoding.libcspreferences
 Architecture: iphoneos-arm64e
 Version: 1.5.8
-Section: Tweaks
+Section: System
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 2332
 Pre-Depends: rootless-compat(>= 0.9), firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
@@ -880,7 +878,7 @@ Package: com.creaturecoding.tweaksettings
 Architecture: iphoneos-arm64e
 Version: 1.0.8
 Priority: optional
-Section: Tweaks
+Section: Applications
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1064
 Pre-Depends: rootless-compat(>= 0.9)
@@ -904,7 +902,7 @@ Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
 Package: com.creaturesurvive.libcscolorpicker
 Architecture: iphoneos-arm64
 Version: 1.0.6
-Section: Tweaks
+Section: System
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0.6_iphoneos-arm64.deb
 Size: 149100
@@ -919,7 +917,7 @@ Name: libCSColorPicker
 Package: com.creaturesurvive.libcscolorpicker
 Architecture: iphoneos-arm64e
 Version: 1.0.6
-Section: Tweaks
+Section: System
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0.6_iphoneos-arm64e.deb
@@ -1034,7 +1032,7 @@ dev: lucaluca86
 Package: com.cyrex.epiphany
 Architecture: iphoneos-arm64e
 Version: 1.0.1
-Section: Tweaks
+Section: Themes
 Maintainer: Cyrex
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: ./debs/com.cyrex.epiphany_1.0.1_iphoneos-arm64e.deb
@@ -1853,7 +1851,7 @@ Author: ethxnn88 <ethxnn88@gmail.com>
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64
 Version: 7.10.0
-Section: Tweaks
+Section: Utilities
 Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
@@ -1874,7 +1872,7 @@ Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Ico
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64e
 Version: 7.10.0
-Section: Tweaks
+Section: Utilities
 Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 4.0), findutils, apt | apt7
@@ -2057,7 +2055,7 @@ Icon: https://i.imgur.com/dCflnyf.jpeg
 Package: com.f0u4d.stalky
 Architecture: iphoneos-arm64e
 Version: 4.1.36
-Section: Tweaks
+Section: Fouad Raheb Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6760
 Pre-Depends: rootless-compat(>= 0.9)
@@ -2099,7 +2097,7 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm
 Version: 2.4.38
-Section: Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 14.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.38_iphoneos-arm.deb
@@ -2116,7 +2114,7 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
 Version: 2.4.40
-Section: Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.40_iphoneos-arm64.deb
@@ -2133,7 +2131,7 @@ Name: WatusiTools
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64e
 Version: 2.4.40
-Section: Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
@@ -2151,7 +2149,7 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
 Version: 2.4.45
-Section: Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.45_iphoneos-arm64.deb
@@ -2168,7 +2166,7 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64e
 Version: 2.4.45
-Section: Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
@@ -2186,7 +2184,7 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
 Version: 2.4.46
-Section: Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.46_iphoneos-arm64.deb
@@ -2203,7 +2201,7 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64e
 Version: 2.4.46
-Section: Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
@@ -2221,7 +2219,7 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm
 Version: 2.4.47
-Section: Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.47_iphoneos-arm.deb
@@ -2238,7 +2236,7 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
 Version: 2.4.47
-Section: Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.4.47_iphoneos-arm64.deb
@@ -2255,7 +2253,7 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64e
 Version: 2.4.47
-Section: Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
@@ -2273,7 +2271,7 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64e
 Version: 2.5.1
-Section: Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
@@ -2291,7 +2289,7 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
 Version: 2.5.3
-Section: Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.5.3_iphoneos-arm64.deb
@@ -2308,7 +2306,7 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64e
 Version: 2.5.3
-Section: Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
@@ -2326,7 +2324,7 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
 Version: 2.5.4
-Section: Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.5.4_iphoneos-arm64.deb
@@ -2344,7 +2342,7 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64e
 Version: 2.5.4
-Section: Tweaks
+Section: Fouad Raheb Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
@@ -2363,7 +2361,7 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
 Version: 2.5.5
-Section: Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.5.5_iphoneos-arm64.deb
@@ -2381,7 +2379,7 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64e
 Version: 2.5.5
-Section: Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
@@ -2400,7 +2398,7 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
 Version: 2.5.6
-Section: Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.f0u4d.watusitools_2.5.6_iphoneos-arm64.deb
@@ -2417,7 +2415,7 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64e
 Version: 2.5.6
-Section: Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
@@ -3172,7 +3170,7 @@ Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundl
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64
 Version: 1.2.54
-Section: Tweaks
+Section: Fouad Raheb Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6388
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.3)
@@ -3191,7 +3189,7 @@ Icon: https://i.imgur.com/0WYytkh.jpeg
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64e
 Version: 1.2.54
-Section: Tweaks
+Section: Fouad Raheb Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6388
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3289,7 +3287,7 @@ Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundl
 Package: com.foxfort.foxforttools
 Architecture: iphoneos-arm64e
 Version: 1.4.13
-Section: Tweaks
+Section: Development
 Maintainer: FoxfortMobile
 Installed-Size: 2132
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3301,6 +3299,25 @@ MD5sum: fbab5964f60e45f8b45b3e2953c0995d
 SHA1: 638c1b1f238ebe8250b9d347e330b4cf1eb38fbc
 SHA256: 2f8a3e773dd9e8d87d145aa13bcbe451d042591e0d960a69959da471ec7e1aab
 SHA512: 0038a5caec4ed7d7f579c046ba4e65717be807ee0380624e1f89fd1c14b3662ad2504e79bc15e817fdcf1d4860dfab9b8b99b012ccfc439dad9f77cad73d2175
+Description: Helper tools for Foxfort tweaks
+Tag: role::developer
+Name: FoxFort Tools
+Author: FoxfortMobile
+
+Package: com.foxfort.foxforttools
+Architecture: iphoneos-arm64e
+Version: 1.4.15
+Section: Development
+Maintainer: FoxfortMobile
+Installed-Size: 2068
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.4.7)
+Filename: ./debs/com.foxfort.foxforttools_1.4.15_iphoneos-arm64e.deb
+Size: 469776
+MD5sum: e9a47043af23683cc58283a7c2ce5c84
+SHA1: bcfbbbce3614ca128b63d7e5fd174fd77e90c377
+SHA256: dbf23a078af9233bc7cd11683c8da18a1a411517ce957207cf42f96134c9d0e2
+SHA512: a7397910ed3717f878ea3fb0fbfa8f1a7928297e0946f4e4a94d3da22e8be2a59f331f0a1a17388d760e481528287790b98b97fbb98c555eaa6681ca5882cbc3
 Description: Helper tools for Foxfort tweaks
 Tag: role::developer
 Name: FoxFort Tools
@@ -3328,7 +3345,7 @@ Icon: file:///Applications/KrashKopApp.app/AppIcon60x60@2x.png
 Package: com.foxfort.libfoxfortutils
 Architecture: iphoneos-arm64e
 Version: 1.4.7
-Section: Tweaks
+Section: Development
 Maintainer: FoxfortMobile
 Installed-Size: 1288
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3383,10 +3400,29 @@ Name: Translomatic
 Author: FoxfortMobile
 Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
 
+Package: com.foxfort.translomatic
+Architecture: iphoneos-arm64e
+Version: 2.18.29
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 5112
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.4.13), com.opa334.altlist
+Filename: ./debs/com.foxfort.translomatic_2.18.29_iphoneos-arm64e.deb
+Size: 1182468
+MD5sum: 5352c249c659cee5ba140aad6d6e4a68
+SHA1: 6b9adf43d4b7b986bbc09af68a1c1c1b8f411ae0
+SHA256: 45d9f207c45d9a3949d177d4fb002bdbc93fc01e4ab0660a4f7e337fbcea6caa
+SHA512: b1fad9067b31335b489ef5cacfa3b42a2420d81a4442096af3b3731d12e4c4a57be821380cfd8c19d3bd087522e6ccff4f9941399a077965daf7364f8ee9270a
+Description: Quickly translate any text
+Name: Translomatic
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+
 Package: com.gamegod.igg.roothide
 Architecture: iphoneos-arm64e
 Version: 0.4.5
-Section: Tweaks
+Section: Utilities
 Maintainer: iGameGod
 Installed-Size: 100412
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -3559,7 +3595,7 @@ dev: ichitaso
 Package: com.ichitaso.otadisabler
 Architecture: iphoneos-arm64
 Version: 0.6
-Section: Tweaks
+Section: System
 Maintainer: ichitaso
 Installed-Size: 168
 Depends: firmware (>= 9.0), mobilesubstrate
@@ -3580,7 +3616,7 @@ Icon: https://raw.githubusercontent.com/ichitaso/OTADisabler-App/main/OTADisable
 Package: com.ichitaso.otadisabler
 Architecture: iphoneos-arm64e
 Version: 0.6
-Section: Tweaks
+Section: System
 Maintainer: ichitaso
 Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3602,7 +3638,7 @@ Icon: https://raw.githubusercontent.com/ichitaso/OTADisabler-App/main/OTADisable
 Package: com.ichitaso.powerselector11
 Architecture: iphoneos-arm64
 Version: 1.4.0
-Section: Tweaks
+Section: Utilities
 Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
 Installed-Size: 2212
 Pre-Depends: firmware (>= 11.0)
@@ -3628,7 +3664,7 @@ SileoDepiction: https://cydia.ichitaso.com/depiction/powerselector11.json
 Package: com.ichitaso.powerselector11
 Architecture: iphoneos-arm64e
 Version: 1.4.0
-Section: Tweaks
+Section: Utilities
 Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
 Installed-Size: 2212
 Pre-Depends: rootless-compat(>= 0.9), firmware (>= 11.0)
@@ -3708,7 +3744,7 @@ Author: @iMokhles
 Package: com.jailbreak365.safeccmodules
 Architecture: iphoneos-arm64
 Version: 1.5-1
-Section: Tweaks
+Section: Addons (ControlCenter)
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 5131
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
@@ -3729,7 +3765,7 @@ dev: jailbreak365
 Package: com.jailbreak365.safeccmodules
 Architecture: iphoneos-arm64e
 Version: 1.5-1
-Section: Tweaks
+Section: Addons (ControlCenter)
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 5131
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4184,7 +4220,7 @@ Icon: https://media.havoc.app/620e286f62d8a0bb3788377a?w=1920&q=75
 Package: com.mrgcgamer.libgcuniversal
 Architecture: iphoneos-arm64e
 Version: 1.7.0
-Section: Tweaks
+Section: Development
 Maintainer: MrGcGamer
 Installed-Size: 380
 Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
@@ -4222,7 +4258,7 @@ Author: MTAC
 Package: com.mtac.ccpowermenu
 Architecture: iphoneos-arm64
 Version: 1.0.2
-Section: Tweaks
+Section: Control Center (Modules)
 Maintainer: MTAC
 Installed-Size: 356
 Depends: com.opa334.ccsupport
@@ -4241,7 +4277,7 @@ SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.ccpowermenu.json
 Package: com.mtac.ccpowermenu
 Architecture: iphoneos-arm64e
 Version: 1.0.2
-Section: Tweaks
+Section: Control Center (Modules)
 Maintainer: MTAC
 Installed-Size: 356
 Pre-Depends: rootless-compat(>= 0.1)
@@ -4261,7 +4297,7 @@ SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.ccpowermenu.json
 Package: com.mtac.lynxapp
 Architecture: iphoneos-arm64
 Version: 2.1
-Section: Tweaks
+Section: Utilities
 Maintainer: MTAC
 Installed-Size: 804
 Depends: com.mtac.lynxtwo
@@ -4281,7 +4317,7 @@ SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.lynxapp.json
 Package: com.mtac.lynxapp
 Architecture: iphoneos-arm64e
 Version: 2.1
-Section: Tweaks
+Section: Utilities
 Maintainer: MTAC
 Installed-Size: 804
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4414,7 +4450,7 @@ Author: Muirey03
 Package: com.muirey03.libmryipc
 Architecture: iphoneos-arm64
 Version: 2.0.1
-Section: Tweaks
+Section: System
 Maintainer: nicho1asdev
 Installed-Size: 304
 Depends: mobilesubstrate
@@ -4433,7 +4469,7 @@ Author: Muirey03
 Package: com.muirey03.libmryipc
 Architecture: iphoneos-arm64e
 Version: 2.0.1
-Section: Tweaks
+Section: System
 Maintainer: nicho1asdev
 Installed-Size: 304
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4471,7 +4507,7 @@ Author: Ethan Whited
 Package: com.nan.disablesblockaftercrash
 Architecture: iphoneos-arm64e
 Version: 0.1.0
-Section: Tweaks
+Section: System
 Maintainer: zhaonan
 Pre-Depends: firmware (>= 7.0)
 Depends: plutil | com.bingner.plutil
@@ -4490,7 +4526,7 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Package: com.nan.disablethermalmonitord
 Architecture: iphoneos-arm64
 Version: 0.1.0
-Section: Tweaks
+Section: System
 Maintainer: zhaonan
 Depends: plutil
 Filename: ./debs/com.nan.disablethermalmonitord_0.1.0_iphoneos-arm64.deb
@@ -4508,7 +4544,7 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Package: com.nan.disablethermalmonitord
 Architecture: iphoneos-arm64e
 Version: 0.1.0
-Section: Tweaks
+Section: System
 Maintainer: zhaonan
 Depends: plutil
 Filename: ./debs/com.nan.disablethermalmonitord_0.1.0_iphoneos-arm64e.deb
@@ -4526,7 +4562,7 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Package: com.nan.disableupdates
 Architecture: iphoneos-arm64
 Version: 0.1.1
-Section: Tweaks
+Section: System
 Maintainer: zhaonan
 Pre-Depends: file-cmds
 Filename: ./debs/com.nan.disableupdates_0.1.1_iphoneos-arm64.deb
@@ -4544,7 +4580,7 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Package: com.nan.disableupdates
 Architecture: iphoneos-arm64e
 Version: 0.1.1
-Section: Tweaks
+Section: System
 Maintainer: zhaonan
 Pre-Depends: file-cmds
 Filename: ./debs/com.nan.disableupdates_0.1.1_iphoneos-arm64e.deb
@@ -4562,7 +4598,7 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Package: com.nan.jbir
 Architecture: iphoneos-arm64e
 Version: 0.1.1
-Section: Tweaks
+Section: Addons
 Maintainer: zhaonan
 Depends: com.nan.miic
 Filename: ./debs/com.nan.jbir_0.1.1_iphoneos-arm64e.deb
@@ -4580,7 +4616,7 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Package: com.nan.jbir
 Architecture: iphoneos-arm64
 Version: 0.1.2
-Section: Tweaks
+Section: Addons
 Maintainer: zhaonan
 Depends: com.nan.miic
 Filename: ./debs/com.nan.jbir_0.1.2_iphoneos-arm64.deb
@@ -4598,7 +4634,7 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Package: com.nan.miic
 Architecture: iphoneos-arm64
 Version: 0.1.0
-Section: Tweaks
+Section: System
 Maintainer: zhaonan
 Depends: coreutils
 Filename: ./debs/com.nan.miic_0.1.0_iphoneos-arm64.deb
@@ -4616,7 +4652,7 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Package: com.nan.miic
 Architecture: iphoneos-arm64e
 Version: 0.1.0
-Section: Tweaks
+Section: System
 Maintainer: zhaonan
 Depends: coreutils
 Filename: ./debs/com.nan.miic_0.1.0_iphoneos-arm64e.deb
@@ -4634,7 +4670,7 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Package: com.nan.pointless
 Architecture: iphoneos-arm64
 Version: 0.1.0
-Section: Tweaks
+Section: Addons
 Maintainer: zhaonan
 Filename: ./debs/com.nan.pointless_0.1.0_iphoneos-arm64.deb
 Size: 1596
@@ -4651,7 +4687,7 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Package: com.nan.pointless
 Architecture: iphoneos-arm64e
 Version: 0.1.0
-Section: Tweaks
+Section: Addons
 Maintainer: zhaonan
 Filename: ./debs/com.nan.pointless_0.1.0_iphoneos-arm64e.deb
 Size: 1560
@@ -4668,7 +4704,7 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Package: com.nan.raru
 Architecture: iphoneos-arm64e
 Version: 0.1.4
-Section: Tweaks
+Section: Addons
 Maintainer: zhaonan
 Depends: shell-cmds
 Filename: ./debs/com.nan.raru_0.1.4_iphoneos-arm64e.deb
@@ -4686,7 +4722,7 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Package: com.nan.realitytmp
 Architecture: iphoneos-arm64
 Version: 0.2.2
-Section: Tweaks
+Section: Addons
 Maintainer: zhaonan
 Filename: ./debs/com.nan.realitytmp_0.2.2_iphoneos-arm64.deb
 Size: 2204
@@ -4703,7 +4739,7 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Package: com.nan.realitytmp
 Architecture: iphoneos-arm64e
 Version: 0.2.3
-Section: Tweaks
+Section: Addons
 Maintainer: zhaonan
 Filename: ./debs/com.nan.realitytmp_0.2.3_iphoneos-arm64e.deb
 Size: 2240
@@ -4720,7 +4756,7 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Package: com.nan.rebirth
 Architecture: iphoneos-arm64
 Version: 0.1.4
-Section: Tweaks
+Section: Terminal_Support
 Maintainer: zhaonan
 Depends: coreutils, lsof
 Filename: ./debs/com.nan.rebirth_0.1.4_iphoneos-arm64.deb
@@ -4738,7 +4774,7 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Package: com.nan.rebirth
 Architecture: iphoneos-arm64e
 Version: 0.1.4
-Section: Tweaks
+Section: Terminal_Support
 Maintainer: zhaonan
 Depends: coreutils, lsof
 Filename: ./debs/com.nan.rebirth_0.1.4_iphoneos-arm64e.deb
@@ -4789,7 +4825,7 @@ Author: Nathan Senter
 Package: com.netskao.appdata
 Architecture: iphoneos-arm64e
 Version: 1.4.4
-Section: Tweaks
+Section: Netskao-Tweaks
 Maintainer: Nets
 Installed-Size: 13548
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4808,7 +4844,7 @@ SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
 Package: com.netskao.dumpdecrypter
 Architecture: iphoneos-arm64
 Version: 1.5-1
-Section: Tweaks
+Section: Netskao-Tweaks
 Maintainer: Nets
 Installed-Size: 952
 Depends: firmware (>= 15.0), mobilesubstrate
@@ -4826,7 +4862,7 @@ SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.dumpdecrypte
 Package: com.netskao.dumpdecrypter
 Architecture: iphoneos-arm64e
 Version: 1.5-1
-Section: Tweaks
+Section: Netskao-Tweaks
 Maintainer: Nets
 Installed-Size: 952
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4845,7 +4881,7 @@ SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.dumpdecrypte
 Package: com.netskao.flexlist
 Architecture: iphoneos-arm64e
 Version: 1.4-2
-Section: Tweaks
+Section: Netskao-Tweaks
 Maintainer: Nets
 Installed-Size: 5020
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4941,7 +4977,7 @@ Sponsor: niceios
 Package: com.niceios.nicehelper-roothide
 Architecture: iphoneos-arm64e
 Version: 6.6-3
-Section: Tweaks
+Section: Addons
 Maintainer: niceios
 Installed-Size: 2648
 Filename: ./debs/com.niceios.nicehelper-roothide_6.6-3_iphoneos-arm64e.deb
@@ -5093,7 +5129,7 @@ Author: opa334
 Package: com.pordiosero
 Architecture: iphoneos-arm64e
 Version: 1.2
-Section: Tweaks
+Section: Themes
 Maintainer: Cachetes <markosg26@gmail.com>
 Filename: ./debs/com.pordiosero_1.2_iphoneos-arm64e.deb
 Size: 2288058
@@ -5398,7 +5434,7 @@ Author: PoomSmart
 Package: com.randy420.tools
 Architecture: iphoneos-arm64
 Version: 2.3.9
-Section: Tweaks
+Section: System
 Maintainer: Randy420 <randy.skinner@hotmail.com>
 Installed-Size: 2392
 Depends: firmware (<= 15.0) | cy+cpu.arm64v8 | oldabi-xina | oldabi
@@ -5419,7 +5455,7 @@ Author: Randy420 <randy.skinner@hotmail.com>
 Package: com.randy420.tools
 Architecture: iphoneos-arm64e
 Version: 2.3.9
-Section: Tweaks
+Section: System
 Maintainer: Randy420 <randy.skinner@hotmail.com>
 Installed-Size: 2392
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5494,7 +5530,7 @@ Author: raul saeed
 Package: com.roothide.managers
 Architecture: iphoneos-arm64
 Version: 1.1
-Section: Tweaks
+Section: System
 Maintainer: roothide
 Installed-Size: 896
 Depends: firmware (>= 15.0)
@@ -5514,7 +5550,7 @@ Support: https://github.com/roothide/RootHideManagerApp
 Package: com.roothide.varclean
 Architecture: iphoneos-arm64
 Version: 0.7
-Section: Tweaks
+Section: Application
 Maintainer: Waji1h
 Depends: firmware (>= 15.0)
 Filename: ./debs/com.roothide.varclean_0.7_iphoneos-arm64.deb
@@ -5530,7 +5566,7 @@ Author: roothide
 Package: com.rowandesign.morandi
 Architecture: iphoneos-arm64e
 Version: 1.1.0
-Section: Tweaks
+Section: Themes
 Maintainer: Rowandesign
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: ./debs/com.rowandesign.morandi_1.1.0_iphoneos-arm64e.deb
@@ -5776,7 +5812,7 @@ Author: SoCuul
 Package: com.spark.libsparkapplist
 Architecture: iphoneos-arm64
 Version: 1.1.0~rootless
-Section: Tweaks
+Section: System
 Maintainer: Spark
 Installed-Size: 408
 Filename: ./debs/com.spark.libsparkapplist_1.1.0~rootless_iphoneos-arm64.deb
@@ -5793,7 +5829,7 @@ Author: Spark
 Package: com.spark.libsparkapplist
 Architecture: iphoneos-arm64e
 Version: 1.1.0~rootless
-Section: Tweaks
+Section: System
 Maintainer: Spark
 Installed-Size: 408
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5811,7 +5847,7 @@ Author: Spark
 Package: com.spark.libsparkcolourpicker
 Architecture: iphoneos-arm64e
 Version: 1.0.3-rootless
-Section: Tweaks
+Section: System
 Maintainer: Spark
 Installed-Size: 424
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5830,7 +5866,7 @@ Author: Spark
 Package: com.spark.snowboard.dock
 Architecture: iphoneos-arm64e
 Version: 1.1.3~Beta4-rootless
-Section: Tweaks
+Section: SnowBoard Extensions
 Maintainer: Spark
 Installed-Size: 440
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5848,7 +5884,7 @@ Author: Spark
 Package: com.spark.snowboard.effects
 Architecture: iphoneos-arm64e
 Version: 1.2.2-Beta2-rootless
-Section: Tweaks
+Section: SnowBoard Extensions
 Maintainer: Spark
 Installed-Size: 412
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5866,7 +5902,7 @@ Author: Spark
 Package: com.spark.snowboard.fonts
 Architecture: iphoneos-arm64e
 Version: 1.1.0~Beta4-rootless
-Section: Tweaks
+Section: SnowBoard Extensions
 Maintainer: Spark
 Installed-Size: 392
 Provides: com.ipr.bytafont, com.bytafont.bytafont3
@@ -5887,7 +5923,7 @@ Author: Spark
 Package: com.spark.snowboard.labels
 Architecture: iphoneos-arm64e
 Version: 1.1.1~Beta4-rootless
-Section: Tweaks
+Section: SnowBoard Extensions
 Maintainer: Spark
 Installed-Size: 432
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5905,7 +5941,7 @@ Author: Spark
 Package: com.spark.snowboard.masks
 Architecture: iphoneos-arm64e
 Version: 1.2.2-Beta2-rootless
-Section: Tweaks
+Section: SnowBoard Extensions
 Maintainer: Spark
 Installed-Size: 340
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5923,7 +5959,7 @@ Author: Spark
 Package: com.spark.snowboard.presetextension
 Architecture: iphoneos-arm64e
 Version: 1.1.0~Beta4-rootless
-Section: Tweaks
+Section: SnowBoard Extensions
 Maintainer: Spark
 Installed-Size: 488
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5941,7 +5977,7 @@ Author: Spark
 Package: com.spark.snowboard.settingsicons
 Architecture: iphoneos-arm64e
 Version: 1.0.26~Beta3-rootless
-Section: Tweaks
+Section: SnowBoard Extensions
 Maintainer: Spark
 Installed-Size: 340
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5959,7 +5995,7 @@ Author: Spark
 Package: com.spark.snowboard.statusbar
 Architecture: iphoneos-arm64e
 Version: 1.1.0-Beta4-rootless
-Section: Tweaks
+Section: SnowBoard Extensions
 Maintainer: Spark
 Installed-Size: 364
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5977,7 +6013,7 @@ Author: Spark
 Package: com.spark.snowboard.ui
 Architecture: iphoneos-arm64e
 Version: 1.3.0~Beta2-rootless
-Section: Tweaks
+Section: SnowBoard Extensions
 Maintainer: Spark
 Installed-Size: 476
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6036,7 +6072,7 @@ Author: Spark & Dennis D. Bednarz
 Package: com.spark.snowboardapplication
 Architecture: iphoneos-arm64e
 Version: 1.1.0~Beta4-rootless
-Section: Tweaks
+Section: Utilities
 Maintainer: Spark
 Installed-Size: 992
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6054,7 +6090,7 @@ Author: Spark
 Package: com.sparklechan.swifty
 Architecture: iphoneos-arm64e
 Version: 1.6
-Section: Tweaks
+Section: Utilities
 Maintainer: FCCT
 Depends: swift, clang, ldid
 Conflicts: com.sparklechan.sparkkit
@@ -6073,7 +6109,7 @@ Author: FCCT
 Package: com.sparklechan.swifty
 Architecture: iphoneos-arm64e
 Version: 2.0
-Section: Tweaks
+Section: Utilities
 Maintainer: FCCT
 Depends: swift, clang-14, ldid, git
 Conflicts: com.sparklechan.sparkkit
@@ -6236,7 +6272,7 @@ Author: SquidForce
 Package: com.stevsarm.taffy
 Architecture: iphoneos-arm64e
 Version: 1.0
-Section: Tweaks
+Section: Themes
 Maintainer: Steve Sarmiento <steve22sarmiento@gmail.com>
 Filename: ./debs/com.stevsarm.taffy_1.0_iphoneos-arm64e.deb
 Size: 22777488
@@ -6330,7 +6366,7 @@ Depiction: https://chariz.com/get/popoutbuttons
 Package: com.thenatis.vivacity
 Architecture: iphoneos-arm64e
 Version: 2.0
-Section: Tweaks
+Section: Themes
 Maintainer: Thenatis
 Filename: ./debs/com.thenatis.vivacity_2.0_iphoneos-arm64e.deb
 Size: 5191648
@@ -6346,7 +6382,7 @@ Package: com.tigisoftware.appdatamanager
 Architecture: iphoneos-arm64e
 Version: 1.8.2-5
 Priority: optional
-Section: Tweaks
+Section: Utilities
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 9121
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6370,7 +6406,7 @@ Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
 Package: com.tigisoftware.filza64bit
 Architecture: iphoneos-arm64
 Version: 4.0.1-4
-Section: Tweaks
+Section: Utilities
 Maintainer: TIGI Software
 Installed-Size: 23200
 Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
@@ -6425,7 +6461,7 @@ Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.inosleep.html
 Package: com.tools4cydia.copylinkdeb
 Architecture: iphoneos-arm64
 Version: 2.0.4-15+rootless
-Section: Tweaks
+Section: Utilities
 Maintainer: Tools4cydia
 Installed-Size: 11552
 Filename: ./debs/com.tools4cydia.copylinkdeb_2.0.4-15+rootless_iphoneos-arm64.deb
@@ -6441,7 +6477,7 @@ Author: Tools4cydia
 Package: com.tools4cydia.copylinkdeb
 Architecture: iphoneos-arm64e
 Version: 2.0.4-15+rootless
-Section: Tweaks
+Section: Utilities
 Maintainer: Tools4cydia
 Installed-Size: 11552
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6458,7 +6494,7 @@ Author: Tools4cydia
 Package: com.tools4cydia.copylinkdeb
 Architecture: iphoneos-arm64
 Version: 3.0.4-1+rootless
-Section: Tweaks
+Section: Utilities
 Maintainer: Tools4cydia
 Installed-Size: 11568
 Filename: ./debs/com.tools4cydia.copylinkdeb_3.0.4-1+rootless_iphoneos-arm64.deb
@@ -6474,7 +6510,7 @@ Author: Tools4cydia
 Package: com.tools4cydia.copylinkdeb
 Architecture: iphoneos-arm64e
 Version: 3.0.4-1+rootless
-Section: Tweaks
+Section: Utilities
 Maintainer: Tools4cydia
 Installed-Size: 11568
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6491,7 +6527,7 @@ Author: Tools4cydia
 Package: com.tools4cydia.packages4
 Architecture: iphoneos-arm64e
 Version: 3.3.2-1+roothide
-Section: Tweaks
+Section: Tools4cydia
 Maintainer: tools4cydia
 Installed-Size: 732
 Filename: ./debs/com.tools4cydia.packages4_3.3.2-1+roothide_iphoneos-arm64e.deb
@@ -6964,7 +7000,7 @@ Author: Traurige <hello@traurige.dev>
 Package: dev.traurige.libkitten
 Architecture: iphoneos-arm64e
 Version: 1.4.1
-Section: Tweaks
+Section: System
 Maintainer: Traurige <hello@traurige.dev>
 Installed-Size: 152
 Provides: love.litten.libkitten (=1.3.3)
@@ -7004,7 +7040,7 @@ Author: Traurige <hello@traurige.dev>
 Package: dev.zero.wicked
 Architecture: iphoneos-arm64
 Version: 3.0b10
-Section: Tweaks
+Section: Development
 Maintainer: zero
 Installed-Size: 19416
 Conflicts: dev.zero.wisp
@@ -7023,7 +7059,7 @@ Icon: https://raw.githubusercontent.com/HearseDev/hearsedev.github.io/main/tweak
 Package: dev.zero.wicked
 Architecture: iphoneos-arm64e
 Version: 3.0b10
-Section: Tweaks
+Section: Development
 Maintainer: zero
 Installed-Size: 19416
 Pre-Depends: rootless-compat(>= 0.9)
@@ -7174,7 +7210,7 @@ Author: uz.ra
 Package: kr.xsf1re.vnodebypass
 Architecture: iphoneos-arm64
 Version: 0.4.2
-Section: Tweaks
+Section: System
 Maintainer: alias20
 Installed-Size: 532
 Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
@@ -7194,7 +7230,7 @@ Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/L
 Package: libskittycolor
 Architecture: iphoneos-arm64
 Version: 1.0
-Section: Tweaks
+Section: System
 Maintainer: Skitty
 Installed-Size: 204
 Filename: ./debs/libskittycolor_1.0_iphoneos-arm64.deb
@@ -7211,7 +7247,7 @@ Author: Skitty
 Package: libskittycolor
 Architecture: iphoneos-arm64e
 Version: 1.0
-Section: Tweaks
+Section: System
 Maintainer: Skitty
 Installed-Size: 204
 Pre-Depends: rootless-compat(>= 0.9)
@@ -7250,7 +7286,7 @@ SileoDepiction: https://nscake.github.io/depictions/libflex.sileo.json
 Package: lol.itsnebula.modernos
 Architecture: iphoneos-arm64e
 Version: 1.2-1
-Section: Tweaks
+Section: Themes
 Maintainer: Nebula
 Filename: ./debs/lol.itsnebula.modernos_1.2-1_iphoneos-arm64e.deb
 Size: 2755020
@@ -7480,7 +7516,7 @@ SileoDepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslu
 Package: me.nixuge.networkmanager
 Architecture: iphoneos-arm64
 Version: 1.4.3
-Section: Tweaks
+Section: Control Center (Modules)
 Maintainer: Nixuge
 Installed-Size: 396
 Depends: mobilesubstrate, com.opa334.ccsupport
@@ -7501,7 +7537,7 @@ Icon: http://cydia.nixuge.me/assets/me.nixuge.networkmanager/icon.png
 Package: me.nixuge.networkmanager
 Architecture: iphoneos-arm64e
 Version: 1.4.3
-Section: Tweaks
+Section: Control Center (Modules)
 Maintainer: Nixuge
 Installed-Size: 396
 Pre-Depends: rootless-compat(>= 0.9)
@@ -7541,7 +7577,7 @@ Author: TomT000
 Package: mterminal
 Architecture: iphoneos-arm64
 Version: 1.6
-Section: Tweaks
+Section: Utilities
 Maintainer: D.F (MTAC) <mtac@mtac.app>
 Installed-Size: 272
 Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh
@@ -7560,7 +7596,7 @@ SileoDepiction: https://mtac.app/repo/depiction/native/com.officialscheduler.mte
 Package: mterminal
 Architecture: iphoneos-arm64e
 Version: 1.6
-Section: Tweaks
+Section: Utilities
 Maintainer: D.F (MTAC) <mtac@mtac.app>
 Installed-Size: 272
 Pre-Depends: rootless-compat(>= 0.1)
@@ -7580,7 +7616,7 @@ SileoDepiction: https://mtac.app/repo/depiction/native/com.officialscheduler.mte
 Package: net.cadoth.nosbreload
 Architecture: iphoneos-arm64
 Version: 0.1.1-1
-Section: Tweaks
+Section: System
 Maintainer: alexia <me@alexia.lol>
 Depends: firmware (>> 15.0)
 Filename: ./debs/net.cadoth.nosbreload_0.1.1-1_iphoneos-arm64.deb
@@ -7598,7 +7634,7 @@ Author: alexia <me@alexia.lol>
 Package: net.cadoth.nosbreload
 Architecture: iphoneos-arm64e
 Version: 0.1.1-1
-Section: Tweaks
+Section: System
 Maintainer: alexia <me@alexia.lol>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>> 15.0)
@@ -7740,7 +7776,7 @@ Author: CoolStar
 Package: org.haxi0.derootifier
 Architecture: iphoneos-arm64
 Version: 1.3
-Section: Tweaks
+Section: Applications
 Maintainer: haxi0
 Depends: mobilesubstrate, odcctools, fakeroot, ldid, oldabi, file
 Filename: ./debs/org.haxi0.derootifier_1.3_iphoneos-arm64.deb
@@ -7757,7 +7793,7 @@ Icon: https://i.imgur.com/P97SEPg.jpeg
 Package: org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm64
 Version: 1.6.9.1
-Section: Tweaks
+Section: System
 Maintainer: Bailey Seymour
 Installed-Size: 392
 Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
@@ -7780,7 +7816,7 @@ SileoDepiction: https://p2kdev.github.io/repo/depictions/native/org.thebigboss.l
 Package: org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm64e
 Version: 1.6.9.1
-Section: Tweaks
+Section: System
 Maintainer: Bailey Seymour
 Installed-Size: 392
 Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
@@ -7856,7 +7892,7 @@ Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.pmp.png
 Package: ru.domo.cocoatop64
 Architecture: iphoneos-arm64e
 Version: 2.2.4
-Section: Tweaks
+Section: Utilities
 Maintainer: SXX, Domo
 Installed-Size: 892
 Depends:
@@ -7875,7 +7911,7 @@ Author: Domo, SXX
 Package: ru.rj.ftt
 Architecture: iphoneos-arm64
 Version: 1.4
-Section: Tweaks
+Section: Utilities
 Maintainer: Randy420 <randy.skinner@hotmail.com>
 Installed-Size: 1300
 Depends: mobilesubstrate, com.randy420.tools (>=2.3.7)
@@ -7897,7 +7933,7 @@ Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
 Package: ru.rj.ftt
 Architecture: iphoneos-arm64e
 Version: 1.4
-Section: Tweaks
+Section: Utilities
 Maintainer: Randy420 <randy.skinner@hotmail.com>
 Installed-Size: 1300
 Pre-Depends: rootless-compat(>= 0.9)
@@ -7920,7 +7956,7 @@ Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
 Package: sa.ipapplus.autorepomanager
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Tweaks
+Section: scripts
 Maintainer: ipapplus
 Depends: apt-utils
 Filename: ./debs/sa.ipapplus.autorepomanager_1.0_iphoneos-arm.deb
@@ -7937,7 +7973,7 @@ Author: ipapplus
 Package: sa.ipapplus.autorepomanager
 Architecture: iphoneos-arm64
 Version: 1.0
-Section: Tweaks
+Section: scripts
 Maintainer: ipapplus
 Depends: apt-utils
 Filename: ./debs/sa.ipapplus.autorepomanager_1.0_iphoneos-arm64.deb
@@ -7954,7 +7990,7 @@ Author: ipapplus
 Package: sa.ipapplus.autorepomanager
 Architecture: iphoneos-arm64e
 Version: 1.0
-Section: Tweaks
+Section: scripts
 Maintainer: ipapplus
 Depends: apt-utils
 Filename: ./debs/sa.ipapplus.autorepomanager_1.0_iphoneos-arm64e.deb
@@ -7971,7 +8007,7 @@ Author: ipapplus
 Package: sa.ipapplus.autorepomanager
 Architecture: iphoneos-arm
 Version: 1.1
-Section: Tweaks
+Section: scripts
 Maintainer: ipapplus
 Depends: apt-utils
 Filename: ./debs/sa.ipapplus.autorepomanager_1.1_iphoneos-arm.deb
@@ -7988,7 +8024,7 @@ Author: ipapplus
 Package: sa.ipapplus.autorepomanager
 Architecture: iphoneos-arm64
 Version: 1.1
-Section: Tweaks
+Section: scripts
 Maintainer: ipapplus
 Depends: apt-utils
 Filename: ./debs/sa.ipapplus.autorepomanager_1.1_iphoneos-arm64.deb
@@ -8005,7 +8041,7 @@ Author: ipapplus
 Package: sa.ipapplus.autorepomanager
 Architecture: iphoneos-arm64e
 Version: 1.1
-Section: Tweaks
+Section: scripts
 Maintainer: ipapplus
 Depends: apt-utils
 Filename: ./debs/sa.ipapplus.autorepomanager_1.1_iphoneos-arm64e.deb
@@ -8271,7 +8307,7 @@ Author: ARX8x
 Package: zp.cocoatop64.unject
 Architecture: iphoneos-arm64
 Version: 3.1.1
-Section: Tweaks
+Section: Utilities
 Maintainer: zp, SXX, Domo
 Installed-Size: 504
 Depends:
@@ -8293,7 +8329,7 @@ SileoDepiction: https://rootless.002599.xyz/web/zp.cocoatop64.unject
 Package: zp.cocoatop64.unject
 Architecture: iphoneos-arm64e
 Version: 3.1.1
-Section: Tweaks
+Section: Utilities
 Maintainer: zp, SXX, Domo
 Installed-Size: 504
 Pre-Depends: rootless-compat(>= 0.9)
