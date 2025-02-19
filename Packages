@@ -745,11 +745,11 @@ Installed-Size: 58953
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), ldid
 Filename: ./repo/debs/com.crazymind90.appeditor_3.8.10.7_iphoneos-arm64e.deb
-Size: 50549004
-MD5sum: b1634755fb3c1eb2cb9a3fb45702ae56
-SHA1: 6b4ddcdbd5d20b81c78e94c79d36fef5a52bfeb5
-SHA256: 71b4105596080834ad2aba62a1bd1954890141118054a1cda766e85da7aab428
-SHA512: e3f204519e893818ac7af8b20a97cbbd0f1e5bde0763813ec398e57d1bef031e58286f4328392b997cb411e374a82409c3f0d8ffe3fa7ebeab7ff2eaefd99f47
+Size: 40006428
+MD5sum: aa247204027116a271d3d6f99ef1a59d
+SHA1: c19830ad945ad3f67b997db5a5bca3e452f1ea20
+SHA256: 5345250cbef1cd36f95e49245b698ca6d7e2c0e4e5c50aa6c41c4c6bc9327bdd
+SHA512: 0cd2db4b7c294d5da49a4af4ce812669e92ab7a12eb96195ece2aa92ef43230336386b4547bbbf4b68bddced73bb4ca247e20b012a7af2fb60c0f3f7661a2228
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appeditorDp
 Description: Gain Full Access and Control Over Your Applications
 Tag: purpose::extension
@@ -759,7 +759,7 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appeditorD
 Sileodepiction: https://crazy90.com/repo/1.json
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: crazymind90
-Icon: file:///var/jb/Applications/AppEditorApp.app/AppIcon60x60@2x.png
+Icon: https://i.imgur.com/LliWQgV.jpeg
 
 Package: com.crazymind90.appeditor
 Architecture: iphoneos-arm64e
