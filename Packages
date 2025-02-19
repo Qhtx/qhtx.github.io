@@ -327,6 +327,7 @@ Author: 0xkuj
 Package: com.34306.messed
 Architecture: iphoneos-arm64
 Version: 3.2
+Section: Tweaks
 Maintainer: Little 34306
 Installed-Size: 2488
 Depends: mobilesubstrate
@@ -343,6 +344,7 @@ Author: 34306
 Package: com.34306.messed
 Architecture: iphoneos-arm64e
 Version: 3.2
+Section: Tweaks
 Maintainer: Little 34306
 Installed-Size: 2488
 Depends: mobilesubstrate
