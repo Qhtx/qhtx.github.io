@@ -703,10 +703,10 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), ldid
 Filename: ./debs/com.crazymind90.appeditor_3.8.10.7_iphoneos-arm64e.deb
-Size: 20003932
-MD5sum: 01fd8eabf7df6a7caf9b291ca5a39bbd
-SHA1: c08a50d220408e30e886384fcef5d1d0de75a94b
-SHA256: e8307577b73990cae81a8d22943dd5903c2ecadcfca334c03fea5c7380cf5b68
+Size: 50549004
+MD5sum: b1634755fb3c1eb2cb9a3fb45702ae56
+SHA1: 6b4ddcdbd5d20b81c78e94c79d36fef5a52bfeb5
+SHA256: 71b4105596080834ad2aba62a1bd1954890141118054a1cda766e85da7aab428
 Description: Gain Full Access and Control Over Your Applications
 Author: @CrazyMind90 <CvCrazyMind@gmail.com>
 Name: AppEditor
