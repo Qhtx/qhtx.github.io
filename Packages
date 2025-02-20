@@ -7685,6 +7685,31 @@ Description: View & Manage Applications Data from your Home Screen & downgrade
 Author: Fouad Raheb
 Name: AppData-Rootless
 
+Package: com.crazymind90.appeditor
+Architecture: iphoneos-arm64e
+Version: 3.8.10.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 58953
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), ldid
+Filename: ./debs/new.deb
+Size: 100010952
+MD5sum: 7cce3e60746459315fe5044108470e1b
+SHA1: 55c8b2369d58be9aac69aa5f52df0960ae7f48e0
+SHA256: 011893ae7647ffbe30ccd6cac619ac6d2742e123493b4cf8c868ab51e4ce8c63
+SHA512: 5c4e6ee7dfb3ef33a25f950b96ad3d952b6ef3a2efc0e14d89072723c54e54e3a51eca157dfc347dca1593a8225f69d3c54ddf9904a8b8d688b128823992f01b
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appeditorDp
+Description: Gain Full Access and Control Over Your Applications
+Tag: purpose::extension
+Author: @CrazyMind90 <CvCrazyMind@gmail.com>
+Name: AppEditor
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appeditorDp
+Sileodepiction: https://crazy90.com/repo/1.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: crazymind90
+Icon: https://i.imgur.com/LliWQgV.jpeg
+
 Package: one.keycap.freepip
 Architecture: iphoneos-arm64
 Version: 0.0.3
