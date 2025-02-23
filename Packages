@@ -7406,3 +7406,42 @@ Name: Uptime
 Author: MTAC
 Icon: https://i.imgur.com/myFcqVn.jpeg
 
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64
+Version: 1.2.58
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6408
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.6)
+Filename: ./debs/arm64/Watusi3forWhatsApp.1.2.58.arm64.deb
+Size: 1928960
+MD5sum: 8041aa04d40611c07425e4c05a54a413
+SHA1: 82975aa707908c5128c4495b173811f099e89d13
+SHA256: 43396bb96cb37ed4bd6141bdc5f6344f685b602e13ace2abcbc860e48380bfef
+SHA512: 2d177ffb552512674f2ea378f939c4487cb847b57cae7b10452988d5aed241cc49c3bade587d18aef37e93bdd0aeff513296daf604bf4fd81447f56ad925cf01
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64e
+Version: 1.2.58
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6408
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.6)
+Filename: ./debs/arm64e/Watusi3forWhatsApp.1.2.58.arm64e.deb
+Size: 1912736
+MD5sum: ebe5cabd9a18c326e48980b258c534cf
+SHA1: 3066ddb5ffe3273e2db5230a54512b33d3a5e164
+SHA256: 6f6eac9eb126c8ee730e6f0817a65e61808fc2d3a563f71983f12967c5a462e4
+SHA512: 7eba6bb069c4a12e3d97dd048414036f9a680561a0b982235240f466ee794d364784d99606a35175a6885ca28df1c8c1c3bdf092c2e408aa3e1309e24b57bd20
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
