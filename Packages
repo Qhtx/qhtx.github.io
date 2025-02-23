@@ -5877,25 +5877,6 @@ Name: Sniperbypassjb
 Author: Sniper @DNS_Sys
 Icon: https://i.imgur.com/myFcqVn.jpeg
 
-Package: com.spark.snowboardapplication
-Architecture: iphoneos-arm64e
-Version: 1.1.0~Beta4-rootless
-Section: Utilities
-Maintainer: Spark
-Installed-Size: 992
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: com.spark.snowboard
-Filename: ./debs/arm64e/SnowBoard.1.1.0~Beta4-rootless.arm64e.deb
-Size: 629530
-MD5sum: 5444b1442dd60dbeab8060ec3b1570dc
-SHA1: 307b34829aad1dafae350def928cfb96bbcd1212
-SHA256: 791461f51311dc7487f89517f4e06c3fc3e040c2984c3af3efc9cf65a1c35216
-SHA512: a444ca66862cb4b074c072cd10b9d1c2c6e76068fc1a1cfd87d1386a86ad539b2dd2911297df7a56194bf23647e567ffbd23d49dc70ef456db27599d71cb616f
-Description: An awesome application!
-Name: SnowBoard
-Author: Spark
-Icon: https://i.imgur.com/myFcqVn.jpeg
-
 Package: com.spark.snowboard
 Architecture: iphoneos-arm64e
 Version: 1.5.37-Beta4-rootless
@@ -7546,5 +7527,4 @@ SHA512: 24566c989ec2d290e3926ec5f9cbca991b328bf3fa47e2a19fa4b2096db0122167d1c332
 Description: An awesome application!
 Name: SnowBoard App
 Author: Spark
-Icon: https://i.imgur.com/myFcqVn.jpeg
 
