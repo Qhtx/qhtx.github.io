@@ -7529,3 +7529,22 @@ Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
 Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
 
+Package: com.spark.snowboardapplication
+Architecture: iphoneos-arm64e
+Version: 1.1.0~Beta4-rootless
+Section: Utilities
+Maintainer: Spark
+Installed-Size: 992
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard
+Filename: ./debs/arm64e/SnowBoardApp.1.1.0~Beta4-rootless.arm64e.deb
+Size: 609980
+MD5sum: d4a9a25f361340ffcb897411ac179010
+SHA1: f3a241c96e0768c25d0d6b1ac8f66009c2256223
+SHA256: ab0c8774a3c9f69efe9f0e2e61df099555393804b8f664dd4137a7c52032f782
+SHA512: 24566c989ec2d290e3926ec5f9cbca991b328bf3fa47e2a19fa4b2096db0122167d1c3328a3fb79d3c20e74677e7f9d20cd2fe0e18ea5c92ee8d4e7a0e619f3e
+Description: An awesome application!
+Name: SnowBoard App
+Author: Spark
+Icon: https://i.imgur.com/myFcqVn.jpeg
+
