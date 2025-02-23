@@ -7445,3 +7445,87 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
 
+Package: com.den.locktouchx
+Architecture: iphoneos-arm64
+Version: 1.3-15+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/LockTouchX.1.3-15+debug.arm64.deb
+Size: 22892
+MD5sum: 3098c8c75d05c64fe86fdb67f122da7c
+SHA1: 48d0c3ca7ba8007c72050157e0504709d7580e17
+SHA256: 4a5b5a83661512a54cf6af891b44a8f4c29861ee61a3dfc22cce53493c7406f7
+SHA512: d425c8acdfcb0a25f6a2b7951689e918f18eb35e3b187dae12784e3ae0652445381617fcfba3b21424d91ce05c0b59c464cf6d2a7fafc6a26c33f37a25859b2c
+Description: Adds Touch ID authentication to apps, just like the security features in iOS 18
+Name: LockTouchX
+Author: MrDeNsor
+Icon: https://i.imgur.com/myFcqVn.jpeg
+
+Package: com.den.locktouchx
+Architecture: iphoneos-arm64e
+Version: 1.3-15+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/LockTouchX.1.3-15+debug.arm64e.deb
+Size: 29734
+MD5sum: e989e17398f8556498ee008ff78fd925
+SHA1: 47fb1f5e324732c2f9b3fcf497a18c6e2256f62d
+SHA256: c001e194882625f33f12da55a22fc414e7939039c7a4d07c965c767cb12cb482
+SHA512: 439ac85e8e67ba7f3164f410efb7179ae874dd4139056dda292c9d354ef737e1866bf553b598d30dae615db162ba52838bb732de16acec19917f20606c1c63a7
+Description: Adds Touch ID authentication to apps, just like the security features in iOS 18
+Name: LockTouchX
+Author: MrDeNsor
+Icon: https://i.imgur.com/myFcqVn.jpeg
+
+Package: com.cydiageek.byeseparatorscell
+Architecture: iphoneos-arm64e
+Version: 1.1.3
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 448
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Filename: ./debs/arm64e/ByeSeparatorsCell.1.1.3.arm64e.deb
+Size: 60362
+MD5sum: 7001a84253af208e16a4e5fb42198b0d
+SHA1: 8a2170ca3aed3766c7634fba576bf18950bf1fa7
+SHA256: 6811d9717fec5234e77aad0a4a2c79b0d0126c524e6c1c408f708d033819384f
+SHA512: 41755239311a9051f44fefa7700f22809a1a0f1898be2a6d4925ad9fcdd3baad004de46cabdb071184eb28c19e1762bd99315077c48e256e4f8ffbce0cd95a95
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byeseparatorscellDp
+Description: Remove the Space Between the Cells on System Wide!
+Tag: purpose::extension
+Name: ByeSeparatorsCell
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byeseparatorscellDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/ByeSeparatorsCell.bundle/ByeSeparatorsCell@2x.png
+
+Package: xyz.cypwn.xinam1ne
+Architecture: iphoneos-arm64e
+Version: 2.6-8
+Section: Utilities
+Maintainer: CyPwn
+Provides: emt.paisseon.xinamine (= 99)
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: emt.paisseon.xinamine
+Filename: ./debs/arm64e/Xinam1neAIO.2.6-8.arm64e.deb
+Size: 76664
+MD5sum: 3003a06dcc2d88baaee36360c6d37fa8
+SHA1: a57b488094721262f7b81f8a2c7e996f02b2783d
+SHA256: 0270b33822ee2dd9122c5ee3fc8d1e49c33fe6aa01f441087bd5b9787a66835c
+SHA512: aba19c8ddd8d79484d7606e10fc62a015b582742d8914c9ecbd0f62ceb552ae315dfb28b41baec021d3fac41d157fd855f33739b737eda0e57c10e6a79e48585
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
+Depiction: https://repo.cypwn.xyz/depiction/2816
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2816
+Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
+Name: Xinam1ne AIO
+Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
+
