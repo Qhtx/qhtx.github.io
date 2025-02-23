@@ -7369,3 +7369,40 @@ Name: wicked
 Author: zero
 Icon: https://raw.githubusercontent.com/HearseDev/hearsedev.github.io/main/tweak-assets/Wicked_2048x2048.png
 
+Package: com.mtac.uptime
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 192
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/arm64/Uptime.1.0.1.arm64.deb
+Size: 25894
+MD5sum: 1a608ec94032614a8354169d76d21527
+SHA1: e0432b23735bcc01fede93cba02375b6f82662ff
+SHA256: f6bb43f7f22b109b68643ec94bac850dd9444127dc6e7bed1c8030e41188be24
+SHA512: a92d4e5cd970589731564b97e811eccfa19c92a1b13253cd472f6ffdf36b9a3360b7c0e6b846fa91e838e212ade71077446f5dd9ae0de268d37e71c21509e2f4
+Description: Control Center module to view time since boot
+Name: Uptime
+Author: MTAC
+Icon: https://i.imgur.com/myFcqVn.jpeg
+
+Package: com.mtac.uptime
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 192
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/arm64e/Uptime.1.0.1.arm64e.deb
+Size: 30014
+MD5sum: 1ce48328d27c76ac5ab08322111fbf63
+SHA1: a9d2662c7f7ae0137fb0dc37670753e2f1a2aca3
+SHA256: 9218fb427c0e90bee17212db2b48c64fe9308c57583acf285984a09e7108897a
+SHA512: f9fc3fc5ffb63c0a89556e621e6080257bf86e3fe64aa2350770f36128865130893db24ad87ebb33dbdfdcd83255cac5c56c26a40b3d711c0df0769fb11dcf0d
+Description: Control Center module to view time since boot
+Name: Uptime
+Author: MTAC
+Icon: https://i.imgur.com/myFcqVn.jpeg
+
