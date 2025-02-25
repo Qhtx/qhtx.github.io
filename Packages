@@ -7353,15 +7353,35 @@ Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 384
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: ./debs/arm64e/SingleMute.1.5.arm64e.deb
-Size: 26788
-MD5sum: f0ebb0b36ac714667c9716d1c704446d
-SHA1: ecb3a97044e0c17b3dc395d00f5557bc3ed161aa
-SHA256: 7215c2f4dbfe5401acf634d4ee7b2be21b1dcec6046182c13caa4473af4d9ef1
-SHA512: 7f247ad3a4ee8e577fe3fc5b1c2d1d21720106df7865094d7b699a139db5ad6a10e13c867cc4992b3d7e5d86dbc72dd3a5b874a3ef5cf70e7fe7b96dc31b5fc0
+Size: 24744
+MD5sum: 842c4b5fbe3d4a5c882d94234cfa452c
+SHA1: 503570e42251518d69c324f2eea5d65f0bdbbb49
+SHA256: 4a44912f50df5ac876f5836b0f9bc332fd6d1f8b16ddfd7c33333a175228348c
+SHA512: a1ac869c3cc6e7a0e9fd6cdcbbecac02d1fefb8883e47a0b7d34939abed74d81bc5e8a6e28af60c32dbacc701025648b5b191e7835e23e58157d142b25934608
 Description: Just a single mute icon on the status bar of iOS.
 Name: Single Mute
 Author: 82Flex <82flex@gmail.com>
 Depiction: https://havoc.app/depiction/singlemute
 SileoDepiction: https://havoc.app/package/singlemute/depiction.json
 Icon: https://media.havoc.app/670040a6cadff093998f20a6
+
+Package: com.82flex.singlevpn
+Architecture: iphoneos-arm64e
+Version: 1.5
+Section: Tweaks
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/arm64e/SingleVPN.1.5.arm64e.deb
+Size: 28928
+MD5sum: d73ae6278bfe3400f88bb8bbac444c85
+SHA1: 5b25b8c12fd19cffb9718e4a1b493edf7983e5ff
+SHA256: 96a8f80f02e57974b6bf2aeed8c42eac6791a2955be5dff2cfc0fbb50de215a2
+SHA512: e64725eb4b8da1d74176ca5483425734cb111aaaf4dae0dd52c96f800d08ada3c465f0d2e18d84f04053443cecf7bd60f892b7265fc7b618a0641d3cadc6dd06
+Description: Combine VPN state and wireless state into one icon.
+Name: Single VPN
+Author: 82Flex <82flex@gmail.com>
+Depiction: https://havoc.app/depiction/singlevpn
+SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
+Icon: https://media.havoc.app/67025b058a3bc4a08c4aba76
 
