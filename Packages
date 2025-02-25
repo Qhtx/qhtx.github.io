@@ -7527,4 +7527,39 @@ SHA512: 24566c989ec2d290e3926ec5f9cbca991b328bf3fa47e2a19fa4b2096db0122167d1c332
 Description: An awesome application!
 Name: SnowBoard App
 Author: Spark
+Icon: https://i.imgur.com/myFcqVn.jpeg
+
+Package: apple.ios14.font
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Fonts
+Maintainer: Apple
+Depends: mobilesubstrate
+Filename: ./debs/arm64/ArabicUIDisplayiOS14.1.0.arm64.deb
+Size: 207556
+MD5sum: 1549c8d49bced37c5dac8783fee7146c
+SHA1: c201f6a749886ba25999bebd685fe7400ae652ed
+SHA256: a8c94ab380e719429f354c1de24bcc08b325f1a7a3dfd9b9742b31280ada3bb2
+SHA512: cd0d4615430eb6f0a72b7ab3732b468ca6229a70ef2b4bbae9b47e3e15b4578ce99f4159d5fe986d7a10d67e9c3f62ff0c6bdd0abf051179b64a7c7a68611840
+Description: Arabic & English
+Name: Arabic UI Display iOS14
+Author: Apple
+Icon: https://i.imgur.com/myFcqVn.jpeg
+
+Package: apple.ios14.font
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Fonts
+Maintainer: Apple
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/ArabicUIDisplayiOS14.1.0.arm64e.deb
+Size: 207360
+MD5sum: a065ec0657782cd1b5777357fb8a0447
+SHA1: 345f2030d663ad474eca3fe2c33254505659ff7a
+SHA256: afef0d317d7f303f61a40ae64fe8dcc15a0863698924d182ea56c774493bc730
+SHA512: f621107f00ec1efe859d5ff8462d896cbfba697d4c1ef8bb77b0487f0a8a0b2265db956cd9c0e36a215786898ac16cbdb7d278b42e355ff3f551e9d9c54cac2b
+Description: Arabic & English
+Name: Arabic UI Display iOS14
+Author: Apple
+Icon: https://i.imgur.com/myFcqVn.jpeg
 
