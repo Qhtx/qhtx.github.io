@@ -7345,3 +7345,23 @@ Name: wicked
 Author: zero
 Icon: https://raw.githubusercontent.com/HearseDev/hearsedev.github.io/main/tweak-assets/Wicked_2048x2048.png
 
+Package: com.82flex.singlemute
+Architecture: iphoneos-arm64e
+Version: 1.5
+Section: Tweaks
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/arm64e/SingleMute.1.5.arm64e.deb
+Size: 26788
+MD5sum: f0ebb0b36ac714667c9716d1c704446d
+SHA1: ecb3a97044e0c17b3dc395d00f5557bc3ed161aa
+SHA256: 7215c2f4dbfe5401acf634d4ee7b2be21b1dcec6046182c13caa4473af4d9ef1
+SHA512: 7f247ad3a4ee8e577fe3fc5b1c2d1d21720106df7865094d7b699a139db5ad6a10e13c867cc4992b3d7e5d86dbc72dd3a5b874a3ef5cf70e7fe7b96dc31b5fc0
+Description: Just a single mute icon on the status bar of iOS.
+Name: Single Mute
+Author: 82Flex <82flex@gmail.com>
+Depiction: https://havoc.app/depiction/singlemute
+SileoDepiction: https://havoc.app/package/singlemute/depiction.json
+Icon: https://media.havoc.app/670040a6cadff093998f20a6
+
