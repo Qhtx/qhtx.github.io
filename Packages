@@ -7563,3 +7563,23 @@ Name: Arabic UI Display iOS14
 Author: Apple
 Icon: https://i.imgur.com/myFcqVn.jpeg
 
+Package: wiki.qaq.writenow
+Architecture: iphoneos-arm64e
+Version: 2.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 15168
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/arm64e/WriteNow.2.1.arm64e.deb
+Size: 3367152
+MD5sum: 5a97b9059d4b1cbf0c2abcfe5d87d186
+SHA1: 014f0a5d901299284bc375aa2481cf7af9264adc
+SHA256: 08677805d088153aa6cfd58d498c3862e6214c68ea223d2c4f9aa81c7d34c571
+SHA512: 401c0fca7bb4c065462bcc044d57d82df0f928756499b942ab452deb06344aca8021f5ac6b304a1ba49868c601f004df7b7b09a80e375c9839d76f61cfd98746
+Description: AI tool within your hands.
+Name: Write Now
+Author: Lessica <82flex@gmail.com>
+Depiction: https://havoc.app/depiction/writenow
+SileoDepiction: https://havoc.app/package/writenow/depiction.json
+Icon: https://media.havoc.app/66c5b207000eafa58a451f7b
+
