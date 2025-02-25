@@ -7583,3 +7583,77 @@ Depiction: https://havoc.app/depiction/writenow
 SileoDepiction: https://havoc.app/package/writenow/depiction.json
 Icon: https://media.havoc.app/66c5b207000eafa58a451f7b
 
+Package: com.arico.daniel
+Architecture: iphoneos-arm64e
+Version: 5.2
+Section: Arico Tweak
+Maintainer: Daniel
+Installed-Size: 1840
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/AricoHelp.5.2.arm64e.deb
+Size: 599576
+MD5sum: 10490a4fa587b012a81f8fb558fea86f
+SHA1: 03ee7e27a08e8aabe8ecbb74af270b48e3a388bc
+SHA256: 4b1de70c720d9d142d84ea1780170ab7d452073bcf2b5247174f88e932604b4b
+SHA512: dfffbbcd2f80b9d0daf46510b5a89c37a746e55512d3e60fefbbbef014f703b3de9f6ab24f6624143a21b305f2fb718cdb5c4a10c17e48b52400d8dfa0cb9126
+Description: Arico
+Name: Arico Help
+Author: Daniel
+Icon: https://i.imgur.com/myFcqVn.jpeg
+
+Package: com.arico.daniel
+Architecture: iphoneos-arm64
+Version: 5.2
+Section: Arico Tweak
+Maintainer: Daniel
+Installed-Size: 1840
+Depends: mobilesubstrate
+Filename: ./debs/arm64/AricoHelp.5.2.arm64.deb
+Size: 579316
+MD5sum: a91c6e9e65bfb5a0734fc95df0102367
+SHA1: 2854c6b8edc556228cb6996dac11cf485286fd93
+SHA256: 09365de3a389131a37c0700982ad81682d1c18187b52432b2d64b9f1f405e905
+SHA512: 26dc524c251c9f8c744661b62a3d97198801432d8ad2e75ebf833a9416010dcef1fe1546ee74f7cc2c1aaf440b79bc40311f67007aae5c6c4fad6aa8eee0f4d8
+Description: Arico
+Name: Arico Help
+Author: Daniel
+Icon: https://i.imgur.com/myFcqVn.jpeg
+
+Package: com.hmodei.arico
+Architecture: iphoneos-arm64e
+Version: 5.1
+Section: Arico Tweak
+Maintainer: Daniel
+Installed-Size: 9984
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/Arico.5.1.arm64e.deb
+Size: 8097396
+MD5sum: ae1f054d5a639b4bf4440e5841b42e31
+SHA1: 1f970e0fbe40e398570f1563927bdac1b4d859ec
+SHA256: 5badb0c7c5e010cf4f7d869eac72f68e69f157f99b49b22017618a86680391c4
+SHA512: 860e104276580fda07cdb99a4158d97debc2f37ff039a7e20f604bed1b5292a9577cdd6eab72a2dc83b2ddfd7c8c334ebc53408b009238e371f363b943f28ba5
+Description: Arico
+Name: Arico
+Author: Daniel
+Icon: https://aric0.com/arico.png
+
+Package: com.hmodei.arico
+Architecture: iphoneos-arm64
+Version: 5.1
+Section: Arico Tweak
+Maintainer: Daniel
+Installed-Size: 9984
+Depends: mobilesubstrate
+Filename: ./debs/arm64/Arico.5.1.arm64.deb
+Size: 2091076
+MD5sum: 9ae049a5f862351b19c4378294ba484e
+SHA1: 26b005f0d4b6ba7d259329edfec02d4aae11abbe
+SHA256: d2cd8303b4e7b6c70b2b385799acc0c2b36b40accf218ccb2ba4225e32a53dc7
+SHA512: 1faf8279f193e38c864ba06d2661355b17984921d8419a2bd4396bb992528a1bb0ef4aa4c938e3bea2932adb0e9882475e98ea27285611810652dd456993b853
+Description: Arico
+Name: Arico
+Author: Daniel
+Icon: https://aric0.com/arico.png
+
