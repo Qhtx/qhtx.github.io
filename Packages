@@ -376,6 +376,23 @@ Name: AppSync Unified
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Icon: https://i.imgur.com/myFcqVn.jpeg
 
+Package: apple.ios14.font
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Fonts
+Maintainer: Apple
+Depends: mobilesubstrate
+Filename: ./debs/arm64/ArabicUIDisplayiOS14.1.0.arm64.deb
+Size: 207556
+MD5sum: 1549c8d49bced37c5dac8783fee7146c
+SHA1: c201f6a749886ba25999bebd685fe7400ae652ed
+SHA256: a8c94ab380e719429f354c1de24bcc08b325f1a7a3dfd9b9742b31280ada3bb2
+SHA512: cd0d4615430eb6f0a72b7ab3732b468ca6229a70ef2b4bbae9b47e3e15b4578ce99f4159d5fe986d7a10d67e9c3f62ff0c6bdd0abf051179b64a7c7a68611840
+Description: Arabic & English
+Name: Arabic UI Display iOS14
+Author: Apple
+Icon: https://i.imgur.com/myFcqVn.jpeg
+
 Package: sa.ipapplus.autorepomanager
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -1315,6 +1332,24 @@ Name: LockTouchX
 Author: MrDeNsor
 Icon: https://i.imgur.com/myFcqVn.jpeg
 
+Package: com.den.locktouchx
+Architecture: iphoneos-arm64
+Version: 1.3-15+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/LockTouchX.1.3-15+debug.arm64.deb
+Size: 22892
+MD5sum: 3098c8c75d05c64fe86fdb67f122da7c
+SHA1: 48d0c3ca7ba8007c72050157e0504709d7580e17
+SHA256: 4a5b5a83661512a54cf6af891b44a8f4c29861ee61a3dfc22cce53493c7406f7
+SHA512: d425c8acdfcb0a25f6a2b7951689e918f18eb35e3b187dae12784e3ae0652445381617fcfba3b21424d91ce05c0b59c464cf6d2a7fafc6a26c33f37a25859b2c
+Description: Adds Touch ID authentication to apps, just like the security features in iOS 18
+Name: LockTouchX
+Author: MrDeNsor
+Icon: https://i.imgur.com/myFcqVn.jpeg
+
 Package: com.mtac.lynxtwo.localizations
 Architecture: iphoneos-arm64
 Version: 2.5
@@ -2132,6 +2167,24 @@ Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.twitchadblock
 Author: level3tjg
 Icon: https://i.imgur.com/myFcqVn.jpeg
 
+Package: com.mtac.uptime
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 192
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/arm64/Uptime.1.0.1.arm64.deb
+Size: 25894
+MD5sum: 1a608ec94032614a8354169d76d21527
+SHA1: e0432b23735bcc01fede93cba02375b6f82662ff
+SHA256: f6bb43f7f22b109b68643ec94bac850dd9444127dc6e7bed1c8030e41188be24
+SHA512: a92d4e5cd970589731564b97e811eccfa19c92a1b13253cd472f6ffdf36b9a3360b7c0e6b846fa91e838e212ade71077446f5dd9ae0de268d37e71c21509e2f4
+Description: Control Center module to view time since boot
+Name: Uptime
+Author: MTAC
+Icon: https://i.imgur.com/myFcqVn.jpeg
+
 Package: com.fissiondev.uranium
 Architecture: iphoneos-arm64
 Version: 1.2.7
@@ -2163,25 +2216,6 @@ MD5sum: 323989f6aeecaa612675bf5f9583b557
 SHA1: df1cb9e97731a7085fb5a7f2f0c740794252d6d7
 SHA256: fcc1b619fc3dce000cb2d406a1e1fcd9dc1bac6477aaa0e09834db3f086b288d
 SHA512: 6123df9430be8b67540739f4a771ca94e7b4fdd3d4555a396d632141bab4d7c715401d4a0d261c48479c62b06390b38e963ace7b076b10abd1cdefef911c4605
-Description: The all-in-one tweak for WhatsApp Messenger
-Name: Watusi 3 for WhatsApp
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
-Author: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
-
-Package: com.fouadraheb.watusi3
-Architecture: iphoneos-arm64
-Version: 1.2.44
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6688
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
-Filename: ./debs/arm64/Watusi3forWhatsApp.1.2.44.arm64.deb
-Size: 1978412
-MD5sum: bf8f29e7a627ebd8121e9e3540cd95c9
-SHA1: 987e986b3dc4c174e9203fac3fdb9445d7927673
-SHA256: 28401865b98e7978d43b274981b239836e129e82caf93931b1725d99f533332a
-SHA512: 582d4e931155e5adb3ea5d011f5f011b3894c9d4fdaee88013bbf3a60753eeedbeaa6eb67d82ca2885ac773c79cb8d4d9671200850ad1e70b4ea4ff4f0a3ace1
 Description: The all-in-one tweak for WhatsApp Messenger
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
@@ -2228,17 +2262,17 @@ Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundl
 
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64
-Version: 1.2.57
+Version: 1.2.58
 Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6388
+Installed-Size: 6408
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.6)
-Filename: ./debs/arm64/Watusi3forWhatsApp.1.2.57.arm64.deb
-Size: 1923752
-MD5sum: e25e7ae834e9e02fb3bc4268a9bf1f26
-SHA1: 98ca7c3425a0830060988795e249f5a38be5ffa8
-SHA256: 0edfb1cc2bb3276ab415659677c65ea521d8c9da579b2693fb4c629224493b60
-SHA512: e20e3f743d6be8c398fd72dc1c54db38c5fb75e56d87d63b39ed719806103f1f731ba31963d6c1c739049f728049012ad3c0209ec2eb9f5b94babe0ada4cc75e
+Filename: ./debs/arm64/Watusi3forWhatsApp.1.2.58.arm64.deb
+Size: 1928960
+MD5sum: 8041aa04d40611c07425e4c05a54a413
+SHA1: 82975aa707908c5128c4495b173811f099e89d13
+SHA256: 43396bb96cb37ed4bd6141bdc5f6344f685b602e13ace2abcbc860e48380bfef
+SHA512: 2d177ffb552512674f2ea378f939c4487cb847b57cae7b10452988d5aed241cc49c3bade587d18aef37e93bdd0aeff513296daf604bf4fd81447f56ad925cf01
 Description: The all-in-one tweak for WhatsApp Messenger
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
@@ -2261,42 +2295,6 @@ Description: Library for Watusi, Regram and other tweaks
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Name: WatusiTools
-Icon: https://i.imgur.com/myFcqVn.jpeg
-
-Package: com.f0u4d.watusitools
-Architecture: iphoneos-arm64
-Version: 2.4.45
-Section: Development
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depends: firmware (>= 12.0)
-Filename: ./debs/arm64/WatusiTools.2.4.45.arm64.deb
-Size: 4898432
-MD5sum: 6ee5622f080820091a0df827166e965f
-SHA1: 1c9ae9202e36d842c573ed48ecfec6eb948c6364
-SHA256: a81909cbb606041df3f6df8f90eb7c3031f2c0ed6d2002c5b20c9a03e3ce1310
-SHA512: 917450505e4ad6a0ae92cfcfc722ddd1022ab835cc72a4ae376620d05538050d0a721f4e1638ccca07f9700c15832a12f3491be225cc2b53817a9be7a79e6624
-Description: Library for Watusi, Regram and other tweaks
-Name: WatusiTools
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-Icon: https://i.imgur.com/myFcqVn.jpeg
-
-Package: com.f0u4d.watusitools
-Architecture: iphoneos-arm64
-Version: 2.4.46
-Section: Development
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depends: firmware (>= 12.0)
-Filename: ./debs/arm64/WatusiTools.2.4.46.arm64.deb
-Size: 4899432
-MD5sum: 214422482c733a270e6e8e997a8e83ca
-SHA1: 7cd515e3fee33d338707dc15185effa2d576465e
-SHA256: 20df4469a2518d27bc69a0e0f9d1d7264fae5e8af2c3dacdffabf0adc80c19be
-SHA512: 920ca80072a08d2dd065ff87d7b6f8840657f3f5190905888205c224b8d85135f7998d10c3fe37db2d5bd07c970d67ce0498e65dd0c59f1ecfe3abc96cac318a
-Description: Library for Watusi, Regram and other tweaks
-Name: WatusiTools
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Icon: https://i.imgur.com/myFcqVn.jpeg
 
 Package: com.f0u4d.watusitools
@@ -2958,6 +2956,23 @@ Author: TIGI Software <satashi2009@gmail.com>
 dev: satashi2009
 Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
 
+Package: apple.ios14.font
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Fonts
+Maintainer: Apple
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/ArabicUIDisplayiOS14.1.0.arm64e.deb
+Size: 207360
+MD5sum: a065ec0657782cd1b5777357fb8a0447
+SHA1: 345f2030d663ad474eca3fe2c33254505659ff7a
+SHA256: afef0d317d7f303f61a40ae64fe8dcc15a0863698924d182ea56c774493bc730
+SHA512: f621107f00ec1efe859d5ff8462d896cbfba697d4c1ef8bb77b0487f0a8a0b2265db956cd9c0e36a215786898ac16cbdb7d278b42e355ff3f551e9d9c54cac2b
+Description: Arabic & English
+Name: Arabic UI Display iOS14
+Author: Apple
+Icon: https://i.imgur.com/myFcqVn.jpeg
+
 Package: me.luki.arres
 Architecture: iphoneos-arm64e
 Version: 0.9.0
@@ -3257,6 +3272,31 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: XCXiao <958169971@qq.com>
 dev: xcxiao
 Icon: https://i.imgur.com/myFcqVn.jpeg
+
+Package: com.cydiageek.byeseparatorscell
+Architecture: iphoneos-arm64e
+Version: 1.1.3
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 448
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Filename: ./debs/arm64e/ByeSeparatorsCell.1.1.3.arm64e.deb
+Size: 60362
+MD5sum: 7001a84253af208e16a4e5fb42198b0d
+SHA1: 8a2170ca3aed3766c7634fba576bf18950bf1fa7
+SHA256: 6811d9717fec5234e77aad0a4a2c79b0d0126c524e6c1c408f708d033819384f
+SHA512: 41755239311a9051f44fefa7700f22809a1a0f1898be2a6d4925ad9fcdd3baad004de46cabdb071184eb28c19e1762bd99315077c48e256e4f8ffbce0cd95a95
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byeseparatorscellDp
+Description: Remove the Space Between the Cells on System Wide!
+Tag: purpose::extension
+Name: ByeSeparatorsCell
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byeseparatorscellDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/ByeSeparatorsCell.bundle/ByeSeparatorsCell@2x.png
 
 Package: com.cydiaabdullah.cacloud
 Architecture: iphoneos-arm64e
@@ -4756,6 +4796,25 @@ Name: LockTouchX
 Author: MrDeNsor
 Icon: https://i.imgur.com/myFcqVn.jpeg
 
+Package: com.den.locktouchx
+Architecture: iphoneos-arm64e
+Version: 1.3-15+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/LockTouchX.1.3-15+debug.arm64e.deb
+Size: 29734
+MD5sum: e989e17398f8556498ee008ff78fd925
+SHA1: 47fb1f5e324732c2f9b3fcf497a18c6e2256f62d
+SHA256: c001e194882625f33f12da55a22fc414e7939039c7a4d07c965c767cb12cb482
+SHA512: 439ac85e8e67ba7f3164f410efb7179ae874dd4139056dda292c9d354ef737e1866bf553b598d30dae615db162ba52838bb732de16acec19917f20606c1c63a7
+Description: Adds Touch ID authentication to apps, just like the security features in iOS 18
+Name: LockTouchX
+Author: MrDeNsor
+Icon: https://i.imgur.com/myFcqVn.jpeg
+
 Package: com.mtac.lynxtwo.localizations
 Architecture: iphoneos-arm64e
 Version: 2.5
@@ -5262,27 +5321,6 @@ Name: Pointless
 Author: zhaonan
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.pointless/js.json
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
-
-Package: com.teslaman3092.popoutbuttons
-Architecture: iphoneos-arm64e
-Version: 1.0.0
-Section: Tweaks
-Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
-Installed-Size: 480
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
-Filename: ./debs/arm64e/PopOutButtons.1.0.0.arm64e.deb
-Size: 52452
-MD5sum: 2d24907658d306c21030d0c94fff594d
-SHA1: 4de9839df6440eac21b9ba7181cf481c71105e03
-SHA256: c311f88da21da8bf57529bde9fa8cdcd95194d878c82abde0de36cbb3513131e
-SHA512: dad9dcbd26f57b31f0122265b2cab6d7849e12017f464903d75670fea6d1da5517497c4aa4482fcc9e50a36f259da60b22df95e8ce94c58a432b68295e57ce31
-Description: PopOutButtons bring the iOS 18 buttons popouts to ios 13-17
-Tag: compatible_min::ios13.0
-Author: tesla_man <computerman939+POBsupport@gmail.com>
-Name: PopOutButtons
-Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
-Depiction: https://chariz.com/get/popoutbuttons
 
 Package: com.teslaman3092.popoutbuttons
 Architecture: iphoneos-arm64e
@@ -5899,6 +5937,25 @@ Name: SnowBoard
 Author: Spark & Dennis D. Bednarz
 Icon: https://i.imgur.com/myFcqVn.jpeg
 
+Package: com.spark.snowboardapplication
+Architecture: iphoneos-arm64e
+Version: 1.1.0~Beta4-rootless
+Section: Utilities
+Maintainer: Spark
+Installed-Size: 992
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.spark.snowboard
+Filename: ./debs/arm64e/SnowBoardApp.1.1.0~Beta4-rootless.arm64e.deb
+Size: 609980
+MD5sum: d4a9a25f361340ffcb897411ac179010
+SHA1: f3a241c96e0768c25d0d6b1ac8f66009c2256223
+SHA256: ab0c8774a3c9f69efe9f0e2e61df099555393804b8f664dd4137a7c52032f782
+SHA512: 24566c989ec2d290e3926ec5f9cbca991b328bf3fa47e2a19fa4b2096db0122167d1c3328a3fb79d3c20e74677e7f9d20cd2fe0e18ea5c92ee8d4e7a0e619f3e
+Description: An awesome application!
+Name: SnowBoard App
+Author: Spark
+Icon: https://i.imgur.com/myFcqVn.jpeg
+
 Package: com.spark.snowboard.dock
 Architecture: iphoneos-arm64e
 Version: 1.1.3~Beta4-rootless
@@ -6253,25 +6310,6 @@ SileoDepiction: https://lizynz.github.io/depictions/com.lizynz.telegaicons/Teleg
 Author: Lizynz <lizynz@ya.ru>
 Icon: https://i.imgur.com/myFcqVn.jpeg
 
-Package: com.yasxi.telegramunseenmessage
-Architecture: iphoneos-arm64e
-Version: 4.2.0
-Section: Tweaks
-Maintainer: yasxi <(null)>
-Installed-Size: 152
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/arm64e/Telegram||UnseenMessage.4.2.0.arm64e.deb
-Size: 4276
-MD5sum: b879d4d69f60152ca46c60e0776bb06e
-SHA1: 1bf7a48eed912b1a378f8430dfd47d2571a8c262
-SHA256: 03ad62602a8fd510837a4b585d685ebd6d71eff212ac72b4df36588340b366f1
-SHA512: 9d45cb2fe8774a34d3555f68a7eb4e0457a5020a7f9fc8be1114575a0c75fd0101f639405fee0b36dbbde62234d9f8999b23f61f96a49e511b940a0addf68229
-Description: new
-Name: Telegram || Unseen Message
-Author: yasxi <(null)>
-Icon: https://i.imgur.com/myFcqVn.jpeg
-
 Package: com.icraze.tempdrop
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -6447,6 +6485,25 @@ SHA512: 496cc77296a0b5e61e5810383e54e9615b833bc3bb02ab9076066d4417c6170a91c27f1e
 Description: Bring Back Old Twitter Label Name!
 Name: TwitterLabelBack
 Author: CydiaGeek <lucaluca86@aol.com>
+Icon: https://i.imgur.com/myFcqVn.jpeg
+
+Package: com.mtac.uptime
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 192
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/arm64e/Uptime.1.0.1.arm64e.deb
+Size: 30014
+MD5sum: 1ce48328d27c76ac5ab08322111fbf63
+SHA1: a9d2662c7f7ae0137fb0dc37670753e2f1a2aca3
+SHA256: 9218fb427c0e90bee17212db2b48c64fe9308c57583acf285984a09e7108897a
+SHA512: f9fc3fc5ffb63c0a89556e621e6080257bf86e3fe64aa2350770f36128865130893db24ad87ebb33dbdfdcd83255cac5c56c26a40b3d711c0df0769fb11dcf0d
+Description: Control Center module to view time since boot
+Name: Uptime
+Author: MTAC
 Icon: https://i.imgur.com/myFcqVn.jpeg
 
 Package: com.fissiondev.uranium
@@ -6636,26 +6693,6 @@ Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundl
 
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64e
-Version: 1.2.44
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6688
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
-Filename: ./debs/arm64e/Watusi3forWhatsApp.1.2.44.arm64e.deb
-Size: 1961212
-MD5sum: 729ab97afb79b44ce64e2cb97ca44c2d
-SHA1: 43fba194e2d22ed5d68ebf4c1fffe59b96f20fc1
-SHA256: 8db637674eead38c1a25d3f0bdc2d8cd2703ed24f33105b2812b7afe91ec5bf3
-SHA512: 885f9c862af0af89940869b070b95b49f8a43f962e616e0df186b64908d68a929020347f71daf54e306be201006e1bd6ffca3235f5f2daf4ea41204ee6fcc1b9
-Description: The all-in-one tweak for WhatsApp Messenger
-Name: Watusi 3 for WhatsApp
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
-Author: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
-
-Package: com.fouadraheb.watusi3
-Architecture: iphoneos-arm64e
 Version: 1.2.45
 Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -6696,18 +6733,18 @@ Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundl
 
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64e
-Version: 1.2.57
+Version: 1.2.58
 Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6388
+Installed-Size: 6408
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.6)
-Filename: ./debs/arm64e/Watusi3forWhatsApp.1.2.57.arm64e.deb
-Size: 1906764
-MD5sum: 1820abef7a0f848e29352a11f1edf1bb
-SHA1: 1f01b0b385c8598500e2c81bbf79a06546b4e3a2
-SHA256: 92a41e0b47209c14cf866222b65e1b4b6be99bc75b66b46915c391fcf49f6169
-SHA512: 52f959db18b67ea196c22374dfa4dbc7b81e7d5dfe42492865e98d446a40513a2170632867e8704ee495c5d99b63a9ea7668ceba3277a08d91aedea97c3500dc
+Filename: ./debs/arm64e/Watusi3forWhatsApp.1.2.58.arm64e.deb
+Size: 1912736
+MD5sum: ebe5cabd9a18c326e48980b258c534cf
+SHA1: 3066ddb5ffe3273e2db5230a54512b33d3a5e164
+SHA256: 6f6eac9eb126c8ee730e6f0817a65e61808fc2d3a563f71983f12967c5a462e4
+SHA512: 7eba6bb069c4a12e3d97dd048414036f9a680561a0b982235240f466ee794d364784d99606a35175a6885ca28df1c8c1c3bdf092c2e408aa3e1309e24b57bd20
 Description: The all-in-one tweak for WhatsApp Messenger
 Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
@@ -6727,44 +6764,6 @@ MD5sum: afd6a1734ff9a8bb7160258ea2595ec7
 SHA1: 378c9e2e5aac37a6de1544a4b7f404c187b66142
 SHA256: 160c60859aa749aa24049e8e83ac37b7f76b050e0171736836df544588d4248e
 SHA512: c5fc7b35a51002536ee0d677651ee4879ff863b7b9e136bb7df31b5e018e8ac90983839af3017ae6ca7508a3dc7b2ea8336b5411a30ec5f039e7b706a306ef57
-Description: Library for Watusi, Regram and other tweaks
-Name: WatusiTools
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-Icon: https://i.imgur.com/myFcqVn.jpeg
-
-Package: com.f0u4d.watusitools
-Architecture: iphoneos-arm64e
-Version: 2.4.45
-Section: Development
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0)
-Filename: ./debs/arm64e/WatusiTools.2.4.45.arm64e.deb
-Size: 13219208
-MD5sum: 31da57ecf1e97d25c3e09e81a758431f
-SHA1: 70e963a4c4bbc697916baf63bfc0185116934fcb
-SHA256: 33b17504a926ff4d5a3f032cb17d88327ef0a0449e3c77f20cd9b747b3c154dd
-SHA512: 1700bcfeeb7851dc6d989c048a86df77191a438393581a35aa3b34a0e04cc7ee2873687a636ea5c432bd08c561d64650fa040d820b69635fefa8548395246853
-Description: Library for Watusi, Regram and other tweaks
-Name: WatusiTools
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-Icon: https://i.imgur.com/myFcqVn.jpeg
-
-Package: com.f0u4d.watusitools
-Architecture: iphoneos-arm64e
-Version: 2.4.46
-Section: Development
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0)
-Filename: ./debs/arm64e/WatusiTools.2.4.46.arm64e.deb
-Size: 4875272
-MD5sum: ca64d466fb1837177f2b9a27ba73fae8
-SHA1: 394ab21f1a261271801aa96c7141ebb6a7c56ce6
-SHA256: ad47a5c6737ba3c341e92eb211215322a3a1e96eee4e9298fbf199092f60d20a
-SHA512: ab277feb29d537b9dcb351a02a1003f8e86334e28b4f1deef646fb178bbff691480879cc0fee976d26ab6b5d4f0cbb618f706bad70216352d810b3f159fc97ce
 Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -6851,6 +6850,48 @@ Description: Turns the dock into a customizable outline
 Name: WireDock
 Author: Christian Kosman & CydiaGeek <lucaluca86@aol.com>
 Icon: https://i.imgur.com/myFcqVn.jpeg
+
+Package: wiki.qaq.writenow
+Architecture: iphoneos-arm64e
+Version: 2.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 15168
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/arm64e/WriteNow.2.1.arm64e.deb
+Size: 3367152
+MD5sum: 5a97b9059d4b1cbf0c2abcfe5d87d186
+SHA1: 014f0a5d901299284bc375aa2481cf7af9264adc
+SHA256: 08677805d088153aa6cfd58d498c3862e6214c68ea223d2c4f9aa81c7d34c571
+SHA512: 401c0fca7bb4c065462bcc044d57d82df0f928756499b942ab452deb06344aca8021f5ac6b304a1ba49868c601f004df7b7b09a80e375c9839d76f61cfd98746
+Description: AI tool within your hands.
+Name: Write Now
+Author: Lessica <82flex@gmail.com>
+Depiction: https://havoc.app/depiction/writenow
+SileoDepiction: https://havoc.app/package/writenow/depiction.json
+Icon: https://media.havoc.app/66c5b207000eafa58a451f7b
+
+Package: xyz.cypwn.xinam1ne
+Architecture: iphoneos-arm64e
+Version: 2.6-8
+Section: Utilities
+Maintainer: CyPwn
+Provides: emt.paisseon.xinamine (= 99)
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: emt.paisseon.xinamine
+Filename: ./debs/arm64e/Xinam1neAIO.2.6-8.arm64e.deb
+Size: 76664
+MD5sum: 3003a06dcc2d88baaee36360c6d37fa8
+SHA1: a57b488094721262f7b81f8a2c7e996f02b2783d
+SHA256: 0270b33822ee2dd9122c5ee3fc8d1e49c33fe6aa01f441087bd5b9787a66835c
+SHA512: aba19c8ddd8d79484d7606e10fc62a015b582742d8914c9ecbd0f62ceb552ae315dfb28b41baec021d3fac41d157fd855f33739b737eda0e57c10e6a79e48585
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
+Depiction: https://repo.cypwn.xyz/depiction/2816
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2816
+Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
+Name: Xinam1ne AIO
+Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
 
 Package: com.ps.ytdarker
 Architecture: iphoneos-arm64e
@@ -6976,52 +7017,6 @@ Name: iCleaner Pro
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Icons/iCleaner.png
-
-Package: me.ikghd.inkplus
-Architecture: iphoneos-arm64e
-Version: 2.4.32
-Section: Tweaks
-Maintainer: iKarwan <ikghd3@gmail.com>
-Installed-Size: 944
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Conflicts: me.ikghd.instakiller
-Filename: ./debs/arm64e/iNKillerPlus.2.4.32.arm64e.deb
-Size: 257692
-MD5sum: 25624b782ef57ffb4ca9760b2325b487
-SHA1: af29668102dc9fb51b11b9b039db0890ae9a094a
-SHA256: 150c29bc3dd7b63a2607026e9e6d46f677a0ad1c4fedcec08753ac2952b6d5f8
-SHA512: c7edea76d5454431a926f83b28b0678fca022185f0f90ce74e2547d5ed547aafe83304c97780717a6f022d7521c181bb1d7ea1975189046bbd1f69c9efd83d73
-Description: a whole new Instagram Experience!
-Tag: purpose::extension, compatible_min::ios14.0, compatible_max::ios18.8
-Name: iNKillerPlus
-Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
-SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
-Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
-
-Package: me.ikghd.inkplus
-Architecture: iphoneos-arm64e
-Version: 2.4.40
-Section: Tweaks
-Maintainer: iKarwan <ikghd3@gmail.com>
-Installed-Size: 996
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Conflicts: me.ikghd.instakiller
-Filename: ./debs/arm64e/iNKillerPlus.2.4.40.arm64e.deb
-Size: 268264
-MD5sum: 55f0e38234b4cb10b7546f987e51ae89
-SHA1: 80e5436dae8a9307d2857a6762e2da8d0661f77e
-SHA256: ce1ad1265d558d6bd1d9e4c95c65a50fabed726c153bf9a7d772b84d694ab39b
-SHA512: 144693f4e5ab7d98afb44629ef07f6c3c140ffa5d7d39a8dda0b978f5a100334832783ea1de92dd381dce1a9c9a871da4c544ebd662a1ce426ea4644f8e67701
-Description: a whole new Instagram Experience!
-Tag: purpose::extension, compatible_min::ios14.0, compatible_max::ios18.8
-Name: iNKillerPlus
-Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
-SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
-Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
 
 Package: com.tonykraft.inosleep
 Architecture: iphoneos-arm64e
@@ -7349,311 +7344,4 @@ Description: wicked
 Name: wicked
 Author: zero
 Icon: https://raw.githubusercontent.com/HearseDev/hearsedev.github.io/main/tweak-assets/Wicked_2048x2048.png
-
-Package: com.mtac.uptime
-Architecture: iphoneos-arm64
-Version: 1.0.1
-Section: Tweaks
-Maintainer: MTAC
-Installed-Size: 192
-Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/arm64/Uptime.1.0.1.arm64.deb
-Size: 25894
-MD5sum: 1a608ec94032614a8354169d76d21527
-SHA1: e0432b23735bcc01fede93cba02375b6f82662ff
-SHA256: f6bb43f7f22b109b68643ec94bac850dd9444127dc6e7bed1c8030e41188be24
-SHA512: a92d4e5cd970589731564b97e811eccfa19c92a1b13253cd472f6ffdf36b9a3360b7c0e6b846fa91e838e212ade71077446f5dd9ae0de268d37e71c21509e2f4
-Description: Control Center module to view time since boot
-Name: Uptime
-Author: MTAC
-Icon: https://i.imgur.com/myFcqVn.jpeg
-
-Package: com.mtac.uptime
-Architecture: iphoneos-arm64e
-Version: 1.0.1
-Section: Tweaks
-Maintainer: MTAC
-Installed-Size: 192
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/arm64e/Uptime.1.0.1.arm64e.deb
-Size: 30014
-MD5sum: 1ce48328d27c76ac5ab08322111fbf63
-SHA1: a9d2662c7f7ae0137fb0dc37670753e2f1a2aca3
-SHA256: 9218fb427c0e90bee17212db2b48c64fe9308c57583acf285984a09e7108897a
-SHA512: f9fc3fc5ffb63c0a89556e621e6080257bf86e3fe64aa2350770f36128865130893db24ad87ebb33dbdfdcd83255cac5c56c26a40b3d711c0df0769fb11dcf0d
-Description: Control Center module to view time since boot
-Name: Uptime
-Author: MTAC
-Icon: https://i.imgur.com/myFcqVn.jpeg
-
-Package: com.fouadraheb.watusi3
-Architecture: iphoneos-arm64
-Version: 1.2.58
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6408
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.6)
-Filename: ./debs/arm64/Watusi3forWhatsApp.1.2.58.arm64.deb
-Size: 1928960
-MD5sum: 8041aa04d40611c07425e4c05a54a413
-SHA1: 82975aa707908c5128c4495b173811f099e89d13
-SHA256: 43396bb96cb37ed4bd6141bdc5f6344f685b602e13ace2abcbc860e48380bfef
-SHA512: 2d177ffb552512674f2ea378f939c4487cb847b57cae7b10452988d5aed241cc49c3bade587d18aef37e93bdd0aeff513296daf604bf4fd81447f56ad925cf01
-Description: The all-in-one tweak for WhatsApp Messenger
-Name: Watusi 3 for WhatsApp
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
-Author: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
-
-Package: com.fouadraheb.watusi3
-Architecture: iphoneos-arm64e
-Version: 1.2.58
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6408
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.6)
-Filename: ./debs/arm64e/Watusi3forWhatsApp.1.2.58.arm64e.deb
-Size: 1912736
-MD5sum: ebe5cabd9a18c326e48980b258c534cf
-SHA1: 3066ddb5ffe3273e2db5230a54512b33d3a5e164
-SHA256: 6f6eac9eb126c8ee730e6f0817a65e61808fc2d3a563f71983f12967c5a462e4
-SHA512: 7eba6bb069c4a12e3d97dd048414036f9a680561a0b982235240f466ee794d364784d99606a35175a6885ca28df1c8c1c3bdf092c2e408aa3e1309e24b57bd20
-Description: The all-in-one tweak for WhatsApp Messenger
-Name: Watusi 3 for WhatsApp
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
-Author: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
-
-Package: com.den.locktouchx
-Architecture: iphoneos-arm64
-Version: 1.3-15+debug
-Section: Tweaks
-Maintainer: MrDeNsor
-Installed-Size: 240
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm64/LockTouchX.1.3-15+debug.arm64.deb
-Size: 22892
-MD5sum: 3098c8c75d05c64fe86fdb67f122da7c
-SHA1: 48d0c3ca7ba8007c72050157e0504709d7580e17
-SHA256: 4a5b5a83661512a54cf6af891b44a8f4c29861ee61a3dfc22cce53493c7406f7
-SHA512: d425c8acdfcb0a25f6a2b7951689e918f18eb35e3b187dae12784e3ae0652445381617fcfba3b21424d91ce05c0b59c464cf6d2a7fafc6a26c33f37a25859b2c
-Description: Adds Touch ID authentication to apps, just like the security features in iOS 18
-Name: LockTouchX
-Author: MrDeNsor
-Icon: https://i.imgur.com/myFcqVn.jpeg
-
-Package: com.den.locktouchx
-Architecture: iphoneos-arm64e
-Version: 1.3-15+debug
-Section: Tweaks
-Maintainer: MrDeNsor
-Installed-Size: 240
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm64e/LockTouchX.1.3-15+debug.arm64e.deb
-Size: 29734
-MD5sum: e989e17398f8556498ee008ff78fd925
-SHA1: 47fb1f5e324732c2f9b3fcf497a18c6e2256f62d
-SHA256: c001e194882625f33f12da55a22fc414e7939039c7a4d07c965c767cb12cb482
-SHA512: 439ac85e8e67ba7f3164f410efb7179ae874dd4139056dda292c9d354ef737e1866bf553b598d30dae615db162ba52838bb732de16acec19917f20606c1c63a7
-Description: Adds Touch ID authentication to apps, just like the security features in iOS 18
-Name: LockTouchX
-Author: MrDeNsor
-Icon: https://i.imgur.com/myFcqVn.jpeg
-
-Package: com.cydiageek.byeseparatorscell
-Architecture: iphoneos-arm64e
-Version: 1.1.3
-Priority: optional
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 448
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
-Filename: ./debs/arm64e/ByeSeparatorsCell.1.1.3.arm64e.deb
-Size: 60362
-MD5sum: 7001a84253af208e16a4e5fb42198b0d
-SHA1: 8a2170ca3aed3766c7634fba576bf18950bf1fa7
-SHA256: 6811d9717fec5234e77aad0a4a2c79b0d0126c524e6c1c408f708d033819384f
-SHA512: 41755239311a9051f44fefa7700f22809a1a0f1898be2a6d4925ad9fcdd3baad004de46cabdb071184eb28c19e1762bd99315077c48e256e4f8ffbce0cd95a95
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byeseparatorscellDp
-Description: Remove the Space Between the Cells on System Wide!
-Tag: purpose::extension
-Name: ByeSeparatorsCell
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byeseparatorscellDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: CydiaGeek <lucaluca86@aol.com>
-dev: lucaluca86
-Icon: file:///Library/PreferenceBundles/ByeSeparatorsCell.bundle/ByeSeparatorsCell@2x.png
-
-Package: xyz.cypwn.xinam1ne
-Architecture: iphoneos-arm64e
-Version: 2.6-8
-Section: Utilities
-Maintainer: CyPwn
-Provides: emt.paisseon.xinamine (= 99)
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Replaces: emt.paisseon.xinamine
-Filename: ./debs/arm64e/Xinam1neAIO.2.6-8.arm64e.deb
-Size: 76664
-MD5sum: 3003a06dcc2d88baaee36360c6d37fa8
-SHA1: a57b488094721262f7b81f8a2c7e996f02b2783d
-SHA256: 0270b33822ee2dd9122c5ee3fc8d1e49c33fe6aa01f441087bd5b9787a66835c
-SHA512: aba19c8ddd8d79484d7606e10fc62a015b582742d8914c9ecbd0f62ceb552ae315dfb28b41baec021d3fac41d157fd855f33739b737eda0e57c10e6a79e48585
-Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
-Depiction: https://repo.cypwn.xyz/depiction/2816
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2816
-Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
-Name: Xinam1ne AIO
-Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
-
-Package: com.spark.snowboardapplication
-Architecture: iphoneos-arm64e
-Version: 1.1.0~Beta4-rootless
-Section: Utilities
-Maintainer: Spark
-Installed-Size: 992
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: com.spark.snowboard
-Filename: ./debs/arm64e/SnowBoardApp.1.1.0~Beta4-rootless.arm64e.deb
-Size: 609980
-MD5sum: d4a9a25f361340ffcb897411ac179010
-SHA1: f3a241c96e0768c25d0d6b1ac8f66009c2256223
-SHA256: ab0c8774a3c9f69efe9f0e2e61df099555393804b8f664dd4137a7c52032f782
-SHA512: 24566c989ec2d290e3926ec5f9cbca991b328bf3fa47e2a19fa4b2096db0122167d1c3328a3fb79d3c20e74677e7f9d20cd2fe0e18ea5c92ee8d4e7a0e619f3e
-Description: An awesome application!
-Name: SnowBoard App
-Author: Spark
-Icon: https://i.imgur.com/myFcqVn.jpeg
-
-Package: apple.ios14.font
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Fonts
-Maintainer: Apple
-Depends: mobilesubstrate
-Filename: ./debs/arm64/ArabicUIDisplayiOS14.1.0.arm64.deb
-Size: 207556
-MD5sum: 1549c8d49bced37c5dac8783fee7146c
-SHA1: c201f6a749886ba25999bebd685fe7400ae652ed
-SHA256: a8c94ab380e719429f354c1de24bcc08b325f1a7a3dfd9b9742b31280ada3bb2
-SHA512: cd0d4615430eb6f0a72b7ab3732b468ca6229a70ef2b4bbae9b47e3e15b4578ce99f4159d5fe986d7a10d67e9c3f62ff0c6bdd0abf051179b64a7c7a68611840
-Description: Arabic & English
-Name: Arabic UI Display iOS14
-Author: Apple
-Icon: https://i.imgur.com/myFcqVn.jpeg
-
-Package: apple.ios14.font
-Architecture: iphoneos-arm64e
-Version: 1.0
-Section: Fonts
-Maintainer: Apple
-Depends: mobilesubstrate
-Filename: ./debs/arm64e/ArabicUIDisplayiOS14.1.0.arm64e.deb
-Size: 207360
-MD5sum: a065ec0657782cd1b5777357fb8a0447
-SHA1: 345f2030d663ad474eca3fe2c33254505659ff7a
-SHA256: afef0d317d7f303f61a40ae64fe8dcc15a0863698924d182ea56c774493bc730
-SHA512: f621107f00ec1efe859d5ff8462d896cbfba697d4c1ef8bb77b0487f0a8a0b2265db956cd9c0e36a215786898ac16cbdb7d278b42e355ff3f551e9d9c54cac2b
-Description: Arabic & English
-Name: Arabic UI Display iOS14
-Author: Apple
-Icon: https://i.imgur.com/myFcqVn.jpeg
-
-Package: wiki.qaq.writenow
-Architecture: iphoneos-arm64e
-Version: 2.1
-Section: Tweaks
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 15168
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/arm64e/WriteNow.2.1.arm64e.deb
-Size: 3367152
-MD5sum: 5a97b9059d4b1cbf0c2abcfe5d87d186
-SHA1: 014f0a5d901299284bc375aa2481cf7af9264adc
-SHA256: 08677805d088153aa6cfd58d498c3862e6214c68ea223d2c4f9aa81c7d34c571
-SHA512: 401c0fca7bb4c065462bcc044d57d82df0f928756499b942ab452deb06344aca8021f5ac6b304a1ba49868c601f004df7b7b09a80e375c9839d76f61cfd98746
-Description: AI tool within your hands.
-Name: Write Now
-Author: Lessica <82flex@gmail.com>
-Depiction: https://havoc.app/depiction/writenow
-SileoDepiction: https://havoc.app/package/writenow/depiction.json
-Icon: https://media.havoc.app/66c5b207000eafa58a451f7b
-
-Package: com.arico.daniel
-Architecture: iphoneos-arm64e
-Version: 5.2
-Section: Arico Tweak
-Maintainer: Daniel
-Installed-Size: 1840
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/arm64e/AricoHelp.5.2.arm64e.deb
-Size: 599576
-MD5sum: 10490a4fa587b012a81f8fb558fea86f
-SHA1: 03ee7e27a08e8aabe8ecbb74af270b48e3a388bc
-SHA256: 4b1de70c720d9d142d84ea1780170ab7d452073bcf2b5247174f88e932604b4b
-SHA512: dfffbbcd2f80b9d0daf46510b5a89c37a746e55512d3e60fefbbbef014f703b3de9f6ab24f6624143a21b305f2fb718cdb5c4a10c17e48b52400d8dfa0cb9126
-Description: Arico
-Name: Arico Help
-Author: Daniel
-Icon: https://i.imgur.com/myFcqVn.jpeg
-
-Package: com.arico.daniel
-Architecture: iphoneos-arm64
-Version: 5.2
-Section: Arico Tweak
-Maintainer: Daniel
-Installed-Size: 1840
-Depends: mobilesubstrate
-Filename: ./debs/arm64/AricoHelp.5.2.arm64.deb
-Size: 579316
-MD5sum: a91c6e9e65bfb5a0734fc95df0102367
-SHA1: 2854c6b8edc556228cb6996dac11cf485286fd93
-SHA256: 09365de3a389131a37c0700982ad81682d1c18187b52432b2d64b9f1f405e905
-SHA512: 26dc524c251c9f8c744661b62a3d97198801432d8ad2e75ebf833a9416010dcef1fe1546ee74f7cc2c1aaf440b79bc40311f67007aae5c6c4fad6aa8eee0f4d8
-Description: Arico
-Name: Arico Help
-Author: Daniel
-Icon: https://i.imgur.com/myFcqVn.jpeg
-
-Package: com.hmodei.arico
-Architecture: iphoneos-arm64e
-Version: 5.1
-Section: Arico Tweak
-Maintainer: Daniel
-Installed-Size: 9984
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/arm64e/Arico.5.1.arm64e.deb
-Size: 8097396
-MD5sum: ae1f054d5a639b4bf4440e5841b42e31
-SHA1: 1f970e0fbe40e398570f1563927bdac1b4d859ec
-SHA256: 5badb0c7c5e010cf4f7d869eac72f68e69f157f99b49b22017618a86680391c4
-SHA512: 860e104276580fda07cdb99a4158d97debc2f37ff039a7e20f604bed1b5292a9577cdd6eab72a2dc83b2ddfd7c8c334ebc53408b009238e371f363b943f28ba5
-Description: Arico
-Name: Arico
-Author: Daniel
-Icon: https://aric0.com/arico.png
-
-Package: com.hmodei.arico
-Architecture: iphoneos-arm64
-Version: 5.1
-Section: Arico Tweak
-Maintainer: Daniel
-Installed-Size: 9984
-Depends: mobilesubstrate
-Filename: ./debs/arm64/Arico.5.1.arm64.deb
-Size: 2091076
-MD5sum: 9ae049a5f862351b19c4378294ba484e
-SHA1: 26b005f0d4b6ba7d259329edfec02d4aae11abbe
-SHA256: d2cd8303b4e7b6c70b2b385799acc0c2b36b40accf218ccb2ba4225e32a53dc7
-SHA512: 1faf8279f193e38c864ba06d2661355b17984921d8419a2bd4396bb992528a1bb0ef4aa4c938e3bea2932adb0e9882475e98ea27285611810652dd456993b853
-Description: Arico
-Name: Arico
-Author: Daniel
-Icon: https://aric0.com/arico.png
 
