@@ -7385,3 +7385,22 @@ Depiction: https://havoc.app/depiction/singlevpn
 SileoDepiction: https://havoc.app/package/singlevpn/depiction.json
 Icon: https://media.havoc.app/67025b058a3bc4a08c4aba76
 
+Package: com.sparklechan.swifty
+Architecture: iphoneos-arm64e
+Version: 2.0~alpha5
+Section: Utilities
+Maintainer: FCCT
+Depends: swift, clang-14, ldid, git
+Conflicts: com.sparklechan.sparkkit
+Filename: ./debs/arm64e/FridaCodeManager.2.0~alpha5.arm64e.deb
+Size: 3085124
+MD5sum: 1db6ad8d57a714e3049931ceb6589235
+SHA1: 77f6f518ce3e2a714f88f9d3a6a2e99044898077
+SHA256: 38377e2c87f6505c1321bc037ed9fc62db399b73ba87ce7e0c4fa9ad7222b2eb
+SHA512: 10ffd29ae1728d4e19a09550c14bf8385f4b3789cda3d9e2fc09dbfad548d7c997f59054b1b6814f0d543ee4f8c2862b9115ead387da10c132266010b69b8f40
+Description: Full fledged Xcode-like IDE for iOS
+Tag: role::hacker
+Name: FridaCodeManager
+Icon: https://raw.githubusercontent.com/fridakitten/FridaCodeManager/main/Blueprint/FridaCodeManager.app/AppIcon.png
+Author: FCCT
+
