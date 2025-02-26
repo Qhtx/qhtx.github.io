@@ -1,0 +1,23 @@
+{
+  "repo": {
+    "name": "Λ7M | Repo",
+    "url": "https://a7m.dev",
+    "description": "rootful & rootless & roothide",
+    "icon": "https://a7m.dev/icon.png",
+    "packages": {
+      "type": "apt",
+      "url": "Packages"
+    },
+    "suite": "stable",
+    "version": "1.0",
+    "codename": "Λ7M | Repo",
+    "architectures": [
+      "iphoneos-arm",
+      "iphoneos-arm64",
+      "iphoneos-arm64e"
+    ],
+    "components": [
+      "main"
+    ]
+  }
+}
