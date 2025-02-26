@@ -4,6 +4,7 @@
     "url": "https://a7m.dev",
     "description": "rootful & rootless & roothide",
     "icon": "https://a7m.dev/CydiaIcon.png",
+    "banner": "https://a7m.dev/CydiaIcon.png",
     "packages": {
       "type": "apt",
       "url": "Packages"
