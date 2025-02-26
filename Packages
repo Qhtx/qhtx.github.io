@@ -4167,25 +4167,6 @@ Author: Soh Satoh
 SileoDepiction: https://repo.keycap.one/depictions/one.keycap.freepip.json
 Icon: https://i.imgur.com/myFcqVn.jpeg
 
-Package: com.sparklechan.swifty
-Architecture: iphoneos-arm64e
-Version: 2.0
-Section: Utilities
-Maintainer: FCCT
-Depends: swift, clang-14, ldid, git
-Conflicts: com.sparklechan.sparkkit
-Filename: ./debs/arm64e/FridaCodeManager.2.0.arm64e.deb
-Size: 4779344
-MD5sum: f898de9a8cb456ebceb1c6aa2affd1a1
-SHA1: 096f4b86d16ab91ad75dcdcff317f50b80870697
-SHA256: 79e58f9b9d514aefab5d1880ee2def05ef10c6ae301f7022d2b7e876816fcbe8
-SHA512: 6eca5d0188b0f8be005f616f49a263295e4730088b8cdc966eab496e218b483a52742fb1626171565c096d51ad20b88ba8f82d56b34b608505a1ba6d5c0fe653
-Description: Full fledged Xcode-like IDE for iOS
-Tag: role::hacker
-Name: FridaCodeManager
-Icon: https://raw.githubusercontent.com/fridakitten/FridaCodeManager/main/Blueprint/FridaCodeManager.app/AppIcon.png
-Author: FCCT
-
 Package: com.ps.githubweblegacycompat
 Architecture: iphoneos-arm64e
 Version: 1.0.1
