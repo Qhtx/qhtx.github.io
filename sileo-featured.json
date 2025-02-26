@@ -1,0 +1,13 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{296, 148}",
+    "itemCornerRadius": 10,
+    "banners": [
+        {
+            "url": "https://a7m.dev/CydiaIcon.png",
+            "title": "AutoRepoManager",
+            "package": "sa.ipapplus.autorepomanager",
+            "hideShadow": false
+        }
+    ]
+}
