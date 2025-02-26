@@ -7374,14 +7374,16 @@ Maintainer: FCCT
 Depends: swift, clang-14, ldid, git
 Conflicts: com.sparklechan.sparkkit
 Filename: ./debs/arm64e/FridaCodeManager.2.0~alpha5.arm64e.deb
-Size: 3085124
-MD5sum: 1db6ad8d57a714e3049931ceb6589235
-SHA1: 77f6f518ce3e2a714f88f9d3a6a2e99044898077
-SHA256: 38377e2c87f6505c1321bc037ed9fc62db399b73ba87ce7e0c4fa9ad7222b2eb
-SHA512: 10ffd29ae1728d4e19a09550c14bf8385f4b3789cda3d9e2fc09dbfad548d7c997f59054b1b6814f0d543ee4f8c2862b9115ead387da10c132266010b69b8f40
+Size: 3085160
+MD5sum: 00b8fcef0dc20aa941ef385bce988661
+SHA1: 75f7827b6dc6cea5c50d3447774bcc4e4d4370b8
+SHA256: 2c3cf2b9d06f1e8fe8a22411672787b4bbd0c7eee6c0a7fe9ef7aa64dc9ef477
+SHA512: d62528863477b71b73c1123ef79d3de3af3c2991764a08c5bad2d70ee2776d688655c9c8821db9779ce242da583049f7de886a298c87f287837e6d874ad7d219
 Description: Full fledged Xcode-like IDE for iOS
-Tag: role::hacker
 Name: FridaCodeManager
-Icon: https://raw.githubusercontent.com/fridakitten/FridaCodeManager/main/Blueprint/FridaCodeManager.app/AppIcon.png
+Icon: https://img.chariz.cloud/icon/fridacodemanager/icon@3x.png
+Depiction: https://chariz.com/get/fridacodemanager
+SileoDepiction: https://chariz.com/api/sileo/package/com.sparklechan.swifty/depiction.json
+Header: https://cdn.chariz.cloud/sileo-banner/fridacodemanager.jpg
 Author: FCCT
 
