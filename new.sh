@@ -5,6 +5,36 @@ OUTPUT_FILE="Packages"
 TEMP_FILE="Packages_temp"
 ARCHS=("arm" "arm64" "arm64e")
 
+# إنشاء المجلدات إذا لم تكن موجودة
+for ARCH in "${ARCHS[@]}"; do
+    mkdir -p "$BASE_DIR/$ARCH"
+done
+
+# نقل الملفات بناءً على المعمارية
+for deb in "$BASE_DIR"/*.deb; do
+    [ -e "$deb" ] || continue  # تخطي إذا لم يكن هناك ملفات
+
+    # استخراج المعمارية من الملف
+    arch=$(dpkg-deb -f "$deb" Architecture | sed 's/^iphoneos-//')
+
+    # التحقق من المعمارية ونقل الملف إلى المجلد المناسب
+    case "$arch" in
+        arm)
+            mv "$deb" "$BASE_DIR/arm/"
+            ;;
+        arm64)
+            mv "$deb" "$BASE_DIR/arm64/"
+            ;;
+        arm64e)
+            mv "$deb" "$BASE_DIR/arm64e/"
+            ;;
+        *)
+            echo "معمارية غير معروفة: $arch"
+            ;;
+    esac
+done
+
+# إنشاء ملف Packages
 > "$TEMP_FILE"
 
 for ARCH in "${ARCHS[@]}"; do

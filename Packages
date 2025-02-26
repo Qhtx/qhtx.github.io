@@ -2305,6 +2305,25 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
 
+Package: com.ps.githubweblegacycompat
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), firmware (<< 17.0)
+Filename: ./debs/arm64/com.ps.githubweblegacycompat_1.0.3_iphoneos-arm64.deb
+Size: 19320
+MD5sum: 6bdffd6688f9b4d7713aca65b13e34f7
+SHA1: 4a7f368a84186887decc37f599f7bddd25978f17
+SHA256: f704962021ee05ded820a29fa9ecad7c873033893d6d1245760998d7326e8f93
+SHA512: 287ec6c13cb42f990defd6055c3ab0f878ee9004bb3d1775f392aa547317d18fc0b1853dd63d6ede26361c5415831d833a2ea6422179963357635349c4d9fa3f
+Description: Make GitHub website more accessible on iOS <15.4
+Name: GitHubWebLegacyCompat
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/githubweblegacycompat.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/githubweblegacycompat.json
+
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64
 Version: 7.10.0
