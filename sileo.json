@@ -18,6 +18,23 @@
     ],
     "components": [
       "main"
+    ],
+    "dependencies": [
+      {
+        "name": "dependency_name_arm",
+        "version": "1.0.0",
+        "url": "https://a7m.dev/debs/arm/dependency_arm.deb"
+      },
+      {
+        "name": "dependency_name_arm64",
+        "version": "1.0.0",
+        "url": "https://a7m.dev/debs/arm64/dependency_arm64.deb"
+      },
+      {
+        "name": "dependency_name_arm64e",
+        "version": "1.0.0",
+        "url": "https://a7m.dev/debs/arm64e/dependency_arm64e.deb"
+      }
     ]
   }
 }
