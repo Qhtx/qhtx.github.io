@@ -5,36 +5,35 @@ OUTPUT_FILE="Packages"
 TEMP_FILE="Packages_temp"
 ARCHS=("arm" "arm64" "arm64e")
 
-# إنشاء المجلدات إذا لم تكن موجودة
 for ARCH in "${ARCHS[@]}"; do
     mkdir -p "$BASE_DIR/$ARCH"
 done
 
-# نقل الملفات بناءً على المعمارية
 for deb in "$BASE_DIR"/*.deb; do
-    [ -e "$deb" ] || continue  # تخطي إذا لم يكن هناك ملفات
+    [ -e "$deb" ] || continue
 
-    # استخراج المعمارية من الملف
+    name=$(dpkg-deb -f "$deb" Name | sed 's/[[:space:]]//g')
+    version=$(dpkg-deb -f "$deb" Version | sed 's/[[:space:]]//g')
     arch=$(dpkg-deb -f "$deb" Architecture | sed 's/^iphoneos-//')
 
-    # التحقق من المعمارية ونقل الملف إلى المجلد المناسب
+    new_name="${name}.${version}.${arch}.deb"
+    new_path="$BASE_DIR/$new_name"
+
+    mv "$deb" "$new_path"
+
     case "$arch" in
         arm)
-            mv "$deb" "$BASE_DIR/arm/"
+            mv "$new_path" "$BASE_DIR/arm/"
             ;;
         arm64)
-            mv "$deb" "$BASE_DIR/arm64/"
+            mv "$new_path" "$BASE_DIR/arm64/"
             ;;
         arm64e)
-            mv "$deb" "$BASE_DIR/arm64e/"
-            ;;
-        *)
-            echo "معمارية غير معروفة: $arch"
+            mv "$new_path" "$BASE_DIR/arm64e/"
             ;;
     esac
 done
 
-# إنشاء ملف Packages
 > "$TEMP_FILE"
 
 for ARCH in "${ARCHS[@]}"; do
@@ -48,6 +47,7 @@ done
 if [ -s "$TEMP_FILE" ]; then
     mv "$TEMP_FILE" "$OUTPUT_FILE"
     gzip -fk "$OUTPUT_FILE"
+    zstd -qf --ultra -22 "$OUTPUT_FILE"
 else
     rm "$TEMP_FILE"
 fi
