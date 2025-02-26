@@ -3,7 +3,7 @@
     "name": "Λ7M | Repo",
     "url": "https://a7m.dev",
     "description": "rootful & rootless & roothide",
-    "icon": "https://a7m.dev/icon.png",
+    "icon": "https://i.imgur.com/HH62FHd.jpeg",
     "packages": {
       "type": "apt",
       "url": "Packages"
