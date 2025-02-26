@@ -7387,3 +7387,44 @@ SileoDepiction: https://chariz.com/api/sileo/package/com.sparklechan.swifty/depi
 Header: https://cdn.chariz.cloud/sileo-banner/fridacodemanager.jpg
 Author: FCCT
 
+Package: com.fouadraheb.regram
+Architecture: iphoneos-arm64
+Version: 1.0~b23
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 10956
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/RegramforInstagram.1.0~b23.arm64.deb
+Size: 3027032
+MD5sum: 9332f587d9f27453489bd7500c5711b7
+SHA1: d7cd1c0530e7a70b3125c10b3b72a3991c9f0f4a
+SHA256: c6b8e3f1cb502c0bf908ca4f28f28295910f990272e144f0b7e4567076c36f36
+SHA512: 55357537e776bb47112fc03a2e9ecd9ef1d41ab0d06a9e514f030c58138dd258070aef56547c5c536e2aca8898f0dd0bc4e5943ffacf95b34714150b8a3d455b
+Description: The all-in-one tweak for Instagram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+
+Package: com.fouadraheb.regram
+Architecture: iphoneos-arm64e
+Version: 1.0~b23
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 10956
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/RegramforInstagram.1.0~b23.arm64e.deb
+Size: 3016016
+MD5sum: 1b9c6d0e5643209c57869ee6f60c53ac
+SHA1: f347f0048a62bd54ad9eba11b65563a8250fe380
+SHA256: 1a1304aaf07ec3738037af4dfce03134030cae937fa4e5332066c10aaef5af4b
+SHA512: dec74944de69c79b9b11e90e3b4f79b29ac23688fbaf002688a2c60d3cf193f236cfdfc56697a342e50cfd8f4e777b5e862e97bed467510acd074bf757372fb0
+Description: The all-in-one tweak for Instagram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+
