@@ -4157,6 +4157,26 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/githubweblegacycompat.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/githubweblegacycompat.json
 
+Package: com.ps.githubweblegacycompat
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 364
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), firmware (<< 17.0)
+Filename: ./debs/arm64e/GitHubWebLegacyCompat.1.0.3.arm64e.deb
+Size: 18164
+MD5sum: 5c663b5492691e191aae0f8d864570ef
+SHA1: 35c09240d7fd8d839050ea83e38d1be8574fe231
+SHA256: f4f0da4b0337eac5fdf318fb477d0c2ec92b94f274ca75221196f06b3625292f
+SHA512: 5fa176600b1b106e42dff448c9df023a2033cff897de2436bdfa12c09335ae6e6fa0c3cf6a45f9eb51bbb00e6072e77bcd8c4bc0f3526aac0d01c966331d898a
+Description: Make GitHub website more accessible on iOS <17.0
+Name: GitHubWebLegacyCompat
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/githubweblegacycompat.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/githubweblegacycompat.json
+
 Package: com.julioverne.goodwifi
 Architecture: iphoneos-arm64e
 Version: 0.0~beta6
