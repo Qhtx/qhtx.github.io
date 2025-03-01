@@ -6378,6 +6378,26 @@ Author: khanhduytran0
 Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
 SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
 
+Package: wiki.qaq.trapp.jb
+Architecture: iphoneos-arm64e
+Version: 3.2-609
+Section: Applications
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 58524
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/arm64e/TrollRecorderJB.3.2-609.arm64e.deb
+Size: 14334220
+MD5sum: 2f93b7a139573ca65a8ebfe03bde6452
+SHA1: 518242019ee7166aa5f127aa081b131f6a1607b9
+SHA256: 79bd87fddcaaf63853387f68823d90b17b28cf89a7d95bdf44cfd6ef4869e869
+SHA512: 4867eabee658465bf0f91b9efecde52bfd8ed17f17c5b886a59af7a422df4821e624f2ecbb4426cbda29889e3bfd128e3ae9f16a94291f86bc289bf41b5a7168
+Description: Record your phone calls like never before.
+Name: TrollRecorder JB
+Author: Lessica <82flex@gmail.com>
+Depiction: https://havoc.app/depiction/trollrecorderjb
+SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
+Icon: https://media.havoc.app/6669b3d5f0419252d3535a28
+
 Package: daniel.trustevaluator
 Architecture: iphoneos-arm64e
 Version: 0.0.1
