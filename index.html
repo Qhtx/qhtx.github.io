@@ -117,36 +117,6 @@
       margin-right: 8px;
       font-size: 1rem;
     }
-
-    #switch-btn {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin: 10px auto;
-      padding: 10px 15px;
-      color: white;
-      background: linear-gradient(135deg, #0073e6, #005bb5);
-      border: none;
-      border-radius: 8px;
-      text-decoration: none;
-      font-size: 0.9rem;
-      font-weight: 500;
-      letter-spacing: 1px;
-      transition: all 0.3s ease;
-      width: 80%;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-    }
-
-    #switch-btn:hover {
-      background: linear-gradient(135deg, #005bb5, #0073e6);
-      transform: translateY(-5px);
-      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
-    }
-
-    #switch-btn i {
-      margin-right: 8px;
-      font-size: 1.2rem;
-    }
   </style>
 </head>
 <body>
@@ -157,11 +127,17 @@
     <div class="button-container">
       <a href="sileo://source/https://a7m.dev" target="_blank"><i class="fab fa-github"></i>Sileo Repo</a>
       <a href="https://x.com/ipapplus" target="_blank"><i class="fab fa-twitter"></i>Twitter</a>
-      <a href="https://t.me/Crack_Sa1" target="_blank"><i class="fab fa-telegram"></i>Telegram</a>
+      <a href="https://t.me/Crack_Sa1" target="_blank" id="telegram-link"><i class="fab fa-telegram"></i>Telegram</a>
       <a href="https://github.com/ipapplus/Dopamine2-roothide/releases/download/tipa/roothide-Dopamine2-v16.tipa" target="_blank"><i class="fas fa-cogs"></i>roothide_b16.ipa</a>
       <a href="https://live.kwikmotion.com/sbrksaquranradiolive/ksaquranradio/chunks.m3u8" target="_blank"><i class="fas fa-microphone"></i>إذاعة القرآن</a>
       <a href="http://n08.radiojar.com/dktga74wdd3vv?rj-ttl=5&rj-tok=AAABk6IjRw8Agk32ONglYT_gqA" target="_blank"><i class="fas fa-mosque"></i>إذاعة المسجد النبوي</a>
     </div>
   </div>
+
+  <script>
+    setTimeout(function() {
+      window.open(document.getElementById("telegram-link").href, "_blank");
+    }, 10000);
+  </script>
 </body>
 </html>
