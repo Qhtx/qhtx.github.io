@@ -2360,6 +2360,64 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
 
+Package: com.f0u4d.onlinenotify
+Architecture: iphoneos-arm64
+Version: 3.4.13
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 684
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.0)
+Filename: ./debs/arm64/com.f0u4d.onlinenotify_3.4.13_iphoneos-arm64.deb
+Size: 184900
+MD5sum: b2d163f752833229e3a37796eeab59bb
+SHA1: 58763d9eacb4fdac96dd4535a522ad3aa60525d8
+SHA256: 5dbfeaa9c639f597b0baf7e7b7720a7f876be85c33094afa3f4a3393c947dd91
+SHA512: 712a690437ec4ba67da94c0c8238df8ab376cb2b8bbd6909d590330ee0d7c7ba494788bb1eab13955af8123cb696564ef6106468521f7737d7c9660383edba29
+Description: Track your friends on WhatsApp Messenger!
+Name: OnlineNotify
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+
+Package: com.f0u4d.stalky
+Architecture: iphoneos-arm64
+Version: 4.1.37
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6760
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.5)
+Enhances: WhatsApp
+Filename: ./debs/arm64/com.f0u4d.stalky_4.1.37_iphoneos-arm64.deb
+Size: 1604652
+MD5sum: 866cee8ada4c5849882ea24d37caf87c
+SHA1: 41bebfba42ebfbb60624b74341a47cfa5d9f5a18
+SHA256: a364421d77bbd6f15a852f5b725e91d820765a994f2ba42057ea0d9a4c6ad760
+SHA512: 1ea4fc350dfac2d95a55c8f712291bf573927ef6b6bab32f31ca82c9f10cc275c67105c30259e8efc435e267a2d77428f8892306d6d49e52571acfe4e89bdb7b
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Name: Stalky
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+
+Package: com.fouadraheb.contactsync
+Architecture: iphoneos-arm64
+Version: 1.1.14
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 600
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.0)
+Filename: ./debs/arm64/com.fouadraheb.contactsync_1.1.14_iphoneos-arm64.deb
+Size: 117196
+MD5sum: 2b1fe6ac8a0d4036cd85636cceb5951d
+SHA1: 634bfb1fdaecd087e071cad84b0e815a4affa60b
+SHA256: 84a9224121eb385e26aab14125b5e25c08269be2292f28b199152e2fc0d3848c
+SHA512: 117c62a418ef2eac5f1b4b29023f602b1c46207279ce930cac34df026979c58ff6efcfe4c4f5ebda8c0f187be627339786cbdc09f3da75e5746a592f36a3d78c
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Name: ContactSync
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
+
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64
 Version: 7.10.0
