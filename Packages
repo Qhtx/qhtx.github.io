@@ -2326,6 +2326,23 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
+Version: 2.5.12
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Filename: ./debs/arm64/WatusiTools.2.5.12.arm64.deb
+Size: 4754384
+MD5sum: 96c6d4a0952dc10910ea284d1b1fdfc8
+SHA1: 04acd01a24768959d62ccc61e976e17a098df877
+SHA256: c5143bfa4ffc2714f65639a191a03084d408657684f81dc1f9860cc3be011dc3
+SHA512: 9014f77f17fcee591c0e14cd075cdfa50541c11cdfc220b39eddd090b3d3ca3c46a81eb394b8cdcc0ab384e1505fa7215a807ff4b1dc4d861894f530973e8632
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64
 Version: 2.5.6
 Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -6880,6 +6897,24 @@ MD5sum: c87ee37d030ef0bae26fa7edae84965f
 SHA1: 6a1aa9dad483d969ef658d32e44c5bbe32585bd1
 SHA256: f1bb91fed6bc68e776436f39149acf781787fc43be7181f444a6ab358f26be83
 SHA512: 51659468136bfec74cd2a44231d4937912705641748a975f5f44e2af9e307706d082d41dee4fdf466c855d2a7f2119cbdc2434d28cba4f66cdf708c90f284475
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64e
+Version: 2.5.12
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0)
+Filename: ./debs/arm64e/WatusiTools.2.5.12.arm64e.deb
+Size: 4730748
+MD5sum: e6bf718161b53b7acd25c4042196311b
+SHA1: cb14229dcbde8e972af7f63967a3f546ed1f152b
+SHA256: f2a9df6f4571798ab3265b14e5976c96da33f4ab49f173b4a2ffcc9ab245a857
+SHA512: a2b57c3c0d95d80e0dd30f8922f88dd1e2c563f1d1264e5b9563f48eb4eb7b4b564c36088f3611460a6082327feb3f4a8e37a8018f1ae3989fd27bc8c17652ad
 Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
