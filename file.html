@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ملفات ZIP و DYLIB - GitHub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #121212;
+            color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #ffffff;
+        }
+        #file-list {
+            max-width: 600px;
+            margin: auto;
+            text-align: left;
+        }
+        a {
+            display: block;
+            margin: 10px 0;
+            padding: 10px;
+            background: #1e90ff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        a:hover {
+            background: #0b6fcc;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>ملفات ZIP و DYLIB المتاحة</h1>
+    <div id="file-list">جارٍ تحميل الملفات...</div>
+
+    <script>
+        async function fetchGitHubFiles() {
+            const repoOwner = "Qhtx";
+            const repoName = "qhtx.github.io";
+            const branch = "main";
+            const folderPath = "file";
+            
+            const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folderPath}?ref=${branch}`;
+
+            try {
+                let response = await fetch(apiUrl);
+                let files = await response.json();
+
+                let fileList = document.getElementById('file-list');
+                fileList.innerHTML = '';
+
+                files.forEach(file => {
+                    if (file.name.endsWith('.zip') || file.name.endsWith('.dylib')) { 
+                        let fileLink = document.createElement('a');
+                        fileLink.href = file.download_url;
+                        fileLink.textContent = file.name;
+                        fileLink.target = "_blank";
+                        fileList.appendChild(fileLink);
+                    }
+                });
+
+                if (fileList.innerHTML === '') {
+                    fileList.innerHTML = "لم يتم العثور على ملفات ZIP أو DYLIB.";
+                }
+            } catch (error) {
+                document.getElementById('file-list').innerHTML = 'فشل في تحميل الملفات.';
+            }
+        }
+
+        fetchGitHubFiles();
+    </script>
+
+</body>
+</html>
