@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ملفات ZIP و DYLIB - GitHub</title>
+    <title>ملفات ومستودعات GitHub</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -21,60 +21,147 @@
             margin: auto;
             text-align: left;
         }
-        a {
-            display: block;
+        .item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
             margin: 10px 0;
             padding: 10px;
-            background: #1e90ff;
-            color: white;
-            text-decoration: none;
             border-radius: 5px;
         }
-        a:hover {
+        .folder {
+            background: #ffa500;
+            flex-grow: 1;
+            padding: 10px;
+            text-decoration: none;
+            color: white;
+        }
+        .folder:hover {
+            background: #cc8400;
+        }
+        .file {
+            background: #1e90ff;
+            flex-grow: 1;
+            padding: 10px;
+            text-decoration: none;
+            color: white;
+        }
+        .file:hover {
             background: #0b6fcc;
+        }
+        .back {
+            background: #ff4500;
+            text-decoration: none;
+            color: white;
+            padding: 10px;
+            border-radius: 5px;
+            display: inline-block;
+            margin-bottom: 10px;
+        }
+        .back:hover {
+            background: #cc3700;
+        }
+        .download-btn {
+            background: #28a745;
+            border: none;
+            color: white;
+            padding: 8px 12px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-left: 10px;
+        }
+        .download-btn:hover {
+            background: #218838;
         }
     </style>
 </head>
 <body>
 
-    <h1>ملفات ZIP و DYLIB المتاحة</h1>
+    <h1>ملفات ومستودعات GitHub</h1>
     <div id="file-list">جارٍ تحميل الملفات...</div>
 
     <script>
-        async function fetchGitHubFiles() {
-            const repoOwner = "Qhtx";
-            const repoName = "qhtx.github.io";
-            const branch = "main";
-            const folderPath = "file";
-            
-            const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folderPath}?ref=${branch}`;
+        const repoOwner = "Qhtx";
+        const repoName = "qhtx.github.io";
+        const branch = "main";
+        let currentPath = "file"; // المسار الافتراضي
+
+        async function fetchGitHubFiles(path) {
+            const rawBaseUrl = `https://raw.githubusercontent.com/${repoOwner}/${repoName}/${branch}/`;
+            const zipBaseUrl = `https://github.com/${repoOwner}/${repoName}/archive/refs/heads/${branch}.zip`;
+            const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${path}?ref=${branch}`;
 
             try {
                 let response = await fetch(apiUrl);
-                let files = await response.json();
+                let items = await response.json();
 
                 let fileList = document.getElementById('file-list');
                 fileList.innerHTML = '';
 
-                files.forEach(file => {
-                    if (file.name.endsWith('.zip') || file.name.endsWith('.dylib')) { 
-                        let fileLink = document.createElement('a');
-                        fileLink.href = file.download_url;
-                        fileLink.textContent = file.name;
-                        fileLink.target = "_blank";
-                        fileList.appendChild(fileLink);
+                // زر الرجوع إلى المجلد السابق إذا لم نكن في الجذر
+                if (path !== "file") {
+                    let backButton = document.createElement('a');
+                    backButton.href = "#";
+                    backButton.textContent = "🔙 رجوع";
+                    backButton.classList.add('back');
+                    backButton.onclick = function() {
+                        let lastSlashIndex = path.lastIndexOf('/');
+                        currentPath = path.substring(0, lastSlashIndex);
+                        if (!currentPath.includes('/')) currentPath = "file"; // الرجوع إلى الجذر
+                        fetchGitHubFiles(currentPath);
+                    };
+                    fileList.appendChild(backButton);
+                }
+
+                // عرض الملفات والمجلدات
+                items.forEach(item => {
+                    let itemContainer = document.createElement('div');
+                    itemContainer.classList.add('item');
+
+                    let link = document.createElement('a');
+                    link.textContent = item.name;
+                    link.target = "_blank";
+
+                    if (item.type === "dir") {
+                        // رابط لفتح المجلد
+                        link.href = "#";
+                        link.classList.add('folder');
+                        link.onclick = function() {
+                            currentPath = item.path;
+                            fetchGitHubFiles(currentPath);
+                        };
+
+                        // زر تحميل المجلد
+                        let downloadBtn = document.createElement('button');
+                        downloadBtn.textContent = "📥 تحميل";
+                        downloadBtn.classList.add('download-btn');
+                        downloadBtn.onclick = function() {
+                            let folderZipUrl = `https://github.com/${repoOwner}/${repoName}/archive/refs/heads/${branch}.zip`;
+                            window.open(folderZipUrl, "_blank");
+                        };
+
+                        itemContainer.appendChild(link);
+                        itemContainer.appendChild(downloadBtn);
+                    } else if (item.name.endsWith('.zip') || item.name.endsWith('.dylib')) {
+                        link.href = rawBaseUrl + item.path;
+                        link.classList.add('file');
+                        itemContainer.appendChild(link);
+                    } else {
+                        return; // لا نعرض الملفات الأخرى
                     }
+
+                    fileList.appendChild(itemContainer);
                 });
 
                 if (fileList.innerHTML === '') {
-                    fileList.innerHTML = "لم يتم العثور على ملفات ZIP أو DYLIB.";
+                    fileList.innerHTML = "📂 لا توجد ملفات أو مجلدات متاحة.";
                 }
             } catch (error) {
-                document.getElementById('file-list').innerHTML = 'فشل في تحميل الملفات.';
+                document.getElementById('file-list').innerHTML = '❌ فشل في تحميل الملفات.';
             }
         }
 
-        fetchGitHubFiles();
+        fetchGitHubFiles(currentPath);
     </script>
 
 </body>
