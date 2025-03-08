@@ -1,0 +1,197 @@
+Package: com.dhinakg.addprofileinstallbutton
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: DhinakG
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/arm/AddProfileInstallButton.1.0.2.arm.deb
+Size: 7538
+MD5sum: 5cea42f70a500621a8ee1e534b51f512
+SHA1: 022b8879c1ab66c64edf06de704c6a7060001c4a
+SHA256: 90c2b0a71a220ae363831357be77b8f9a2c8c2d7095a5a33e8f4517176615fa2
+SHA512: eb5b5a58f5895e5a4ab934e5d3e671c3bd038f80ed51398f1227a692d95357dd627a681903422e663cdef006b32dfa8d3edf568ceab180cee7e8c39902e5902e
+Homepage: https://dhinakg.github.io/repo
+Description: Add an "Install Profile" button to the "Profile Downloaded" popup.
+Name: AddProfileInstallButton
+
+Package: xyz.cypwn.appdata
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Tweaks
+Maintainer: CyPwn
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/arm/AppData.1.4.1.arm.deb
+Size: 7401044
+MD5sum: 8a778f0a47ab0b6b9192256ccb20cca9
+SHA1: ce8b28b2220ca32f6cdcb42b0f854744a81f19e2
+SHA256: cc8c68e46e4e5916d2a5b89408b468b6c03667d06e75b3a25e0c8c2f1c9bcbcc
+SHA512: 81efb09e2890b0414b36fa76032f0cd5d8a8b9a46f7ccf37edbc9a641e94941ed34dc64069624d19fccfcdd07832d2abd66eb04efc2dfd0bd4fc1bd398d3712d
+Description: View & Manage Applications Data from your Home Screen
+Depiction: https://repo.cypwn.xyz/depiction/1391
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1391
+Name: AppData
+Author: Fouad Raheb
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/appdata.png
+
+Package: ai.akemi.appsyncunified
+Architecture: iphoneos-arm
+Version: 116.0
+Section: Tweaks
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 636
+Provides: appsync, net.angelxwind.appsyncunified
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified, ellekit (< 1.1)
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Filename: ./debs/arm/AppSyncUnified.116.0.arm.deb
+Size: 51658
+MD5sum: 536009a11dad57e48a5563224eaffaff
+SHA1: e0fa412cb3c26718887edd834804c88909297079
+SHA256: 0036f28fcbdb165d4f58968a237ca9fe7b6ed33fea25b9a5eb1fc141f6bf5a09
+SHA512: 8a0d06bf424c760e28d71ec55f430bcb10bc5d09e6579bb84a2aab31b786856dec389f3159d3e016db2e18ab596a6347c388eaaa9c5c388e7c775986879d882a
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Name: AppSync Unified
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+
+Package: sa.ipapplus.autorepomanager
+Architecture: iphoneos-arm
+Version: 1.0
+Section: scripts
+Maintainer: ipapplus
+Depends: apt-utils
+Filename: ./debs/arm/AutoRepoManager.1.0.arm.deb
+Size: 2600
+MD5sum: 49c26a9df40dbf5828e6e2ba20a6aa22
+SHA1: fe65f92240e08ce8c294b2b2395e5f8e267837b0
+SHA256: 0d2840a5bc9c4265a27347776844e3788ac1fa8f4e41340186e3a0f966c00d9f
+SHA512: 0d55c989f30633ceccc21390c38bebc024012170d6dec06d5b19d2e8601db0cd0fd6a862110cc208c97b1d0e8a5e8564abf8b5893a46ce95310d9a198243409c
+Description: is a collection of scripts for easily managing repositories through Filza It simplifies tasks like adding updating and organizing repos efficiently , Created by Ahmed AlGhrbi @ipapplus
+Name: AutoRepoManager
+Icon: https://i.imgur.com/ZKCJQvf.jpeg
+Author: ipapplus
+
+Package: sa.ipapplus.autorepomanager
+Architecture: iphoneos-arm
+Version: 1.1
+Section: scripts
+Maintainer: ipapplus
+Depends: apt-utils
+Filename: ./debs/arm/AutoRepoManager.1.1.arm.deb
+Size: 3240
+MD5sum: fa9aa9cccaca830943d6c2fed4225937
+SHA1: 0bd9fcc767a61ecdd34195766ec1e8aaf5c1bc70
+SHA256: 85a61c28df31d205ad1a5d04345134cad807654342c3b66c1daf05a98e3ce8c5
+SHA512: ca7c7d5783c3cf3f1d1293c37885b45fb2cd5508e03f329340746efb2eddfc0e415a36611a81320ee48e568952ba7baa439db34288578f5f5088b61b59a5d03a
+Description: is a collection of scripts for easily managing repositories through Filza It simplifies tasks like adding updating and organizing repos efficiently , Created by Ahmed AlGhrbi @ipapplus
+Name: AutoRepoManager
+Icon: https://i.imgur.com/ZKCJQvf.jpeg
+Author: ipapplus
+
+Package: com.cydiaabdullah.cacloud
+Architecture: iphoneos-arm
+Version: 2.1
+Section: Tweaks
+Maintainer: CydiaAbdullah
+Installed-Size: 1116
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
+Filename: ./debs/arm/CACloud.2.1.arm.deb
+Size: 127064
+MD5sum: b9de53e610442f947557e25a029c50c0
+SHA1: e9104f44c709014f96af094bcf74df11a5ee858e
+SHA256: 5b94d9236ea6525981cc78b825f2804e094b2f4d0bed985147efaa891e2061af
+SHA512: 5c20a1e03c3e74866c5426193e784874d6fb9f6c6c46a82bae36a88ef92c5aab0fa82809003a2570babf88dfbdad72cca25838a14fe0068e4d423be57056c0d1
+Description:  حذف الأعلانات لتطبيق انمي كلاود وتسريع عمل الحلقة اظهار زر المشاهدة والتحميل
+Name: CACloud
+Author: CydiaAbdullah
+
+Package: org.coolstar.classicfolders2
+Architecture: iphoneos-arm
+Version: 3.0.6
+Section: Tweaks
+Maintainer: CoolStar
+Installed-Size: 4468
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
+Filename: ./debs/arm/ClassicFolders2.3.0.6.arm.deb
+Size: 3309482
+MD5sum: ee2bfa205e5e28fb46520fdf173415dc
+SHA1: 0dd50613baedc8c2f582f229b79adabd43beb5b5
+SHA256: d48180222d4c59c42baa48e27698b6f0fb971086cc80c1f12dbf56bfbcb75d55
+SHA512: ee1a969d5a513373c4b043fda25fb1f2bd94300409a11eefce004bf90abbcc9291129ad099951525e0840b38e706069045e77e81f5221f1a42329fc4da47bb30
+Description: An awesome MobileSubstrate tweak!
+Name: ClassicFolders 2
+Author: CoolStar
+
+Package: com.julioverne.lowerinstall
+Architecture: iphoneos-arm
+Version: 0.0~beta6
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/arm/LowerInstall.0.0~beta6.arm.deb
+Size: 94160
+MD5sum: 39a54683ff0f9fb0c2880cf393c87816
+SHA1: eafac690946057ec063f6a9d786950a9f092ea4e
+SHA256: 0b641d287e8dfbbd00948de6cf85a6b18fb4f885f6e3b98ffb627b68388cf8c1
+SHA512: b36e8da8389be78568e7ac1d74e333e8d0e42a6a60149854a06ac752c28bb2dbe131859713495c90197487adf049148372df4071dd7590073452bc1073c2bcb4
+Homepage: https://twitter.com/ijulioverne
+Description: Install Apps In Lower iOS Version
+Name: LowerInstall
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.lowerinstall
+
+Package: com.managedelete.sniper
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Sniper @DNS_Sys
+Installed-Size: 256
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/arm/ManageDelete.1.0.arm.deb
+Size: 32028
+MD5sum: 9e54755b785b60d1183fc994a0eadc4f
+SHA1: 38fab67088af1c7af067982f8974f1473288600c
+SHA256: a605dd2a52eda8d917b91f48b3fd4e26068d0c14c01c1e39f2d77ef8739fae41
+SHA512: 1f59c4c1309ea0229c7a9f8b07935009099fb8671532bd14043d14ea348bfbc9c4c57ea248a5e06fd161fd06884660b934f9708254955187238a7fa26f7c43c3
+Description: A tweak to Manage Delete
+Name: ManageDelete
+Author: Sniper @DNS_Sys
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm
+Version: 1.2.42
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 7208
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.37), com.muirey03.libmryipc
+Filename: ./debs/arm/Watusi3forWhatsApp.1.2.42.arm.deb
+Size: 2194972
+MD5sum: 5a4c54da8482a369fcb710cac88b11d9
+SHA1: 9acfdf91d3ea056c378107a29b5668e5c87b016a
+SHA256: b7d0ff9f16b2c8fcc113c49b8dc692239c85489f1e747650f249952692a40763
+SHA512: ce458ea1ee962767e2f7f7ec7360df03eb013c68aff986cddd7f7cd89ca9b02a72fd426b2a1f55264105f18e7618e1ecf43620d6e81ea5d14d96db1699a37504
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm
+Version: 2.4.38
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 14.0)
+Filename: ./debs/arm/WatusiTools.2.4.38.arm.deb
+Size: 4496744
+MD5sum: 6184ee43b550d078a7f4906d3044a4f5
+SHA1: 795d5645fa264af28df45446c9c9cb1720a0ff8a
+SHA256: ab80c55a30a5d5d4cbbd7488b74372eb1d927c3bc4fe9eb4de5ca500b55865da
+SHA512: 37043ea13900c1bc65cfe2af3964dec203c6778b3ffa796bf284c73a0921d2f13cfce9c13801570a0153d1807ebe0dfb110e2b82678659bb2a83902719f9f176
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+

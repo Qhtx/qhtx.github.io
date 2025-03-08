@@ -3,7 +3,28 @@ Label:  ‏​‏  Λ7M | Repo
 Suite: stable
 Version: 1.0
 Codename:  ‏​‏  Λ7M | Repo
-Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Architectures: arm arm64 arm64e
 Components: main
 Description: rootful & rootless & roothide
 Icon: https://a7m.dev/CydiaIcon.png
+Date: Sat, 08 Mar 2025 19:03:29 +0000
+
+MD5Sum:
+f38883d09e2e91508d4c445dd62fbcfc 19 ./debs/arm/Packages
+01eb86fbf888125c2da240edecbed2d8 22 ./debs/arm64e/Packages
+51a663ceaa63a1afff7cac506a5f00f1 21 ./debs/arm64/Packages
+
+SHA1:
+5950e98a5a5f0a680593a931c2373cf0bc039a78 19 ./debs/arm/Packages
+f1dbf51c745080dc7dff70872cfbf9f5a39599a7 22 ./debs/arm64e/Packages
+05b7371a693434637b469ee549fbaa3ebaaaf46b 21 ./debs/arm64/Packages
+
+SHA256:
+3122a08f25539f4ea56dbe86b00785295897232ba2fb6c0619b196adbbb27508 19 ./debs/arm/Packages
+ba111396da5a3d76a025127c6205557da2ead44827258db36c5de018d9fcf634 22 ./debs/arm64e/Packages
+81ea45ca8ce001a65baaf23d791014d67f31511343091a77d35559332d5be98c 21 ./debs/arm64/Packages
+
+SHA512:
+989ef8fac44d1f25645d03686ed58a6238c85095fdacca7ae8c9a3883ab2bba5ddc222bc7fb2cfa1a7673628f13ca7c64ae7fbdcc5e3cda2a95ad71f9c82f188 19 ./debs/arm/Packages
+099324e7568b67c24384bc4678ea1dc4644bb33bede7fa973c4e53f14407c42fd0e6b899c8833685758f660788760247dc2d18ad0198547aa80e283563dc86eb 22 ./debs/arm64e/Packages
+66023119abc5f4a2f2aab0661daf7258161f41d500f5f21c1cf26f45ffcce52cfb7a675490a8b0b23b4dd3d3c4140392ba738e5c421df81f131878ff913f9d64 21 ./debs/arm64/Packages
