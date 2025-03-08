@@ -162,7 +162,7 @@ Author: Sniper @DNS_Sys
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm
 Version: 1.2.42
-Section: Fouad Raheb Tweaks
+Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 7208
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.37), com.muirey03.libmryipc
@@ -181,7 +181,7 @@ Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundl
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm
 Version: 2.4.38
-Section: Fouad Raheb Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 14.0)
 Filename: ./debs/arm/WatusiTools.2.4.38.arm.deb
@@ -602,7 +602,7 @@ SileoDepiction: https://rootless.002599.xyz/web/zp.cocoatop64.unject
 Package: com.fouadraheb.contactsync
 Architecture: iphoneos-arm64
 Version: 1.1.14
-Section: Fouad Raheb Tweaks
+Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 600
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.0)
@@ -1516,7 +1516,7 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/icon.png
 Package: com.f0u4d.onlinenotify
 Architecture: iphoneos-arm64
 Version: 3.4.13
-Section: Fouad Raheb Tweaks
+Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 684
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.0)
@@ -1716,7 +1716,7 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Package: com.fouadraheb.regram
 Architecture: iphoneos-arm64
 Version: 1.0~b23
-Section: Fouad Raheb Tweaks
+Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 10956
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
@@ -1948,7 +1948,7 @@ Author: Skitty & EvenDev
 Package: com.f0u4d.stalky
 Architecture: iphoneos-arm64
 Version: 4.1.37
-Section: Fouad Raheb Tweaks
+Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6760
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.5)
@@ -2143,7 +2143,7 @@ Icon: https://andrewrepo.github.io/Depictions/Icons/Uraniumicon@3x.png
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64
 Version: 1.2.60
-Section: Fouad Raheb Tweaks
+Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6424
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.8)
@@ -2162,7 +2162,7 @@ Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundl
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64
 Version: 1.2.61
-Section: Fouad Raheb Tweaks
+Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6424
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.12)
@@ -2181,7 +2181,7 @@ Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundl
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
 Version: 2.5.10
-Section: Fouad Raheb Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/arm64/WatusiTools.2.5.10.arm64.deb
@@ -2198,7 +2198,7 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
 Version: 2.5.12
-Section: Fouad Raheb Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 12.0)
 Filename: ./debs/arm64/WatusiTools.2.5.12.arm64.deb
@@ -2664,7 +2664,7 @@ Name: AppData-Rootless
 Package: com.fouadraheb.appdata
 Architecture: iphoneos-arm64e
 Version: 1.4.0
-Section: Fouad Raheb Tweaks
+Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 792
 Pre-Depends: rootless-compat(>= 0.9)
@@ -3382,7 +3382,7 @@ SileoDepiction: https://rootless.002599.xyz/web/zp.cocoatop64.unject
 Package: com.fouadraheb.contactsync
 Architecture: iphoneos-arm64e
 Version: 1.1.14
-Section: Fouad Raheb Tweaks
+Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 600
 Pre-Depends: rootless-compat(>= 0.9)
@@ -4932,7 +4932,7 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/icon.png
 Package: com.f0u4d.onlinenotify
 Architecture: iphoneos-arm64e
 Version: 3.4.13
-Section: Fouad Raheb Tweaks
+Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 684
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5184,7 +5184,7 @@ Author: PoomSmart
 Package: com.fouadraheb.regram
 Architecture: iphoneos-arm64e
 Version: 1.0~b23
-Section: Fouad Raheb Tweaks
+Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 10956
 Pre-Depends: rootless-compat(>= 0.9)
@@ -5841,7 +5841,7 @@ Author: Skitty & EvenDev
 Package: com.f0u4d.stalky
 Architecture: iphoneos-arm64e
 Version: 4.1.37
-Section: Fouad Raheb Tweaks
+Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6760
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6325,7 +6325,7 @@ Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/refs/h
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64e
 Version: 1.2.60
-Section: Fouad Raheb Tweaks
+Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6424
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6345,7 +6345,7 @@ Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundl
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64e
 Version: 1.2.61
-Section: Fouad Raheb Tweaks
+Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Installed-Size: 6424
 Pre-Depends: rootless-compat(>= 0.9)
@@ -6365,7 +6365,7 @@ Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundl
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64e
 Version: 2.5.10
-Section: Fouad Raheb Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
@@ -6383,7 +6383,7 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64e
 Version: 2.5.12
-Section: Fouad Raheb Tweaks
+Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0)
