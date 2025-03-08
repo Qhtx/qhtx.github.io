@@ -21,57 +21,29 @@
             margin: auto;
             text-align: left;
         }
-        .item {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
+        a {
+            display: block;
             margin: 10px 0;
             padding: 10px;
+            background: #1e90ff;
+            color: white;
+            text-decoration: none;
             border-radius: 5px;
+        }
+        a:hover {
+            background: #0b6fcc;
         }
         .folder {
             background: #ffa500;
-            flex-grow: 1;
-            padding: 10px;
-            text-decoration: none;
-            color: white;
         }
         .folder:hover {
             background: #cc8400;
         }
-        .file {
-            background: #1e90ff;
-            flex-grow: 1;
-            padding: 10px;
-            text-decoration: none;
-            color: white;
-        }
-        .file:hover {
-            background: #0b6fcc;
-        }
         .back {
             background: #ff4500;
-            text-decoration: none;
-            color: white;
-            padding: 10px;
-            border-radius: 5px;
-            display: inline-block;
-            margin-bottom: 10px;
         }
         .back:hover {
             background: #cc3700;
-        }
-        .download-btn {
-            background: #28a745;
-            border: none;
-            color: white;
-            padding: 8px 12px;
-            border-radius: 5px;
-            cursor: pointer;
-            margin-left: 10px;
-        }
-        .download-btn:hover {
-            background: #218838;
         }
     </style>
 </head>
@@ -88,7 +60,6 @@
 
         async function fetchGitHubFiles(path) {
             const rawBaseUrl = `https://raw.githubusercontent.com/${repoOwner}/${repoName}/${branch}/`;
-            const zipBaseUrl = `https://github.com/${repoOwner}/${repoName}/archive/refs/heads/${branch}.zip`;
             const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${path}?ref=${branch}`;
 
             try {
@@ -115,42 +86,24 @@
 
                 // عرض الملفات والمجلدات
                 items.forEach(item => {
-                    let itemContainer = document.createElement('div');
-                    itemContainer.classList.add('item');
-
                     let link = document.createElement('a');
                     link.textContent = item.name;
                     link.target = "_blank";
 
                     if (item.type === "dir") {
-                        // رابط لفتح المجلد
                         link.href = "#";
                         link.classList.add('folder');
                         link.onclick = function() {
                             currentPath = item.path;
                             fetchGitHubFiles(currentPath);
                         };
-
-                        // زر تحميل المجلد
-                        let downloadBtn = document.createElement('button');
-                        downloadBtn.textContent = "📥 تحميل";
-                        downloadBtn.classList.add('download-btn');
-                        downloadBtn.onclick = function() {
-                            let folderZipUrl = `https://github.com/${repoOwner}/${repoName}/archive/refs/heads/${branch}.zip`;
-                            window.open(folderZipUrl, "_blank");
-                        };
-
-                        itemContainer.appendChild(link);
-                        itemContainer.appendChild(downloadBtn);
                     } else if (item.name.endsWith('.zip') || item.name.endsWith('.dylib')) {
                         link.href = rawBaseUrl + item.path;
-                        link.classList.add('file');
-                        itemContainer.appendChild(link);
                     } else {
                         return; // لا نعرض الملفات الأخرى
                     }
 
-                    fileList.appendChild(itemContainer);
+                    fileList.appendChild(link);
                 });
 
                 if (fileList.innerHTML === '') {
