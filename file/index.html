@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ملفات ومستودعات GitHub</title>
+    <title>ملفات ZIP و DYLIB و IPA - GitHub</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -21,47 +21,42 @@
             margin: auto;
             text-align: left;
         }
-        a {
+        .file {
             display: block;
             margin: 10px 0;
             padding: 10px;
-            background: #1e90ff;
             color: white;
             text-decoration: none;
             border-radius: 5px;
         }
-        a:hover {
+        .file-zip, .file-ipa {
+            background: #1e90ff; /* أزرق */
+        }
+        .file-zip:hover, .file-ipa:hover {
             background: #0b6fcc;
         }
-        .folder {
-            background: #ffa500;
+        .file-dylib {
+            background: #1E488D; /* لون غامق */
         }
-        .folder:hover {
-            background: #cc8400;
-        }
-        .back {
-            background: #ff4500;
-        }
-        .back:hover {
-            background: #cc3700;
+        .file-dylib:hover {
+            background: #333;
         }
     </style>
 </head>
 <body>
 
-    <h1>ملفات ومستودعات GitHub</h1>
+    <h1>ملفات ZIP و DYLIB و IPA المتاحة</h1>
     <div id="file-list">جارٍ تحميل الملفات...</div>
 
     <script>
         const repoOwner = "Qhtx";
         const repoName = "qhtx.github.io";
         const branch = "main";
-        let currentPath = "file"; // المسار الافتراضي
+        const folderPath = "file"; // تحديد المجلد الرئيسي
+        const rawBaseUrl = `https://raw.githubusercontent.com/${repoOwner}/${repoName}/${branch}/${folderPath}/`;
+        const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folderPath}?ref=${branch}`;
 
-        async function fetchGitHubFiles(path) {
-            const rawBaseUrl = `https://raw.githubusercontent.com/${repoOwner}/${repoName}/${branch}/`;
-            const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${path}?ref=${branch}`;
-
+        async function fetchGitHubFiles() {
             try {
                 let response = await fetch(apiUrl);
                 let items = await response.json();
@@ -69,52 +64,37 @@
                 let fileList = document.getElementById('file-list');
                 fileList.innerHTML = '';
 
-                // زر الرجوع إلى المجلد السابق إذا لم نكن في الجذر
-                if (path !== "file") {
-                    let backButton = document.createElement('a');
-                    backButton.href = "#";
-                    backButton.textContent = "🔙 رجوع";
-                    backButton.classList.add('back');
-                    backButton.onclick = function() {
-                        let lastSlashIndex = path.lastIndexOf('/');
-                        currentPath = path.substring(0, lastSlashIndex);
-                        if (!currentPath.includes('/')) currentPath = "file"; // الرجوع إلى الجذر
-                        fetchGitHubFiles(currentPath);
-                    };
-                    fileList.appendChild(backButton);
-                }
-
-                // عرض الملفات والمجلدات
+                // تصفية الملفات وإضافة فقط الملفات التي تنتهي بـ .zip أو .dylib أو .ipa
                 items.forEach(item => {
-                    let link = document.createElement('a');
-                    link.textContent = item.name;
-                    link.target = "_blank";
+                    if (item.type === "file") {
+                        let fileLink = document.createElement('a');
+                        fileLink.href = rawBaseUrl + item.name;
+                        fileLink.textContent = item.name;
+                        fileLink.target = "_blank";
 
-                    if (item.type === "dir") {
-                        link.href = "#";
-                        link.classList.add('folder');
-                        link.onclick = function() {
-                            currentPath = item.path;
-                            fetchGitHubFiles(currentPath);
-                        };
-                    } else if (item.name.endsWith('.zip') || item.name.endsWith('.dylib')) {
-                        link.href = rawBaseUrl + item.path;
-                    } else {
-                        return; // لا نعرض الملفات الأخرى
+                        if (item.name.endsWith('.zip')) {
+                            fileLink.classList.add('file', 'file-zip');
+                        } else if (item.name.endsWith('.dylib')) {
+                            fileLink.classList.add('file', 'file-dylib'); // لون غامق
+                        } else if (item.name.endsWith('.ipa')) {
+                            fileLink.classList.add('file', 'file-ipa');
+                        } else {
+                            return; // لا نعرض الملفات الأخرى
+                        }
+
+                        fileList.appendChild(fileLink);
                     }
-
-                    fileList.appendChild(link);
                 });
 
                 if (fileList.innerHTML === '') {
-                    fileList.innerHTML = "📂 لا توجد ملفات أو مجلدات متاحة.";
+                    fileList.innerHTML = "❌ لا توجد ملفات ZIP أو DYLIB أو IPA متاحة.";
                 }
             } catch (error) {
                 document.getElementById('file-list').innerHTML = '❌ فشل في تحميل الملفات.';
             }
         }
 
-        fetchGitHubFiles(currentPath);
+        fetchGitHubFiles();
     </script>
 
 </body>
