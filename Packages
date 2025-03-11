@@ -4996,6 +4996,28 @@ Author: iKG_HD <ikg_hd@bk.ru>
 dev: ikghd
 Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.pmp.png
 
+Package: org.ppsspp.ppsspp-dev-latest
+Architecture: iphoneos-arm64e
+Version: 0v1.18.1-1309-gecbbadd604
+Section: Games
+Maintainer: Henrik Rydgård
+Provides: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
+Depends: preferenceloader
+Conflicts: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing, org.ppsspp.ppsspp, org.ppsspp.ppsspp-dev-working, org.ppsspp.ppssppgold-dev-working, org.ppsspp.ppssppgold-dev-latest
+Replaces: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
+Filename: ./debs/arm64e/PPSSPP(Dev-Latest).0v1.18.1-1309-gecbbadd604.arm64e.deb
+Size: 15944356
+MD5sum: 280f552564308af9a0c1b2ce0b3f90c5
+SHA1: 3443e207fe3e56ef523a6500bacd0fbc58077765
+SHA256: 0d0acf5845eb7cf0946aa9e334f2232621741655b70142c3f83d55aed1674166
+SHA512: e8ab5aa63027d41b9970067f072ed7d66767431b3d8804b897ad5892fff45121093a267941cb8b7953b270f3bcbdadc96049557ae4d4eb8950677d2b9cc6f40f
+Homepage: https://build.ppsspp.org/
+Description: A PSP emulator
+Name: PPSSPP (Dev-Latest)
+Icon: file:///Library/PPSSPPRepoIcons/org.ppsspp.ppsspp-dev-latest.png
+Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
+Author: Henrik Rydgård
+
 Package: twitter.nowesr1.photosplus
 Architecture: iphoneos-arm64e
 Version: 0.0.1
