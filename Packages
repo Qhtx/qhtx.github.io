@@ -3511,6 +3511,24 @@ Description: Your Copy Vault, Your Pasteboard
 Name: CopyVault
 Author: SquidForce
 
+Package: com.squidforce.copyvault
+Architecture: iphoneos-arm64e
+Version: 1.8.5
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 6256
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/arm64e/CopyVault.1.8.5.arm64e.deb
+Size: 1657296
+MD5sum: cc903441a442dd74b58da1c4fdf9182c
+SHA1: a16ec56dbebaa65d5441f53d07a871632296196e
+SHA256: 9b9907d2f695e52c50c8767732c127d09cc62b4a474fbd59080d40ded1ceceec
+SHA512: 4806600cab62743c59de1d4b76d12f1640c4eceb681032b8817da94748a2079f5b64c1aa2614a67ac54cb278c8f0d7bcbc3ec8fa9e420c959dc4e8129550d342
+Description: Your Copy Vault, Your Pasteboard
+Name: CopyVault
+Author: SquidForce
+
 Package: com.muirey03.cr4shed
 Architecture: iphoneos-arm64e
 Version: 4.3.1-1+debug
@@ -5461,6 +5479,24 @@ Description: Safari Essential Features
 Name: SafariX
 Author: 0xkuj
 
+Package: com.0xkuj.safarix
+Architecture: iphoneos-arm64e
+Version: 1.9.8
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 892
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/arm64e/SafariX.1.9.8.arm64e.deb
+Size: 309084
+MD5sum: aeeb4a850f4438ffd2895a0e35a7b964
+SHA1: b20afc247638c95b0e08d4da655b03d981b718c7
+SHA256: e00ebe10cbbb2603ea2d43119ae38f1124b61e6c746a4b3fdbea17fb7a39cc1b
+SHA512: 6e9bf53acb6ca886d9d3ea977c2fc76e6a8d1c42473d70fab14d4ff98b00a7275e0962c17ba1767b6098b604689ae5af2673213a4ca02172e5681ad90f55ad96
+Description: Safari Essential Features
+Name: SafariX
+Author: 0xkuj
+
 Package: com.dvntm.safariii
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -6105,6 +6141,27 @@ Description: Quickly translate any text
 Name: Translomatic
 Author: FoxfortMobile
 Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+
+Package: xyz.cypwn.transparentpipgrabber
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: Tweaks
+Maintainer: CyPwn
+Installed-Size: 184
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/TransparentPIPGrabber.0.0.3.arm64e.deb
+Size: 6468
+MD5sum: f2112eea3ab09498ffb9d649ed02ca15
+SHA1: bff05754433df362b204b7c231910eb454d799a8
+SHA256: 4b0aa2d1f2f41c8ad54a5505d5df5bda676542f7354495ff8aa4a613ce31f1f6
+SHA512: 126a12f41e5f272b2788dc9f259ec84ee628242c786a6b74cff4d1fa1c226df9f12bbabca37662269cf14d811d3750ad760c5cf38b4bcf67de4ce613d565f3d2
+Description: Make PIP grabber transparent while keeping chevron arrow visible
+Depiction: https://repo.cypwn.xyz/depiction/3096
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/3096
+Name: TransparentPIPGrabber
+Author: Korboy <korboybeats@gmail.com>
+Icon: https://repo.cypwn.xyz/packages/TransparentPIPGrabber-Rootless/icon.png
 
 Package: com.kdt.trollpad
 Architecture: iphoneos-arm64e
