@@ -3304,6 +3304,27 @@ SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sou
 
 Package: app.catscript.lite
 Architecture: iphoneos-arm64e
+Version: 1.4.1
+Section: Tweaks
+Maintainer: 0x530c<0x530c@gmail.com>
+Installed-Size: 5880
+Depends: mobilesubstrate
+Conflicts: app.catscript.pro
+Filename: ./debs/arm64e/CatScript.1.4.1.arm64e.deb
+Size: 29311836
+MD5sum: 101cd4bdf0fa22cc7d690c8f48336cde
+SHA1: 843baac3327ba62051423ac50e47441be8af5e36
+SHA256: aecf585916c5304fbc59f477ed618b0ac7e92fa9619005e3d1620b3d9cdf2889
+SHA512: 33b9dda239acc2bfcd9bd686879868213060ac9e59c19748c7f0fccce7a4ebd3511b0934c4c6d01dd2c03755af8248a174c766af00eaaab5cfa29f4e004a08d1
+Description: An automation framework designed for the iOS platform
+Name: CatScript
+Author: 0x530c<0x530c@gmail.com>
+Depiction: https://havoc.app/depiction/catscriptlite
+SileoDepiction: https://havoc.app/package/catscriptlite/depiction.json
+Icon: https://media.havoc.app/678251ec109936db42f2f633
+
+Package: app.catscript.lite
+Architecture: iphoneos-arm64e
 Version: 1.4.0
 Section: Tweaks
 Maintainer: 0x530c<0x530c@gmail.com>
