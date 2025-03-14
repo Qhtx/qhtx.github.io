@@ -1156,12 +1156,12 @@ Maintainer: ipapplus <Telegram@ipapplus>
 Installed-Size: 232
 Depends: mobilesubstrate
 Filename: ./debs/arm64/Instarab.1.1.1.arm64.deb
-Size: 33020
-MD5sum: 68045930f6ba8468b213584bdc284ec2
-SHA1: ad28414101b1a5f2066997a933d0c38b045f9e9a
-SHA256: 487b0411fa6bc1fecfa66361a2264b1680f8d1fde7efe700c1adc68e9f228ff2
-SHA512: 46689bc6d4829b61297eb67620296ab3939b30112b67dc8ee6c4c45ea4560f295fe724dd0cacef29a2889ecf3e1459c80faf09ff41bc2e9ad2df752721f25e52
-Description: arabic language for instagram
+Size: 33072
+MD5sum: 51ea2cd4215fff8f47d314d17ce531e2
+SHA1: a5387ac3b980c68f802c4f05526cd2d2461cf121
+SHA256: ccbbc2c1f7c926b568e9cbea8b4c25870feb2d9313b99c51cb4a343b2082c889
+SHA512: 8084b72d539c6e383e1babdbfa1c352829a73cf0ccee4bac4df1e1213a965ca2cf336864aedb7805f17e0dd121e271587efc262f0299a91bc4f0426e8637de8f
+Description: arabic language for instagram >> TrollFools link https://a7m.dev/file/Instarab.1.1.1.zip
 Name: Instarab
 Author: ipapplus <Twitter@ipapplus>
 
@@ -4446,12 +4446,12 @@ Installed-Size: 232
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/arm64e/Instarab.1.1.1.arm64e.deb
-Size: 32856
-MD5sum: 519f35bda46c47d877cf9592fcd9d529
-SHA1: d4c307ba5040238575cf105164cb0c46a28904d8
-SHA256: e15e85c486979b83588f7105f8715ff65dba2720d3f92b7996e50f2a2812932e
-SHA512: ef4ed9d3aacc29ab5eb01fcfe46d5f56f132ef45efd4e7b91b81b6c5a390161148ef29ef035effafceddefae1366aa752c38960f0a490eb84ddd98560bfcc1e2
-Description: arabic language for instagram
+Size: 32908
+MD5sum: abde2ef03017f520681d787b9532544a
+SHA1: 03521cef9eafda7b31c891f85ffc504f0728ff17
+SHA256: 1b9843a11af3dd861c3113fc246dac103c4ac741327144513d2ecdae477eadff
+SHA512: 6899ba6d9e7d65ce17d7433b40f2fc869eed12fd368875f62914a2eebad8dd15292913998f650e08c420cda23ad6399e322d6bf6ef5197c3420ab069b0c9c866
+Description: arabic language for instagram >> TrollFools link https://a7m.dev/file/Instarab.1.1.1.zip
 Name: Instarab
 Author: ipapplus <Twitter@ipapplus>
 
