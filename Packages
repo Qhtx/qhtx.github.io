@@ -1148,6 +1148,23 @@ Description: arabic language for instagram
 Name: Instarab
 Author: ipapplus <Twitter@ipapplus>
 
+Package: com.ipapplus.instarab
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
+Maintainer: ipapplus <Telegram@ipapplus>
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./debs/arm64/Instarab.1.1.1.arm64.deb
+Size: 33020
+MD5sum: 68045930f6ba8468b213584bdc284ec2
+SHA1: ad28414101b1a5f2066997a933d0c38b045f9e9a
+SHA256: 487b0411fa6bc1fecfa66361a2264b1680f8d1fde7efe700c1adc68e9f228ff2
+SHA512: 46689bc6d4829b61297eb67620296ab3939b30112b67dc8ee6c4c45ea4560f295fe724dd0cacef29a2889ecf3e1459c80faf09ff41bc2e9ad2df752721f25e52
+Description: arabic language for instagram
+Name: Instarab
+Author: ipapplus <Twitter@ipapplus>
+
 Package: com.nathan.internalstoragesettings
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -4398,6 +4415,24 @@ MD5sum: 3fd52b4c6992b697134097060f1a0e92
 SHA1: a5002a6e5c1405c71e6ccb4adaf75e62b3123c94
 SHA256: c218866076db5125ccc046abca53a06bb93fd1b67eb18203b8fa10e8c4d42eed
 SHA512: 99fe129c37c4ce96923c4b2e83847f86ea42b6eb9f17e778eef14d46dc118dbbd756c4d938e18501fce0a3aacac84c05d60976cedf161743df6546e4e8fc66a2
+Description: arabic language for instagram
+Name: Instarab
+Author: ipapplus <Twitter@ipapplus>
+
+Package: com.ipapplus.instarab
+Architecture: iphoneos-arm64e
+Version: 1.1.1
+Section: Tweaks
+Maintainer: ipapplus <Telegram@ipapplus>
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/Instarab.1.1.1.arm64e.deb
+Size: 32856
+MD5sum: 519f35bda46c47d877cf9592fcd9d529
+SHA1: d4c307ba5040238575cf105164cb0c46a28904d8
+SHA256: e15e85c486979b83588f7105f8715ff65dba2720d3f92b7996e50f2a2812932e
+SHA512: ef4ed9d3aacc29ab5eb01fcfe46d5f56f132ef45efd4e7b91b81b6c5a390161148ef29ef035effafceddefae1366aa752c38960f0a490eb84ddd98560bfcc1e2
 Description: arabic language for instagram
 Name: Instarab
 Author: ipapplus <Twitter@ipapplus>
