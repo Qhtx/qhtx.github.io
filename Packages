@@ -1131,6 +1131,23 @@ Description: Save and restore the layout of your icons.
 Name: Icon Restore
 Author: Lessica <82flex@gmail.com>
 
+Package: com.ipapplus.instarab
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: ipapplus <Telegram@ipapplus>
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: ./debs/arm64/Instarab.1.1.0.arm64.deb
+Size: 33310
+MD5sum: 21abc130dce131175f57864b81d0f572
+SHA1: 39be32eb91eaf98db0c2d1dcf17f07132d1f5496
+SHA256: 689c95c3e64bc8365cbc379da9dfcbd1dd88113aa24d50e8fb5f84d1993170ce
+SHA512: c2d2a26c353696db2f123c41c0f9aaced52c80a41e229eb636dd64e4e7db631bb1b4011b4643215c46f9ac94d6bd8e7171d814ffd27234e8c02cfc814e5a282e
+Description: arabic language for instagram
+Name: Instarab
+Author: ipapplus <Twitter@ipapplus>
+
 Package: com.nathan.internalstoragesettings
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -4366,6 +4383,24 @@ Name: Injection Foundation
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/injectionfoundation.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/injectionfoundation.json
+
+Package: com.ipapplus.instarab
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Section: Tweaks
+Maintainer: ipapplus <Telegram@ipapplus>
+Installed-Size: 236
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/Instarab.1.1.0.arm64e.deb
+Size: 33220
+MD5sum: 3fd52b4c6992b697134097060f1a0e92
+SHA1: a5002a6e5c1405c71e6ccb4adaf75e62b3123c94
+SHA256: c218866076db5125ccc046abca53a06bb93fd1b67eb18203b8fa10e8c4d42eed
+SHA512: 99fe129c37c4ce96923c4b2e83847f86ea42b6eb9f17e778eef14d46dc118dbbd756c4d938e18501fce0a3aacac84c05d60976cedf161743df6546e4e8fc66a2
+Description: arabic language for instagram
+Name: Instarab
+Author: ipapplus <Twitter@ipapplus>
 
 Package: com.nathan.internalstoragesettings
 Architecture: iphoneos-arm64e
